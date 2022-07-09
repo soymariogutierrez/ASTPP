@@ -1,0 +1,166 @@
+English,French
+Conference List,Liste de conférence
+Edit Conference,Modifier la conférence
+Create Conference,Créer une conférence
+Conference Added Successfully!,Conférence ajoutée avec succès!
+Conference Updated Successfully!,Conférence mise à jour avec succès!
+Conference removed successfully!,Conférence supprimée avec succès!
+Conference profiles,Profils de conférence
+Create Conference profiles,Créer des profils de conférence
+Edit Conference Profile,Modifier le profil de la conférence
+Conference Setting Added Successfully!,Configuration de la conférence ajoutée avec succès!
+Conference Setting Updated Successfully!,Configuration de la conférence mise à jour avec succès!
+Conference Profile Removed Successfully!,Profil de conférence supprimé avec succès!
+Edit Conference profiles,Modifier les profils de conférence
+Conference Profiles Added Successfully!,Profils de conférence ajoutés avec succès!
+Conference Profiles Updated Successfully!,Profils de conférence mis à jour avec succès!
+Conference profiles removed successfully!,Les profils de conférence ont été supprimés avec succès!
+Conference controls List,Liste des contrôles de la conférence
+Edit Conference controls,Modifier les contrôles de la conférence
+Conference Controls Removed Successfully!,Contrôles de conférence supprimés avec succès!
+Conference Controls Added Successfully!,Commandes de conférence ajoutées avec succès!
+Conference Controls Updated Successfully!,Les commandes de la conférence ont été mises à jour avec succès!
+Pin Number,Code PIN
+Duration (Second),Durée (seconde)
+Greeting,Salutation
+Create Conference Controls,Créer des contrôles de conférence
+Controls Name,Nom des contrôles
+Data,Les données
+Domains,Domaines
+Edit Domains,Editer les domaines
+Domain Updated Successfully!,Domaine mis à jour avec succès!
+Please enter proper domain value.,Veuillez entrer la valeur de domaine appropriée.
+Domain name,Nom de domaine
+Edit Domain,Modifier le domaine
+Feature Code,Code de fonction
+Feature code removed successfully!,Code de fonction supprimé avec succès!
+Feature code is already exist in system,Le code de fonction existe déjà dans le système
+Pickup Group,Groupe de ramassage
+Create Pickup Group,Créer un groupe de ramassage
+Edit Pickup Group,Modifier le groupe de ramassage
+Pickup group updated successfully!,Le groupe de collecte a été mis à jour avec succès!
+Pickup group added successfully!,Groupe de ramassage ajouté avec succès!
+Pickup group removed successfully!,Groupe de ramassage supprimé avec succès!
+Feature Code,Code de fonction
+Feature,Fonctionnalité
+IVR List,Liste de RVI
+Create IVR,Créer un RVI
+Edit IVR,Modifier l'IVR
+Ivr added successfully!,Ivr ajouté avec succès!
+Ivr updated successfully!,Ivr mis à jour avec succès!
+Ivr removed successfully!,Ivr enlevé avec succès!
+Caller ID Name Prefix,Préfixe du nom d'identification de l'appelant
+Options,Les options
+Advance,Avance
+Add More,Ajouter plus
+Ring Back,Rappeler
+Invalid Retries,Nouvelles tentatives non valides
+Timeout,Temps libre
+Caller ID Number Prefix,Préfixe du numéro d'identification de l'appelant
+Invalid Message,Message invalide
+Welcome Greeting,Message de bienvenue
+Direct Dial,Ligne directe
+Create Queue,Créer une file d'attente
+Edit Queue,Modifier la file d'attente
+Queue Added Successfully!,File d'attente ajoutée avec succès!
+Queue Updated Successfully!,File d'attente mise à jour avec succès!
+Queue removed successfully!,File d'attente supprimée avec succès!
+Agent Dial Number,Numéro de téléphone de l'agent
+Queues,Les files d'attente
+Queue,Queue
+Edit Recording,Editer l'enregistrement
+Recording,Enregistrement
+Create Recording,Créer un enregistrement
+Recording Added Successfully!,Enregistrement ajouté avec succès!
+Recording deleted successfully!,Enregistrement supprimé avec succès!
+Remove,Retirer
+Recording Information,Enregistrement d'informations
+"to create a recording, or (for best results) upload a 16bit 8khz/16khz mono WAV file.","pour créer un enregistrement ou (pour de meilleurs résultats), téléchargez un fichier WAV 16 bits 8khz / 16khz mono."
+Dial,Cadran
+Ring Group,Groupe de bague
+Ring Group Add,Bague Groupe ajouter
+Edit Ring Group,Modifier le groupe de sonnerie
+Create Ringgroup,Créer un groupe de contacts
+Ring group added successfully!,Groupe de sonnerie ajouté avec succès!
+Ring group updated successfully!,Groupe de sonnerie mis à jour avec succès!
+Ring group deleted successfully!,Groupe de sonnerie supprimé avec succès!
+Ring Group Information,Informations sur le groupe de sonnerie
+Do you want create sip devices?,Voulez-vous créer des périphériques SIP?
+Sip device Count,Sip Device Count
+Next,Suivant
+Basic Settings,Paramètres de base
+Ring Strategy,Stratégie de sonnerie
+Sequence,Séquence
+Simultaneous,Simultané
+Delay (Seconds),Retard (secondes)
+Timeout (Seconds),Délai d'attente (secondes)
+Prompt,Rapide
+Announcement,Annonce
+CID Name Prefix,Préfixe du nom CID
+CID Number Prefix,Préfixe du numéro CID
+Call Recording,Enregistrement d'appel
+Forcefully Enable,Activer avec force
+Forcefully Disable,Désactiver avec force
+Enable,Activer
+Skip busy,Passer occupé
+No Answer Call Type,Type de non-réponse
+Call Routing,Routage des appels
+Allow Recording,Autoriser l'enregistrement
+Enabled,Activée
+Disabled,désactivé
+Extension,Extension
+Time Conditions List,Liste des conditions de temps
+Create Time Conditions,Créer des conditions de temps
+Edit Time Conditions,Modifier les conditions de temps
+Time Conditions Added Successfully!,Conditions de temps ajoutées avec succès!
+Time Conditions Updated Successfully!,Conditions du temps mises à jour avec succès!
+Time Conditions removed successfully!,Conditions temporelles supprimées avec succès!
+Failover Condition,Condition de basculement
+Start Hour,Heure de début
+Week day,Jour de la semaine
+Month day,Mois jour
+End Hour,Heure de fin
+Jan,Jan
+Feb,fév
+Mar,Mar
+Apr,avr
+May,Peut
+Jun,Juin
+Jul,juil
+Aug,Août
+Sep,SEP
+Oct,oct
+Nov,nov
+Dec,déc
+Sunday,dimanche
+Monday,Lundi
+Tuesday,Mardi
+Wednesday,Mercredi
+Thursday,Jeudi
+Friday,Vendredi
+Saturday,samedi
+Extensions Destination,Extensions Destination
+Extensions Call Type,Type d'appel des extensions
+Month,Mois
+Year,Année
+Ignore Busy,Ignorer occupé
+Do Not Disturb,Ne pas déranger
+Pickup Group List,Liste du groupe de ramassage
+Allow Pickup Group List,Autoriser la liste des groupes de ramassage
+Not Registered,Non enregistré
+Call Waiting,Appel en attente
+On Busy,Sur occupé
+No Answer,Pas de réponse
+Destinations,Les destinations
+Follow Me,Suis moi
+Conference Profile,Profil de la conférence
+Conference Controls,Contrôles de conférence
+Conference,Conférence
+Time Conditions,Conditions de temps
+RingGroup,Groupe de bague
+IVR,RVI
+Basic Setting,Réglage de base
+Advance Settings,Paramètres avancés
+Agent Back-Tone,Dos de l'agent
+Customer Back-Tone,Tonalité client
+Time Condition,Condition temporelle

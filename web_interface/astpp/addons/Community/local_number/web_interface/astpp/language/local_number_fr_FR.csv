@@ -1,0 +1,23 @@
+English,French
+Create Local Number,Créer un numéro local
+Local Number Import Process,Processus d'importation de numéro local
+File must be in the following format(.csv):,Le fichier doit être au format suivant (.csv):
+Import Local Number,Numéro local d'importation
+Duplicate Local number found from database,Numéro local en double trouvé dans la base de données
+Country not valid.,Pays non valide.
+Duplicate Local number found from import file.,Dupliquer le numéro local trouvé dans le fichier d'importation.
+Local Number Import Error,Erreur d'importation de numéro local
+Edit Local Number,Modifier le numéro local
+Local number updated successfully!,Numéro local mis à jour avec succès!
+Local number added successfully!,Numéro local ajouté avec succès!
+Local number removed successfully!,Numéro local supprimé avec succès!
+Local number forwarding successfully!,Transfert de numéro local avec succès!
+city,ville
+Destination Number,Numéro du destinataire
+Destination Name,Nom de destination
+Add Local Number,Ajouter un numéro local
+Added Date,Date ajoutée
+Records Imported Successfully,Enregistrements importés avec succès
+Records Not Imported,Enregistrements non importés
+Error In CSV File,Erreur dans le fichier CSV
+Process,Processus

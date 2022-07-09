@@ -1,0 +1,166 @@
+English,Russian
+Conference List,Список конференций
+Edit Conference,Редактировать конференцию
+Create Conference,Создать конференцию
+Conference Added Successfully!,Конференция успешно добавлена!
+Conference Updated Successfully!,Конференция успешно обновлена!
+Conference removed successfully!,Конференция успешно удалена!
+Conference profiles,Профили конференции
+Create Conference profiles,Создать профили конференции
+Edit Conference Profile,Изменить профиль конференции
+Conference Setting Added Successfully!,Настройка конференции добавлена ​​успешно!
+Conference Setting Updated Successfully!,Настройки конференции успешно обновлены!
+Conference Profile Removed Successfully!,Профиль конференции успешно удален!
+Edit Conference profiles,Редактировать профили конференции
+Conference Profiles Added Successfully!,Профили конференции добавлены успешно!
+Conference Profiles Updated Successfully!,Профили конференции успешно обновлены!
+Conference profiles removed successfully!,Профили конференции успешно удалены!
+Conference controls List,Список конференций
+Edit Conference controls,Изменить элементы управления конференцией
+Conference Controls Removed Successfully!,Органы управления конференцией удалены успешно!
+Conference Controls Added Successfully!,Управление конференцией успешно добавлено!
+Conference Controls Updated Successfully!,Управление конференцией успешно обновлено!
+Pin Number,Пин код
+Duration (Second),Продолжительность (вторая)
+Greeting,Приветствие
+Create Conference Controls,Создать элементы управления конференцией
+Controls Name,Имя элемента управления
+Data,Данные
+Domains,Домены
+Edit Domains,Изменить домены
+Domain Updated Successfully!,Домен обновлен успешно!
+Please enter proper domain value.,"Пожалуйста, введите правильное значение домена."
+Domain name,Доменное имя
+Edit Domain,Изменить домен
+Feature Code,Код функции
+Feature code removed successfully!,Код функции успешно удален!
+Feature code is already exist in system,Код функции уже существует в системе
+Pickup Group,Пикап Групп
+Create Pickup Group,Создать группу раскладки
+Edit Pickup Group,Редактировать группу раскладки
+Pickup group updated successfully!,Пикап группа успешно обновлена!
+Pickup group added successfully!,Пикап группа успешно добавлена!
+Pickup group removed successfully!,Пикап группа успешно удалена!
+Feature Code,Код функции
+Feature,Особенность
+IVR List,Список IVR
+Create IVR,Создать IVR
+Edit IVR,Редактировать IVR
+Ivr added successfully!,Ивр успешно добавлен!
+Ivr updated successfully!,Ивр успешно обновлен!
+Ivr removed successfully!,Ивр успешно удален!
+Caller ID Name Prefix,Префикс имени вызывающего абонента
+Options,Опции
+Advance,авансировать
+Add More,Добавить больше
+Ring Back,Перезвонить
+Invalid Retries,Неверные попытки
+Timeout,Тайм-аут
+Caller ID Number Prefix,Префикс номера вызывающего абонента
+Invalid Message,Неверное сообщение
+Welcome Greeting,Приветствие
+Direct Dial,Прямой набор
+Create Queue,Создать очередь
+Edit Queue,Изменить очередь
+Queue Added Successfully!,Очередь успешно добавлена!
+Queue Updated Successfully!,Очередь успешно обновлена!
+Queue removed successfully!,Очередь успешно удалена!
+Agent Dial Number,Набор номера агента
+Queues,Очереди
+Queue,Очередь
+Edit Recording,Редактировать запись
+Recording,запись
+Create Recording,Создать запись
+Recording Added Successfully!,Запись добавлена ​​успешно!
+Recording deleted successfully!,Запись успешно удалена!
+Remove,Удалить
+Recording Information,Запись информации
+"to create a recording, or (for best results) upload a 16bit 8khz/16khz mono WAV file.",создать запись или (для достижения наилучших результатов) загрузить 16-битный моно WAV-файл 8 кГц / 16 кГц.
+Dial,Набирать номер
+Ring Group,Кольцо Группа
+Ring Group Add,Кольцо Группа добавить
+Edit Ring Group,Изменить группу звонков
+Create Ringgroup,Создать Ринггруппу
+Ring group added successfully!,Кольцевая группа успешно добавлена!
+Ring group updated successfully!,Кольцевая группа успешно обновлена!
+Ring group deleted successfully!,Кольцевая группа успешно удалена!
+Ring Group Information,Информация о группе звонков
+Do you want create sip devices?,Вы хотите создавать sip-устройства?
+Sip device Count,Sip устройство Count
+Next,следующий
+Basic Settings,Базовые настройки
+Ring Strategy,Кольцевая стратегия
+Sequence,Последовательность
+Simultaneous,одновременный
+Delay (Seconds),Задержка (секунды)
+Timeout (Seconds),Тайм-аут (секунды)
+Prompt,Незамедлительный
+Announcement,Объявление
+CID Name Prefix,Префикс имени CID
+CID Number Prefix,Префикс номера CID
+Call Recording,Запись звонков
+Forcefully Enable,Принудительно включить
+Forcefully Disable,Принудительно отключить
+Enable,включить
+Skip busy,Пропустить занят
+No Answer Call Type,Нет ответа Тип звонка
+Call Routing,Маршрутизация вызовов
+Allow Recording,Разрешить запись
+Enabled,Включено
+Disabled,инвалид
+Extension,расширение
+Time Conditions List,Список условий времени
+Create Time Conditions,Создать условия времени
+Edit Time Conditions,Изменить временные условия
+Time Conditions Added Successfully!,Условия времени добавлены успешно!
+Time Conditions Updated Successfully!,Условия времени обновлены успешно!
+Time Conditions removed successfully!,Условия времени успешно удалены!
+Failover Condition,Состояние отказа
+Start Hour,Час начала
+Week day,День недели
+Month day,День месяца
+End Hour,Конечный час
+Jan,январь
+Feb,февраль
+Mar,март
+Apr,апрель
+May,май
+Jun,июнь
+Jul,июль
+Aug,август
+Sep,сентябрь
+Oct,октябрь
+Nov,ноябрь
+Dec,декабрь
+Sunday,Воскресенье
+Monday,понедельник
+Tuesday,вторник
+Wednesday,среда
+Thursday,Четверг
+Friday,пятница
+Saturday,суббота
+Extensions Destination,Направления Расширения
+Extensions Call Type,Тип звонка
+Month,Месяц
+Year,Год
+Ignore Busy,Игнорировать занят
+Do Not Disturb,Не беспокоить
+Pickup Group List,Список пикап групп
+Allow Pickup Group List,Список разрешенных пикап-групп
+Not Registered,Не зарегистрирован
+Call Waiting,Ожидание звонка
+On Busy,На занят
+No Answer,Нет ответа
+Destinations,Направления
+Follow Me,Подписывайтесь на меня
+Conference Profile,Профиль конференции
+Conference Controls,Управление конференцией
+Conference,Конференция
+Time Conditions,Условия времени
+RingGroup,Кольцо Группа
+IVR,IVR
+Basic Setting,Базовая настройка
+Advance Settings,Предварительные настройки
+Agent Back-Tone,Агент Back-Tone
+Customer Back-Tone,Back-Tone клиента
+Time Condition,Условие времени

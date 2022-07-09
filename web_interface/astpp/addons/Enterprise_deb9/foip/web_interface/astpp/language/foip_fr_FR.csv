@@ -1,0 +1,39 @@
+English,French
+Add Auth Email,Ajouter un e-mail d'authentification
+Edit Auth Email,Modifier le courriel d'authentification
+Add Authemail,Ajouter Authemail
+Auth Email updated successfully!,Auth Email mis à jour avec succès!
+Auth Email added successfully!,Auth Email ajouté avec succès!
+Auth Email removed successfully!,Auth Email supprimé avec succès!
+Auth Email,Auth Email
+Authemail added successfully!,Authemail ajouté avec succès!
+Please Enter Authemail value.,S'il vous plaît entrer la valeur Authemail.
+Authemail already Exists.,Authemail existe déjà.
+Authemail removed sucessfully!,Authemail enlevé avec succès!
+Auth Email List,Liste de diffusion automatique
+Auth Email updated successfully!,Auth Email mis à jour avec succès!
+Auth Email added successfully!,Auth Email ajouté avec succès!
+Auth Mapping,Cartographie d'authentification
+Auth,Auth
+Authemail,Authemail
+Faxer,Faxer
+This file not avilable for download!,Ce fichier n'est pas téléchargeable!
+Create FAX,Créer un fax
+Web2fax removed successfully!,Web2fax enlevé avec succès!
+Fax Type,Type de fax
+Fax Number,Numéro de fax
+Fax Format,Format de fax
+File Name,Nom de fichier
+Fax Sent,Fax envoyé
+Send Date,Envoyer la date
+"Files with format are allowed: .pdf,.tiff,.doc,.docx","Les fichiers au format sont autorisés: .pdf, .tiff, .doc, .docx"
+Send Fax,Envoyer un fax
+Receive,Recevoir
+Sent,Envoyé
+Text,Texte
+Pending,en attendant
+Send,Envoyer
+Error,Erreur
+Processing,En traitement
+Fail,Échouer
+SIP Device,Périphérique SIP

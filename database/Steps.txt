@@ -1,0 +1,5 @@
+1. import database of upgrade_v4_to_v5.sql file on database
+2. replace the v4 source with v5 source
+3. copy file from "/misc" upgrade_v4_to_v5.php into v5 source on "/web_interface/astpp/application/controller"
+4. in v5 source cd /web_interface/astpp/ and execute command
+php index.php Upgrade_v4_to_v5 update_timezone

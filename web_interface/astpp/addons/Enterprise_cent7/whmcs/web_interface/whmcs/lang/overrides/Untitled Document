@@ -1,0 +1,69 @@
+<?php
+/**
+ * WHMCS Language File
+ * Spanish (es)
+ *
+ * Please Note: These language files are overwritten during software updates
+ * and therefore editing of these files directly is not advised. Instead we
+ * recommend that you use overrides to customise the text displayed in a way
+ * which will be safely preserved through the upgrade process.
+ *
+ * For instructions on overrides, please visit:
+ *   http://docs.whmcs.com/Language_Overrides
+ *
+ * @package    WHMCS
+ * @author     WHMCS Limited <development@whmcs.com>
+ * @copyright  Copyright (c) WHMCS Limited 2005-2015
+ * @license    http://www.whmcs.com/license/ WHMCS Eula
+ * @version    $Id$
+ * @link       http://www.whmcs.com/
+ */
+
+if (!defined("WHMCS")) die("This file cannot be accessed directly");
+
+$_LANG['locale'] = "he_IL";
+
+
+$_LANG['Voipaccounts'] = "חשבונות VoIP";
+$_LANG['cdrsreports'] = "דוחות CDRs";
+$_LANG['sipdevices'] = "מכשירי SIP";
+$_LANG['myrates'] = "המחירים שלי";
+$_LANG['dids'] = "DIDs";
+$_LANG['paymentreports'] = "דוחות תשלום";
+$_LANG['callerid'] = "שיחה מזוהית";
+$_LANG['action'] = "פְּעוּלָה";
+
+$_LANG['search'] = "לְחַפֵּשׂ";
+$_LANG['searchcdrsreport'] = "חיפוש CDRs דווח";
+$_LANG['fromdate'] = "מתאריך";
+$_LANG['todate'] = "לתאריך";
+$_LANG['callednumber'] = "מספר נקרא";
+$_LANG['duration'] = "מֶשֶׁך";
+$_LANG['disposition'] = "מֶזֶג";
+$_LANG['debit'] = "חוֹבָה";
+$_LANG['destination'] = "יַעַד";
+$_LANG['calltype'] = "סוג שיחה";
+$_LANG['clear'] = "בָּרוּר";
+$_LANG['date'] = "תַאֲרִיך";
+
+$_LANG['isequalto'] = "שווה ל";
+$_LANG['isnotequalto'] = "אינו שווה ל";
+$_LANG['greaterthan'] = "גדול מ";
+$_LANG['lessthan'] = "פחות מ";
+$_LANG['greaterorequalthan'] = "גדול או שווה יותר מ";
+$_LANG['lessorequalthan'] = "פחות או שווה יותר מ";
+$_LANG['contains'] = "מכיל";
+$_LANG['doesntcontain'] = "לא מכיל";
+$_LANG['standard'] = "תֶקֶן";
+$_LANG['did'] = "DID";
+$_LANG['callingcard'] = "כרטיס ביקור";
+$_LANG['select'] = "בחר";
+
+$_LANG['UNSPECIFIED'] = "לא צוין";
+$_LANG['selectdisposition'] = "בחר מֶזֶג";
+$_LANG['UNALLOCATED_NUMBER'] = "מספר שלא הוקצה";
+$_LANG['NO_ROUTE_DESTINATION'] = "אין מסלול יעד";
+$_LANG['CHANNEL_UNACCEPTABLE'] = "ערוץ מקובל";
+$_LANG['NORMAL_CLEARING'] = "נוֹרמָלִי סליקת";
+$_LANG['SUCCESS'] = "הַצלָחָה";
+$_LANG['USER_BUSY'] = "משתמש עסוק";

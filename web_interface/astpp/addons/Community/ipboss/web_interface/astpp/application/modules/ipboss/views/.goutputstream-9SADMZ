@@ -1,0 +1,443 @@
+<!--
+<script type="text/javascript" src="<?php echo base_url(); ?>/assets/js/jquery-1.7.1.js"></script>
+
+<script type="text/javascript" src="<?php echo base_url(); ?>/assets/js/validate.js"></script>
+ <link rel="stylesheet" href="<? echo base_url(); ?>assets/css/vendors/bootstrapvalidator/css/bootstrapValidator.min.css"> 
+-->
+<script  >
+	function load(id)
+	{
+	 
+		document.getElementById("myDIV").style.display = "none";
+		var id= id; 
+		var url='/ipboss/customer_getservername_chain/'+id;
+		 
+					$.ajax({
+							type:"GET",
+							async: false,
+							url: url, // script to validate in server side
+							data: {username: name},
+							success: function(data) {
+								 
+								  var  data_chain = document.getElementById("location").innerHTML = data;
+								
+								   
+						}
+					});
+			    
+	}
+	 
+	function remove_node(current,elemID)
+	{
+		
+		var url='/ipboss/customer_remove_shortcut/'+elemID;
+		 
+		$.ajax({type: "POST",
+						url: url,   
+						data: {removeshortcut:1,label:elemID},
+						success: function(result){
+									  
+							current.parentNode.parentNode.parentNode.removeChild(current.parentNode.parentNode);
+							
+							 
+					  }});
+					return false;
+				 	
+	}
+	function insertText(elemID, text , protocol)
+	{
+				 
+				document.getElementById("txt1").value = "";
+				var elem = document.getElementById(elemID);
+				elem.value += text;	 
+	}   
+	
+	$(".selecttcp").click(function () {
+		$("select option[value='tcp']").attr("selected","selected");
+	}); 
+	$(".selectudp").click(function () {
+		$("select option[value='udp']").attr("selected","selected");
+	});
+	$(".selectall").click(function () {
+		$("select option[value='all']").attr("selected","selected");
+	});
+			
+	function regvalidate(){ 
+		document.getElementById('ip_error').innerHTML = "";
+		jQuery('#block_ip').removeClass('borderred');
+		document.getElementById('protocol_error').innerHTML = "";
+		jQuery('#protocol').removeClass('borderred');
+					var protocol=$('#protocol').val();
+					var block_ip=$('#block_ip').val();
+					var chain_name=$('#chain_name').val();
+					var rule=$('#rule').val();
+					var txt1=$('#txt1').val();
+				    var ipformat = /([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\:?([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})?/;
+					var servers=$('#servers[]').val();
+				
+					if (txt1!="" && protocol == "all"){
+						 
+						 
+						document.getElementById('protocol_error').innerHTML = '<div class="tooltips error_div pull-left no-padding display_none" id="protocol_error_div" style="display: block;"><i style="color:#D95C5C; padding-left: 3px; padding-top: 10px;" class="fa fa-exclamation-triangle"></i><span class="popup_error error  no-padding" id="protocol_error"> Please select TCP or UDP.</span></div>';
+						jQuery('#protocol').addClass('borderred');
+						ipboss_edit.protocol.focus();
+						return(false);
+						 
+					 }
+					
+					if (block_ip==""){
+						document.getElementById('protocol_error').innerHTML = "";
+						document.getElementById('ip_error').innerHTML = '<div class="tooltips error_div pull-left no-padding display_none" id="block_ip_error_div" style="display: block;"><i style="color:#D95C5C; padding-left: 3px; padding-top: 10px;" class="fa fa-exclamation-triangle"></i><span class="popup_error error  no-padding" id="block_ip_error"> Please enter IP or Port.</span></div>';
+						 
+						jQuery('#block_ip').addClass('borderred');
+						ipboss_edit.block_ip.focus();
+						return(false);
+					}else if(block_ip.match(ipformat)){
+						ipboss_edit.block_ip.focus();
+						return(true);
+						
+					}else{
+						if(block_ip!=""){
+							document.getElementById('ip_error').innerHTML = "";
+							document.getElementById('ip_error').innerHTML = '<div class="tooltips error_div pull-left no-padding display_none" id="block_ip_error_div" style="display: block;"><i style="color:#D95C5C; padding-left: 3px; padding-top: 10px;" class="fa fa-exclamation-triangle"></i><span class="popup_error error  no-padding" id="block_ip_error"> Please Enter Proper IP.</span></div>';
+							jQuery('#block_ip').addClass('borderred');
+							ipboss_edit.block_ip.focus();
+							return(false);
+						}
+					}
+					 
+				 
+			}			
+	 $('div.closer').hover(function(){
+	$(this).find('span').show();
+	}, function(){
+	$(this).find('span').hide();
+	});
+	
+			
+	
+</script>
+
+<script type="text/javascript" language="javascript">
+	 
+	$(document).ready(function() { 
+		
+		$('#ipboss_edit').on("submit", function (e) {
+		var arr = $(this).serialize().toString();
+		if(arr.indexOf("servers") < 0){
+			  
+			e.preventDefault();
+			document.getElementById('server_error').innerHTML = "<span style='color:red;'>Please select at least one Server</span>";
+							ipboss_edit.servers.focus();
+							return(false);
+		}
+	});
+    });
+    
+	
+</script>
+<style>
+#close {
+    position: absolute;
+    right: 17px;
+    top: 1px;
+    padding: 0px;
+    cursor: pointer;
+    display: none;
+}
+#facebox{
+top: 2.5% !important;
+left: 14% !important;
+width: 65%!important;
+}
+
+
+li.col-md-12 .demo {
+  visibility: hidden;
+  opacity: 1;
+  color: #FFF !important;
+  position: absolute;
+  display: inline-block;
+  z-index: 1111;
+  background-color: #2E4E6A !important;
+  padding: 0.5em 0.8em !important;
+  text-transform: none !important;
+  margin-right: 0px;
+  bottom: 10px;
+  border-radius: 5px;
+  border-color: #2E4E6A !important;
+  text-align: left;
+  font-size: 12px;
+  width: 280px;
+  left: 40%;
+}
+li.col-md-12 .demo:before {
+  content: '';
+  position: absolute;
+  background-color: #2E4E6A !important;
+  bottom: 2.3em;
+  left: 70%;
+  margin-left: -0.3em;
+  right: auto;
+  top: auto;
+  width: .6em;
+  height: .6em;
+  transform: rotate(45deg);
+  z-index: 2;
+  transition:background .1s linear;
+}
+
+li:hover.col-md-12 .demo {
+ visibility: visible;
+  opacity: 1;
+  color: #FFF !important;
+  position: absolute;
+  display: inline-block;
+  z-index: 1111;
+  background-color: #2E4E6A !important;
+  padding: 0.5em 0.8em !important;
+  text-transform: none !important;
+  margin-right: 0px;
+  bottom: -22px;
+  border-radius: 5px;
+  border-color: #2E4E6A !important;
+  text-align: left;
+  font-size: 12px;
+  width: 374px;
+  left: 25%;
+
+}
+
+
+</style>
+<section class="slice gray no-margin">
+ <div class="w-section inverse no-padding">
+   <div>
+     <div>
+        <div class="col-md-12 no-padding margin-t-15 margin-b-10">
+	        <div class="col-md-10"><b><? echo $page_title; ?></b></div>
+	  </div>
+     </div>
+    </div>
+  </div>    
+</section> 
+	<div>
+  <div>
+    <section class="slice color-three no-margin">
+		<div class="w-section inverse no-padding">
+            <div style="color:red;margin-left: 60px;">
+			</div>
+			<div class="pop_md col-md-12 margin-t-10 padding-x-8">
+					<div style="color:red;margin-left: 60px;">
+						<?php if (isset($validation_errors)) {
+						echo $validation_errors;
+						}
+						?> 
+					</div>
+					
+								<div class="address1 form-group row" style="">
+										<div class="col-sm-12">
+										<?php
+										$myFile1 = "shortcut.txt";
+										$file = file_get_contents('./application/modules/ipboss/shortcut.txt', true);
+										 $values = explode("\n",$file);
+										 //~ print_r($values); exit;
+										foreach($values as $key => $value){
+											$value = explode(",",$value);
+											 //~ echo "<pre>"; print_r($value); 
+											if($value[0]!=''){
+											?>
+							 
+							
+													<div class="col-md-3" id="show1" style="float:left;">
+														<div class="closer">
+															<span id='close' title="Remove button" onclick='remove_node(this,"<?php echo $value[0]; ?>")'><i class="fa fa-close"></i></span>
+															<?php if($value[2]=='tcp'){ ?>					
+																<input type="button" style="width:100%;font-weight:bold;font-size:12px;margin-top:5px;" class="selecttcp btn  btn-outline-warning" value="<?php echo $value[0];?>" name="" onclick="insertText('txt1', '<?php echo $value[1]; ?>','<?php echo $value[2]; ?>' )">
+															<?php } 
+															elseif($value[2]=='udp'){?>
+																<input type="button" id="" style="width:100%;font-weight:bold;font-size:12px;margin-top:5px;" class="selectudp btn  btn-outline-warning" value="<?php echo $value[0];?>" name="" onclick="insertText('txt1', '<?php echo $value[1]; ?>','<?php echo $value[2]; ?>' )">
+															<?php } else{ ?>
+																<input type="button" id="" style="width:100%;font-weight:bold;font-size:12px;margin-top:5px;" class="selectall btn  btn-outline-warning" value="<?php echo $value[0];?>" name="" onclick="insertText('txt1', '<?php echo $value[1]; ?>','<?php echo $value[2]; ?>' )"> <?php } ?>
+														</div>
+													</div>
+						
+								<?php
+										//print_r($value);
+									}
+									} ?>
+									</div>	
+								</div>	
+								
+								<form method="post" action="<?= base_url()?>ipboss/ipboss_rule_update_save/" enctype="multipart/form-data" name="ipboss_edit" id="ipboss_edit" onsubmit="return(regvalidate())">
+									<span id="error_0" style="font-size:11px;color:red;"></span>
+									 <div class="col-md-12 no-padding">
+										<div class="col-md-12 no-padding">
+											<ul class="no-padding">
+												<div class="col-md-12 no-padding">
+													<fieldset>
+														<legend>Rule</legend>
+											 
+														 <input name="id" id="<?php  echo $id; ?>" value="<?php  echo $id; ?>" size="20" class="  form-control" type="hidden" style=""  >
+
+																
+																<li class="col-md-12">
+																	<label class="col-md-3 no-padding">IP / Host / IP Range</label>
+																		<input name="block_ip" value="<?php  echo $block_ip; ?>" id="block_ip"   size="20"   class="col-md-5 form-control" type="text">
+ 
+																		 <span class="demo">(Add IP range Seperated By Colon. Ex: 127.0.0.1:255.255.255.0)</span>
+ 
+																			<DIV id="ip_error"> 
+																</li>
+																
+																<li class="col-md-12">
+																	<label class="col-md-3 no-padding">Port / Port Range</label>
+																		<input name="port" value="<?php  echo $port; ?>" id="txt1"   size="20"   class="col-md-5 form-control" type="text">
+ 
+																	 <span class="demo">(Add Port range Seperated By Colon. Ex: 8080:9090)</span>
+ 
+	 
+																</li> 
+													 
+																<li class="col-md-12">
+																	<label class="col-md-3 no-padding">Target<span style="color:red;"> *</span></label>
+																		 
+																				<select id="rule" name="rule" data-live-search="true"  class="form-control selectpicker  col-md-5  "   >
+																					<option value="ACCEPT"   >ACCEPT</option>
+																					<option value="DROP"   >DROP</option>
+																				</select>
+																		  
+																</li>
+																
+																<li class="col-md-12">
+																	<label class="col-md-3 no-padding">Protocol<span style="color:red;"> *</span></label>
+																		 
+																				<select id="protocol" name="protocol" data-live-search="true"  class="form-control selectpicker  col-md-5  "   >
+																					<option value="all"  <?php  echo ($protocol == 'all')? "selected='selected'":""; ?>>ALL</option>
+																					<option value="tcp" <?php  echo ($protocol == 'tcp')? "selected='selected'":""; ?>>TCP</option>
+																					<option value="udp" <?php  echo ($protocol == 'udp')? "selected='selected'":""; ?>>UDP</option>
+																				</select>
+																		  <DIV id="protocol_error"> 
+																</li>
+															 
+																<li class="col-md-12">
+																	<label class="col-md-3 no-padding">Chain Name<span style="color:red;"> *</span></label>
+																		 
+																				<select id="chain_name" name="chain_name" data-live-search="true"  class="form-control selectpicker  col-md-5  "   >
+																					<?php 
+																							foreach($drp_chain as $val)
+																							{ 
+																								 
+																								?>
+																							 
+																					<option value="<?php  echo  $val['name'];  ?>" <?php  echo ($chain_name == $val['name'])? "selected='selected'":""; ?>  onclick="load('<?php  echo   $val['id'];  ?>') " ><?php  echo  $val['name'];  ?> (<?php  echo  $val['rule'];  ?>)</option>
+																				<?php }   ?>
+																					 
+																				</select>
+																		  
+																</li>
+																 
+																<li class="col-md-12">
+																	<label class="col-md-3 no-padding">Server:<span style="color:red;"> *</span></label>
+																		<div class="col-sm-5">
+																			<div class="input-group">
+																				<span id="myDIV">
+																					<?php 															 
+																						foreach($drp_chain as $val)
+																						{ 
+																							 $query = $this->ipboss_model->getservername_chain_view($val['id']); 
+																							 $result=$query[0]['ip']; 
+																							 if($query[0]['ip']!=""){
+																								$explode = explode(',',$query[0]['ip']) ;
+																								foreach($explode as $key){
+																									 
+																							?>
+																							<div  class="remove_server  ace chkRefNos" style="text-align: center;   white-space: normal;">
+																								<input name="servers[]" id="servers" class="ace chkRefNos" value="<?php  echo $key; ?>"   type="checkbox"> 
+																									<label class="lbl">  <?php  echo $key; ?>
+																									</label>
+																								</div>
+							 
+							 
+																					 
+																					<?php }}  break; }	?>
+																				</span> 
+																					<p id="location"></p> 
+																			</div>
+																		</div>
+																</li>
+																  <DIV id="server_error">  
+ 
+ 
+																 
+																<div class="form-group row ">
+																	<label class="col-form-label col-sm-4">Server:<span style="color:red;"> *</span></label>
+																		<div class="col-sm-8">
+																			<div class="input-group">
+																<span id="myDIV">
+																	<?php  
+																				
+																					if($servers!=""){
+																						$servers = str_replace(' ', '', $servers);
+																						$server_array = explode(",",trim($servers));
+																					} 
+																				  //~ echo "<pre>"; print_r($server_array); exit;			
+																			 $query = $this->ipboss_model->getservername_chain_view($server_id); 
+																						
+																			 $result=$query[0]['ip']; 
+																				
+																			 if($result!=""){
+																				$result_array = explode(',',$result) ;
+																				
+																				foreach($result_array as $key=>$value){
+																					if (in_array($value,$server_array)) {
+																							$checkbox_select='checked="checked"';
+																					}  else{
+																						$checkbox_select='';
+																					}
+																			?>
+																		<label  class="remove_server custom-control custom-checkbox mb-0">
+																			<input name="servers[]" <?php echo $checkbox_select; ?> id="servers"   class="custom-control-input ace chkRefNos"   value="<?php echo $value; ?>"  type="checkbox">
+																			<span class="custom-control-indicator"></span> 
+																			<?php  echo $value; ?>
+																		</label></br>
+																	<?php    }}  	?>
+																</span> 
+																		<p id="location"></p> 
+																</div>
+																		</div>
+																</div>
+																  <DIV id="server_error">  
+<!--
+																 <label class="col-form-label col-sm-6"> </label>
+													<div class="col-sm-6"  >
+														<font color='red'> </DIV> </font>
+													</div>	
+-->
+																
+															</fieldset>
+														</div>
+													</div>
+												</div>
+											</div>
+											
+											<div class="col-md-12  pt-3 row offset-sm-5" style="padding-bottom: 20px;">
+												<center>
+														<button   type="submit" value="save"  id="submit" class="btn btn-success">Save</button>
+														<input value="Cancel" class="btn btn-info ml-2" onclick="return redirect_page('NULL')" type="button"> 
+												</center>
+											</div>
+											
+										</form>
+									</div>
+								</div>
+							</div>
+						</section>
+						
+       
+							
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

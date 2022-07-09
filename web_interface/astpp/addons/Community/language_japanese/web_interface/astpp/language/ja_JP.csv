@@ -1,0 +1,3008 @@
+English,Japanese
+Access Number,アクセス番号
+Access Numbers,アクセス番号
+Account,アカウント
+Account Type,口座の種類
+Account Valid Days,アカウントの有効日数
+Account Verification By,アカウントの確認
+Accounts,アカウント
+Accounts Report,アカウントレポート
+ACD,ACD
+Action,アクション
+Action Type,アクションタイプ
+Add,追加
+Add Country,国を追加
+Add Currency,通貨を追加する
+Add Destination,宛先を追加
+Add Ratedeck,Ratedeckを追加
+Address1,住所（1
+Administrator,管理者
+Admin,管理者
+Admins,管理者
+After Balance,バランス後
+Alarm,警報
+Alert Status,アラートステータス
+Allow integration with Fraud detection,不正検出との統合を許可する
+Allow IP Management,IP管理を許可する
+Allow Local Call,市内通話を許可する
+Allow Local Calls,市内通話を許可する
+Allow Loss Less Routing,損失の少ないルーティングを許可する
+Allow Max Retries,最大再試行を許可する
+Allow Recording,録音を許可する
+Amount,量
+Amount INR,金額INR
+Answered Calls,応答した電話
+Applicable For,対象
+Apply on existing accounts,既存のアカウントに適用する
+Archive,アーカイブ
+ASR,ASR
+Attachement,愛着
+Attempted Calls,試行された呼び出し
+Audit,監査
+Audit Log,監査ログ
+Audit Logs Older Than Days,日より古い監査ログ
+Authorize.net,Authorize.net
+Automatically,自動的に
+Balance,残高
+Balance Announcement,バランスアナウンス
+Balance Below,以下の残高
+Base Currency,基本通貨
+Basic,基本
+Basic Information,基本情報
+Batch Update,バッチ更新
+Before Balance INR,バランス前INR
+Begins With,で始まる
+Beta,ベータ
+Billable,請求可能
+Billing,請求
+Billing Cycle,請求サイクル
+Billing Days,請求日数
+Billing Information,課金情報
+Billing Type,請求タイプ
+Body,体
+Buy Cost,購入コスト
+Call Barring,発着信制限
+Call Date,呼び出し日
+Call Detail Reports,通話詳細レポート
+Call Max Length,最大長を呼び出す
+Call State,通話状態
+Call Summary Reports,通話概要レポート
+Call Timeout,通話タイムアウト
+Call Type,通話タイプ
+Call Types,通話タイプ
+Called Number,着番号
+Caller ID,発信者ID
+Caller IDs,発信者ID
+Caller IP,発信者IP
+Caller Name,発信者名
+Caller Number,発信者番号
+Caller-Id-In-Form,Caller-Id-In-Form
+Calling Card,テレフォンカード
+Calls,呼び出し
+Calls Breakdown,通話の内訳
+Calltype Information,コールタイプ情報
+Can be purchased?,購入できますか？
+Capital,資本
+Capture Server,キャプチャサーバー
+Card Input Timeout,カード入力タイムアウト
+Card Length,カードの長さ
+Card Retries,カードの再試行
+Carriers,キャリア
+Category,カテゴリー
+CC,CC
+CDRs Older Than Days,日より古いCDR
+Charge Type,充電タイプ
+Charges Breakdown,料金の内訳
+Charges History,料金履歴
+CID,CID
+City,市
+Clear,晴れ
+Client IP,クライアントIP
+Client User Agent,クライアントユーザーエージェント
+Code,コード
+Codecs,コーデック
+Commission,手数料
+Commission Rate,手数料率
+Commission Reports,委員会報告
+Company,会社
+Company Profiles,会社概要
+Company Tax number,法人税番号
+Completed Calls,完了した通話
+Concurrent Calls,同時通話
+Configuration ,構成
+Confirmed,確認済み
+Connection Cost,接続コスト
+Contains,含まれています
+Cost,費用
+Cost/Min,コスト/分
+Countries,国
+Country,国
+Country Code,国コード
+Country List,国リスト
+Country Reports,カントリーレポート
+Coupon Information,クーポン情報
+Coupon Number,クーポン番号
+CPS,CPS
+Create,作成する
+Create Admin,管理者を作成する
+Create calltype,コールタイプを作成する
+Create Company Profile ,会社概要を作成する
+Create Customer,顧客を作成する
+Create Origination Rate,オリジネーションレートを作成する
+Create Product ,製品を作成する
+Create Provider,プロバイダーの作成
+Create Rate Group,レートグループの作成
+Create Refill Coupon,詰め替えクーポンを作成する
+Create SIP Device,SIPデバイスを作成する
+Create Tax,税金を作成する
+Created Date,作成日
+Creation Date,作成日
+Credit,クレジット
+Credit Limit,与信限度額
+Crons,cron
+Currency,通貨
+Currency Conversion Loss Percentage,為替換算損失率
+Currency List,通貨リスト
+Customer,お客様
+Customer CDRs Report ,カスタマーCDRレポート
+Customer Summary,お客様の概要
+Customer Summary Report ,顧客概要レポート
+Customers,お客様
+Dashboard,ダッシュボード
+Database,データベース
+Date,日付
+Debit,デビット
+Debug,デバッグ
+Decimal Points,小数点
+Default Increment ,デフォルトのインクリメント
+Default Invoice Mode,デフォルトの請求書モード
+Default Tax,デフォルトの税金
+Delete,削除
+Deleted Accounts After Days,数日後に削除されたアカウント
+Description,説明
+Destination,先
+Dial Input Timeout,ダイヤル入力タイムアウト
+DID,した
+DIDs,DID
+Direction,方向
+Disable,無効にする
+Display records in,レコードを表示する
+Disposition,配置
+Documentation,ドキュメンテーション
+Doesnt Contain,含まない
+Domain,ドメイン
+Draft,ドラフト
+Due Date,期日
+Duplicate,複製
+Duration,デュレーション
+Email,Eメール
+Email Alerts ?,電子メールアラート？
+Email History,メール履歴
+Email History List ,メール履歴リスト
+Email Notification,電子メール通知
+Email Notifications,電子メール通知
+Email Status,メールステータス
+Email Template,メールテンプレート
+Emails Older Than Days,日より古いメール
+En,En
+Enable,有効にする
+Enable Signup,サインアップを有効にする
+Ends With,で終わる
+Enterprise,企業
+Entity Type,エンティティタイプ
+Environment,環境
+Ewallet Payment Gateway,Ewalletペイメントゲートウェイ
+Expired Accounts After Days,数日後に期限切れのアカウント
+Expiry Date,有効期限
+Export,書き出す
+Failover  GW Name #1,フェイルオーバーGW名＃1
+Failover GW Name #2,フェイルオーバーGW名＃2
+Favicon,ファビコン
+Fax,ファックス
+Fee,費用
+File Path,ファイルパス
+Filter,フィルタ
+First Name,ファーストネーム
+First Used,最初に使用された
+Fixer Key,フィクサーキー
+FMAddon,FMAddon
+Footer,フッター
+Fraud Detection,不正検出
+Free Minutes,無料議事録
+FreeSwitch Servers,FreeSwitchサーバー
+From,から
+From Date,日付から
+From Timestamp,タイムスタンプから
+Gateway Name,ゲートウェイ名
+Gateways,ゲートウェイ
+General,一般
+General Input Timeout,一般的な入力タイムアウト
+Generate Invoice,請求書を生成する
+Generate Pin,ピンを生成
+Generates Alarm From System,システムからアラームを生成します
+Generates Local Number system,市内番号システムを生成します
+Generates ticket of issues from system,システムから問題のチケットを生成します
+Generates Various Alarms From System,システムからさまざまなアラームを生成します
+Generates Various Country Reports From System,システムからさまざまな国別レポートを生成します
+Generates various reports from system,システムからさまざまなレポートを生成します
+Get Addons,アドオンを入手
+Get App,アプリを取得
+Global,グローバル
+Grace Time,グレースタイム
+Grand Total,総計
+Group By,グループ化
+Group By #1,＃1でグループ化
+Group By #2,＃2でグループ化
+Group By #3,＃3でグループ化
+Group By #Time,#Timeでグループ化
+Header,ヘッダ
+Homer,ホーマー
+Host,ホスト
+Import,インポート
+Import Customers,顧客のインポート
+Import with field map,フィールドマップでインポート
+Inbound,インバウンド
+Inbound Fax,インバウンドファックス
+Included Seconds,含まれる秒
+Increment,インクリメント
+Initial Balance,初期バランス
+Initial Increment,初期増分
+Inovices Older Than Days,日より古いイノビケ
+Install,インストール
+Installed,インストール済み
+Interval,間隔
+Interval Type,間隔タイプ
+Invoice Configuration ,請求書の構成
+Invoice Date,請求書の日付
+Invoice Due Days,請求書の期日
+Invoice Due Notification,請求書の期日通知
+Invoice Notification,請求書通知
+Invoice Number,請求書番号
+Invoice Prefix,請求書プレフィックス
+Invoice Start Form,請求書開始フォーム
+Invoices,請求書
+IP,IP
+IP Settings,IP設定
+Is Equal To,に等しい
+Is Not Equal To,と等しくない
+Is Purchased?,購入しましたか？
+Iso,Iso
+Iso3,Iso3
+IVR Count,IVRカウント
+Languages,言語
+Last Execution Date,最終実行日
+Last Modified Date,最終更新日
+Last Name,苗字
+Last Paid Date,最終支払日
+Latest Orders,最新の注文
+LC Charge / Min,LCチャージ/分
+LC Charge/Min,LCチャージ/分
+Live,住む
+Live Call Report,ライブコールレポート
+Live Id,ライブID
+Live Key,ライブキー
+Live Url,ライブURL
+Local Call Timeout,市内通話のタイムアウト
+Local Number,市内番号
+Local Numbers,市内番号
+Locale code,ロケールコード
+Localization,ローカリゼーション
+Localization Type,ローカリゼーションタイプ
+Localizations,ローカリゼーション
+Log out,ログアウト
+Log Path,ログパス
+Logo,ロゴ
+Low balance Alert?,低残高アラート？
+Mail Log,メールログ
+Manually,手動で
+Markup,マークアップ
+Mass Create,マスクリエイト
+Mass Email,大量メール
+Max Free Length,最大自由長
+MCD,MCD
+Minimum Fund Transfer,最小送金
+Minutes,議事録
+Minutes Announcement,議事録発表
+Minutes Breakdown,分内訳
+Moderate,中程度
+Modified Date,変更日
+Module,モジュール
+Name,名前
+New Accounts,新しいアカウント
+Nexmo API Key,NexmoAPIキー
+Nexmo Secret Key,Nexmo秘密鍵
+Next Execution Date,次の実行日
+Nickname,ニックネーム
+No,番号
+No Records Found,レコードが見つかりません
+Notes,ノート
+Notifications,通知
+Notify before due days,期限前に通知する
+Number,数
+Number Type,番号タイプ
+ of , の 
+Opensips,オープンシップ
+Opensips DB Engine,opensipsDBエンジン
+Opensips DB Host,OpensipsDBホスト
+Opensips DB Name,opensipsDB名
+Opensips DB Pass,OpensipsDBパス
+Opensips DB User,OpensipsDBユーザー
+Opensips Domain,オープンシップドメイン
+Opensource,オープンソース
+Order,注文
+Order Amount,注文金額
+Order Date,注文日
+Order ID,注文ID
+Order Now,今すぐ注文
+Orders,注文
+Org. Cost,組織費用
+Org. Destination,組織先
+Org. Pefix,組織Pefix
+Origination Rates,オリジネーションレート
+Outbound Fax,アウトバウンドファックス
+Outstanding Amount INR,未払い額INR
+Page ,ページ 
+Password,パスワード
+Password Strength,パスワードの強度
+Payment Method,支払方法
+Payment Methods,お支払い方法
+Payment Status,支払い状況
+Paypal,ペイパル
+Per Minute Cost,1分あたりのコスト
+Phone,電話
+Pin Input Timeout,ピン入力タイムアウト
+Pin Length,ピンの長さ
+Pin retries,ピンの再試行
+Pinless Authentication,ピンレス認証
+Place Order ,注文する
+Playback Audio Notifications,音声通知の再生
+Port,港
+Portal personalization,ポータルのパーソナライズ
+Powered by ASTPP,ASTPPを搭載
+Prefix,プレフィックス
+Prepend,プリペンド
+Preserve,保存する
+Price,価格
+Priority,優先
+Product Category,製品カテゴリ
+Product Details,製品詳細
+Product Name,商品名
+Products,製品
+Profile Action,プロファイルアクション
+Profit,利益
+Provider,プロバイダー
+Provider CDRs Report ,プロバイダーCDRレポート
+Provider Outbound,プロバイダーアウトバウンド
+Provider Outbound Report,プロバイダーアウトバウンドレポート
+Provider Summary Report ,プロバイダー概要レポート
+Province,州
+Province/State,州/州
+Proxy,プロキシ
+Purge,パージ
+Push Notifications,プッシュ通知
+Quantity,量
+Rate,割合
+Rate Announcement,料金発表
+Rate Count,レートカウント
+Rate Group,レートグループ
+Rate Groups,レートグループ
+Rate Information,料金情報
+Ratedeck,Ratedeck
+Ratedeck Information,定格情報
+Rates Count,料金カウント
+Realtime Billing,リアルタイム請求
+Receiver Email,受信者の電子メール
+Recording Files Older Than Days,日より古いファイルの記録
+ Records, 記録
+Referer Page,リファラーページ
+Refill By,補充
+Refill Coupon Length,補充クーポンの長さ
+Refill Coupons,クーポンの補充
+Refill Report,詰め替えレポート
+Refills,リフィル
+Register,登録
+Release if no balance,バランスが取れていない場合はリリース
+Report a Bug,バグを報告
+Reports,レポート
+Request URI,URIをリクエストする
+Reseller,リセラー
+Reseller can resell,再販業者は再販できます
+Reseller Summary,リセラーの概要
+Reseller Summary Report ,リセラーサマリーレポート
+Resellers,再販業者
+Resellers CDRs Report ,リセラーCDRレポート
+Resend Mail,メールを再送する
+Role,役割
+Roles & Permission,役割と許可
+Roles & Permissions,役割と権限
+Routing Prefix,ルーティングプレフィックス
+Routing Type,ルーティングタイプ
+Sandbox,サンドボックス
+Sandbox Id,サンドボックスID
+Sandbox Key,サンドボックスキー
+Sandbox Name,サンドボックス名
+Sandbox Url,サンドボックスURL
+Save,保存する
+Schedule Reports,スケジュールレポート
+Search,探す
+Select File,ファイルを選択
+Select Year,年を選択
+Services,サービス
+Set Maximum Add card limit,カードの最大追加制限を設定します
+Settings,設定
+Setup Fee,セットアップ料金
+Signup,サインアップ
+SIP Devices,SIPデバイス
+SIP IP,SIP IP
+SIP Port,SIPポート
+SIP Profile,SIPプロファイル
+SIP Profiles,SIPプロファイル
+SMS,SMS
+SMS Body,SMS本文
+SMS Notifications,SMS通知
+SMS Status,SMSステータス
+SMTP,SMTP
+SMTP Host,SMTPホスト
+SMTP Pass,SMTPパス
+SMTP Port,SMTPポート
+SMTP User,SMTPユーザー
+Start prefix,開始プレフィックス
+Starting Digit,開始桁
+Status,状態
+Strip,ストリップ
+Strong,強い
+Subject,件名
+Subscription,サブスクリプション
+Supportticket,サポートチケット
+Switch,スイッチ
+Tariff,関税
+Tax,税金
+Tax Information,税務情報
+Telephone,電話
+Telephone as account number,アカウント番号としての電話
+Templates,テンプレート
+Term. Cost,期間。費用
+Term. Destination,期間。先
+Term. Prefix,期間。プレフィックス
+Term. Trunk,期間。トランク
+Termination Rates,終了率
+Third Party,第三者
+This Month,今月
+This Week,今週
+Timelimit Announcement,期限のお知らせ
+Timestamp,タイムスタンプ
+Timezone,タイムゾーン
+To,に
+To Number,番号に
+To Timestamp,タイムスタンプへ
+Today,今日
+Top 10 Accounts,トップ10アカウント
+Top 10 Destinations,トップ10の目的地
+Total Calls ,総通話数
+Total Charges,総料金
+Total Minutes,合計分
+Transaction ID,トランザクションID
+Translations,翻訳
+Translations Language,翻訳言語
+Trunk,トランク
+Trunks,トランクス
+Type,タイプ
+Unpaid,未払い
+Update,更新
+Used,中古
+Used Date,使用日
+Username,ユーザー名
+Version,バージョン
+Version 4.0 Beta,バージョン4.0ベータ
+View All,すべて表示
+Voicemail,ボイスメール
+Panel Access,パネルアクセス
+Profile,プロフィール
+Billing Settings,請求設定
+Pin,ピン
+Account Settings,アカウント設定
+Notification Email,通知メール
+Address,住所
+NON-CLI Rate Group,非CLIレートグループ
+Billing Schedule,請求スケジュール
+Billing Day,請求日
+Tax Number,税番号
+Invoice Note,請求書メモ
+Reference,参照
+Cancel,キャンセル
+Device Information,デバイス情報
+Voicemail Options,ボイスメールオプション
+Mail To,メール送信先
+Attach File,ファイルを添付する
+Local After Email,ローカルアフターメール
+Send all Message,すべてのメッセージを送信する
+Close,閉じる
+IP map,IPマップ
+Identificador de llamadas,Identificador de llamadas
+Add Caller ID,発信者IDを追加する
+Create Reseller,リセラーを作成する
+Role Name,役割名
+Outstanding Amount,普通でない量
+To Date,現在まで
+Before Balance,バランスをとる前
+Commission Report,委員会報告
+MonthlyFee,月額
+Grace Time (Sec.),グレースタイム（秒）
+Import DIDs,DIDをインポートする
+File must be in the following format,ファイルは次の形式である必要があります
+DID Import Process,DIDインポートプロセス
+Get Sample file,サンプルファイルを取得する
+Check Header,ヘッダーを確認する
+Select the file,ファイルを選択します
+Account Count,アカウント数
+Acc. Number Length,Acc。番号の長さ
+Valid Days,有効日数
+Create Access Number,アクセス番号を作成する
+Information,情報
+Import Access Numbers,アクセス番号のインポート
+Access Numbers Import Process,アクセス番号のインポートプロセス
+DIDs Bulk Assign,DIDの一括割り当て
+Bulk DID Purchase,一括DID購入
+Provience,プロビエンス
+Assign Number,番号を割り当てる
+DID Destination,DID宛先
+DID Forward,DIDフォワード
+Always,常に
+If Busy,忙しい場合
+If SIP Not Registered,SIPが登録されていない場合
+If No Answer,答えがない場合
+New Rate Group Name,新しいレートグループ名
+Duplicate Rate Group Information,重複したレートグループ情報
+Import Origination Rates,輸入オリジネーションレート
+Force Trunk,トランクを強制する
+Please select atleast one record to dele,削除するレコードを少なくとも1つ選択してください
+Import Ratedeck,Ratedeckをインポートする
+Optional Information,追加情報
+From- Domain,From-ドメイン
+From User,ユーザーから
+Extension,拡張
+Extension-In-Contact,エクステンションインコンタクト
+Ping,ping
+Contact Params,Paramsに連絡する
+Retry-Seconds,再試行-秒
+Register-Proxy,登録プロキシ
+Channel,チャネル
+Failover GW Name,フェイルオーバーGW名
+Create Trunk,トランクを作成する
+Import Termination Rates,輸入終了率
+Call Timeout (Sec.),通話タイムアウト（秒）
+Trunk List,トランクリスト
+Reset,リセット
+Create SIP Profile,SIPプロファイルを作成する
+Create Freeswitch Server,Freeswitchサーバーを作成する
+Live Calls,ライブコール
+Term Cost,期間費用
+Term Destination,期間の目的地
+Term Prefix,用語プレフィックス
+Localizaciones,Localizaciones
+Create Localization,ローカリゼーションを作成する
+Origination,オリジネーション
+Termination,終了
+Inbound Callerid Translation,インバウンドCallerid翻訳
+Destination Number Translation,宛先番号の変換
+Outbound Callerid Translation,アウトバウンドCallerid翻訳
+Create Call Barring,通話制限を作成する
+Callbarring Settings,通話制限設定
+Product Summary Report,製品概要レポート
+SIP User,SIPユーザー
+Product,製品
+Taxes,税金
+Update Currencies,通貨の更新
+File Name,ファイル名
+Database Information,データベース情報
+Database Backup,データベースのバックアップ
+Command,コマンド
+Cron Settings,cron設定
+Create Cron Settings,cron設定を作成する
+Stripe,ストライプ
+Live Secret key,ライブシークレットキー
+Live Publishable key,公開可能なライブキー
+Set Percentage Charges,パーセンテージ料金を設定する
+Set Fix Charges,修正料金を設定する
+Stripe Mode,ストライプモード
+Sandbox secret key,サンドボックス秘密鍵
+Sandbox publishable key,サンドボックス公開可能キー
+Version 4.0 Enterprise,バージョン4.0エンタープライズ
+Powered by,搭載
+Import Customer Using Field Mapper,フィールドマッパーを使用して顧客をインポートする
+You must either select a field from your,からフィールドを選択する必要があります
+Records with duplicate account number an,アカウント番号が重複しているレコード
+Account Import Error,アカウントのインポートエラー
+Back to Customer List,顧客リストに戻る
+Duplicate accounts with account number /,アカウント番号が重複しているアカウント/
+Records imported successfully,正常にインポートされたレコード
+Records not imported,インポートされていないレコード
+Error In CSV File,CSVファイルのエラー
+Invoice Summary,請求書の概要
+Customer Details,お客様情報
+Invoice Details,請求の詳細
+Account Number,口座番号
+Invoice Amount,請求額
+Invoice Item,請求書アイテム
+Sub Total,小計
+Total Due,合計期限
+Note,注意
+Add Setting,設定を追加
+Edit SIP Profile,SIPプロファイルの編集
+New,新着
+Used?,中古？
+View Email,メールを見る
+Active,アクティブ
+Inactive,非活性
+Black List,ブラックリスト
+White List,ホワイトリスト
+Freeswitch Server Information,Freeswitchサーバー情報
+Currencies,通貨
+Edit Currency,通貨の編集
+Is Distributor,ディストリビューターです
+Package created successfully!,パッケージが正常に作成されました。
+DID Removed Successfully.,DIDは正常に削除されました。
+DID not found.,DIDが見つかりません。
+Password changed Sucessfully....!!!,パスワードが正常に変更されました.... !!!
+New Password & Conformpassword not match,新しいパスワードとConformpasswordが一致しません
+Invalid old passwword.,古いパスワードが無効です。
+Permission Denied!,アクセス拒否！
+Refill Coupon amount is added successful,補充クーポンの金額が正常に追加されました
+PLease upload maximum file,最大ファイルをアップロードしてください
+files added successfully!,ファイルが正常に追加されました！
+File Uploading Fail Please Try Again,ファイルのアップロードに失敗するもう一度やり直してください
+Please upload only image!,画像のみアップロードしてください！
+Invoice config updated successfully!,請求書の設定が正常に更新されました！
+Your Profile Updated Successfully!,プロファイルが正常に更新されました。
+Something wrong.Please contact to admini,何か問題があります。管理者に連絡してください
+DID Released Successfully!,DIDが正常にリリースされました！
+IP already exist in system.,IPはすでにシステムに存在します。
+IP Added Sucessfully.,IPが正常に追加されました。
+IP Removed Sucessfully.,IPが正常に削除されました。
+SIP Device Updated Successfully!,SIPデバイスが正常に更新されました！
+SIP Device Added Successfully!,SIPデバイスが正常に追加されました！
+SIP Device Removed Sucessfully!,SIPデバイスが正常に削除されました！
+Caller ID Added Sucessfully!,発信者IDが正常に追加されました！
+Please Enter Caller ID value.,発信者IDの値を入力してください。
+Caller ID already Exists.,発信者IDはすでに存在します。
+Caller ID removed sucessfully!,発信者IDが正常に削除されました！
+Alert Threshold Updated Successfully!,アラートしきい値が正常に更新されました！
+Can not trnasfer fund to postpaid custom,後払いのカスタムに資金を転送することはできません
+Access Denied! unable transfer fund to t,アクセスが拒否されました！資金をtに送金できません
+You can not transfer fund in same accoun,同じアカウントで資金を送金することはできません
+You can only transfer fund in same level,同じレベルの資金のみを送金できます
+Please enter To account number.,Toアカウント番号を入力してください。
+Please enter valid amount.,有効な金額を入力してください。
+You have insufficient balance.,バランスが不十分です。
+Please enter valid account number.,有効な口座番号を入力してください。
+Please enter amount greater then 0.,0より大きい金額を入力してください。
+You need to enter minimum for fund trans,ファンドトランスの最低額を入力する必要があります
+Please enter valid account number!,有効な口座番号を入力してください！
+Insuffiecient amount !,量が足りない！
+Transfer successfully!,転送に成功しました！
+Account number not found.,アカウント番号が見つかりません。
+OpenSips updated successfully!,OpenSipsが正常に更新されました！
+Duplicate Username Found.Username Must b,重複するユーザー名が見つかりました。ユーザー名はbである必要があります
+User name is required field.,ユーザー名は必須フィールドです。
+Opensips Device Removed Successfully!.,Opensipsデバイスが正常に削除されました！。
+Speed-dial Number Added Successfully!,短縮ダイヤル番号が正常に追加されました！
+Can not delete blank speeddial number,空白の短縮ダイヤル番号は削除できません
+Speed-dial Number Removed Successfully!,短縮ダイヤル番号が正常に削除されました！
+Pin Updated Successfully!,ピンが正常に更新されました！
+DID Updated Successfully!,DIDは正常に更新されました！
+for fund transfer.,送金用。
+You need to enter minimum,最小値を入力する必要があります
+please enter recharge value,充電値を入力してください
+New Password,新しいパスワード
+Old Password,以前のパスワード
+Conform Password,適合パスワード
+Letters only please,手紙だけお願いします
+IP Mapping,IPマッピング
+The Coupon Number field must contain onl,クーポン番号フィールドにはonlが含まれている必要があります
+The Coupon Number field have inactive re,クーポン番号フィールドに非アクティブなreがあります
+This Coupon Number is already in use.,このクーポン番号はすでに使用されています。
+This Coupon Number is not found.,このクーポン番号が見つかりません。
+The Coupon Number field is required.,クーポン番号フィールドは必須です。
+REFILL COUPON RECHARGE,クーポンリチャージの補充
+You just recharged,充電したばかりです
+account with The new balance will be,新しい残高のアカウントは
+My Profile,私のプロフィール
+My Account,マイアカウント
+Alert Threshold,アラートしきい値
+The Caller ID field is required.,発信者IDフィールドは必須です。
+Change Password,パスワードを変更する
+Bill Type,請求書タイプ
+Bill Days,ビルデイズ
+New Products,新製品
+Active Products,アクティブな製品
+Outstanding,未解決の
+Today's Calls,今日の電話
+Recent Calls,最近の電話
+The Available DIDs field is required.,[利用可能なDID]フィールドは必須です。
+Please enter your password,パスワードを入力してください
+Please enter your first name,名を入力してください
+Please enter your email,あなたのメールアドレスを入力してください
+Please enter valid email,有効なメールアドレスを入力してください
+This field is required.,この項目は必須です。
+Email Setting,メール設定
+SMTP Password,SMTPパスワード
+Are you sure want to remove logo?,ロゴを削除してもよろしいですか？
+The IP field must contain a unique value,IPフィールドには一意の値が含まれている必要があります
+The IP field have not valid IP.,IPフィールドに有効なIPがありません。
+The IP field is required.,IPフィールドは必須です。
+The Name field is required.,[名前]フィールドは必須です。
+Please enter only alpha-numeric value,英数字のみを入力してください
+Are you sure want to delete speed dial r,短縮ダイヤルrを削除してもよろしいですか
+Generated Date,生成日
+My Products,私の製品
+Pinless CLI,ピンレスCLI
+Refill Coupon,補充クーポン
+TopUp,トップアップ
+Pay with Paypal,Paypalで支払う
+Pay with Card,カードで支払う
+Assign,割当
+Send Credit,クレジットを送る
+To Account,アカウントへ
+From Account,アカウントから
+Transfer,転送
+Telephone 1,電話1
+Telephone 2,電話2
+Address 2,アドレス2
+Zip/Postal Code,郵便番号/郵便番号
+User Profile,ユーザープロファイル
+Low Balance Alert Level,低残高アラートレベル
+Enable Email Alerts ?,電子メールアラートを有効にしますか？
+Low Balance Alert Email,低残高アラートメール
+User name,ユーザー名
+Something went to wrong !,何かがうまくいかなかった！
+Product Purchased successfully !,製品の購入に成功しました！
+Insufficent Balance to purchase product ,商品を購入するには残高が不足しています
+Product assigned successfully!,製品が正常に割り当てられました！
+Something went wrong !,何かがうまくいかなかった！
+Product Not Found,製品が見つかりません
+Transaction has been failed,トランザクションが失敗しました
+not inserted. Transaction has been faile,挿入されていません。トランザクションは失敗しました
+Select Customer.,[顧客]を選択します。
+Product Information,製品情報
+Price+SetUp Fee,価格+セットアップ料金
+Use Voucher,バウチャーを使用する
+Amount Without Tax,税抜きの金額
+Total Tax,総税
+Amount With Tax,税額
+Parent Products,親製品
+Edit Product,製品の編集
+Product updated successfully!,製品が正常に更新されました！
+Product added successfully!,製品が正常に追加されました！
+Product removed successfully!,製品は正常に削除されました！
+Product optin successfully!,製品オプチンが正常に！
+Edit Info,情報を編集
+Product assign successfully,製品の割り当てに成功
+Insufficient balance to assign product!,商品を割り当てるにはバランスが不十分です！
+Terminated Updated Successfully!,正常に更新されました。
+Terminated,終了しました
+Setup Cost,セットアップ費用
+Order New,新規注文
+Caller ID updated successfully!,発信者IDが正常に更新されました！
+Caller ID added successfully!,発信者IDが正常に追加されました！
+Caller ID removed successfully!,発信者IDが正常に削除されました！
+Name is not contain any space,名前にスペースが含まれていません
+Name already exist in system.,名前はすでにシステムに存在します。
+Callbarring Settings Updated Successfull,コールバーリング設定が正常に更新されました
+allbarring Settings Added Successfully!,allbarring設定が正常に追加されました！
+Call Barring Removed Successfully!,通話制限が正常に削除されました！
+Calltype already exist in system.,コールタイプはすでにシステムに存在します。
+Calltype Updated Successfully!,Calltypeが正常に更新されました！
+Calltype Added Successfully!,Calltypeが正常に追加されました！
+calltype removed successfully!,calltypeが正常に削除されました！
+File must be in the following format(.cs,ファイルは次の形式である必要があります（.cs
+Import Package Codes:,パッケージコードのインポート：
+Records Imported Successfully:,正常にインポートされたレコード：
+Records Not Imported :,インポートされていないレコード：
+Download Errors,ダウンロードエラー
+Back to Package Patterns List,パッケージパターンリストに戻る
+Add To List,リストに追加する
+Routing Prefix already exist in system.,ルーティングプレフィックスはすでにシステムに存在します。
+Rate Group Updated Successfully!,レートグループが正常に更新されました！
+Rate Group Added Successfully!,レートグループが正常に追加されました！
+Duplicate Rate Group Added Successfully!,重複レートグループが正常に追加されました！
+Routing Prefix (Enterprise),ルーティングプレフィックス（エンタープライズ）
+Priority (Enterprise),優先度（エンタープライズ）
+Percentage (WIP) (Enterprise),パーセンテージ（WIP）（エンタープライズ）
+LCR,LCR
+Percentage,パーセンテージ
+Tax removed successfully!,税金が正常に削除されました！
+Tax added successfully!,税金が正常に追加されました！
+Tax updated successfully!,税金が正常に更新されました！
+Charges List,料金表
+Trunk Updated Successfully!,トランクが正常に更新されました！
+Trunk Added Successfully!,トランクが正常に追加されました！
+Trunk removed successfully!,トランクが正常に削除されました！
+setting updated successfully!,設定が正常に更新されました！
+Template Updated Successfully!,テンプレートが正常に更新されました！
+Template Added Successfully!,テンプレートが正常に追加されました！
+Country Updated successfully!,国が正常に更新されました！
+Country Added successfully!,国が正常に追加されました！
+Country removed successfully!,国が正常に削除されました！
+Currency Updated Successfully!,通貨が正常に更新されました！
+My Rates,私の料金
+Cost / Min,コスト/分
+Purchase,購入
+Available DIDs,利用可能なDID
+New IP,新しいIP
+Digits,数字
+Email Address,電子メールアドレス
+Call Forward,転送電話
+If Busy:,忙しい場合：
+If SIP Not Registered:,SIPが登録されていない場合：
+If No Answer:,答えがない場合：
+Pay Now,今払う
+Pay with Account,アカウントで支払う
+Please wait,お待ちください
+Coupon Number:,クーポン番号：
+Add Voucher,バウチャーを追加する
+Selected Plan,選択したプラン
+My Product,私の製品
+Parent Product,親製品
+Edit Email Template,メールテンプレートの編集
+Details,詳細
+KEY,キー
+Value,値
+Records with duplicate account number and email will be ignored.,アカウント番号とメールアドレスが重複しているレコードは無視されます。
+Account Details,アカウント詳細
+Mass Customer,大量顧客
+Daily,毎日
+Monthly,毎月
+Prepaid,プリペイド
+Postpaid,後払い
+Force Caller ID,発信者IDを強制する
+Customer Profile,顧客情報
+Caller Id Name,発信者ID名
+Caller Id Number,発信者ID番号
+Blocked Codes,ブロックされたコード
+Page will display only receipts and confirmed invoices.,ページには、領収書と確認済みの請求書のみが表示されます。
+Accessnumber Updated Successfully!,アクセス番号が正常に更新されました！
+Accessnumber Removed Successfully!,アクセス番号が正常に削除されました！
+Invalid file format : Only CSV file allows to import records(Can't import empty file),無効なファイル形式：CSVファイルのみがレコードのインポートを許可します（空のファイルをインポートできません）
+ are required, 必要です
+ is Required, 必要とされている
+ is not Valid, 有効ではない
+Duplicate accessnumber found from database,データベースから重複するアクセス番号が見つかりました
+Duplicate accessnumber found from import file.,インポートファイルから重複するアクセス番号が見つかりました。
+Total,合計
+AccessNumber Imported Successfully!,AccessNumberが正常にインポートされました！
+Records Not Imported:,インポートされていないレコード：
+Back to AccessNumber List,AccessNumberリストに戻る
+Speed Dial Number Updated Successfully,短縮ダイヤル番号が正常に更新されました
+Please insert only numeric value!,数値のみ挿入してください！
+Speed Dial Number Removed Successfully,短縮ダイヤル番号が正常に削除されました
+Speed Dial Number is Empty,短縮ダイヤル番号が空です
+Sip Device removed successfully!,SIPデバイスが正常に削除されました！
+Sip updated successfully!,一口が正常に更新されました！
+Block Code Removed Sucessfully!,ブロックコードが正常に削除されました！
+Your Account Limit has been reached.Please Change Your Prefix.,アカウントの制限に達しました。プレフィックスを変更してください。
+Please Enter Proper Account Length.,適切なアカウントの長さを入力してください。
+Bulk customer generate successfully!,大量の顧客が正常に生成されます！
+Recharge successfully!,正常に充電してください！
+Post charge applied successfully.,ポストチャージが正常に適用されました。
+Account callerID updated successfully!,アカウントの発信者番号が正常に更新されました。
+Account callerID added successfully!,アカウントcallerIDが正常に追加されました！
+Reseller updated successfully!,リセラーが正常に更新されました！
+Reseller added successfully!,リセラーが正常に追加されました！
+Updated successfully!,更新成功！
+Added Successfully!,正常に追加されました！
+Customer batch updated successfully!,顧客バッチが正常に更新されました！
+Reseller batch updated successfully!,リセラーバッチが正常に更新されました！
+Customer Removed Successfully!,お客様は正常に削除されました！
+Reseller Removed Successfully!,リセラーが正常に削除されました！
+Provider Removed Successfully!,プロバイダーが正常に削除されました！
+Admin Removed Successfully!,管理者が正常に削除されました！
+Sub Admin Removed Successfully!,サブ管理者が正常に削除されました！
+DID Added Successfully.,DIDが正常に追加されました。
+DID Already Removed Before.,DIDは以前にすでに削除されています。
+Account Tax Added Successfully!,アカウント税が正常に追加されました！
+Account Tax Removed Successfully!,アカウント税が正常に削除されました！
+Product Removed Sucessfully.,製品が正常に削除されました。
+Email Resend Successfully!,メールの再送に成功しました！
+Email List Updated Successfully!,メーリングリストが正常に更新されました！
+Email List Added Successfully!,メーリングリストが正常に追加されました！
+Email Removed Successfully!,メールが正常に削除されました！
+Please Try Again!,もう一度お試しください！
+Email BroadCast Successfully!,BroadCastにメールを送信してください。
+No Record Found!,レコードが見つかりません！
+Email Address Not Found!,メールアドレスが見つかりません！
+Edit Freeswitch SIP Devices,FreeswitchSIPデバイスの編集
+Create Freeswitch SIP Devices,FreeswitchSIPデバイスを作成する
+Gateway Updated Successfully!,ゲートウェイが正常に更新されました！
+Gateways already exist in system.,ゲートウェイはすでにシステムに存在します。
+Gateway name must not have any space.,ゲートウェイ名にはスペースを入れないでください。
+Gateway Added Successfully!,ゲートウェイが正常に追加されました！
+Gateway Removed Successfully!,ゲートウェイが正常に削除されました！
+Please enter All profile value!,すべてのプロファイル値を入力してください！
+SIP Profile name must not have any space!,SIPプロファイル名にはスペースを入れないでください。
+Duplicate SIP IP OR Port found it must be unique!,重複するSIPIPまたはポートが一意である必要があることがわかりました。
+SIP Profile Added Successfully!,SIPプロファイルが正常に追加されました！
+Name must be unique!,名前は一意である必要があります！
+SIP Profile Updated Successfully!,SIPプロファイルが正常に更新されました！
+SIP Setting Added Successfully!,SIP設定が正常に追加されました！
+SIP Setting Updated Successfully!,SIP設定が正常に更新されました！
+SIP Setting Removed Successfully!,SIP設定が正常に削除されました！
+SIP Profile Removed Successfully!,SIPプロファイルが正常に削除されました！
+Host Already Exist in System.,ホストはすでにシステムに存在します。
+Freeswitch Server Updated Successfully!,Freeswitchサーバーが正常に更新されました！
+Freeswitch Server Added Successfully!,Freeswitchサーバーが正常に追加されました！
+Freeswitch Server Removed Successfully!,Freeswitchサーバーが正常に削除されました！
+Invoice updated successfully!,請求書が正常に更新されました。
+Invoice payment done successfully!,請求書の支払いが正常に完了しました。
+Account Not Found.,アカウントが見つかりません。
+Invoice payment amount should be higher then the invoice amount.,請求書の支払い額は、請求書の金額よりも高くする必要があります。
+The Favicon file size shoud not exceed 1MB!,ファビコンのファイルサイズは1MBを超えてはなりません！
+Please upload 250 * 60 size file,250 * 60サイズのファイルをアップロードしてください
+Logo only allows file types of JPG and JPEG.,ロゴは、JPGおよびJPEGのファイルタイプのみを許可します。
+Favicon only allows file types of ICO,ファビコンはICOのファイルタイプのみを許可します
+Please upload 16 * 16 size of favicon.,16 * 16サイズのファビコンをアップロードしてください。
+Company profile updated sucessfully!,会社概要が正常に更新されました！
+Company profile added sucessfully!,会社概要が正常に追加されました！
+Permission Denied.,アクセス拒否。
+is Deleted Sucessfully!,正常に削除されました！
+To date should not be greater than current date.,現在までの日付は、現在の日付より大きくすることはできません。
+Invoice generation completed.,請求書の生成が完了しました。
+No data found,何もデータが見つかりませんでした
+Invoices removed successfully,請求書は正常に削除されました
+The Prefix field must contain a unique value.,プレフィックスフィールドには一意の値が含まれている必要があります。
+The IP field must contain a unique value.,IPフィールドには一意の値が含まれている必要があります。
+IP Map added successfully!,IPマップが正常に追加されました！
+IP Map removed successfully!,IPマップが正常に削除されました！
+Localization Added Successfully!,ローカリゼーションが正常に追加されました！
+Localization Updated Successfully!,ローカリゼーションが正常に更新されました！
+Localization Removed Successfully!,ローカリゼーションは正常に削除されました！
+Globalization is already exist in this system,グローバリゼーションはこのシステムにすでに存在しています
+Dispatcher Updated Successfully!,コーディネーターが正常に更新されました！
+Dispatcher Added Successfully!,コーディネーターが正常に追加されました！
+Dispatcher Removed Successfully!,コーディネーターが正常に削除されました！
+Code is already in system,コードはすでにシステムにあります
+Country is already in system,国はすでにシステムにあります
+Ratedeck updated successfully!,Ratedeckが正常に更新されました！
+Ratedeck added successfully!,Ratedeckが正常に追加されました！
+Ratedeck removed successfully!,Ratedeckは正常に削除されました！
+Duplicate Ratedeck Number found from import file.,インポートファイルから重複したRatedeck番号が見つかりました。
+Ratedeck Imported Successfully!,Ratedeckが正常にインポートされました！
+Ratedeck Import Error,Ratedeckインポートエラー
+Back to Ratedeck List,Ratedeckリストに戻る
+Origination Rate Imported Successfully!,発信率のインポートに成功しました！
+Origination Rate Updated Successfully!,発信率が正常に更新されました！
+Origination Rate Added Successfully!,オリジネーション率が正常に追加されました！
+Termination Rates Batch Updated Successfully!,終了率バッチが正常に更新されました！
+Map CSV to Termination Rates,CSVを終了率にマップ
+Data Example,データ例
+Map to Field,フィールドへのマップ
+PREFIX/DEFAULT VALUE,プレフィックス/デフォルト値
+ASTPP Field,ASTPPフィールド
+Created,作成した
+Modified,変更
+You can not create,作成できません
+Refill coupon with,クーポンを補充する
+You can create maximum,あなたは最大を作成することができます
+Refill coupon created successfully!,正常に作成されたリフィルクーポン！
+Currency Added Successfully!,通貨が正常に追加されました！
+Currency Removed Successfully!,通貨が正常に削除されました！
+Backup Exported Successfully!,バックアップが正常にエクスポートされました！
+An error occur when the system tried to backup of the database. Please check yours system settings for the backup section,システムがデータベースのバックアップを試みたときにエラーが発生します。バックアップセクションのシステム設定を確認してください
+Database Restore successfully.,データベースが正常に復元されました。
+File not exists!,ファイルが存在しません！
+There is a some issue or invalid file format.,いくつかの問題または無効なファイル形式があります。
+Database backup deleted successfully.,データベースのバックアップが正常に削除されました。
+Languages updated successfully!,言語が正常に更新されました！
+Languages removed successfully!,言語が正常に削除されました！
+Languages added successfully!,言語が正常に追加されました！
+Translation updated successfully!,翻訳が正常に更新されました！
+Translation added successfully!,翻訳が正常に追加されました！
+Update Languages,言語の更新
+Speed Dial,短縮ダイヤル
+Payment,支払い
+Method,方法
+Once you confirm the invoice,請求書を確認したら
+Payment Gateway Permission,ペイメントゲートウェイの許可
+Zip Code,郵便番号
+Yes,はい
+Back,バック
+Edit Reseller,リセラーの編集
+Asignar DID a granel,AsignarはグラネルをDIDしました
+DIDs Search,DID検索
+By Month,月ごと
+Create Gateway,ゲートウェイを作成する
+Calling Card Language,コーリングカード言語
+Last,最終
+Pay Date,支払日
+Purchase DID,DIDを購入
+Caller-ID-A-Form,発信者ID-Aフォーム
+Expire Seconds,有効期限秒
+Termination Date,退職日
+Registration Date,登録日
+Payment By,お支払い方法
+Product Status,製品ステータス
+Minute,分
+Hour,時間
+Day,日
+Month,月
+Year,年
+List,リスト
+Edit,編集
+Not Avaialable any Subscription.,サブスクリプションは利用できません。
+Not Avaialable any Package for this Country.,この国のパッケージはご利用いただけません。
+You can only transfer fund in same level account.,同じレベルの口座でのみ資金を送金できます。
+You can not transfer fund in same account.,同じ口座で資金を送金することはできません。
+Monthly Fee,月額
+Bulk DID Assign,一括DID割り当て
+Invoice Start From,請求書の開始元
+Edit Gateway,ゲートウェイの編集
+Number Of Default Rows,デフォルトの行数
+Mobile Dialer,モバイルダイヤラー
+Trunk Count,トランクカウント
+Welcome File,ウェルカムファイル
+Local Call Timeout (Sec.),市内通話のタイムアウト（秒）
+Rate check for DID,DIDのレートチェック
+DID Localization,DIDローカリゼーション
+Voicemail Number,ボイスメール番号
+OTP Expire Time(min),OTP有効期限（分）
+Edit Provider,プロバイダーの編集
+Product Summary Reports,製品概要レポート
+Edit Origination Rate,オリジネーションレートの編集
+Dialplan Variable,ダイヤルプラン変数
+Uninstall,アンインストール
+Call Stat,通話統計
+Failed Calls,失敗した通話
+Top 10 Countries,トップ10の国
+By Minutes,議事録
+By Calls,電話で
+Telephone number is only numeric,電話番号は数字のみです
+Please enter valid Captcha code,有効なキャプチャコードを入力してください
+Please contact to administrator,管理者に連絡してください
+Requested email is already exist,リクエストされたメールはすでに存在します
+Requested number is already exist,要求された番号はすでに存在します
+Please enter correct words!,正しい単語を入力してください！
+THIS IS REQUIRED!,これは必須です！
+Your account has been deleted. Please contact administrator for more information.,アカウントが削除されました。詳細については、管理者にお問い合わせください。
+Your account is inactive. Please contact administrator for more information.,アカウントは非アクティブです。詳細については、管理者にお問い合わせください。
+Please enter proper Email.,適切なメールアドレスを入力してください。
+Please enter proper Username.,適切なユーザー名を入力してください。
+This Username or Email is not valid.,このユーザー名または電子メールは無効です。
+ASTPP - A Smart TelePhony Platform,ASTPP-スマートテレフォニープラットフォーム
+Forgot Password,パスワードをお忘れですか
+ASTPP work best with JavaScript enabled,ASTPPは、JavaScriptが有効になっている場合に最適に機能します
+Enter Your Password,パスワードを入力してください
+Confirm Password,パスワードを認証する
+The Email field is Required,Eメールフィールドは必須です
+The Account Number field is Required,アカウント番号フィールドは必須です
+Set Default Language,デフォルト言語を設定する
+Please Re-login to get Impact of selected language.,選択した言語の影響を取得するには、再ログインしてください。
+Default Language,既定の言語
+Signup now!,今すぐサインアップ！
+Forgot Password?,パスワードをお忘れですか？
+Sign in,サインイン
+Username OR Email,ユーザー名または電子メール
+Username is Required,ユーザー名は必須です
+Password is Required,パスワードが必要
+Please Check Your account is deleted or inactive from admin side,アカウントが管理者側から削除されているか、非アクティブになっていることを確認してください
+Please do not use default or less secure password for your account!! You must change password from,アカウントにデフォルトまたは安全性の低いパスワードを使用しないでください!!パスワードをから変更する必要があります
+HERE,ここに
+Login unsuccessful. Please make sure you entered the correct username and password,ログインに失敗しました。正しいユーザー名とパスワードを入力したことを確認してください
+Please enter Username/email and Password.,ユーザー名/メールアドレスとパスワードを入力してください。
+Payment transaction invalid. Please contact Administrator.,支払い取引が無効です。管理者に連絡してください。
+Log In,ログインする
+Please Enter Password,パスワードを入力してください
+Password must be at least 8 characters and must contain at least one lower case letter,パスワードは8文字以上で、小文字を1つ以上含める必要があります
+Please Enter Confirm Password,パスワードの確認を入力してください
+Confirm Password is not match,パスワードが一致しないことを確認する
+We sent update password link.,パスワード更新リンクを送信しました。
+Please check your Email!,メールを確認してください！
+Login,ログインする
+OTP Verification,OTP検証
+OTP Number is Required,OTP番号が必要です
+Your account created successfully and account details sent to your registered email address,アカウントが正常に作成され、アカウントの詳細が登録済みのメールアドレスに送信されます
+Your password change successfully and new password sent to your registered email address,パスワードが正常に変更され、新しいパスワードが登録済みのメールアドレスに送信されます
+OTP Number is Wrong Please try again Or OTP expire Please Resend,OTP番号が間違っています再試行するか、OTPの有効期限が切れています再送信してください
+OTP has been sent on your email or Telephone number,OTPはあなたのEメールまたは電話番号で送信されました
+OTP,OTP
+Resend OTP,OTPを再送する
+OTP Sent time Out,OTP送信タイムアウト
+Not Get OTP ?,OTPを取得しませんか？
+Note:,注意：
+Please make sure do not refresh the page or don't go back,ページを更新したり、戻ったりしないでください。
+Login unsuccessful. Please make sure you entered the correct username and password,ログインに失敗しました。正しいユーザー名とパスワードを入力したことを確認してください
+Your account has been created successfully!,アカウントが正常に作成されました。
+Here is your login information,これがあなたのログイン情報です
+Link is Expire Please Try Again,リンクの有効期限が切れていますもう一度お試しください
+Sorry,ごめんなさい
+Please contact administrator for more information,詳細については、管理者にお問い合わせください
+Successful!,成功しました！
+Captcha is required,キャプチャが必要です
+First Name is Required,名が必要です
+Telephone is Required,電話が必要です
+Email is Required,メールが必要です
+Please enter a valid email address,有効なメールアドレスを入力してください
+Please make sure you entered the correct username and password,正しいユーザー名とパスワードを入力したことを確認してください
+Company Name,会社名
+Enter above Captcha,キャプチャの上に入力します
+Sign up,サインアップ
+Already Registered !,すでに登録 ！
+January,1月
+February,2月
+March,行進
+April,4月
+May,五月
+June,六月
+July,7月
+August,8月
+September,9月
+October,10月
+November,11月
+December,12月
+Doesn't Contain,含まれていません
+Greater Than,大なり記号
+Less Than,未満
+Greater Or Equal Than,より大きいか等しい
+Less Or Equal Than,以下または等しい
+Set To,に設定
+Increase By,増加する
+Decrease By,減少する
+Community,コミュニティ
+You must either select a field from your file OR provide a default value for the following fields:,ファイルからフィールドを選択するか、次のフィールドにデフォルト値を指定する必要があります。
+Note : Records with duplicate account number and email will be ignored.,注：アカウント番号とメールアドレスが重複しているレコードは無視されます。
+Map CSV to Customers,CSVを顧客にマッピング
+Account Information,口座情報
+Select Account,アカウントを選択
+DEFAULT VALUE,デフォルト値
+SIP Username,SIPユーザー名
+sip_username,sip_username
+SIP Password,SIPパスワード
+Same as Password,パスワードと同じ
+Same as Account Number,口座番号と同じ
+Random,ランダム
+Import File Data.,ファイルデータをインポートします。
+Process Records,プロセス記録
+Note : Duplicate accounts with account number / email are ignored.,注：アカウント番号/メールアドレスの重複アカウントは無視されます。
+Remove,削除する
+Number of Account,アカウント数
+Account Number Length,アカウント番号の長さ
+DID (CLI Match,DID（CLI一致
+Caller Id (CLI Match,発信者ID（CLI一致
+Use NON-CLI Rate Group (If CLI not match with DID),非CLIレートグループを使用する（CLIがDIDと一致しない場合）
+Use NON-CLI Rate Group (If CLI not match with Caller ID),非CLIレートグループを使用する（CLIが発信者IDと一致しない場合）
+Use NON-CLI Rate Group (If CLI not match with DID & Caller id),非CLIレートグループを使用する（CLIがDIDおよび発信者IDと一致しない場合）
+Reject Call (If CLI not match with DID),通話の拒否（CLIがDIDと一致しない場合）
+Reject Call (If CLI not match with Caller ID),通話を拒否する（CLIが発信者IDと一致しない場合）
+Reject Call (If CLI not match with DID & Caller id),通話を拒否する（CLIがDIDおよび発信者IDと一致しない場合）
+--Select--, - 選択する - 
+Test Mail,テストメール
+Reset Password,パスワードを再設定する
+AFGHANISTAN,アフガニスタン
+ALBANIA,アルバニア
+ALGERIA,アルジェリア
+AMERICAN SAMOA,アメリカ領サモア
+ANDORRA,アンドラ
+ANGOLA,アンゴラ
+ANGUILLA,アンギラ
+ANTIGUA & BARBUDA,アンティグア・バーブーダ
+ARGENTINA,アルゼンチン
+ARMENIA,アルメニア
+ARUBA,アルバ
+AUSTRALIA,オーストラリア
+AUSTRIA,オーストリア
+AZERBAIJAN,アゼルバイジャン
+BAHAMAS,バハマ
+BAHRAIN,バーレーン
+BANGLADESH,バングラデシュ
+BARBADOS,バルバドス
+BELARUS,ベラルーシ
+BELGIUM,ベルギー
+BELIZE,ベリーズ
+BENIN,ベナン
+BERMUDA,バミューダ
+BHUTAN,ブータン
+BOLIVIA,ボリビア
+BOSNIA AND HERZEGOVINA,ボスニア・ヘルツェゴビナ
+BOTSWANA,ボツワナ
+BRAZIL,ブラジル
+BRITISH VIRGIN ISLANDS,イギリス領バージン諸島
+BRUNEI,ブルネイ
+BULGARIA,ブルガリア
+BURKINA FASO,ブルキナファソ
+BURUNDI,ブルンジ
+CAMBODIA,カンボジア
+CAMEROON,カメルーン
+CANADA,カナダ
+CAPE VERDE,カーボベルデ
+CAYMAN ISLANDS,ケイマン諸島
+CENTRAL AFRICAN REPUBLIC,中央アフリカ共和国
+CHAD,チャド
+CHILE,チリ
+CHINA,中国
+COLOMBIA,コロンビア
+COMOROS,コモロ
+CONGO,コンゴ
+COSTA RICA,コスタリカ
+CROATIA,クロアチア
+CUBA,キューバ
+CYPRUS,キプロス
+CZECH REPUBLIC,チェコ共和国
+DEMOCRATIC REPUBLIC,民主共和国
+DENMARK,デンマーク
+DJIBOUTI,ジブチ
+DOMINICA,ドミニカ
+DOMINICAN REPUBLIC,ドミニカ共和国
+ECUADOR,エクアドル
+EGYPT,エジプト
+EL SALVADOR,エルサルバドル
+EQUATORIAL GUINEA,赤道ギニア
+ERITREA,エリトリア
+ERITREA,エリトリア
+ETHIOPIA,エチオピア
+FAEROE ISLANDS,フェロー諸島
+FIJI ISLANDS,フィジー諸島
+FINLAND,フィンランド
+FRANCE,フランス
+FRENCH GUIANA,フランス領ギアナ
+FRENCH POLYNESIA,フランス領ポリネシア
+GABON,ガボン
+GAMBIA,ガンビア
+GEORGIA,ジョージア
+GERMANY,ドイツ
+GHANA,ガーナ
+GIBRALTAR,ジブラルタル
+GREECE,ギリシャ
+GRENADA,グレナダ
+GUADELOUPE,グアドループ
+GUAM,グアム
+GUATEMALA,グアテマラ
+GUINEA,ギニア
+GUINEA BISSAU,ギニアビサウ
+GUYANA,ガイアナ
+HAITI,ハイチ
+HONDURAS,ホンジュラス
+HONG KONG,香港
+HUNGARY,ハンガリー
+ICELAND,アイスランド
+INDIA,インド
+INDONESIA,インドネシア
+IRAN,イラン
+IRAQ,イラク
+IRELAND,アイルランド
+ISRAEL,イスラエル
+ITALY,イタリア
+IVORY COAST,コートジボワール
+JAMAICA,ジャマイカ
+JAPAN,日本
+JORDAN,ヨルダン
+KAZAKHSTAN,カザフスタン
+KENYA,ケニア
+KOSOVO,コソボ
+KUWAIT,クウェート
+KYRGYZSTAN,キルギスタン
+LAOS,ラオス
+LATVIA,ラトビア
+LEBANON,レバノン
+LESOTHO,レソト
+LIBERIA,リベリア
+LIBYA,リビア
+LIECHTENSTEIN,リヒテンシュタイン
+LITHUANIA,リトアニア
+LUXEMBOURG,ルクセンブルク
+MACAU,マカオ
+MACEDONIA,マケドニア
+MADAGASCAR,マダガスカル
+MALAWI,マラウイ
+MALAYSIA,マレーシア
+MALI,マリ
+MALTA,マルタ
+MARSHALL ISLANDS,マーシャル諸島
+MARTINIQUE,マルティニーク
+MAURITANIA,モーリタニア
+MAURITIUS,モーリシャス
+MEXICO,メキシコ
+MICRONESIA,ミクロネシア
+MOLDOVA,モルドバ
+MONACO,モナコ
+MONGOLIA,モンゴル
+MONTENEGRO,モンテネグロ
+MONTSERRAT,モントセラト
+MOROCCO,モロッコ
+MOZAMBIQUE,モザンビーク
+MYANMAR,ミャンマー
+NAMIBIA,ナミビア
+NEPAL,ネパール
+NETHERLANDS,オランダ
+NEW CALEDONIA,ニューカレドニア
+NEW ZEALAND,ニュージーランド
+NICARAGUA,ニカラグア
+NIGER,ニジェール
+NIGERIA,ナイジェリア
+NO. MARIANA ISLANDS,番号。マリアナ諸島
+NORTH KOREA,北朝鮮
+NORWAY,ノルウェー
+OMAN,オマーン
+PAKISTAN,パキスタン
+PALAU,パラオ
+PANAMA,パナマ
+PARAGUAY,パラグアイ
+PERU,ペルー
+PHILIPPINES,フィリピン
+POLAND,ポーランド
+PORTUGAL,ポルトガル
+PUERTO RICO,プエルトリコ
+QATAR,カタール
+REUNION ISLAND,レユニオン島
+ROMANIA,ルーマニア
+RUSSIAN FEDERATION,ロシア連邦
+RWANDA,ルワンダ
+SAN MARINO,サンマリノ
+SAUDI ARABIA,サウジアラビア
+SENEGAL,セネガル
+SERBIA,セルビア
+SEYCHELLES ISLANDS,セイシェル諸島
+SIERRA LEONE,シエラレオネ
+SINGAPORE,シンガポール
+SLOVAKIA,スロバキア
+SLOVENIA,スロベニア
+SOMALIA,ソマリア
+SOUTH AFRICA,南アフリカ
+SOUTH KOREA,韓国
+SOUTH SUDAN,南スーダン
+SPAIN,スペイン
+SRI LANKA,スリランカ
+ST. KITTS,ST。キット
+ST. LUCIA,ST。ルシア
+ST. MARTIN,ST。マーティン
+ST. PIERRE & MIQUELON,ST。ピエール島・ミクロン島
+ST. VINCENT,ST。ヴィンセント
+SUDAN,スーダン
+SURINAME,スリナム
+SWAZILAND,スワジランド
+SWEDEN,スウェーデン
+SWITZERLAND,スイス
+SYRIA,シリア
+TAIWAN,台湾
+TAJIKISTAN,タジキスタン
+TANZANIA,タンザニア
+THAILAND,タイ
+TRINIDAD & TOBAGO,トリニダード・トバゴ
+TUNISIA,チュニジア
+TURKEY,七面鳥
+TURKMENISTAN,トルクメニスタン
+TURKS & CAICOS ISLANDS,タークス・カイコス諸島
+UGANDA,ウガンダ
+UKRAINE,ウクライナ
+UNITED ARAB EMIRATES,アラブ首長国連邦
+UNITED KINGDOM,イギリス
+URUGUAY,ウルグアイ
+US VIRGIN ISLANDS,アメリカ領バージン諸島
+United States,アメリカ
+UZBEKISTAN,ウズベキスタン
+VENEZUELA,ベネズエラ
+VIETNAM,ベトナム
+YEMEN,イエメン
+ZAMBIA,ザンビア
+ZIMBABWE,ジンバブエ
+ASCENSION,上昇
+COOK ISLANDS,クック諸島
+EAST TIMOR,東ティモール
+FALKLAND ISLANDS,フォークランド諸島
+GREENLAND,グリーンランド
+KIRIBATI,キリバス
+MALDIVES,モルディブ
+NAURU,ナウル
+Albanian Lek,アルバニアレク
+Algerian Dinar,アルジェリアディナール
+Aluminium Ounces,アルミオンス
+Argentine Peso,アルゼンチンペソ
+Aruba Florin,アルバフロリン
+Australian Dollar,オーストラリアドル
+Bahamian Dollar,バハマドル
+Bahraini Dinar,バーレーンディナール
+Bangladesh Taka,バングラデシュタカ
+Barbados Dollar,バルバドスドル
+Belarus Ruble,ベラルーシルーブル
+Belize Dollar,ベリーズドル
+Bermuda Dollar,バミューダドル
+Bhutan Ngultrum,ブータンニュルタム
+Bolivian Boliviano,ボリビアボリビアーノ
+Brazilian Real,ブラジルレアル
+British Pound,英国ポンド
+Brunei Dollar,ブルネイドル
+Bulgarian Lev,ブルガリアレフ
+Burundi Franc,ブルンジフラン
+Cambodia Riel,カンボジアリエル
+Canadian Dollar,カナダドル
+Cayman Islands Dollar,ケイマン諸島ドル
+CFA Franc (BCEAO),CFAフラン（BCEAO）
+CFA Franc (BEAC),CFAフラン（BEAC）
+Chilean Peso,チリペソ
+Chinese Yuan,人民元
+Colombian Peso,コロンビアペソ
+Comoros Franc,コモロフラン
+Copper Ounces,銅オンス
+Costa Rica Colon,コスタリカコロン
+Croatian Kuna,クロアチアのクナ
+Cuban Peso,キューバペソ
+Cyprus Pound,キプロスポンド
+Czech Koruna,チェココルナ
+Danish Krone,デンマーククローネ
+Dijibouti Franc,ジブチフラン
+Dominican Peso,ドミニカペソ
+East Caribbean Dollar,東カリブドル
+Ecuador Sucre,エクアドルスクレ
+Egyptian Pound,エジプトポンド
+El Salvador Colon,エルサルバドルコロン
+Eritrea Nakfa,エリトリアナクファ
+Estonian Kroon,エストニアのクローン
+Ethiopian Birr,エチオピアブル
+Euro,ユーロ
+Falkland Islands Pound,フォークランド諸島ポンド
+Gambian Dalasi,ガンビアダラシ
+Ghanian Cedi,ガーナセディ
+Gibraltar Pound,ジブラルタルポンド
+Gold Ounces,ゴールドオンス
+Guatemala Quetzal,グアテマラケツァル
+Guinea Franc,ギニアフラン
+Haiti Gourde,ハイチグールド
+Honduras Lempira,ホンジュラスレンピラ
+Hong Kong Dollar,香港ドル
+Hungarian ForINT,ハンガリーフォリント
+Iceland Krona,アイスランドクローナ
+Indian Rupee,インドルピー
+Indonesian Rupiah,インドネシアルピア
+Iran Rial,イランリアル
+Israeli Shekel,イスラエルシェケル
+Jamaican Dollar,ジャマイカドル
+Japanese Yen,日本円
+Jordanian Dinar,ヨルダンディナール
+Kazakhstan Tenge,カザフスタンテンゲ
+Kenyan Shilling,ケニアシリング
+Korean Won,韓国ウォン
+Kuwaiti Dinar,クウェートディナール
+Lao Kip,ラオスキップ
+Latvian Lat,ラトビアの緯度
+Lebanese Pound,レバノンポンド
+Lesotho Loti,レソトロチ
+Libyan Dinar,リビアディナール
+Lithuanian Lita,リトアニアのリタ
+Macau Pataca,マカオパタカ
+Macedonian Denar,マケドニアデナール
+Malagasy Franc,マダガスカルフラン
+Malawi Kwacha,マラウイクワチャ
+Malaysian Ringgit,マレーシアリンギット
+Maldives Rufiyaa,モルディブルフィヤ
+Maltese Lira,マルタリラ
+Mauritania Ougulya,モーリタニアOugulya
+Mauritius Rupee,モーリシャスルピー
+Mexican Peso,メキシコペソ
+Moldovan Leu,モルドバ・レウ
+Mongolian Tugrik,モンゴルトゥグルグ
+Moroccan Dirham,モロッコディルハム
+Mozambique Metical,モザンビークメティカル
+Namibian Dollar,ナミビアドル
+Nepalese Rupee,ネパールルピー
+Neth Antilles Guilder,オランダ領アンティルギルダー
+New Turkish Lira,新トルコリラ
+New Zealand Dollar,ニュージーランドドル
+Nicaragua Cordoba,ニカラグアコルドバ
+Nigerian Naira,ナイジェリアナイラ
+Norwegian Krone,ノルウェークローネ
+Omani Rial,オマーンリアル
+Pacific Franc,パシフィックフラン
+Pakistani Rupee,パキスタンルピー
+Palladium Ounces,パラジウムオンス
+Panama Balboa,パナマバルボア
+Papua New Guinea Kina,パプアニューギニアキナ
+Paraguayan Guarani,パラグアイグアラニー
+Peruvian Nuevo Sol,ペルーヌエボソル
+Philippine Peso,フィリピンペソ
+Platinum Ounces,プラチナオンス
+Polish Zloty,ポーランドズウォティ
+Qatar Rial,カタールリアル
+Romanian Leu,ルーマニア・レウ
+Romanian New Leu,ルーマニアの新しいロイ
+Russian Rouble,ロシアルーブル
+Rwanda Franc,ルワンダフラン
+Samoa Tala,サモアタラ
+Sao Tome Dobra,サントメ・プリンシペ
+Saudi Arabian Riyal,サウジアラビアリヤル
+Seychelles Rupee,セイシェル・ルピー
+Sierra Leone Leone,シエラレオネレオン
+Silver Ounces,シルバーオンス
+Singapore Dollar,シンガポールドル
+Slovak Koruna,スロバキアコルナ
+Slovenian Tolar,スロベニアのトラール
+Somali Shilling,ソマリアシリング
+South African Rand,南アフリカランド
+Sri Lanka Rupee,スリランカルピー
+St Helena Pound,セントヘレナポンド
+Sudanese Dinar,スーダンディナール
+Surinam Guilder,スリナムギルダー
+Swaziland Lilageni,スワジランドリラゲニ
+Swedish Krona,スウェーデンクローナ
+Swiss Franc,スイスフラン
+Syrian Pound,シリアポンド
+Taiwan Dollar,台湾ドル
+Tanzanian Shilling,タンザニアシリング
+Thai Baht,タイバーツ
+Tonga Paanga,トンガパンガ
+Trinidad&Tobago Dollar,トリニダード・トバゴドル
+Tunisian Dinar,チュニジアディナール
+U.S. Dollar,米ドル
+UAE Dirham,アラブ首長国連邦ディルハム
+Ugandan Shilling,ウガンダシリング
+Ukraine Hryvnia,ウクライナグリブナ
+Uruguayan New Peso,ウルグアイニューペソ
+Vanuatu Vatu,バヌアツバツ
+Venezuelan Bolivar,ベネズエラボリバル
+Vietnam Dong,ベトナムドン
+Yemen Riyal,イエメンリアル
+Zambian Kwacha,ザンビアクワチャ
+Zimbabwe Dollar,ジンバブエドル
+Guyana Dollar,ガイアナドル
+Aruban florin,アルバフロリン
+Armenian dram,アルメニアドラム
+Azerbaijani manat,アゼルバイジャンマナト
+Barbadian dollar,バルバドスドル
+Bosnian Convertible Marka,ボスニアの兌換マルカ
+Botswana pula,ボツワナプラ
+Cape Verdean escudo,カーボベルデエスクード
+Congolese franc,コンゴフラン
+Fijian Dollar,フィジードル
+CFP franc,CFPフラン
+Georgian lari,グルジアのラリ
+Iraqi dinar,イラクディナール
+Kyrgyzstani som,キルギスソム
+Liberian dollar,リベリアドル
+Malagasy ariary,マダガスカルアリアリー
+Burmese Kyat,ビルマチャット
+North Korean won,北朝鮮が勝った
+nuevo sol,ヌエボソル
+Serbian dinar,セルビアディナール
+South Korean won,韓国ウォン
+South Sudanese pound,南スーダンポンド
+Sudanese pound,スーダンポンド
+Surinamese dollar,スリナムドル
+Tajikistani samani,タジキスタンサマニ
+Turkish lira,トルコリラ
+Turkmenistan manat,トルクメニスタンマナト
+Pound sterling,英ポンド
+Uzbekistani soʻm,ウズベキスタンソム
+Saint Helena pound,セントヘレナポンド
+Indian Rupees,インドルピー
+CLI Pool,CLIプール
+Download,ダウンロード
+TRUE,TRUE
+FALSE,FALSE
+--Select Type--,-タイプを選択-
+One Time,一度
+Recurring,繰り返し
+Recurring Monthly,毎月定期的に
+Outbound,アウトバウンド
+Default,デフォルト
+Speed Dial Number Added Successfully,短縮ダイヤル番号が正常に追加されました
+Are you sure want to confirm this invoice ? once you confirm it,この請求書を確認してもよろしいですか？確認したら
+DIDs already purchased by someone.,すでに誰かが購入したDID。
+DIDs Assigned sucessfully!,正常に割り当てられたDID！
+Something wrong.Please contact to administrator.,何か問題があります。管理者に連絡してください。
+Duplicate DID found from database,データベースから重複したDIDが見つかりました
+Account have not sufficient amount to purchase this DID.,アカウントにこのDIDを購入するのに十分な金額がありません。
+Account not found or assign to invalid account,アカウントが見つからないか、無効なアカウントに割り当てられています
+Duplicate DID found from import file.,インポートファイルから重複したDIDが見つかりました。
+DIDs Imported Successfully!,DIDが正常にインポートされました！
+Insuffiecient fund to purchase this DID.,このDIDを購入するには資金が不十分です。
+Balance Below Notification,通知を下回る残高
+Edit SIP Device,SIPデバイスの編集
+Note : Page will display only receipts and confirmed invoices.,注：ページには、領収書と確認済みの請求書のみが表示されます。
+Termination Rate Updated Successfully!,終了率が正常に更新されました！
+Import Termination Rates Using Field Mapper,フィールドマッパーを使用したインポート終了率
+Edit Roles & Permissions,役割と権限の編集
+Create Roles & Permissions,役割と権限を作成する
+Edit Admin,管理者の編集
+Pin Updated Successfully!.,ピンが正常に更新されました！。
+Create Termination Rate,終了率を作成する
+Edit Company Profile,会社概要の編集
+Website,ウェブサイト
+Generate Invoice for no usage,使用しない請求書を生成する
+Commission Repots,コミッションレポ
+Top Up,トップアップ
+Purchase DIDs,DIDを購入する
+Package,パッケージ
+Setup,セットアップ
+DID Purchased Successfully.,DIDは正常に購入されました。
+release,リリース
+DID Batch Updated Successfully!,DIDバッチが正常に更新されました！
+DID forwading set sucessfully!,セットの無効化に成功しました！
+Are you sure want to release DID?,DIDをリリースしてもよろしいですか？
+Please select atleast one record,少なくとも1つのレコードを選択してください
+Account Balance,勘定残高
+Next Bill Date,次の請求日
+TOTAL AMOUNT,合計金額
+Invoice,請求書
+IP Address,IPアドレス
+Terminate,終了する
+Seconds,秒
+Recording,録音
+Rates,料金
+Paid,有料
+No Records,記録なし
+Please select from date,日付から選択してください
+Please select to date,現在までに選択してください
+Please select to date bigger than from date,開始日よりも大きい日付を選択してください
+Confirm,確認
+Edit Country,国を編集
+Skip Header,ヘッダーをスキップ
+Origination_rate_error,Origination_rate_error
+Termination_rate_error,Termination_rate_error
+Termination_Rates,Termination_Rates
+Origination_Rates,Origination_Rates
+refill_coupon,refill_coupon
+Edit Reseller,リセラーの編集
+Edit Calltype,コールタイプの編集
+updated successfully!,更新成功！
+added successfully!,正常に追加されました！
+Invoice generation completed .,請求書の生成が完了しました。
+NOTE,注意
+No data found.,何もデータが見つかりませんでした。
+Added successfully!,正常に追加されました！
+DID added successfully!,DIDが正常に追加されました！
+DID updated successfully!,DIDは正常に更新されました！
+File must be in the following format(.csv):,ファイルは次の形式（.csv）である必要があります。
+Process,処理する
+DID Import Error,DIDインポートエラー
+Records Imported Successfully,正常にインポートされたレコード
+Records Not Imported,インポートされないレコード
+Back to DID List,DIDリストに戻る
+DID Batch Updated Successfully!,DIDバッチが正常に更新されました！
+Accessnumber Added Successfully!,アクセス番号が正常に追加されました！
+Process,処理する
+Accessnumber Import Error,アクセス番号のインポートエラー
+DIDs Assigned sucessfully!,正常に割り当てられたDID！
+Origination Rates Preview,オリジネーションレートプレビュー
+Origination Rates Import Error,オリジネーションレートのインポートエラー
+Back to Origination Rates List,オリジネーションレートリストに戻る
+Origination Rates Batch Updated Successfully!,オリジネーションレートのバッチ更新に成功しました！
+Import Ratedeck Preview,Ratedeckプレビューのインポート
+CALLTYPE,CALLTYPE
+Edit Calltype,コールタイプの編集
+Outbound-Proxy,アウトバウンドプロキシ
+Edit Trunk,トランクの編集
+Termination Rate Added Successfully!,終了率が正常に追加されました！
+Edit Termination Rate,終了率の編集
+Termination Rates Import Error,終了率のインポートエラー
+Termination Rates Imported Successfully!,正常にインポートされた終了率！
+Back to Origination Rates List,オリジネーションレートリストに戻る
+Select,選択する
+pattern,パターン
+comment,コメント
+connectcost,接続コスト
+includedseconds,含まれる秒
+init_inc,init_inc
+inc,株式会社
+prepend,付加
+cost ,費用
+strip,ストリップ
+DID added successfully!,DIDが正常に追加されました！
+DID updated successfully!,DIDは正常に更新されました！
+Country Name,国の名前
+PAID,有料
+PENDING,保留中
+FAIL,不合格
+ORDER,注文
+payment method,支払方法
+Terminate Order,注文を終了する
+Compose Email,Eメールの作成
+Message,メッセージ
+Send,送信
+SIP Port is Required.,SIPポートが必要です。
+Start,開始
+SIP Port is Required.,SIPポートが必要です。
+SIP IP is Required.,SIPIPが必要です。
+Name is Required.,名前は必須です。
+The SIP Port field is Required.,SIPポートフィールドは必須です。
+The SIP Port field must contain only numbers.,SIPポートフィールドには数字のみを含める必要があります。
+The SIP Port field can not exceed 5 characters in length.,SIPポートフィールドの長さは5文字を超えることはできません。
+Value is Required.,値が要求されます。
+Value,値
+Update Setting,設定の更新
+Add Setting,設定を追加
+Edit Freeswitch Server,Freeswitchサーバーの編集
+CUT,切る
+ADD,追加
+Edit Localization,ローカリゼーションの編集
+Callbarring Settings Added Successfully!,コールバーリング設定が正常に追加されました！
+Edit Call Barring,通話制限の編集
+Callbarring Settings Updated Successfully!,コールバーリング設定が正常に更新されました！
+The Name field is required.,[名前]フィールドは必須です。
+Please select file.,ファイルを選択してください。
+Database import allows only gzfile types of file.,データベースのインポートでは、gzfileタイプのファイルのみが許可されます。
+File must be in (.gz) format :,ファイルは（.gz）形式である必要があります：
+The Coupon Number field must contain only numbers.,[クーポン番号]フィールドには、番号のみを含める必要があります。
+The Coupon Number field have inactive refill coupon.,[クーポン番号]フィールドには、非アクティブな補充クーポンがあります。
+This Coupon Number is already in use.,このクーポン番号はすでに使用されています。
+This Coupon Number is not found.,このクーポン番号が見つかりません。
+The Coupon Number field is required.,クーポン番号フィールドは必須です。
+Select Customer.,[顧客]を選択します。
+Please enter your email,あなたのメールアドレスを入力してください
+Please enter proper email,適切なメールアドレスを入力してください
+The Caller ID field is required.,発信者IDフィールドは必須です。
+Please enter your password,パスワードを入力してください
+Please enter your first name,名を入力してください
+Please enter your email,あなたのメールアドレスを入力してください
+This field is require,このフィールドは必須です
+The IP field must contain a unique value.,IPフィールドには一意の値が含まれている必要があります。
+The Name field is required.,[名前]フィールドは必須です。
+The IP field is required.,IPフィールドは必須です。
+Please Enter Valid Account Number,有効な口座番号を入力してください
+Main,メイン
+--Select Disposition--,-処分を選択-
+Group By #time,#timeでグループ化
+Active User,アクティブユーザー
+Used Minutes,使用済み議事録
+Available Minutes,利用可能な分
+Total Price,合計金額
+Total User,総ユーザー数
+Resend Mail,メールを再送する
+Restore,戻す
+View Details,詳細を見る
+Other,その他
+Edit Tax,税金の編集
+Edit Country,国を編集
+Download Database,データベースのダウンロード
+Import Database,データベースのインポート
+File must be in (.gz) format,ファイルは（.gz）形式である必要があります
+ Please select file., ファイルを選択してください。
+Please enter name and select file.,名前を入力してファイルを選択してください。
+Edit Cron Settings,cron設定の編集
+Global Settings updated sucessfully!,グローバル設定が正常に更新されました！
+Alert Notifications,アラート通知
+Fraud Configuration,不正の構成
+Configuration add,構成の追加
+Alarm Configuration,アラーム設定
+Please select atleast one pattern.,少なくとも1つのパターンを選択してください。
+Problem In Add Patterns to account.,アカウントにパターンを追加する際の問題。
+Blocked Codes,ブロックされたコード
+The IP field must contain a unique value.,IPフィールドには一意の値が含まれている必要があります。
+The IP field is required.,IPフィールドは必須です。
+Please Enter Switch command,スイッチコマンドを入力してください
+are you sure to delete?,削除してもよろしいですか？
+Are you sure want to confirm this invoice ? once you confirm it,この請求書を確認してもよろしいですか？確認したら
+can not able to edit invoice again.,請求書を再度編集することはできません。
+Maximum Logo upload size is 1MB,ロゴの最大アップロードサイズは1MBです
+Profit per day,1日あたりの利益
+Please enter number,番号を入力してください
+Import Customer,顧客のインポート
+Processing,処理
+please wait,お待ちください
+U.S. Dollar (USD),米ドル（USD）
+Account Number,口座番号
+Selected records has been deleted.,選択したレコードが削除されました。
+Processing,処理
+Invoice Due Date,請求書の期日
+This month credits,今月のクレジット
+Product & Services,製品とサービス
+Total Calls Amount,総通話量
+Total Amount (Inc. tax),合計金額（税込）
+Bill To,請求書送付先
+Subtotal,小計
+Emails,メール
+Add IP Settings,IP設定を追加する
+Edit IP Settings,IP設定の編集
+Edit Caller ID,発信者IDを編集する
+Reseller Type,リセラータイプ
+Distributor,ディストリビューター
+Commission Based,手数料ベース
+Invoice Date Interval,請求書の日付間隔
+Please select atleast one record to delete.,削除するレコードを少なくとも1つ選択してください。
+Are you sure you want to delete? This action will delete all other data which belongs to this account(s).,消去してもよろしいですか？このアクションにより、このアカウントに属する他のすべてのデータが削除されます。
+Days to Unhold,保留を解除する日数
+DID,した
+Access Numbers,アクセス番号
+Create Duplicate Rate Group,重複レートグループの作成
+Connection,接続
+Effective Date,発効日
+Effective Date Time,発効日時
+Effective From Date,発効日
+Effective To Date,現在まで有効
+Edit Ratedeck,Ratedeckを編集する
+Routing,ルーティング
+Initial,初期
+Edit Rate Group,レートグループの編集
+Effective,効果的
+Begin zone,開始ゾーン
+Nothing selected,何も選択されていません
+Please check your customers calls are running or not if running then may be customer balance goes in nagative!,顧客の通話が実行されているかどうかを確認してください。実行されている場合は、顧客の残高がマイナスになる可能性があります。
+Stop,やめる
+Reload,リロード
+Rescan,再スキャン
+Template(regexp),テンプレート（正規表現）
+Destination Based CallerId,宛先ベースのCallerId
+Provider Summary,プロバイダーの概要
+Notification History,通知履歴
+Are you sure you want to delete?,消去してもよろしいですか？
+Address1,住所（1
+ (250 * 60),  （250 * 60）
+" (Allowed Extensions JPG, PNG, JPEG)",  （許可されている拡張子JPG、PNG、JPEG）
+ (16 * 16),  （16 * 16）
+" (Allowed Extensions ICO, PNG, JPG, JPEG)",  （許可される拡張機能ICO、PNG、JPG、JPEG）
+SMTP Email Test,SMTP電子メールテスト
+Email Body,メール本文
+Alert Body,アラートボディ
+Are you sure want to restore this database?,このデータベースを復元してもよろしいですか？
+Forwarding,フォワーディング
+DID-Local,DID-ローカル
+DID@IP/URL,DID @ IP / URL
+Direct-IP,ダイレクトIP
+PSTN,ピストン
+SIP-DID,SIP-DID
+Edit Access number,アクセス番号の編集
+Realm,レルム
+Reg-Transport,Reg-Transport
+Gateway,ゲートウェイ
+Failover,フェイルオーバー
+GW Name #1,GW名＃1
+GW Name #2,GW名＃2
+Count,カウント
+Rate Type,レートタイプ
+Refill,詰め替え
+Full Price,全額
+Max. Days,最大 日々
+Max. Minute,最大 分
+Both of one Maximum,1つの最大値の両方
+Both,どちらも
+Are you sure you want to delete this selected records?,この選択したレコードを削除してもよろしいですか？
+Please check your customers calls are running or not. if running then may be customer balance goes in nagative!,顧客の通話が実行されているかどうかを確認してください。 実行している場合は、顧客のバランスが悪くなる可能性があります！
+ESTONIA,エストニア
+CLI,CLI
+STANDARD,標準
+CALLINGCARD,テレフォンカード
+FREE,自由
+LOCAL,地元
+Resand Email,Resandメール
+Sent,送信済み
+Failed,失敗しました
+Resent Email,再送メール
+Org.,組織
+Pefix,Pefix
+Term.,期間。
+GMT Offset,GMTオフセット
+Add Timezone,タイムゾーンを追加
+Timezone List,タイムゾーンリスト
+Edit Timezone,タイムゾーンの編集
+Folder Path,フォルダパス
+Custom Rule,カスタムルール
+Account Number Editable,アカウント番号編集可能
+Packages,パッケージ
+Terms & Condition,利用規約
+Play Audio Notifications,音声通知を再生する
+Sort cost based routing,コストベースのルーティングを並べ替える
+Half Year,半年
+Open a Ticket,チケットを開く
+Licence,ライセンス
+DID Reservation Days,DID予約日
+DID Reservation,DID予約
+Term_and_condition,取引条件
+Text,テキスト
+Url,URL
+Generated,生成された
+Customer_permission,顧客の許可
+Resend Email,メールを再送
+Create Translation Languages,翻訳言語を作成する
+Edit Translation Language,翻訳言語の編集
+Module Name,モジュール名
+English,英語
+French,フランス語
+Chinese,中国語
+German,ドイツ人
+Greek,ギリシャ語
+Italian,イタリアの
+Japanese,日本人
+Portuguese,ポルトガル語
+Romanian,ルーマニア語
+Russian,ロシア
+Spanish,スペイン語
+Both (Email & SMS),両方（メールとSMS）
+Account Notification,アカウント通知
+Use Same Credential For Invoice Config,請求書構成に同じ資格情報を使用する
+Registration URL,登録URL
+Admin_permission,Admin_permission
+My Order,私の注文
+please select any recharge amount,再充電量を選択してください
+Todays Calls,今日の電話
+Are you sure want to delete speed dial record?,短縮ダイヤルレコードを削除してもよろしいですか？
+Buy DIDs,DIDを購入する
+Purchased DID,購入したDID
+DID Information,DID情報
+Sell Cost,販売費
+Admin Rate Group,管理者レートグループ
+Copy From Rate Group,レートグループからコピー
+Search My Rates,マイレートを検索
+Read/Write,読み書き
+Edit SIP Devices,SIPデバイスの編集
+Inextrix Technologies Pvt. Ltd All Rights Reserved.,Inextrix TechnologiesPvt。 Ltd All RightsReserved。
+iNextrix Technologies Pvt. Ltd.,iNextrix TechnologiesPvt。 株式会社
+Bal,玉
+Europe/Andorra,ヨーロッパ/アンドラ
+Asia/Dubai,アジア/ドバイ
+Asia/Kabul,アジア/カブール
+America/Antigua,アメリカ/アンティグア
+America/Anguilla,アメリカ/アンギラ
+Europe/Tirane,ヨーロッパ/ティラナ
+Asia/Yerevan,アジア/エレバン
+Africa/Luanda,アフリカ/ルアンダ
+Antarctica/Casey,南極/ケイシー
+Antarctica/Davis,南極/デイビス
+Antarctica/DumontDUrville,南極/デュモンダービル
+Antarctica/Mawson,南極/モーソン
+Antarctica/McMurdo,南極/マクマード
+Antarctica/Palmer,南極/パーマー
+Antarctica/Rothera,南極/ロセラ
+Antarctica/Syowa,南極/昭和基地
+Antarctica/Troll,南極/トロール
+Antarctica/Vostok,南極/ボストーク
+America/Argentina/Buenos_Aires,アメリカ/アルゼンチン/ブエノスアイレス
+America/Argentina/Catamarca,アメリカ/アルゼンチン/カタマルカ
+America/Argentina/Cordoba,アメリカ/アルゼンチン/コルドバ
+America/Argentina/Jujuy,アメリカ/アルゼンチン/フフイ
+America/Argentina/La_Rioja,アメリカ/アルゼンチン/ La_Rioja
+America/Argentina/Mendoza,アメリカ/アルゼンチン/メンドーサ
+America/Argentina/Rio_Gallegos,アメリカ/アルゼンチン/リオガレゴス
+America/Argentina/Salta,アメリカ/アルゼンチン/サルタ
+America/Argentina/San_Juan,アメリカ/アルゼンチン/ San_Juan
+America/Argentina/San_Luis,アメリカ/アルゼンチン/ San_Luis
+America/Argentina/Tucuman,アメリカ/アルゼンチン/トゥクマン
+America/Argentina/Ushuaia,アメリカ/アルゼンチン/ウシュアイア
+Pacific/Pago_Pago,パゴパゴ/パゴパゴ
+Europe/Vienna,ヨーロッパ/ウィーン
+Antarctica/Macquarie,南極/マッコーリー
+Australia/Adelaide,オーストラリア/アデレード
+Australia/Brisbane,オーストラリア/ブリスベン
+Australia/Broken_Hill,オーストラリア/ Broken_Hill
+Australia/Currie,オーストラリア/カリー
+Australia/Darwin,オーストラリア/ダーウィン
+Australia/Eucla,オーストラリア/ユークラ
+Australia/Hobart,オーストラリア/ホバート
+Australia/Lindeman,オーストラリア/リンデマン
+Australia/Lord_Howe,オーストラリア/ Lord_Howe
+Australia/Melbourne,オーストラリア/メルボルン
+Australia/Perth,オーストラリア/パース
+Australia/Sydney,オーストラリア/シドニー
+America/Aruba,アメリカ/アルバ
+Europe/Mariehamn,ヨーロッパ/マリハムン
+Asia/Baku,アジア/バクー
+Europe/Sarajevo,ヨーロッパ/サラエボ
+America/Barbados,アメリカ/バルバドス
+Asia/Dhaka,アジア/ダッカ
+Europe/Brussels,ヨーロッパ/ブリュッセル
+Africa/Ouagadougou,アフリカ/ワガドゥグー
+Europe/Sofia,ヨーロッパ/ソフィア
+Asia/Bahrain,アジア/バーレーン
+Africa/Bujumbura,アフリカ/ブジュンブラ
+Africa/Porto-Novo,アフリカ/ポルトノボ
+America/St_Barthelemy,アメリカ/ St_Barthelemy
+Atlantic/Bermuda,大西洋/バミューダ
+Asia/Brunei,アジア/ブルネイ
+America/La_Paz,アメリカ/ La_Paz
+America/Kralendijk,アメリカ/クラレンデイク
+America/Araguaina,アメリカ/アラグァイーナ
+America/Bahia,アメリカ/バイーア
+America/Belem,アメリカ/ベレム
+America/Boa_Vista,アメリカ/ Boa_Vista
+America/Campo_Grande,アメリカ/ Campo_Grande
+America/Cuiaba,アメリカ/クイアバ
+America/Eirunepe,アメリカ/エイルネペ
+America/Fortaleza,アメリカ/フォルタレザ
+America/Maceio,アメリカ/マセイオ
+America/Manaus,アメリカ/マナウス
+America/Noronha,アメリカ/ノローニャ
+America/Porto_Velho,アメリカ/ポルトヴェーリョ
+America/Recife,アメリカ/レシフェ
+America/Rio_Branco,アメリカ/ Rio_Branco
+America/Santarem,アメリカ/サンタレン
+America/Sao_Paulo,アメリカ/サンパウロ
+America/Nassau,アメリカ/ナッソー
+Asia/Thimphu,アジア/ティンプー
+Africa/Gaborone,アフリカ/ハボローネ
+Europe/Minsk,ヨーロッパ/ミンスク
+America/Belize,アメリカ/ベリーズ
+America/Atikokan,アメリカ/アティコーカン
+America/Blanc-Sablon,アメリカ/ブランサブロン
+America/Cambridge_Bay,アメリカ/ケンブリッジベイ
+America/Creston,アメリカ/クレストン
+America/Dawson,アメリカ/ドーソン
+America/Dawson_Creek,アメリカ/ドーソンクリーク
+America/Edmonton,アメリカ/エドモントン
+America/Fort_Nelson,アメリカ/フォートネルソン
+America/Glace_Bay,アメリカ/ Glace_Bay
+America/Goose_Bay,アメリカ/グースベイ
+America/Halifax,アメリカ/ハリファックス
+America/Inuvik,アメリカ/イヌビク
+America/Iqaluit,アメリカ/イカルイト
+America/Moncton,アメリカ/モンクトン
+America/Nipigon,アメリカ/ニピゴン
+America/Pangnirtung,アメリカ/パングナータング
+America/Rainy_River,アメリカ/ Rainy_River
+America/Rankin_Inlet,アメリカ/ Rankin_Inlet
+America/Regina,アメリカ/レジーナ
+America/Resolute,アメリカ/毅然とした
+America/St_Johns,アメリカ/セントジョンズ
+America/Swift_Current,アメリカ/ Swift_Current
+America/Thunder_Bay,アメリカ/サンダーベイ
+America/Toronto,アメリカ/トロント
+America/Vancouver,アメリカ/バンクーバー
+America/Whitehorse,アメリカ/ホワイトホース
+America/Winnipeg,アメリカ/ウィニペグ
+America/Yellowknife,アメリカ/イエローナイフ
+Indian/Cocos,インド/ココス
+Africa/Kinshasa,アフリカ/キンシャサ
+Africa/Lubumbashi,アフリカ/ルブンバシ
+Africa/Bangui,アフリカ/バンギ
+Africa/Brazzaville,アフリカ/ブラザビル
+Europe/Zurich,ヨーロッパ/チューリッヒ
+Africa/Abidjan,アフリカ/アビジャン
+Pacific/Rarotonga,パシフィック/ラロトンガ
+America/Punta_Arenas,アメリカ/プンタアレナス
+America/Santiago,アメリカ/サンティアゴ
+Pacific/Easter,太平洋/東
+Africa/Douala,アフリカ/ドゥアラ
+Asia/Shanghai,アジア/上海
+Asia/Urumqi,アジア/ウルムチ
+America/Bogota,アメリカ/ボゴタ
+America/Costa_Rica,アメリカ/コスタリカ
+America/Havana,アメリカ/ハバナ
+Atlantic/Cape_Verde,大西洋/カーボベルデ
+America/Curacao,アメリカ/キュラソー
+Indian/Christmas,インド/クリスマス
+Asia/Famagusta,アジア/ファマグスタ
+Asia/Nicosia,アジア/ニコシア
+Europe/Prague,ヨーロッパ/プラハ
+Europe/Berlin,ヨーロッパ/ベルリン
+Europe/Busingen,ヨーロッパ/ビュージンゲン
+Africa/Djibouti,アフリカ/ジブチ
+Europe/Copenhagen,ヨーロッパ/コペンハーゲン
+America/Dominica,アメリカ/ドミニカ
+America/Santo_Domingo,アメリカ/サントドミンゴ
+Africa/Algiers,アフリカ/アルジェ
+America/Guayaquil,アメリカ/グアヤキル
+Pacific/Galapagos,太平洋/ガラパゴス
+Europe/Tallinn,ヨーロッパ/タリン
+Africa/Cairo,アフリカ/カイロ
+Africa/El_Aaiun,アフリカ/ El_Aaiun
+Africa/Asmara,アフリカ/アスマラ
+Africa/Ceuta,アフリカ/セウタ
+Atlantic/Canary,大西洋/カナリア
+Europe/Madrid,ヨーロッパ/マドリード
+Africa/Addis_Ababa,アフリカ/アディスアベバ
+Europe/Helsinki,ヨーロッパ/ヘルシンキ
+Pacific/Fiji,パシフィック/フィジー
+Atlantic/Stanley,アトランティック/スタンリー
+Pacific/Chuuk,パシフィック/チュウク
+Pacific/Kosrae,パシフィック/コスラエ
+Pacific/Pohnpei,パシフィック/ポンペイ
+Atlantic/Faroe,大西洋/フェロー
+Europe/Paris,ヨーロッパ/パリ
+Africa/Libreville,アフリカ/リーブルビル
+Europe/London,ヨーロッパ/ロンドン
+America/Grenada,アメリカ/グレナダ
+Asia/Tbilisi,アジア/トビリシ
+America/Cayenne,アメリカ/カイエン
+Europe/Guernsey,ヨーロッパ/ガーンジー
+Africa/Accra,アフリカ/アクラ
+Europe/Gibraltar,ヨーロッパ/ジブラルタル
+America/Danmarkshavn,アメリカ/デンマークシャウン
+America/Nuuk,アメリカ/ヌーク
+America/Scoresbysund,アメリカ/スコアスビスンド
+America/Thule,アメリカ/チューレ
+Africa/Banjul,アフリカ/バンジュル
+Africa/Conakry,アフリカ/コナクリ
+America/Guadeloupe,アメリカ/グアドループ
+Africa/Malabo,アフリカ/マラボ
+Europe/Athens,ヨーロッパ/アテネ
+Atlantic/South_Georgia,大西洋/南ジョージア
+America/Guatemala,アメリカ/グアテマラ
+Pacific/Guam,パシフィック/グアム
+Africa/Bissau,アフリカ/ビサウ
+America/Guyana,アメリカ/ガイアナ
+Asia/Hong_Kong,アジア/ Hong_Kong
+America/Tegucigalpa,アメリカ/テグシガルパ
+Europe/Zagreb,ヨーロッパ/ザグレブ
+America/Port-au-Prince,アメリカ/ポルトープランス
+Europe/Budapest,ヨーロッパ/ブダペスト
+Asia/Jakarta,アジア/ジャカルタ
+Asia/Jayapura,アジア/ジャヤプラ
+Asia/Makassar,アジア/マカッサル
+Asia/Pontianak,アジア/ポンティアナック
+Europe/Dublin,ヨーロッパ/ダブリン
+Asia/Jerusalem,アジア/エルサレム
+Europe/Isle_of_Man,ヨーロッパ/ Isle_of_Man
+Asia/Kolkata,アジア/コルカタ
+Indian/Chagos,インド/チャゴス
+Asia/Baghdad,アジア/バグダッド
+Asia/Tehran,アジア/テヘラン
+Atlantic/Reykjavik,大西洋/レイキャビク
+Europe/Rome,ヨーロッパ/ローマ
+Europe/Jersey,ヨーロッパ/ジャージー
+America/Jamaica,アメリカ/ジャマイカ
+Asia/Amman,アジア/アンマン
+Asia/Tokyo,アジア/東京
+Africa/Nairobi,アフリカ/ナイロビ
+Asia/Bishkek,アジア/ビシュケク
+Asia/Phnom_Penh,アジア/プノンペン
+Pacific/Enderbury,パシフィック/エンダーベリー
+Pacific/Kiritimati,パシフィック/キリティマティ
+Pacific/Tarawa,パシフィック/タラワ
+Indian/Comoro,インド/コモロ
+America/St_Kitts,アメリカ/セントキッツ
+Asia/Pyongyang,アジア/平壌
+Asia/Seoul,アジア/ソウル
+Asia/Kuwait,アジア/クウェート
+America/Cayman,アメリカ/ケイマン
+Asia/Almaty,アジア/アルマトイ
+Asia/Aqtau,アジア/アクタウ
+Asia/Aqtobe,アジア/アクトベ
+Asia/Atyrau,アジア/アティラウ
+Asia/Oral,アジア/オーラル
+Asia/Qostanay,アジア/コスタナイ
+Asia/Qyzylorda,アジア/クズロルダ
+Asia/Vientiane,アジア/ビエンチャン
+Asia/Beirut,アジア/ベイルート
+America/St_Lucia,アメリカ/セントルシア
+Europe/Vaduz,ヨーロッパ/ファドゥーツ
+Asia/Colombo,アジア/コロンボ
+Africa/Monrovia,アフリカ/モンロビア
+Africa/Maseru,アフリカ/マセル
+Europe/Vilnius,ヨーロッパ/ビリニュス
+Europe/Luxembourg,ヨーロッパ/ルクセンブルグ
+Europe/Riga,ヨーロッパ/リガ
+Africa/Tripoli,アフリカ/トリポリ
+Africa/Casablanca,アフリカ/カサブランカ
+Europe/Monaco,ヨーロッパ/モナコ
+Europe/Chisinau,ヨーロッパ/キシナウ
+Europe/Podgorica,ヨーロッパ/ポドゴリツァ
+America/Marigot,アメリカ/マリゴ
+Indian/Antananarivo,インド/アンタナナリボ
+Pacific/Kwajalein,パシフィック/クェゼリン
+Pacific/Majuro,パシフィック/マジュロ
+Europe/Skopje,ヨーロッパ/スコピエ
+Africa/Bamako,アフリカ/バマコ
+Asia/Yangon,アジア/ヤンゴン
+Asia/Choibalsan,アジア/チョイバルサン
+Asia/Hovd,アジア/ホブド
+Asia/Ulaanbaatar,アジア/ウランバートル
+Asia/Macau,アジア/マカオ
+Pacific/Saipan,パシフィック/サイパン
+America/Martinique,アメリカ/マルティニーク
+Africa/Nouakchott,アフリカ/ヌアクショット
+America/Montserrat,アメリカ/モントセラト
+Europe/Malta,ヨーロッパ/マルタ
+Indian/Mauritius,インド/モーリシャス
+Indian/Maldives,インド/モルディブ
+Africa/Blantyre,アフリカ/ブランタイア
+America/Bahia_Banderas,アメリカ/バイア_バンデラス
+America/Cancun,アメリカ/カンクン
+America/Chihuahua,アメリカ/チワワ
+America/Hermosillo,アメリカ/エルモシヨ
+America/Matamoros,アメリカ/マタモロス
+America/Mazatlan,アメリカ/マサトラン
+America/Merida,アメリカ/メリダ
+America/Mexico_City,アメリカ/メキシコシティ
+America/Monterrey,アメリカ/モンテレイ
+America/Ojinaga,アメリカ/オヒナガ
+America/Tijuana,アメリカ/ティファナ
+Asia/Kuala_Lumpur,アジア/クアラルンプール
+Asia/Kuching,アジア/クチン
+Africa/Maputo,アフリカ/マプト
+Africa/Windhoek,アフリカ/ウィントフック
+Pacific/Noumea,パシフィック/ヌメア
+Africa/Niamey,アフリカ/ニアメ
+Pacific/Norfolk,パシフィック/ノーフォーク
+Africa/Lagos,アフリカ/ラゴス
+America/Managua,アメリカ/マナグア
+Europe/Amsterdam,ヨーロッパ/アムステルダム
+Europe/Oslo,ヨーロッパ/オスロ
+Asia/Kathmandu,アジア/カトマンズ
+Pacific/Nauru,パシフィック/ナウル
+Pacific/Niue,パシフィック/ニウエ
+Pacific/Auckland,パシフィック/オークランド
+Pacific/Chatham,パシフィック/チャタム
+Asia/Muscat,アジア/マスカット
+America/Panama,アメリカ/パナマ
+America/Lima,アメリカ/リマ
+Pacific/Gambier,パシフィック/ガンビア
+Pacific/Marquesas,パシフィック/マルケサス
+Pacific/Tahiti,パシフィック/タヒチ
+Pacific/Bougainville,パシフィック/ブーゲンビル
+Pacific/Port_Moresby,パシフィック/ポートモレスビー
+Asia/Manila,アジア/マニラ
+Asia/Karachi,アジア/カラチ
+Europe/Warsaw,ヨーロッパ/ワルシャワ
+America/Miquelon,アメリカ/ミクロン島
+Pacific/Pitcairn,パシフィック/ピトケアン
+America/Puerto_Rico,アメリカ/プエルトリコ
+Asia/Gaza,アジア/ガザ
+Asia/Hebron,アジア/ヘブロン
+Atlantic/Azores,大西洋/アゾレス
+Atlantic/Madeira,大西洋/マデイラ
+Europe/Lisbon,ヨーロッパ/リスボン
+Pacific/Palau,パシフィック/パラオ
+America/Asuncion,アメリカ/アスンシオン
+Asia/Qatar,アジア/カタール
+Indian/Reunion,インド/レユニオン
+Europe/Bucharest,ヨーロッパ/ブカレスト
+Europe/Belgrade,ヨーロッパ/ベオグラード
+Asia/Anadyr,アジア/アナディル
+Asia/Barnaul,アジア/バルナウル
+Asia/Chita,アジア/チタ
+Asia/Irkutsk,アジア/イルクーツク
+Asia/Kamchatka,アジア/カムチャツカ
+Asia/Khandyga,アジア/ハンドゥイガ
+Asia/Krasnoyarsk,アジア/クラスノヤルスク
+Asia/Magadan,アジア/マガダン
+Asia/Novokuznetsk,アジア/ノボクズネツク
+Asia/Novosibirsk,アジア/ノボシビルスク
+Asia/Omsk,アジア/オムスク
+Asia/Sakhalin,アジア/サハリン
+Asia/Srednekolymsk,アジア/スレドネコリムスク
+Asia/Tomsk,アジア/トムスク
+Asia/Ust-Nera,アジア/ウスチネラ
+Asia/Vladivostok,アジア/ウラジオストク
+Asia/Yakutsk,アジア/ヤクーツク
+Asia/Yekaterinburg,アジア/エカテリンブルク
+Europe/Astrakhan,ヨーロッパ/アストラハン
+Europe/Kaliningrad,ヨーロッパ/カリーニングラード
+Europe/Kirov,ヨーロッパ/キロフ
+Europe/Moscow,ヨーロッパ/モスクワ
+Europe/Samara,ヨーロッパ/サマラ
+Europe/Saratov,ヨーロッパ/サラトフ
+Europe/Ulyanovsk,ヨーロッパ/ウリヤノフスク
+Europe/Volgograd,ヨーロッパ/ヴォルゴグラード
+Africa/Kigali,アフリカ/キガリ
+Asia/Riyadh,アジア/リヤド
+Pacific/Guadalcanal,太平洋/ガダルカナル
+Indian/Mahe,インド/マエ
+Africa/Khartoum,アフリカ/ハルツーム
+Europe/Stockholm,ヨーロッパ/ストックホルム
+Asia/Singapore,アジア/シンガポール
+Atlantic/St_Helena,大西洋/セントヘレナ
+Europe/Ljubljana,ヨーロッパ/リュブリャナ
+Arctic/Longyearbyen,北極/ロングイェールビーン
+Europe/Bratislava,ヨーロッパ/ブラチスラバ
+Africa/Freetown,アフリカ/フリータウン
+Europe/San_Marino,ヨーロッパ/サンマリノ
+Africa/Dakar,アフリカ/ダカール
+Africa/Mogadishu,アフリカ/モガディシュ
+America/Paramaribo,アメリカ/パラマリボ
+Africa/Juba,アフリカ/ジュバ
+Africa/Sao_Tome,アフリカ/ Sao_Tome
+America/El_Salvador,アメリカ/エルサルバドル
+America/Lower_Princes,アメリカ/ Lower_Princes
+Asia/Damascus,アジア/ダマスカス
+Africa/Mbabane,アフリカ/ムババネ
+America/Grand_Turk,アメリカ/ Grand_Turk
+Africa/Ndjamena,アフリカ/ンジャメナ
+Indian/Kerguelen,インド/ケルゲレン
+Africa/Lome,アフリカ/ロメ
+Asia/Bangkok,アジア/バンコク
+Asia/Dushanbe,アジア/ドゥシャンベ
+Pacific/Fakaofo,パシフィック/ファカオフォ
+Asia/Dili,アジア/ディリ
+Asia/Ashgabat,アジア/アシガバート
+Africa/Tunis,アフリカ/チュニジア
+Pacific/Tongatapu,パシフィック/トンガタプ
+Europe/Istanbul,ヨーロッパ/イスタンブール
+America/Port_of_Spain,アメリカ/ポートオブスペイン
+Pacific/Funafuti,パシフィック/フナフティ
+Asia/Taipei,アジア/台北
+Africa/Dar_es_Salaam,アフリカ/ダルエスサラーム
+Europe/Kiev,ヨーロッパ/キエフ
+Europe/Simferopol,ヨーロッパ/シンフェロポリ
+Europe/Uzhgorod,ヨーロッパ/ウジゴロド
+Europe/Zaporozhye,ヨーロッパ/ザポリージャ
+Africa/Kampala,アフリカ/カンパラ
+Pacific/Midway,パシフィック/ミッドウェー
+Pacific/Wake,パシフィック/ウェイク
+America/Adak,アメリカ/アダック
+America/Anchorage,アメリカ/アンカレッジ
+America/Boise,アメリカ/ボイジー
+America/Chicago,アメリカ/シカゴ
+America/Denver,アメリカ/デンバー
+America/Detroit,アメリカ/デトロイト
+America/Indiana/Indianapolis,アメリカ/インディアナ/インディアナポリス
+America/Indiana/Knox,アメリカ/インディアナ/ノックス
+America/Indiana/Marengo,アメリカ/インディアナ/マレンゴ
+America/Indiana/Petersburg,アメリカ/インディアナ/ピーターズバーグ
+America/Indiana/Tell_City,アメリカ/インディアナ/ Tell_City
+America/Indiana/Vevay,アメリカ/インディアナ/ベベイ
+America/Indiana/Vincennes,アメリカ/インディアナ/ビンセンズ
+America/Indiana/Winamac,アメリカ/インディアナ/ウィナマク
+America/Juneau,アメリカ/ジュノー
+America/Kentucky/Louisville,アメリカ/ケンタッキー/ルイビル
+America/Kentucky/Monticello,アメリカ/ケンタッキー/モンティセロ
+America/Los_Angeles,アメリカ/ Los_Angeles
+America/Menominee,アメリカ/メノミニー
+America/Metlakatla,アメリカ/メトラカットラ
+America/New_York,アメリカ/ニューヨーク
+America/Nome,アメリカ/ノーム
+America/North_Dakota/Beulah,アメリカ/ノースダコタ/ビューラー
+America/North_Dakota/Center,アメリカ/ノースダコタ/センター
+America/North_Dakota/New_Salem,アメリカ/ノースダコタ/ニューセーラム
+America/Phoenix,アメリカ/フェニックス
+America/Sitka,アメリカ/シトカ
+America/Yakutat,アメリカ/ヤクタット
+Pacific/Honolulu,太平洋/ホノルル
+America/Montevideo,アメリカ/モンテビデオ
+Asia/Samarkand,アジア/サマルカンド
+Asia/Tashkent,アジア/タシケント
+Europe/Vatican,ヨーロッパ/バチカン
+America/St_Vincent,アメリカ/ St_Vincent
+America/Caracas,アメリカ/カラカス
+America/Tortola,アメリカ/トルトラ
+America/St_Thomas,アメリカ/ St_Thomas
+Asia/Ho_Chi_Minh,アジア/ホーチミン
+Pacific/Efate,パシフィック/エファテ
+Pacific/Wallis,パシフィック/ウォリス
+Pacific/Apia,パシフィック/アピア
+Asia/Aden,アジア/アデン
+Indian/Mayotte,インド/マヨット
+Africa/Johannesburg,アフリカ/ヨハネスブルグ
+Africa/Lusaka,アフリカ/ルサカ
+Africa/Harare,アフリカ/ハラレ
+Company Profile,会社概要
+Opensips Dispatcher,Opensipsディスパッチャー
+account_refilled,アカウントが補充されました
+create_account,アカウントを作成する
+create_sip_device,SIPデバイスを作成する
+new_invoice,新しい請求書
+low_balance,ローバランス
+signup_confirmation,サインアップ確認
+new_password,新しいパスワード
+forgot_password_confirmation,パスワードの確認を忘れた
+invoice_due_reminder,請求書の期日リマインダー
+new_archive_table,新しいアーカイブテーブル
+balance_tranfer,バランス転送
+product_purchase,製品の購入
+product_release,製品リリース
+product_renewal_notice,製品更新通知
+product_renewed,製品リニューアル
+product_commission,製品手数料
+cdrs_archive_table_create_success,cdrsアーカイブテーブルは成功を生み出す
+cdrs_archive_table_create_fail,cdrsアーカイブテーブルの作成に失敗
+reset_password,パスワードを再設定する
+international_low_balance,国際的な低バランス
+account_postcharge,アカウントのポストチャージ
+ACCOUNT_INACTIVE_DELETED,アカウントが非アクティブに削除されました
+ACCOUNT_EXPIRE,アカウントの有効期限
+ALLOTTED_TIMEOUT,割り当てられたタイムアウト
+AUTHENTICATION_FAIL,認証に失敗しました
+BEARERCAPABILITY_NOTAUTH,BEARERCAPABILITY NOTAUTH
+BEARERCAPABILITY_NOTAVAIL,BEARERCAPABILITY NOTAVAIL
+BEARERCAPABILITY_NOTIMPL,BEARERCAPABILITY NOTIMPL
+CALL_REJECTED,拒否された通話
+CHAN_NOT_IMPLEMENTED,実装されていない
+CHANNEL_UNACCEPTABLE,チャンネルは受け入れられません
+DESTINATION_OUT_OF_ORDER,宛先が故障しています
+DESTINATION_BLOCKED,宛先がブロックされています
+DID_DESTINATION_NOT_FOUND,目的地が見つかりませんでした
+FACILITY_REJECTED,施設が拒否されました
+FACILITY_NOT_SUBSCRIBED,加入していない施設
+FACILITY_NOT_IMPLEMENTED,施設は実装されていません
+FRAUD_CALL_PER_ACCOUNT,アカウントごとの不正電話
+FRAUD_CALL_PER_DESTINATION,宛先ごとの不正電話
+FRAUD_COST_PER_ACCOUNT,アカウントあたりの不正コスト
+FRAUD_COST_PER_DESTINATION,宛先ごとの不正コスト
+INVALID_NUMBER_FORMAT,無効な数値形式
+INCOMPATIBLE_DESTINATION,互換性のない宛先
+MANAGER_REQUEST,マネージャーリクエスト
+MEDIA_TIMEOUT,メディアのタイムアウト
+NO_ROUTE_DESTINATION,ルートの宛先はありません
+NORMAL_CLEARING,通常のクリアリング
+NETWORK_OUT_OF_ORDER,ネットワークが故障しています
+NORMAL_UNSPECIFIED,通常の不特定
+NORMAL_CIRCUIT_CONGESTION,通常の回路の混雑
+NORMAL_TEMPORARY_FAILURE,通常の一時的な障害
+NO_SUFFICIENT_FUND,十分な資金がない
+NO_USER_RESPONSE,ユーザーの応答なし
+NO_ANSWER,答えなし
+NUMBER_CHANGED,番号が変更されました
+ORIGINATOR_CANCEL,オリジネーターキャンセル
+ORIGNATION_RATE_NOT_FOUND,オリジネーションレートが見つかりません
+OUTGOING_CALL_BARRED,発信通話禁止
+PROGRESS_TIMEOUT,プログレスタイムアウト
+RECOVERY_ON_TIMER_EXPIRE,タイマーの有効期限の回復
+RESELLER_COST_CHEAP,再販業者のコストが安い
+SERVICE_NOT_IMPLEMENTED,サービスは実装されていません
+SERVICE_UNAVAILABLE,サービスは利用できません
+SUCCESS,成功
+SWITCH_CONGESTION,スイッチの混雑
+TERMINATION_RATE_NOT_FOUND,終了率が見つかりません
+UNSPECIFIED,不特定
+UNALLOCATED_NUMBER,割り当てられていない番号
+USER_BUSY,ユーザービジー
+USER_NOT_REGISTERED,ユーザーが登録されていません
+REQUESTED_CHAN_UNAVAIL,リクエストされたCHANが利用できません
+SUBSCRIBER_ABSENT,加入者不在
+account_refilled,アカウントが補充されました
+create_account,アカウントを作成する
+create_sip_device,SIPデバイスを作成する
+new_invoice,新しい請求書
+low_balance,ローバランス
+signup_confirmation,サインアップ確認
+new_password,新しいパスワード
+forgot_password_confirmation,パスワードの確認を忘れた
+invoice_due_reminder,請求書の期日リマインダー
+new_archive_table,新しいアーカイブテーブル
+balance_tranfer,バランス転送
+product_purchase,製品の購入
+product_release,製品リリース
+product_renewal_notice,製品renewal_notice
+product_renewed,製品リニューアル
+product_commission,製品手数料
+cdrs_archive_table_create_success,cdrsアーカイブテーブルは成功を生み出す
+cdrs_archive_table_create_fail,cdrsアーカイブテーブルの作成に失敗
+reset_password,パスワードを再設定する
+international_low_balance,国際的な低バランス
+account_postcharge,アカウントのポストチャージ
+Caller Id (CLI Match - If not matched then use random allocated Caller Id),発信者ID（CLI一致-一致しない場合は、ランダムに割り当てられた発信者IDを使用します）
+DID (CLI Match - If not matched then use random allocated DID),DID（CLI一致-一致しない場合は、ランダムに割り当てられたDIDを使用します）
+ERROR:No Reords found.,エラー：Reordsが見つかりません。
+Sub Admin,サブ管理者
+Create Account Range For Customer,顧客のアカウント範囲を作成する
+Minimum Account Number,最小口座番号
+Maximum Account Number,最大口座番号
+Create Account Range For Reseller,リセラーのアカウント範囲を作成する
+Create Account Range For Provider,プロバイダーのアカウント範囲を作成する
+International Credits,国際クレジット
+Recharge,充電する
+Basic Details,基本的な詳細
+International Balance,国際バランス
+InternationalPrefixes,InternationalPrefixes
+International Prefixes,国際プレフィックス
+International Credit Limit,国際与信限度額
+Create Local Number,市内番号を作成する
+Local Number Import Process,市内番号のインポートプロセス
+Import Local Number,市内番号のインポート
+Edit Local Number,市内番号の編集
+Mailchimp,Mailchimp
+Mailchimp API Key,MailchimpAPIキー
+Mailchimp Audience Id,MailchimpオーディエンスID
+Support Tickets,サポートチケット
+Support Ticket,サポートチケット
+Create Support Ticket,サポートチケットを作成する
+Open New Ticket,新しいチケットを開く
+Department,部門
+Attach more files,さらにファイルを添付する
+Reply,応答
+Submit,参加する
+High,高い
+Normal,正常
+Low,低
+Open,開いた
+Answered,答えた
+Customer-Reply,顧客の返信
+On-hold,保留
+Progress,進捗
+Ticket Number,チケット番号
+Close Support Ticket,近接支援チケット
+Last Reply,最終返信
+Ticket No,チケット番号
+--All--, - すべて - 
+Add Department,部門を追加
+Department List,部門リスト
+SMTP Details,SMTPの詳細
+Department Additional Email Address,部門の追加の電子メールアドレス
+Department User,部門ユーザー
+Charge Full Amount,全額請求
+Based On Utilized Days,使用日数に基づく
+XML Updated Successfully!,XMLが正常に更新されました！
+ACL Reload Successfully!,ACLのリロードに成功しました！
+ACL Management,ACL管理
+XML,XML
+XML is Required!,XMLが必要です！
+Reload ACL,ACLをリロードします
+Low Balance,ローバランス
+Current Balance,経常収支
+Trunk Statistics,トランク統計
+Create Account Range,アカウント範囲を作成する
+Recharge done successfully!,充電が正常に完了しました。
+Duplicate Local number found from database,データベースから重複するローカル番号が見つかりました
+Country not valid.,国が無効です。
+Duplicate Local number found from import file.,インポートファイルから重複するローカル番号が見つかりました。
+Local Number Import Error,市内番号のインポートエラー
+Local number updated successfully!,市内番号が正常に更新されました！
+Local number added successfully!,市内番号が正常に追加されました！
+Local number removed successfully!,ローカル番号が正常に削除されました！
+Local number forwarding successfully!,市内番号転送に成功しました！
+Destination Number,宛先番号
+Destination Name,宛先名
+Add Local Number,市内番号を追加
+Added Date,追加日
+Support ticket removed successfully!,サポートチケットが正常に削除されました！
+Support ticket generated successfully!,サポートチケットが正常に生成されました！
+Edit Ticket,チケットの編集
+Create Department,部門を作成する
+Department added successfully!,部門が正常に追加されました！
+Department removed successfully!,部門が正常に削除されました！
+Import Area Code,市外局番のインポート
+Back to Area Code List,市外局番リストに戻る
+Alarm added successfully!,アラームが正常に追加されました！
+Alarm updated successfully!,アラームが正常に更新されました！
+Add Custom Rate,カスタムレートを追加
+Custom Rate Updated Successfully!,カスタムレートが正常に更新されました！
+Custom Rate Added Successfully!,カスタムレートが正常に追加されました！
+Custom rate removed successfully!,カスタムレートが正常に削除されました！
+Delete Search Record,検索レコードを削除する
+Add Prefixes,プレフィックスを追加する
+Register Gateway Information,ゲートウェイ情報の登録
+Authentication,認証
+Please Enter Valid Key,有効なキーを入力してください
+Alert,アラート
+Remote Check Failed,リモートチェックに失敗しました
+MD5 Checksum Verification Failed,MD5チェックサム検証に失敗しました
+Gateway ragister fail please try again,ゲートウェイラジスターが失敗する再試行してください
+Context,環境
+Expires,有効期限が切れます
+Frequency,周波数
+Ping Frequency,pingの頻度
+Fails Call In,呼び出しに失敗する
+Fails Call Out,コールアウトに失敗する
+Opensips Devices,Opensipsデバイス
+Second,2番目
+Add Auth Email,認証メールを追加する
+Edit Auth Email,認証メールを編集する
+Add Authemail,Authemailを追加
+Auth Email updated successfully!,認証メールが正常に更新されました！
+Auth Email added successfully!,認証メールが正常に追加されました！
+Auth Email removed successfully!,認証メールが正常に削除されました！
+Auth Email,AuthEメール
+Authemail added successfully!,Authemailが正常に追加されました！
+Please Enter Authemail value.,Authemailの値を入力してください。
+Authemail already Exists.,Authemailはすでに存在します。
+Authemail removed sucessfully!,Authemailは正常に削除されました！
+Auth Email List,認証メールリスト
+Auth Mapping,認証マッピング
+Auth,認証
+Authemail,Authemail
+Faxer,ファックス
+This file not avilable for download!,このファイルはダウンロードできません！
+Create FAX,FAXを作成する
+Web2fax removed successfully!,Web2faxは正常に削除されました！
+Fax Type,ファックスタイプ
+Fax Number,ファクス番号
+Fax Format,ファックス形式
+Fax Sent,ファックス送信
+Send Date,送信日
+Files with format are allowed: .pdf,次の形式のファイルを使用できます：.pdf
+Send Fax,ファックスを送信する
+Receive,受け取る
+Error,エラー
+Conference List,会議リスト
+Edit Conference,会議の編集
+Create Conference,会議を作成する
+Conference Added Successfully!,会議が正常に追加されました！
+Conference Updated Successfully!,会議が正常に更新されました！
+Conference removed successfully!,会議は正常に削除されました！
+Conference profiles,会議プロファイル
+Create Conference profiles,会議プロファイルを作成する
+Edit Conference Profile,会議プロファイルの編集
+Conference Setting Added Successfully!,会議設定が正常に追加されました！
+Conference Setting Updated Successfully!,会議設定が正常に更新されました！
+Conference Profile Removed Successfully!,会議プロファイルが正常に削除されました！
+Conference Profiles Added Successfully!,会議プロファイルが正常に追加されました！
+Conference Profiles Updated Successfully!,会議プロファイルが正常に更新されました！
+Conference profiles removed successfully!,会議プロファイルが正常に削除されました。
+Conference controls List,会議管理リスト
+Edit Conference controls,会議コントロールの編集
+Conference Controls Removed Successfully!,会議コントロールが正常に削除されました！
+Conference Controls Added Successfully!,会議コントロールが正常に追加されました！
+Conference Controls Updated Successfully!,会議コントロールが正常に更新されました！
+Pin Number,ピン番号
+Duration (Second),期間（秒）
+Greeting,挨拶
+Create Conference Controls,会議コントロールを作成する
+Controls Name,コントロール名
+Data,データ
+Domains,ドメイン
+Edit Domains,ドメインの編集
+Domain Updated Successfully!,ドメインが正常に更新されました！
+Please enter proper domain value.,適切なドメイン値を入力してください。
+Domain name,ドメイン名
+Edit Domain,ドメインの編集
+Feature Code,機能コード
+Feature code removed successfully!,機能コードが正常に削除されました！
+Feature code is already exist in system,機能コードはすでにシステムに存在します
+Pickup Group,ピックアップグループ
+Create Pickup Group,ピックアップグループを作成する
+Edit Pickup Group,ピックアップグループの編集
+Pickup group updated successfully!,ピックアップグループが正常に更新されました！
+Pickup group added successfully!,ピックアップグループが正常に追加されました！
+Pickup group removed successfully!,ピックアップグループが正常に削除されました！
+Feature,特徴
+IVR List,IVRリスト
+Create IVR,IVRを作成する
+Edit IVR,IVRを編集する
+Ivr added successfully!,Ivrが正常に追加されました！
+Ivr updated successfully!,Ivrが正常に更新されました！
+Ivr removed successfully!,Ivrが正常に削除されました！
+Caller ID Name Prefix,発信者ID名プレフィックス
+Options,オプション
+Advance,前進
+Add More,さらに追加
+Ring Back,リングバック
+Invalid Retries,無効な再試行
+Timeout,タイムアウト
+Caller ID Number Prefix,発信者ID番号プレフィックス
+Invalid Message,無効なメッセージ
+Welcome Greeting,ようこそ挨拶
+Direct Dial,直通
+Create Queue,キューを作成
+Edit Queue,キューの編集
+Queue Added Successfully!,キューが正常に追加されました！
+Queue Updated Successfully!,キューが正常に更新されました！
+Queue removed successfully!,キューが正常に削除されました！
+Agent Dial Number,エージェントダイヤル番号
+Queues,キュー
+Queue,キュー
+Edit Recording,録音の編集
+Create Recording,録音を作成する
+Recording Added Successfully!,録音が正常に追加されました！
+Recording deleted successfully!,録音が正常に削除されました！
+Recording Information,記録情報
+to create a recording,録音を作成するには
+Dial,ダイヤル
+Ring Group,リンググループ
+Ring Group Add,リンググループ追加
+Edit Ring Group,リンググループの編集
+Create Ringgroup,リンググループを作成する
+Ring group added successfully!,リンググループが正常に追加されました！
+Ring group updated successfully!,リンググループが正常に更新されました！
+Ring group deleted successfully!,リンググループが正常に削除されました！
+Ring Group Information,リンググループ情報
+Do you want create sip devices?,SIPデバイスを作成しますか？
+Sip device Count,SIPデバイス数
+Next,次
+Basic Settings,基本設定
+Ring Strategy,リング戦略
+Sequence,シーケンス
+Simultaneous,同時
+Delay (Seconds),遅延（秒）
+Timeout (Seconds),タイムアウト（秒）
+Prompt,促す
+Announcement,発表
+CID Name Prefix,CID名プレフィックス
+CID Number Prefix,CID番号プレフィックス
+Call Recording,通話録音
+Forcefully Enable,強制的に有効にする
+Forcefully Disable,強制的に無効にする
+Skip busy,忙しいスキップ
+No Answer Call Type,無応答コールタイプ
+Call Routing,コールルーティング
+Enabled,有効
+Disabled,無効
+Time Conditions List,時間条件リスト
+Create Time Conditions,時間条件を作成する
+Edit Time Conditions,時間条件の編集
+Time Conditions Added Successfully!,時間条件が正常に追加されました！
+Time Conditions Updated Successfully!,時間条件が正常に更新されました！
+Time Conditions removed successfully!,時間条件が正常に削除されました！
+Failover Condition,フェイルオーバー条件
+Start Hour,開始時間
+Week day,平日
+Month day,月日
+End Hour,終了時間
+Jan,1月
+Feb,2月
+Mar,3月
+Apr,4月
+Jun,6月
+Jul,7月
+Aug,8月
+Sep,9月
+Oct,10月
+Nov,11月
+Dec,12月
+Sunday,日曜日
+Monday,月曜
+Tuesday,火曜日
+Wednesday,水曜日
+Thursday,木曜日
+Friday,金曜日
+Saturday,土曜日
+Extensions Destination,拡張機能の宛先
+Extensions Call Type,内線通話タイプ
+Ignore Busy,ビジーを無視する
+Do Not Disturb,邪魔しないでください
+Pickup Group List,ピックアップグループリスト
+Allow Pickup Group List,ピックアップグループリストを許可する
+Not Registered,未登録
+Call Waiting,キャッチホン
+On Busy,忙しいとき
+No Answer,答えなし
+Destinations,目的地
+Follow Me,フォローしてください
+Conference Profile,会議プロファイル
+Conference Controls,会議の制御
+Conference,会議
+Time Conditions,時間条件
+RingGroup,RingGroup
+IVR,IVR
+Advance Settings,詳細設定
+Agent Back-Tone,エージェントバックトーン
+Customer Back-Tone,カスタマーバックトーン
+Time Condition,時間条件
+LAST FTP PROCESS,最後のFTPプロセス
+Group Name,グループ名
+Ported Number List,移植番号リスト
+Import Ported Number,移植番号のインポート
+has been uploaded successfully!,正常にアップロードされました！
+Destination From,目的地
+Destination To,目的地
+Routing Label,ルーティングラベル
+Number From,番号から
+Participant,参加者
+Number To,番号へ
+File must be in the following format(.gz):,ファイルは次の形式（.gz）である必要があります。
+Create Schedule Report,スケジュールレポートの作成
+Schedule Report,スケジュールレポート
+Schedule Report added successfully!,スケジュールレポートが正常に追加されました！
+Schedule Report has been deleted !,スケジュールレポートを削除しました！
+Email ID,電子メールID
+Filters,フィルター
+Unique ID,一意のID
+Call Start,コールスタート
+Recurring Type,繰り返しタイプ
+Field List,フィールドリスト
+Report Description,レポートの説明
+Are you sure you want to close?,閉じてもよろしいですか？
+Alarm Name,アラーム名
+Alarm Type,アラームタイプ
+Alarm On,アラームオン
+Threshold Value,しきい値
+Period,限目
+Last Triggered Date,最終トリガー日
+Create Alarm,アラームを作成する
+Ping Type,pingタイプ
+Freeswitch,フリースイッチ
+Console,コンソール
+Period (In Seconds),期間（秒単位）
+Edit Alarm,アラームの編集
+CIC,CIC
+Active Calls,アクティブな通話
+Call Alarms,アラームを呼び出す
+Report,報告する
+Triggered Value,トリガー値
+Period,限目
+Alarm Report,アラームレポート
+Resolved,解決済み
+Are you sure want to close selected alarm ?,選択したアラームを閉じてもよろしいですか？
+Country Report,カントリーレポート
+Debits,借方
+ASR : Answer Seizure Ratio,ASR：回答発作率
+ACD : Average Call Duration,ACD：平均通話時間
+MCD : Maximum Call Duration,MCD：最大通話時間
+Custom Rates,カスタムレート
+Create Custom Rate,カスタムレートを作成する
+Edit Custom Rate,カスタムレートの編集
+Registered SIP Devices,登録済みのSIPデバイス
+Switch Host,ホストの切り替え
+Refresh Time,更新時間
+Sec.,Sec。
+Min.,最小
+User,ユーザー
+Contact,連絡先
+Client-IP,クライアントIP
+Client Port,クライアントポート
+User Agent,ユーザーエージェント
+Registered Gateways,登録ゲートウェイ
+Call In,呼び戻す
+Call Out,叫ぶ
+Fail Call In,コールインに失敗する
+Fail Call Out,コールアウトに失敗する
+State,状態
+Switch CLI,CLIの切り替え
+Freeswitch CLI,Freeswitch CLI
+Live Call Graph,ライブコールグラフ
+--Select All--, - すべて選択 - 
+Call Count,通話数
+Live Call data,ライブ通話データ
+SMS Rate Group,SMSレートグループ
+SMS CDRs,SMSCDR
+Auto Refill,自動補充
+Refill Amount,補充量
+Occurrence Per Day,1日あたりの発生
+Message From,からのメッセージ
+Message To,宛先へのメッセージ
+SMS Type,SMSタイプ
+Profile Name,プロファイル名
+Edit Conference profiles,会議プロファイルの編集
+Ring-Group,リンググループ
+Failover Destination,フェイルオーバー先
+Timeout(min),タイムアウト（分）
+Create SMS Rate Group,SMSレートグループを作成する
+SMS Rate Group Information,SMSレートグループ情報
+Markup(%),マークアップ（％）
+SMS Origination Rate,SMS発信率
+Per SMS Cost,SMSあたりのコスト
+SMS Trunk add,SMSトランク追加
+SMS Trunk Information,SMSトランク情報
+Trunk Settings,トランク設定
+Precedence,優先順位
+Trunk Name,トランク名
+Edit SMS Trunk,SMSトランクを編集する
+Add SMS Termination Rates,SMS終了率を追加する
+Edit SMS Termination Rates,SMS終了率の編集
+Import SMS Termination Rates Using Field Mapper,フィールドマッパーを使用してSMS終了率をインポートする
+Import SMS Termination Rates,SMS終了率のインポート
+SMS Trunk,SMSトランク
+Create SMS Gateway,SMSゲートウェイを作成する
+Base URL,ベースURL
+Api Key / Application Id,Apiキー/アプリケーションID
+Secret Key Id,秘密鍵ID
+Api Key,Apiキー
+Based On Utilized Free Minutes,利用された無料の議事録に基づく
+Based On Utilized Highest Days/Free Minutes,使用された最高日数/無料分に基づく
+ASR : Answer Seizure Ratio,ASR：回答発作率
+ACD : Average Call Duration,ACD：平均通話時間
+MCD : Maximum Call Duration,MCD：最大通話時間
+Edit SMS Rate Group,SMSレートグループの編集
+ (Enterprise),  （企業）
+Edit SMS Gateway,SMSゲートウェイの編集
+Edit Department,編集部
+Edit Support Ticket,サポートチケットの編集
+SMS Package,SMSパッケージ
+Free SMS,無料のSMS
+auto_reply_mail_support,自動返信メールのサポート
+email_sent_support_ticket,メール送信サポートチケット
+alarm_report,アラームレポート
+two_factor_authentication,二要素認証
+schedule_report,スケジュールレポート
+ported_number,移植番号
+ported_number_ftp_connect,移植番号ftp接続
+ported_number_no_file,移植番号ファイルなし
+fraud_report,詐欺レポート
+outbound_fax_mail,アウトバウンドファックスメール
+fax_receive_mail,ファックス受信メール
+Format,フォーマット
+Fax Method,ファックス方式
+SIP Device,SIPデバイス
+Web2fax,Web2fax
+Email2fax,Email2fax
+Fax2Mail,Fax2Mail
+Success,成功
+File,ファイル
+APFaxer,APFaxer
+Fax send Retries,ファックス送信の再試行
+Fax Email Id,ファックスEメールID
+Fax Email Password,ファックスEメールパスワード
+Fax Server,ファックスサーバー
+Fax Server SIP Port,ファックスサーバーのSIPポート
+Fax Email Host,ファックスEメールホスト
+Create Fraud Detection,不正検出を作成する
+Filter by,フィルタリング
+Per Dst. Prefix,Dstあたり プレフィックス
+Group By Dst. Prefix,Group ByDst。 プレフィックス
+Per Country,国ごと
+Group by Country,国別グループ
+Time Period,期間
+Warning Threshold,警告しきい値
+15 minutes,15分
+30 minutes,30分
+1 Hour,1時間
+3 Hours,3時間
+6 Hours,6時間
+12 Hours,12時間
+24 Hours,24時間
+Warning Action,警告アクション
+None,無し
+Block Threshold,ブロックしきい値
+Block Action,ブロックアクション
+ (In Minutes),  （分単位）
+Time Period,期間
+Edit Fraud Detection,不正検出の編集
+Fraud Report,詐欺レポート
+Fraud Trigger,詐欺の引き金
+Alarm Value,アラーム値
+warning,警告
+block,ブロック
+--Select Account Type--,-アカウントタイプの選択-
+Weekly,毎週
+Quarterly,四半期ごと
+Yearly,毎年
+SMS Reports,SMSレポート
+SMS Summary,SMSの概要
+SMS Customer,SMSのお客様
+SMS Reseller,SMSリセラー
+Customer SMS Report,顧客のSMSレポート
+Message Count,メッセージ数
+Resellers SMS Report,リセラーSMSレポート
+Customer SMS Summary Report,顧客のSMS要約レポート
+Total Message,トータルメッセージ
+Send Message,メッセージを送る
+Cancel Message,メッセージをキャンセル
+Reseller SMS Summary Report,リセラーSMSサマリーレポート
+Two-factor Authentication,二要素認証
+Security,セキュリティ
+Whmcs Secret Key,Whmcsシークレットキー
+Whmcs IV Key,WhmcsIVキー
+Two-factor Authentication,二要素認証
+Currencies Update,通貨の更新
+Call Activity Report,コールアクティビティレポート
+Request A Number Port,番号ポートを要求する
+Porting,移植
+Generate,生む
+Callerid,発信者ID
+International Recharge,国際リチャージ
+Feature code updated successfully!,機能コードが正常に更新されました！
+Number Porting,番号の移植
+Number Porting Requests,移植リクエストの数
+Request a Number Port,番号ポートをリクエストする
+Number / Number Range,番号/番号範囲
+Date Submitted,提出日
+Requested Date,依頼日
+Requested Time,要求された時間
+Actioned by,によってアクション
+Note for Customer,お客様への注意
+Accepted,承認済み
+Rejected,拒否されました
+In Progress,進行中
+Completed,完了
+Cancelled,キャンセル
+Create Porting Request Number,移植要求番号の作成
+Porting Request Number,移植要求番号
+Company Address,会社の住所
+Individual Number,個人番号
+Start Number,開始番号
+Number Range,番号の範囲
+End Number,終了番号
+New Provider Name,新しいプロバイダー名
+Existing Provider Name,既存のプロバイダー名
+Requested Port Date,要求されたポート日付
+Requested Port Time,要求されたポート時間
+Upload most recent phone bill,最新の電話料金をアップロードする
+Edit Porting Request,移植リクエストの編集
+Telephone Number,電話番号
+File Download,ファイルのダウンロード
+Accept,受け入れる
+Reject,拒否する
+Edit Porting Request Number,移植要求番号の編集
+Retired,引退
+porting_request,移植リクエスト
+Public IP,パブリックIP
+Activity Report,活動報告
+Push Status,プッシュステータス
+Last DID Call Date,最終DID呼び出し日
+Last Outbound Call Date,最終アウトバウンドコール日
+Login Activity,ログインアクティビティ
+Last DID Call From Date,日付からの最後のDID呼び出し
+Last DID Call To Date,これまでの最後のDID呼び出し
+Last Outbound Call From Date,日付からの最後のアウトバウンドコール
+Last Outbound Call To Date,これまでの最後のアウトバウンドコール
+Find Time(min),時間（分）を探す
+Login Activity Report,ログインアクティビティレポート
+Assorted,盛り合わせ
+Auto Refresh Page,ページの自動更新
+Ticket Digits,チケットの数字
+Recording Number,録音番号
+Hybrid Routing,ハイブリッドルーティング
+Opensips Public Host,Opensipsパブリックホスト
+Ban Time(min),禁止時間（分）
+SMS Logs,SMSログ
+Ported Number,移植番号
+FTP Details,FTPの詳細
+Admin Notification Email,管理者通知メール
+Term and Condition URL,利用規約のURL
+Invoice Debug,請求書のデバッグ
+Wrong Attempts/Customer/Days,間違った試み/顧客/日
+(Fixed tax),（固定税）
+Assign Product,製品の割り当て
+Search by code,コードで検索
+INVOICE HISTORY,請求書の履歴
+PAYMENT HISTORY,支払歴
+Please Insert Amount,金額を挿入してください
+Special Note,特記事項
+Low Balance Threshold,低バランスしきい値
+No Balance Threshold,バランスしきい値なし
+Max amount per call,通話あたりの最大金額
+Alert Type,アラートタイプ
+Heartbeat,ハートビート
+Hangup,電話を切る
+Available Credit limit,利用可能な与信限度額

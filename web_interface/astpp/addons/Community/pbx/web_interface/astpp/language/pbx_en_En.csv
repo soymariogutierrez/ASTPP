@@ -1,0 +1,166 @@
+English
+Conference List
+Edit Conference
+Create Conference
+Conference Added Successfully!
+Conference Updated Successfully!
+Conference removed successfully!
+Conference profiles
+Create Conference profiles
+Edit Conference Profile
+Conference Setting Added Successfully!
+Conference Setting Updated Successfully!
+Conference Profile Removed Successfully!
+Edit Conference profiles
+Conference Profiles Added Successfully!
+Conference Profiles Updated Successfully!
+Conference profiles removed successfully!
+Conference controls List
+Edit Conference controls
+Conference Controls Removed Successfully!
+Conference Controls Added Successfully!
+Conference Controls Updated Successfully!
+Pin Number
+Duration (Second)
+Greeting
+Create Conference Controls
+Controls Name
+Data
+Domains
+Edit Domains
+Domain Updated Successfully!
+Please enter proper domain value.
+Domain name
+Edit Domain
+Feature Code
+Feature code removed successfully!
+Feature code is already exist in system
+Pickup Group
+Create Pickup Group
+Edit Pickup Group
+Pickup group updated successfully!
+Pickup group added successfully!
+Pickup group removed successfully!
+Feature Code
+Feature
+IVR List
+Create IVR
+Edit IVR
+Ivr added successfully!
+Ivr updated successfully!
+Ivr removed successfully!
+Caller ID Name Prefix
+Options
+Advance
+Add More
+Ring Back
+Invalid Retries
+Timeout
+Caller ID Number Prefix
+Invalid Message
+Welcome Greeting
+Direct Dial
+Create Queue
+Edit Queue
+Queue Added Successfully!
+Queue Updated Successfully!
+Queue removed successfully!
+Agent Dial Number
+Queues
+Queue
+Edit Recording
+Recording
+Create Recording
+Recording Added Successfully!
+Recording deleted successfully!
+Remove
+Recording Information
+"to create a recording, or (for best results) upload a 16bit 8khz/16khz mono WAV file."
+Dial
+Ring Group
+Ring Group Add
+Edit Ring Group
+Create Ringgroup
+Ring group added successfully!
+Ring group updated successfully!
+Ring group deleted successfully!
+Ring Group Information
+Do you want create sip devices?
+Sip device Count
+Next
+Basic Settings
+Ring Strategy
+Sequence
+Simultaneous
+Delay (Seconds)
+Timeout (Seconds)
+Prompt
+Announcement
+CID Name Prefix
+CID Number Prefix
+Call Recording
+Forcefully Enable
+Forcefully Disable
+Enable
+Skip busy
+No Answer Call Type
+Call Routing
+Allow Recording
+Enabled
+Disabled
+Extension
+Time Conditions List
+Create Time Conditions
+Edit Time Conditions
+Time Conditions Added Successfully!
+Time Conditions Updated Successfully!
+Time Conditions removed successfully!
+Failover Condition
+Start Hour
+Week day
+Month day
+End Hour
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Extensions Destination
+Extensions Call Type
+Month
+Year
+Ignore Busy
+Do Not Disturb
+Pickup Group List
+Allow Pickup Group List
+Not Registered
+Call Waiting
+On Busy
+No Answer
+Destinations
+Follow Me
+Conference Profile
+Conference Controls
+Conference
+Time Conditions
+RingGroup
+IVR
+Basic Setting
+Advance Settings
+Agent Back-Tone
+Customer Back-Tone
+Time Condition

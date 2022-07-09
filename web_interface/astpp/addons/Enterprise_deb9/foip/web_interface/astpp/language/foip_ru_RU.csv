@@ -1,0 +1,39 @@
+English,Russian
+Add Auth Email,Добавить адрес электронной почты для аутентификации
+Edit Auth Email,Изменить адрес электронной почты
+Add Authemail,Добавить Authemail
+Auth Email updated successfully!,Auth Email успешно обновлен!
+Auth Email added successfully!,Auth Email успешно добавлен!
+Auth Email removed successfully!,Auth Email успешно удален!
+Auth Email,Auth Email
+Authemail added successfully!,Authemail успешно добавлен!
+Please Enter Authemail value.,"Пожалуйста, введите значение Authemail."
+Authemail already Exists.,Authemail уже существует.
+Authemail removed sucessfully!,Authemail успешно удален!
+Auth Email List,Auth Email List
+Auth Email updated successfully!,Auth Email успешно обновлен!
+Auth Email added successfully!,Auth Email успешно добавлен!
+Auth Mapping,Auth Mapping
+Auth,Auth
+Authemail,Authemail
+Faxer,Faxer
+This file not avilable for download!,Этот файл недоступен для скачивания!
+Create FAX,Создать факс
+Web2fax removed successfully!,Web2fax успешно удален!
+Fax Type,Тип факса
+Fax Number,Номер факса
+Fax Format,Факс Формат
+File Name,Имя файла
+Fax Sent,Факс отправлен
+Send Date,Дата отправки
+"Files with format are allowed: .pdf,.tiff,.doc,.docx","Разрешены файлы с форматом: .pdf, .tiff, .doc, .docx"
+Send Fax,Отправить факс
+Receive,Получать
+Sent,Отправлено
+Text,Текст
+Pending,в ожидании
+Send,послать
+Error,ошибка
+Processing,обработка
+Fail,Потерпеть поражение
+SIP Device,SIP-устройство

@@ -1,0 +1,3017 @@
+English,Russian
+Access Number,Номер доступа
+Access Number,Номер доступа
+Access Numbers,Номера доступа
+Account,Счет
+Account Type,тип аккаунта
+Account Valid Days,Срок действия аккаунта
+Account Verification By,Подтверждение аккаунта
+Accounts,Счета
+Accounts Report,Отчет по счетам
+ACD,ACD
+Action,Действие
+Action Type,Тип действия
+Add,Добавить
+Add Country,Добавить страну
+Add Currency,Добавить валюту
+Add Destination,Добавить место назначения
+Add Ratedeck,Добавить рейтинг
+Address 1,адрес 1
+Administrator,Администратор
+Admin,Админ
+Admins,Админы
+After Balance,После баланса
+Alarm,Аварийная сигнализация
+Alert Status,Статус предупреждения
+Allow integration with Fraud detection,Разрешить интеграцию с функцией обнаружения мошенничества
+Allow IP Management,Разрешить управление IP
+Allow Local Call,Разрешить местный звонок
+Allow Local Calls,Разрешить местные звонки
+Allow Loss Less Routing,Разрешить маршрутизацию с меньшими потерями
+Allow Max Retries,Разрешить максимальное количество повторов
+Allow Recording,Разрешить запись
+Amount,Количество
+Amount INR,Сумма INR
+Answered Calls,Отвеченные звонки
+Applicable For,Применимо для
+Apply on existing accounts,Подать заявку на существующие учетные записи
+Archive,Архив
+ASR,ASR
+Attachement,Приложение
+Attempted Calls,Попытки звонков
+Audit,Аудит
+Audit Log,Журнал аудита
+Audit Logs Older Than Days,Журналы аудита старше суток
+Authorize dot net,Авторизовать точку net
+Automatically,Автоматически
+Balance,Баланс
+Balance Announcement,Объявление баланса
+Balance Below,Баланс ниже
+Base Currency,Базисная валюта
+Basic,Базовый
+Basic Information,Основная информация
+Batch Update,Пакетное обновление
+Before Balance INR,До баланса INR
+Begins With,Начинается с
+Beta,Бета
+Billable,Оплачиваемый
+Billing,Биллинг
+Billing Cycle,Платежный цикл
+Billing Days,Расчетные дни
+Billing Information,информация об оплате
+Billing Type,Тип биллинга
+Body,Тело
+Buy Cost,Стоимость покупки
+Call Barring,Запрет звонков
+Call Date,Дата звонка
+Call Detail Reports,Подробные отчеты о звонках
+Call Max Length,Максимальная длина вызова
+Call State,Состояние вызова
+Call Summary Reports,Сводные отчеты по звонкам
+Call Timeout,Тайм-аут вызова
+Call Type,Тип звонка
+Call Types,Типы звонков
+Called Number,Вызываемый номер
+Caller ID,АОН
+Caller IDs,АОН
+Caller IP,IP звонящего
+Caller Name,Имя вызывающего абонента
+Caller Number,Номер звонящего
+Caller-Id-In-Form,Caller-Id-In-Form
+Calling Card,Визитная карточка
+Calls,Звонки
+Calls Breakdown,Разбивка звонков
+Calltype Information,Информация о типе вызова
+Can be purchased?,Можно купить?
+Capital,Капитал
+Capture Server,Сервер захвата
+Card Input Timeout,Тайм-аут ввода карты
+Card Length,Длина карты
+Card Retries,Повторные попытки карты
+Carriers,Перевозчики
+Category,Категория
+CC,CC
+CDRs Older Than Days,CDR старше дней
+Charge Type,Тип заряда
+Charges Breakdown,Разбивка сборов
+Charges History,История начислений
+CID,CID
+City,город
+Clear,Очистить
+Client IP,Клиентский IP
+Client User Agent,Клиентский пользовательский агент
+Code,Код
+Codecs,Кодеки
+Commission,Комиссия
+Commission Rate,Ставка комиссионного вознаграждения
+Commission Reports,Отчеты комиссии
+Company,Компания
+Company Profiles,Профили компании
+Company Tax number,Налоговый номер компании
+Completed Calls,Завершенные звонки
+Concurrent Calls,Одновременные звонки
+Configuration,Конфигурация
+Confirmed,Подтверждено
+Connection Cost,Стоимость подключения
+Contains,Содержит
+Cost,Стоимость
+Cost/Min,Стоимость / мин.
+Countries,Страны
+Country,Страна
+Country Code,Код страны
+Country List,Список стран
+Country Reports,Страновые отчеты
+Coupon Information,Информация о купоне
+Coupon Number,Номер купона
+CPS,CPS
+Create,Создайте
+Create Admin,Создать администратора
+Create calltype,Создать тип вызова
+Create Company Profile,Создать профиль компании
+Create Customer,Создать клиента
+Create Origination Rate,Создать скорость происхождения
+Create Product,Создать продукт
+Create Provider,Создать провайдера
+Create Rate Group,Создать группу ставок
+Create Refill Coupon,Создать купон пополнения счета
+Create SIP Device,Создать SIP-устройство
+Create Tax,Создать налог
+Created Date,Дата создания
+Creation Date,Дата создания
+Credit,Кредит
+Credit Limit,Кредитный лимит
+Crons,Кроны
+Currency,валюта
+Currency Conversion Loss Percentage,Процент потерь от конвертации валюты
+Currency List,Список валют
+Customer,Клиент
+Customer CDRs Report,Отчет о CDR клиентов
+Customer Summary,Резюме клиента
+Customer Summary Report,Сводный отчет по клиентам
+Customers,Клиенты
+Dashboard,Приборная доска
+Database,База данных
+Date,Свидание
+Debit,Списание средств
+Debug,Отлаживать
+Decimal Points,Десятичные точки
+Default Increment,Приращение по умолчанию
+Default Invoice Mode,Режим счета по умолчанию
+Default Tax,Налог по умолчанию
+Delete,удалять
+Deleted Accounts After Days,Удаленные аккаунты через несколько дней
+Description,Описание
+Destination,Пункт назначения
+Dial Input Timeout,Тайм-аут ввода набора
+DID,СДЕЛАЛ
+DIDs,DID
+Direction,Направление
+Disable,Отключить
+Display records in,Показать записи в
+Disposition,Диспозиция
+Documentation,Документация
+Doesnt Contain,Не содержит
+Domain,Домен
+Draft,Проект
+Due Date,Срок оплаты
+Duplicate,Дубликат
+Duration,Продолжительность
+Email,Эл. адрес
+Email Alerts ?,Уведомления по электронной почте?
+Email History,История электронной почты
+Email History List,Список истории электронной почты
+Email Notification,Уведомление по электронной почте
+Email Notifications,Уведомления по электронной почте
+Email Status,Статус электронной почты
+Email Template,Шаблон электронного письма
+Emails Older Than Days,Электронные письма старше дней
+En,En
+Enable,включить
+Enable Signup,Включить регистрацию
+Ends With,Заканчивается
+Enterprise,Предприятие
+Entity Type,Тип объекта
+Environment,Окружающая обстановка
+Ewallet Payment Gateway,Платежный шлюз электронного кошелька
+Expired Accounts After Days,Учетные записи с истекшим сроком действия через несколько дней
+Expiry Date,Дата истечения срока
+Export,Экспорт
+Failover GW Name #1,Имя Failover GW # 1
+Failover GW Name #2,Имя Failover GW # 2
+Favicon,Фавикон
+Fax,Факс
+Fee,Гонорар
+File Path,Путь файла
+Filter,Фильтр
+First Name,Имя
+First Used,Первое использование
+Fixer Key,Ключ Fixer
+FMAddon,FMAddon
+Footer,Нижний колонтитул
+Fraud Detection,Обнаружение мошенничества
+Free Minutes,Бесплатные минуты
+FreeSwitch Servers,Серверы FreeSwitch
+From,Из
+From Date,С даты
+From Timestamp,От отметки времени
+Gateway Name,Имя шлюза
+Gateways,Шлюзы
+General,генеральный
+General Input Timeout,Общий тайм-аут ввода
+Generate Invoice,Создать счет-фактуру
+Generate Pin,Создать пин
+Generates Alarm From System,Генерирует сигнал тревоги из системы
+Generates Local Number system,Создает местную систему нумерации
+Generates ticket of issues from system,Создает тикет проблем из системы
+Generates Various Alarms From System,Генерирует различные сигналы тревоги из системы
+Generates Various Country Reports From S,Создает отчеты по различным странам из S
+Generates various reports from system,Формирует различные отчеты из системы
+Get Addons,Получить дополнения
+Get App,Скачать приложение
+Global,Глобальный
+Grace Time,Время благодати
+Grand Total,Общая сумма
+Group By,Группа по
+Group By #1,Группировать по # 1
+Group By #2,Группировать по # 2
+Group By #3,Группировать по # 3
+Group By #Time,Группировать по # времени
+Header,Заголовок
+Homer,Гомер
+Host,Хост
+Import,импорт
+Import Customers,Импортные клиенты
+Import with field map,Импорт с картой поля
+Inbound,Входящий
+Inbound Fax,Входящий факс
+Included Seconds,Включенные секунды
+Increment,Приращение
+Initial Balance,Начальный баланс
+Initial Increment,Начальный прирост
+Inovices Older Than Days,Inovices старше чем дней
+Install,Установить
+Installed,Установлены
+Interval,Интервал
+Interval Type,Тип интервала
+Invoice Configuration,Конфигурация счета
+Invoice Date,Дата счета
+Invoice Due Days,Срок оплаты счета
+Invoice Due Notification,Уведомление о сроках оплаты счета
+Invoice Notification,Уведомление о счете
+Invoice Number,Номер счета
+Invoice Prefix,Префикс счета
+Invoice Start Form,Форма начала счета
+Invoices,Счета
+IP,IP
+IP Settings,Настройки IP
+Is Equal To,Равно
+Is Not Equal To,Не равно
+Is Purchased?,Куплено?
+Iso,Исо
+Iso3,Iso3
+IVR Count,Счетчик IVR
+Languages,Языки
+Last Execution Date,Дата последнего исполнения
+Last Modified Date,Дата последнего изменения
+Last Name,Фамилия
+Last Paid Date,Дата последней выплаты
+Latest Orders,Последние заказы
+LC Charge / Min,Заряд LC / мин
+LC Charge/Min,Заряд LC / мин
+Live,Прямой эфир
+Live Call Report,Отчет о живых звонках
+Live Id,Живой идентификатор
+Live Key,Live Key
+Live Url,Живой URL
+Local Call Timeout,Тайм-аут местного вызова
+Local Number,Местный номер
+Local Numbers,Местные номера
+Locale code,Код локали
+Localization,Локализация
+Localization Type,Тип локализации
+Localizations,Локализации
+Log out,Выйти
+Log Path,Путь к журналу
+Logo,Логотип
+Low balance Alert?,Предупреждение о низком балансе?
+Mail Log,Почтовый журнал
+Manually,Вручную
+Markup,Разметка
+Mass Create,Массовое создание
+Mass Email,Массовая рассылка
+Max Free Length,Максимальная свободная длина
+MCD,MCD
+Minimum Fund Transfer,Минимальный перевод средств
+Minutes,Минуты
+Minutes Announcement,Объявление минут
+Minutes Breakdown,Разбивка минут
+Moderate,Умеренный
+Modified Date,Дата изменения
+Module,Модуль
+Name,имя
+New Accounts,Новые учетные записи
+Nexmo API Key,Ключ API Nexmo
+Nexmo Secret Key,Секретный ключ Nexmo
+Next Execution Date,Дата следующего исполнения
+Nickname,Ник
+No,Нет
+No Records Found,Записей не найдено
+Notes,Ноты
+Notifications,Уведомления
+Notify before due days,Уведомить до истечения срока
+Number,номер
+Number Type,Тип номера
+ of , из 
+Opensips,Opensips
+Opensips DB Engine,Opensips DB Engine
+Opensips DB Host,Хост БД Opensips
+Opensips DB Name,Имя БД Opensips
+Opensips DB Pass,Opensips DB Pass
+Opensips DB User,Пользователь БД Opensips
+Opensips Domain,Домен Opensips
+Opensource,Открытый источник
+Order,порядок
+Order Amount,Сумма заказа
+Order Date,Дата заказа
+Order ID,номер заказа
+Order Now,Заказать сейчас
+Orders,Заказы
+Org. Cost,Орг. Стоимость
+Org. Destination,Орг. Пункт назначения
+Org. Pefix,Орг. Pefix
+Origination Rates,Темпы создания
+Outbound Fax,Исходящий факс
+Outstanding Amount INR,Непогашенная сумма INR
+Page ,Страница 
+Password,пароль
+Password Strength,Надежность Пароля
+Payment Method,Способ оплаты
+Payment Methods,Способы оплаты
+Payment Status,Статус платежа
+Paypal,Paypal
+Per Minute Cost,Стоимость минуты
+Phone,Телефон
+Pin Input Timeout,Тайм-аут ввода PIN-кода
+Pin Length,Длина штифта
+Pin retries,Повторные попытки закрепить
+Pinless Authentication,Бесконтактная аутентификация
+Place Order,Разместить заказ
+Playback Audio Notifications,Воспроизведение звуковых уведомлений
+Port,Порт
+Portal personalization,Персонализация портала
+Powered by ASTPP,При поддержке АСТПП
+Prefix,Приставка
+Prepend,Подготовить
+Preserve,Сохранить
+Price,Цена
+Priority,Приоритет
+Product Category,категория продукта
+Product Details,информация о продукте
+Product Name,наименование товара
+Products,Продукты
+Profile Action,Действие профиля
+Profit,Прибыль
+Provider,Провайдер
+Provider CDRs Report,Отчет о CDR поставщика
+Provider Outbound,Провайдер исходящий
+Provider Outbound Report,Отчет об исходящем трафике поставщика
+Provider Summary Report,Сводный отчет поставщика
+Province,Провинция
+Province/State,Провинция / штат
+Proxy,Прокси
+Purge,Очистить
+Push Notifications,Всплывающее уведомление
+Quantity,Количество
+Rate,Ставка
+Rate Announcement,Объявление оценки
+Rate Count,Счетчик ставок
+Rate Group,Оценить группу
+Rate Groups,Оценить группы
+Rate Information,Информация о ставках
+Ratedeck,Ratedeck
+Ratedeck Information,Информация о рейтинге
+Rates Count,Подсчет ставок
+Realtime Billing,Биллинг в реальном времени
+Receiver Email,Электронная почта получателя
+Recording Files Older Than Days,Запись файлов старше суток
+ Records, Записи
+Referer Page,Реферальная страница
+Refill By,Пополнить
+Refill Coupon Length,Длина пополнения купона
+Refill Coupons,Пополнить купоны
+Refill Report,Отчет о пополнении
+Refills,Заправка
+Register,регистр
+Release if no balance,"Отпустите, если нет баланса"
+Report a Bug,Сообщить об ошибке
+Reports,Отчеты
+Request URI,Запросить URI
+Reseller,Реселлер
+Reseller can resell,Реселлер может перепродавать
+Reseller Summary,Резюме реселлера
+Reseller Summary Report,Сводный отчет реселлера
+Resellers,Реселлеры
+Resellers CDRs Report,Отчет о CDR реселлеров
+Resend Mail,Отправить письмо повторно
+Role,Роль
+Roles & Permission,Роли и разрешения
+Roles & Permissions,Роли и разрешения
+Routing Prefix,Префикс маршрутизации
+Routing Type,Тип маршрутизации
+Sandbox,Песочница
+Sandbox Id,Идентификатор песочницы
+Sandbox Key,Ключ песочницы
+Sandbox Name,Название песочницы
+Sandbox Url,URL-адрес песочницы
+Save,Сохранить
+Schedule Reports,Расписание отчетов
+Search,Поиск
+Select File,Выбрать файл
+Select Year,Выберите год
+Services,Сервисы
+Set Maximum Add card limit,Установить максимальный лимит добавления карты
+Settings,Настройки
+Setup Fee,Настроить плату
+Signup,Зарегистрироваться
+SIP Devices,SIP устройства
+SIP IP,SIP IP
+SIP Port,SIP порт
+SIP Profile,Профиль SIP
+SIP Profiles,Профили SIP
+SMS,SMS
+SMS Body,SMS Body
+SMS Notifications,SMS-уведомления
+SMS Status,Статус SMS
+SMTP,SMTP
+SMTP Host,SMTP-хост
+SMTP Pass,SMTP Pass
+SMTP Port,SMTP порт
+SMTP User,Пользователь SMTP
+Start prefix,Начальный префикс
+Starting Digit,Начальная цифра
+Status,Положение дел
+Strip,Полоса
+Strong,Сильный
+Subject,Тема
+Subscription,Подписка
+Supportticket,Поддержка
+Switch,Переключатель
+Tariff,Тариф
+Tax,Налог
+Tax Information,Налоговая информация
+Telephone,телефон
+Telephone as account number,Телефон как номер счета
+Templates,Шаблоны
+Term. Cost,Срок. Стоимость
+Term. Destination,Срок. Пункт назначения
+Term. Prefix,Срок. Приставка
+Term. Trunk,Срок. Хобот
+Termination Rates,Ставки прекращения
+Third Party,Третье лицо
+This Month,Этот месяц
+This Week,Эта неделя
+Timelimit Announcement,Объявление о сроках
+Timestamp,Отметка времени
+Timezone,Часовой пояс
+To,Чтобы
+To Number,На номер
+To Timestamp,К отметке времени
+Today,Cегодня
+Top 10 Accounts,10 лучших аккаунтов
+Top 10 Destinations,10 лучших направлений
+Total Calls,Всего звонков
+Total Charges,Общие расходы
+Total Minutes,Всего минут
+Transaction ID,номер транзакции
+Translations,Переводы
+Translations Language,Язык переводов
+Trunk,Хобот
+Trunks,Сундуки
+Type,Тип
+Unpaid,Неоплаченный
+Update,Обновить
+Used,Используемый
+Used Date,Дата использования
+Username,Имя пользователя
+Version,Версия
+Version 4.0 Beta,Версия 4.0 Бета
+View All,Посмотреть все
+View Details,Посмотреть детали
+Voicemail,Голосовая почта
+Voicemail Number,Номер голосовой почты
+Website,Веб-сайт
+Welcome File,Приветственный файл
+Yes,да
+Zip Code,Почтовый Индекс
+Panel Access,Доступ к панели
+Profile,Профиль
+Billing Settings,Настройки биллинга
+Pin,Штырь
+Account Settings,Настройки учетной записи
+Notification Email,Уведомление по электронной почте
+Address,Адрес
+NON-CLI Rate Group,Группа ставок без интерфейса командной строки
+Billing Schedule,График выставления счетов
+Billing Day,День выставления счета
+Tax Number,Налоговый номер
+Invoice Note,Счет-фактура
+Reference,Справка
+Cancel,отменить
+Device Information,Информация об устройстве
+Voicemail Options,Параметры голосовой почты
+Mail To,Отправить письмо
+Attach File,Прикрепить файл
+Local After Email,Местный после электронной почты
+Send all Message,Отправить все сообщение
+Close,Закрыть
+IP map,Карта IP
+Identificador de llamadas,Identificador de llamadas
+Add Caller ID,Добавить идентификатор вызывающего абонента
+Create Reseller,Создать реселлера
+Role Name,Имя роли
+Outstanding Amount,Непогашенная сумма
+To Date,На свидание
+Before Balance,До баланса
+Commission Report,Отчет комиссии
+MonthlyFee,Ежемесячная плата
+Grace Time (Sec.),Время отсрочки (сек.)
+Import DIDs,Импортировать DID
+File must be in the following format,Файл должен быть в следующем формате
+DID Import Process,Процесс импорта DID
+Get Sample file,Получить образец файла
+Check Header,Проверить заголовок
+Select the file,Выберите файл
+Account Count,Счетчик
+Acc. Number Length,Соотв. Длина номера
+Valid Days,Действительные дни
+Create Access Number,Создать номер доступа
+Information,Информация
+Import Access Numbers,Импортировать номера доступа
+Access Numbers Import Process,Процесс импорта номеров доступа
+DIDs Bulk Assign,Массовое назначение DID
+Bulk DID Purchase,Массовая покупка DID
+Provience,Провидение
+Assign Number,Назначить номер
+DID Destination,DID Назначение
+DID Forward,СДЕЛАЛ вперед
+Always,Всегда
+If Busy,Если занято
+If SIP Not Registered,Если SIP не зарегистрирован
+If No Answer,Если нет ответа
+New Rate Group Name,Название новой группы ставок
+Duplicate Rate Group Information,Повторяющаяся информация о группе ставок
+Import Origination Rates,Ставки происхождения импорта
+Force Trunk,Force Trunk
+Please select atleast one record to dele,Выберите хотя бы одну запись для удаления
+Import Ratedeck,Импорт Ratedeck
+Optional Information,Дополнительная информация
+From- Domain,From- Домен
+From User,От пользователя
+Extension,Расширение
+Extension-In-Contact,Расширение в контакте
+Ping,пинг
+Contact Params,Связаться с Params
+Retry-Seconds,Retry-Seconds
+Register-Proxy,Регистрация-Прокси
+Channel,Канал
+Failover GW Name,Имя Failover GW
+Create Trunk,Создать ствол
+Import Termination Rates,Ставки прекращения импорта
+Call Timeout (Sec.),Тайм-аут вызова (сек.)
+Trunk List,Список магистралей
+Reset,Сброс
+Create SIP Profile,Создать профиль SIP
+Create Freeswitch Server,Создать сервер Freeswitch
+Live Calls,Живые звонки
+Term Cost,Стоимость срока
+Term Destination,Срок назначения
+Term Prefix,Префикс срока
+Localizaciones,Localizaciones
+Create Localization,Создать локализацию
+Origination,Происхождение
+Termination,Прекращение
+Inbound Callerid Translation,Входящий перевод Callerid
+Destination Number Translation,Перевод номера назначения
+Outbound Callerid Translation,Исходящий перевод Callerid
+Create Call Barring,Создать запрет вызовов
+Callbarring Settings,Настройки запрета вызовов
+Product Summary Report,Сводный отчет о продукте
+SIP User,Пользователь SIP
+Product,Продукт
+Taxes,Налоги
+Update Currencies,Обновить валюты
+File Name,Имя файла
+Database Information,Информация о базе данных
+Database Backup,Резервное копирование базы данных
+Command,Команда
+Cron Settings,Настройки Cron
+Create Cron Settings,Создать настройки Cron
+Stripe,Полоса
+Live Secret key,Живой секретный ключ
+Live Publishable key,Ключ Live Publishable
+Set Percentage Charges,Установить процентные платежи
+Set Fix Charges,Установить фиксированные сборы
+Stripe Mode,Полосовой режим
+Sandbox secret key,Секретный ключ песочницы
+Sandbox publishable key,Публикуемый ключ песочницы
+Version 4.0 Enterprise,Версия 4.0 Enterprise
+Powered by,Питаться от
+Import Customer Using Field Mapper,Импортировать клиента с помощью Field Mapper
+You must either select a field from your,Вы должны либо выбрать поле из своего
+Records with duplicate account number an,Записи с повторяющимся номером счета
+Account Import Error,Ошибка импорта аккаунта
+Back to Customer List,Вернуться к списку клиентов
+Duplicate accounts with account number /,Дубликаты счетов с номером счета /
+Records imported successfully,Записи успешно импортированы
+Records not imported,Записи не импортированы
+Error In CSV File,Ошибка в CSV-файле
+Invoice Summary,Сводка счета
+Customer Details,Детали клиента
+Invoice Details,Детали счета
+Account Number,Номер счета
+Invoice Amount,Сумма счета
+Invoice Item,Позиция счета
+Sub Total,Промежуточный итог
+Total Due,Итого к оплате
+Note,Запись
+Add Setting,Добавить настройку
+Edit SIP Profile,Изменить профиль SIP
+New,Новый
+Used?,Используемый?
+View Email,Просмотреть электронную почту
+Active,Активный
+Inactive,Неактивный
+Black List,Черный список
+White List,Белый список
+Freeswitch Server Information,Информация о сервере Freeswitch
+Currencies,Валюты
+Edit Currency,Изменить валюту
+Is Distributor,Дистрибьютор
+Package created successfully!,Пакет успешно создан!
+DID Removed Successfully.,ДЕЙСТВИТЕЛЬНО удалено успешно.
+DID not found.,НЕ НАЙДЕН.
+Password changed Sucessfully....!!!,Пароль изменен успешно .... !!!
+New Password & Conformpassword not match,Новый пароль и соответствующий пароль не совпадают
+Invalid old passwword.,Неверный старый пароль.
+Permission Denied!,В доступе отказано!
+Refill Coupon amount is added successful,Сумма пополнения купона успешно добавлена
+PLease upload maximum file,"Пожалуйста, загрузите максимальный файл"
+files added successfully!,файлы успешно добавлены!
+File Uploading Fail Please Try Again,"Ошибка при загрузке файла, попробуйте еще раз"
+Please upload only image!,"Пожалуйста, загружайте только изображение!"
+Invoice config updated successfully!,Конфигурация счета-фактуры успешно обновлена!
+Your Profile Updated Successfully!,Ваш профиль успешно обновлен!
+Something wrong.Please contact to admini,"Что-то не так, обратитесь к админу"
+DID Released Successfully!,Выпущено успешно!
+IP already exist in system.,IP уже существует в системе.
+IP Added Sucessfully.,IP добавлен успешно.
+IP Removed Sucessfully.,IP-адрес успешно удален.
+SIP Device Updated Successfully!,Устройство SIP обновлено успешно!
+SIP Device Added Successfully!,Устройство SIP успешно добавлено!
+SIP Device Removed Sucessfully!,Устройство SIP успешно удалено!
+Caller ID Added Sucessfully!,АОН успешно добавлен!
+Please Enter Caller ID value.,"Пожалуйста, введите значение идентификатора вызывающего абонента."
+Caller ID already Exists.,АОН уже существует.
+Caller ID removed sucessfully!,АОН успешно удален!
+Alert Threshold Updated Successfully!,Пороговое значение оповещения успешно обновлено!
+Can not trnasfer fund to postpaid custom,Невозможно перевести средства на постоплатный заказ
+Access Denied! unable transfer fund to t,Доступ не разрешен! невозможно перевести средства в т
+You can not transfer fund in same account,Вы не можете перевести средства на тот же счет
+You can only transfer fund in same level,Вы можете переводить средства только того же уровня
+Please enter To account number.,"Пожалуйста, введите Кому номер счета."
+Please enter valid amount.,"Пожалуйста, введите действительную сумму."
+You have insufficient balance.,У вас недостаточно баланса.
+Please enter valid account number.,"Пожалуйста, введите действующий номер счета."
+Please enter amount greater then 0.,"Пожалуйста, введите сумму больше 0."
+You need to enter minimum for fund trans,Вам необходимо ввести минимум для трансфера фонда
+Please enter valid account number!,"Пожалуйста, введите действующий номер счета!"
+Insuffiecient amount !,Недостаточная сумма!
+Transfer successfully!,Перенос успешно!
+Account number not found.,Номер счета не найден.
+OpenSips updated successfully!,OpenSips успешно обновлен!
+Duplicate Username Found.Username Must b,Обнаружено повторяющееся имя пользователя. Имя пользователя должно быть b
+User name is required field.,Имя пользователя - обязательное поле.
+Opensips Device Removed Successfully!.,Устройство Opensips успешно удалено !.
+Speed-dial Number Added Successfully!,Номер быстрого набора добавлен успешно!
+Can not delete blank speeddial number,Невозможно удалить пустой номер быстрого набора
+Speed-dial Number Removed Successfully!,Номер быстрого набора успешно удален!
+Pin Updated Successfully!,PIN-код успешно обновлен!
+DID Updated Successfully!,ДЕЙСТВИТЕЛЬНО обновлено успешно!
+for fund transfer.,для перевода средств.
+You need to enter minimum,Вам нужно ввести минимум
+please enter recharge value,введите сумму пополнения
+New Password,Новый пароль
+Old Password,Прежний пароль
+Conform Password,Подтвердить пароль
+Letters only please,Только письма пожалуйста
+IP Mapping,Отображение IP
+The Coupon Number field must contain onl,Поле «Номер купона» должно содержать только
+The Coupon Number field have inactive re,Поле «Номер купона» неактивно.
+This Coupon Number is already in use.,Этот номер купона уже используется.
+This Coupon Number is not found.,Этот номер купона не найден.
+The Coupon Number field is required.,Поле Номер купона является обязательным.
+REFILL COUPON RECHARGE,ДОПОЛНИТЕЛЬНЫЙ КУПОН ЗАРЯДКА
+You just recharged,Ты только что перезарядился
+account with The new balance will be,счет с новым балансом будет
+My Profile,Мой профайл
+My Account,Мой счет
+Alert Threshold,Порог оповещения
+The Caller ID field is required.,Поле Caller ID обязательно для заполнения.
+Change Password,Измени пароль
+Bill Type,Тип счета
+Bill Days,Билл Дней
+New Products,новые продукты
+Active Products,Активные продукты
+Outstanding,Выдающийся
+Today's Calls,Сегодняшние звонки
+Recent Calls,Недавние звонки
+The Available DIDs field is required.,Поле Доступные DID является обязательным.
+Please enter your password,Пожалуйста введите ваш пароль
+Please enter your first name,"Пожалуйста, введите ваше имя"
+Please enter your email,"Пожалуйста, введите вашу электронную почту"
+Please enter valid email,"Пожалуйста, введите действующий адрес электронной почты"
+This field is required.,Это поле обязательно к заполнению.
+Email Setting,Настройка электронной почты
+SMTP Password,SMTP пароль
+Are you sure want to remove logo?,Вы действительно хотите удалить логотип?
+The IP field must contain a unique value,Поле IP должно содержать уникальное значение.
+The IP field have not valid IP.,В поле IP указан неверный IP.
+The IP field is required.,Поле IP обязательно для заполнения.
+The Name field is required.,Необходимо ввести имя в поле.
+Please enter only alpha-numeric value,"Пожалуйста, введите только буквенно-цифровое значение"
+Are you sure want to delete speed dial r,Вы действительно хотите удалить быстрый набор?
+Generated Date,Дата создания
+My Products,Мои продукты
+Pinless CLI,Безконтактный интерфейс командной строки
+Refill Coupon,Пополнить купон
+TopUp,TopUp
+Pay with Paypal,Оплата с PayPal
+Pay with Card,Оплата картой
+Assign,Назначить
+Send Credit,Отправить кредит
+To Account,На счет
+From Account,Из аккаунта
+Transfer,Перечислить
+Telephone 1,Телефон 1
+Telephone 2,Телефон 2
+Address 2,Адрес 2
+Zip/Postal Code,Почтовый индекс
+User Profile,Профиль пользователя
+Low Balance Alert Level,Уровень предупреждения о низком балансе
+Enable Email Alerts ?,Включить оповещения по электронной почте?
+Low Balance Alert Email,Электронное письмо с предупреждением о низком балансе
+User name,Имя пользователя
+Something went to wrong !,Что-то пошло не так!
+Product Purchased successfully !,Товар приобретен успешно!
+Insufficent Balance to purchase product ,Недостаточный баланс для покупки продукта
+Product assigned successfully!,Продукт успешно назначен!
+Something went wrong !,Что-то пошло не так !
+Product Not Found,Товар не найден
+Transaction has been failed,Транзакция не удалась
+not inserted. Transaction has been faile,не вставлен. Транзакция не удалась
+Select Customer.,"Выберите ""Клиент""."
+Product Information,информация о продукте
+Price+SetUp Fee,Цена + плата за установку
+Use Voucher,Использовать ваучер
+Amount Without Tax,Сумма без налога
+Total Tax,Общий налог
+Amount With Tax,Сумма с налогом
+Parent Products,Родительские продукты
+Edit Product,Изменить продукт
+Product updated successfully!,Товар успешно обновлен!
+Product added successfully!,Товар успешно добавлен!
+Product removed successfully!,Товар успешно удален!
+Product optin successfully!,Продукт успешно выбран!
+Edit Info,Редактировать информацию
+Product assign successfully,Продукт успешно назначен
+Insufficient balance to assign product!,Недостаточный баланс для назначения товара!
+Terminated Updated Successfully!,Прекращено Обновлено успешно!
+Terminated,Прекращено
+Setup Cost,Стоимость установки
+Order New,Заказать новый
+Caller ID updated successfully!,АОН успешно обновлен!
+Caller ID added successfully!,АОН успешно добавлен!
+Caller ID removed successfully!,АОН успешно удален!
+Name is not contain any space,Имя не должно содержать пробелов
+Name already exist in system.,Имя уже существует в системе.
+Callbarring Settings Updated Successfull,Настройки запрета вызовов обновлены успешно
+allbarring Settings Added Successfully!,Настройки allbarring успешно добавлены!
+Call Barring Removed Successfully!,Запрет вызовов успешно удален!
+Calltype already exist in system.,Тип вызова уже существует в системе.
+Calltype Updated Successfully!,Тип вызова обновлен успешно!
+Calltype Added Successfully!,Тип вызова успешно добавлен!
+calltype removed successfully!,calltype успешно удален!
+File must be in the following format(.cs,Файл должен быть в следующем формате (.cs
+Import Package Codes:,Коды пакетов импорта:
+Records Imported Successfully:,Записи успешно импортированы:
+Records Not Imported :,Записи не импортированы:
+Download Errors,Ошибки загрузки
+Back to Package Patterns List,Вернуться к списку шаблонов пакетов
+Add To List,Добавить в список
+Routing Prefix already exist in system.,Префикс маршрутизации уже существует в системе.
+Rate Group Updated Successfully!,Группа оценок успешно обновлена!
+Rate Group Added Successfully!,Оценка группы успешно добавлена!
+Duplicate Rate Group Added Successfully!,Повторяющаяся группа ставок успешно добавлена!
+Routing Prefix (Enterprise),Префикс маршрутизации (Enterprise)
+Priority (Enterprise),Приоритет (предприятие)
+Percentage (WIP) (Enterprise),Процент (WIP) (Enterprise)
+LCR,LCR
+Percentage,Процент
+Tax removed successfully!,Налог успешно удален!
+Tax added successfully!,Налог успешно добавлен!
+Tax updated successfully!,Налог успешно обновлен!
+Charges List,Список сборов
+Trunk Updated Successfully!,Багажник успешно обновлен!
+Trunk Added Successfully!,Багажник успешно добавлен!
+Trunk removed successfully!,Багажник успешно удален!
+setting updated successfully!,настройка успешно обновлена!
+Template Updated Successfully!,Шаблон успешно обновлен!
+Template Added Successfully!,Шаблон успешно добавлен!
+Country Updated successfully!,Страна успешно обновлена!
+Country Added successfully!,Страна успешно добавлена!
+Country removed successfully!,Страна успешно удалена!
+Currency Updated Successfully!,Валюта обновлена ​​успешно!
+Rates,Ставки
+My Rates,Мои ставки
+Cost / Min,Стоимость / мин.
+Purchase,Покупка
+Available DIDs,Доступные DID
+New IP,Новый IP
+Digits,Цифры
+Email Address,Адрес электронной почты
+Call Forward,Переадресация звонка
+If Busy:,Если занято:
+If SIP Not Registered:,Если SIP не зарегистрирован:
+If No Answer:,Если нет ответа:
+Pay Now,Заплатить сейчас
+Pay with Account,Оплатить через аккаунт
+Please wait,"пожалуйста, подождите"
+Coupon Number:,Номер купона:
+Add Voucher,Добавить ваучер
+Selected Plan,Выбранный план
+My Product,Мой продукт
+Parent Product,Родительский продукт
+Edit Email Template,Изменить шаблон электронного письма
+Details,Детали
+KEY,КЛЮЧ
+Value,ЗНАЧЕНИЕ
+Records with duplicate account number and email will be ignored.,Записи с одинаковым номером учетной записи и адресом электронной почты игнорируются.
+Account Details,Детали учетной записи
+Mass Customer,Массовый покупатель
+Daily,Ежедневно
+Monthly,Ежемесячно
+Prepaid,Предоплата
+Postpaid,Постоплата
+Force Caller ID,Принудительный идентификатор вызывающего абонента
+Customer Profile,Профиль пользователя
+Caller Id Name,Имя вызывающего абонента
+Caller Id Number,Идентификационный номер вызывающего абонента
+Blocked Codes,Заблокированные коды
+Page will display only receipts and confirmed invoices.,На странице будут отображаться только квитанции и подтвержденные счета.
+Accessnumber Updated Successfully!,Номер доступа успешно обновлен!
+Accessnumber Removed Successfully!,Номер доступа успешно удален!
+Invalid file format : Only CSV file allows to import records(Can't import empty file),Неверный формат файла: только файл CSV позволяет импортировать записи (невозможно импортировать пустой файл)
+Please Select File.,"Пожалуйста, выберите файл."
+ are required, необходимы
+ is Required, требуется для
+ is not Valid, не является допустимым
+Duplicate accessnumber found from database,В базе данных обнаружен повторяющийся номер доступа
+Duplicate accessnumber found from import file.,В файле импорта обнаружен повторяющийся номер доступа.
+Total,Всего
+AccessNumber Imported Successfully!,AccessNumber успешно импортирован!
+Records Not Imported:,Записи не импортированы:
+Back to AccessNumber List,Вернуться к списку AccessNumber
+Speed Dial Number Updated Successfully,Номер быстрого набора обновлен успешно
+Please insert only numeric value!,"Пожалуйста, вставляйте только числовое значение!"
+Speed Dial Number Removed Successfully,Номер быстрого набора успешно удален
+Speed Dial Number is Empty,Номер быстрого набора пуст
+Sip Device removed successfully!,Устройство Sip успешно удалено!
+Sip updated successfully!,Sip успешно обновлен!
+Block Code Removed Sucessfully!,Код блокировки успешно удален!
+Your Account Limit has been reached.Please Change Your Prefix.,Достигнут лимит вашего аккаунта. Измените префикс.
+Please Enter Proper Account Length.,"Пожалуйста, введите правильную длину учетной записи."
+Bulk customer generate successfully!,Массовый клиент сгенерирован успешно!
+Recharge successfully!,Успешно зарядитесь!
+Post charge applied successfully.,Плата за публикацию успешно применена.
+Account callerID updated successfully!,Аккаунт callerID успешно обновлен!
+Account callerID added successfully!,Аккаунт callerID успешно добавлен!
+Reseller updated successfully!,Реселлер успешно обновлен!
+Reseller added successfully!,Реселлер успешно добавлен!
+Updated successfully!,Успешно Обновлено!
+Added Successfully!,Добавлено успешно!
+Customer batch updated successfully!,Пакет клиента успешно обновлен!
+Reseller batch updated successfully!,Пакет реселлера успешно обновлен!
+Customer Removed Successfully!,Клиент удален успешно!
+Reseller Removed Successfully!,Реселлер успешно удален!
+Provider Removed Successfully!,Провайдер успешно удален!
+Admin Removed Successfully!,Админ удален успешно!
+Sub Admin Removed Successfully!,Субадминистратор успешно удален!
+DID Added Successfully.,ДИД добавлен успешно.
+DID Already Removed Before.,ДЕЙСТВИТЕЛЬНО уже удалено раньше.
+Account Tax Added Successfully!,Налог на счет успешно добавлен!
+Account Tax Removed Successfully!,Налог с учетной записи успешно удален!
+Product Removed Sucessfully.,Продукт успешно удален.
+Email Resend Successfully!,Электронная почта успешно отправлена ​​повторно!
+Email List Updated Successfully!,Список рассылки обновлен успешно!
+Email List Added Successfully!,Список рассылки успешно добавлен!
+Email Removed Successfully!,Электронная почта успешно удалена!
+Please Try Again!,"Пожалуйста, попробуйте снова!"
+Email BroadCast Successfully!,Email BroadCast успешно!
+No Record Found!,Записей не найдено!
+Email Address Not Found!,Электронный адрес не найден!
+Edit Freeswitch SIP Devices,Редактировать устройства Freeswitch SIP
+Create Freeswitch SIP Devices,Создание SIP-устройств Freeswitch
+Gateway Updated Successfully!,Шлюз успешно обновлен!
+Gateways already exist in system.,Шлюзы уже существуют в системе.
+Gateway name must not have any space.,В имени шлюза не должно быть пробелов.
+Gateway Added Successfully!,Шлюз успешно добавлен!
+Gateway Removed Successfully!,Шлюз успешно удален!
+Please enter All profile value!,"Пожалуйста, введите все значения профиля!"
+SIP Profile name must not have any space!,В имени профиля SIP не должно быть пробелов!
+Duplicate SIP IP OR Port found it must be unique!,Обнаружен повторяющийся IP-адрес SIP ИЛИ Порт должен быть уникальным!
+SIP Profile Added Successfully!,Профиль SIP успешно добавлен!
+Name must be unique!,Имя должно быть уникальным!
+SIP Profile Updated Successfully!,Профиль SIP успешно обновлен!
+SIP Setting Added Successfully!,Настройка SIP успешно добавлена!
+SIP Setting Updated Successfully!,Настройка SIP успешно обновлена!
+SIP Setting Removed Successfully!,Настройка SIP успешно удалена!
+SIP Profile Removed Successfully!,Профиль SIP успешно удален!
+Host Already Exist in System.,Хост уже существует в системе.
+Freeswitch Server Updated Successfully!,Сервер Freeswitch успешно обновлен!
+Freeswitch Server Added Successfully!,Сервер Freeswitch успешно добавлен!
+Freeswitch Server Removed Successfully!,Сервер Freeswitch успешно удален!
+Invoice updated successfully!,Счет успешно обновлен!
+Invoice payment done successfully!,Оплата счета прошла успешно!
+Account Not Found.,Аккаунт не найден.
+Invoice payment amount should be higher then the invoice amount.,Сумма платежа по счету должна быть больше суммы по счету.
+The Favicon file size shoud not exceed 1MB!,Размер файла Favicon не должен превышать 1 МБ!
+Please upload 250 * 60 size file,Загрузите файл размером 250 * 60
+Logo only allows file types of JPG and JPEG.,В логотипе разрешены только типы файлов JPG и JPEG.
+Favicon only allows file types of ICO,Favicon разрешает только типы файлов ICO
+Please upload 16 * 16 size of favicon.,"Пожалуйста, загрузите фавикон размером 16 * 16."
+Company profile updated sucessfully!,Профиль компании успешно обновлен!
+Company profile added sucessfully!,Профиль компании успешно добавлен!
+Permission Denied.,В доступе отказано.
+is Deleted Sucessfully!,удаляется успешно!
+To date should not be greater than current date.,Дата не должна быть больше текущей даты.
+Invoice generation completed.,Формирование счета завершено.
+No data found,Данные не найдены
+Invoices removed successfully,Счета успешно удалены
+The Prefix field must contain a unique value.,Поле «Префикс» должно содержать уникальное значение.
+The IP field must contain a unique value.,Поле IP должно содержать уникальное значение.
+IP Map added successfully!,Карта IP успешно добавлена!
+IP Map removed successfully!,Карта IP успешно удалена!
+Localization Added Successfully!,Локализация успешно добавлена!
+Localization Updated Successfully!,Локализация успешно обновлена!
+Localization Removed Successfully!,Локализация успешно удалена!
+Globalization is already exist in this system,Глобализация уже существует в этой системе
+Dispatcher Updated Successfully!,Диспетчер успешно обновлен!
+Dispatcher Added Successfully!,Диспетчер успешно добавлен!
+Dispatcher Removed Successfully!,Диспетчер успешно удален!
+Code is already in system,Код уже в системе
+Country is already in system,Страна уже в системе
+Ratedeck updated successfully!,Ratedeck успешно обновлен!
+Ratedeck added successfully!,Рейтдек успешно добавлен!
+Ratedeck removed successfully!,Ratedeck успешно удален!
+Duplicate Ratedeck Number found from import file.,В файле импорта обнаружен повторяющийся номер Ratedeck.
+Ratedeck Imported Successfully!,Ratedeck успешно импортирован!
+Ratedeck Import Error,Ошибка импорта Ratedeck
+Back to Ratedeck List,Вернуться к списку рейтингов
+Origination Rate Imported Successfully!,Скорость инициации успешно импортирована!
+Origination Rate Updated Successfully!,Скорость создания обновлена ​​успешно!
+Origination Rate Added Successfully!,Скорость создания успешно добавлена!
+Termination Rates Batch Updated Successfully!,Пакет ставок на завершение успешно обновлен!
+Map CSV to Termination Rates,Сопоставить CSV с коэффициентами прерывания
+Data Example,Пример данных
+Map to Field,Карта в поле
+PREFIX/DEFAULT VALUE,ПРЕФИКС / ЗНАЧЕНИЕ ПО УМОЛЧАНИЮ
+ASTPP Field,Поле АСТПП
+Created,Создано
+Modified,Изменено
+You can not create,Вы не можете создать
+Refill coupon with,Пополнить купон с помощью
+You can create maximum,Вы можете создать максимум
+Refill coupon created successfully!,Купон на пополнение счета успешно создан!
+Currency Added Successfully!,Валюта успешно добавлена!
+Currency Removed Successfully!,Валюта успешно удалена!
+Backup Exported Successfully!,Резервная копия успешно экспортирована!
+An error occur when the system tried to backup of the database. Please check yours system settings for the backup section,"Ошибка возникает при попытке системы сделать резервную копию базы данных. Пожалуйста, проверьте настройки вашей системы для раздела резервного копирования"
+Database Restore successfully.,Восстановление базы данных выполнено успешно.
+File not exists!,Файл не существует!
+There is a some issue or invalid file format.,Возникла проблема или недопустимый формат файла.
+Database backup deleted successfully.,Резервная копия базы данных успешно удалена.
+Languages updated successfully!,Языки успешно обновлены!
+Languages removed successfully!,Языки успешно удалены!
+Languages added successfully!,Языки успешно добавлены!
+Translation updated successfully!,Перевод успешно обновлен!
+Translation added successfully!,Перевод успешно добавлен!
+Update Languages,Обновить языки
+Speed Dial,Быстрый набор
+Payment,Оплата
+Method,Метод
+Once you confirm the invoice,После подтверждения счета
+Payment Gateway Permission,Разрешение на платежный шлюз
+Zip Code,Почтовый Индекс
+Yes,да
+Back,Назад
+Edit Reseller,Изменить реселлера
+Asignar DID a granel,Асигнар СДЕЛАЛ гранель
+DIDs Search,Поиск DID
+By Month,По месяцам
+Create Gateway,Создать шлюз
+Calling Card Language,Язык телефонной карты
+Last,Последний
+Pay Date,Дата оплаты
+Purchase DID,Покупка DID
+Caller-ID-A-Form,Caller-ID-A-Form
+Expire Seconds,Срок действия секунд
+Termination Date,Дата окончания
+Registration Date,Дата регистрации
+Payment By,Оплата
+Product Status,Статус продукта
+Minute,Минуты
+Hour,Час
+Day,День
+Month,Месяц
+Year,Год
+List,Список
+Edit,редактировать
+Not Avaialable any Subscription.,Подписка недоступна.
+Not Avaialable any Package for this Country.,Не доступен ни один пакет для этой страны.
+You can only transfer fund in same level account.,Вы можете переводить средства только на счет того же уровня.
+You can not transfer fund in same account.,Вы не можете переводить средства на тот же счет.
+Monthly Fee,Ежемесячная плата
+Bulk DID Assign,Массовое назначение DID
+Invoice Start From,Счет-фактура начинается с
+Edit Gateway,Изменить шлюз
+Number Of Default Rows,Количество строк по умолчанию
+Mobile Dialer,Мобильный дозвонщик
+Trunk Count,Счетчик багажника
+Welcome File,Приветственный файл
+Local Call Timeout (Sec.),Тайм-аут местного вызова (сек.)
+Rate check for DID,Проверка скорости для DID
+DID Localization,DID Локализация
+Voicemail Number,Номер голосовой почты
+OTP Expire Time(min),Время истечения OTP (мин)
+Edit Provider,Изменить провайдера
+Product Summary Reports,Сводные отчеты по продукту
+Edit Origination Rate,Изменить скорость создания
+Dialplan Variable,Переменная диалплана
+Uninstall,Удалить
+Call Stat,Статистика звонков
+Failed Calls,Неудачные звонки
+Top 10 Countries,10 лучших стран
+By Minutes,По минутам
+By Calls,По звонкам
+Telephone number is only numeric,Номер телефона только числовой
+Please enter valid Captcha code,"Пожалуйста, введите действительный код Captcha"
+Please contact to administrator,Обратитесь к администратору
+Requested email is already exist,Запрошенный адрес электронной почты уже существует
+Requested number is already exist,Запрошенный номер уже существует
+Please enter correct words!,"Пожалуйста, введите правильные слова!"
+THIS IS REQUIRED!,ЭТО ОБЯЗАТЕЛЬНО!
+Your account has been deleted. Please contact administrator for more information.,"Ваша учетная запись удалена. Пожалуйста, свяжитесь с администратором для получения дополнительной информации."
+Your account is inactive. Please contact administrator for more information.,"Ваша учетная запись неактивна. Пожалуйста, свяжитесь с администратором для получения дополнительной информации."
+Please enter proper Email.,"Пожалуйста, введите правильный адрес электронной почты."
+Please enter proper Username.,"Пожалуйста, введите правильное имя пользователя."
+This Username or Email is not valid.,Это имя пользователя или адрес электронной почты недействителен.
+ASTPP - A Smart TelePhony Platform,ASTPP - интеллектуальная платформа телефонии
+Forgot Password,Забыли пароль
+ASTPP work best with JavaScript enabled,ASTPP лучше всего работает с включенным JavaScript
+Enter Your Password,Введите свой пароль
+Confirm Password,Подтвердите Пароль
+The Email field is Required,Поле адреса электронной почты обязательно для заполнения
+The Account Number field is Required,"Поле ""Номер счета"" обязательно для заполнения."
+Set Default Language,Установить язык по умолчанию
+Please Re-login to get Impact of selected language.,"Пожалуйста, войдите повторно, чтобы оценить влияние выбранного языка."
+Default Language,Язык по умолчанию
+Signup now!,Войти Сейчас!
+Forgot Password?,Забыли пароль?
+Sign in,войти в систему
+Username OR Email,Имя пользователя или адрес электронной почты
+Username is Required,Имя пользователя требуется
+Password is Required,Необходим пароль
+Please Check Your account is deleted or inactive from admin side,"Пожалуйста, проверьте, что ваша учетная запись удалена или неактивна со стороны администратора"
+Please do not use default or less secure password for your account!! You must change password from,"Пожалуйста, не используйте пароль по умолчанию или менее безопасный пароль для своей учетной записи !! Вы должны изменить пароль от"
+HERE,ВОТ
+Login unsuccessful. Please make sure you entered the correct username and password,"Неудачный вход. Убедитесь, что вы ввели правильный логин и пароль"
+Please enter Username/email and Password.,"Пожалуйста, введите имя пользователя / адрес электронной почты и пароль."
+Payment transaction invalid. Please contact Administrator.,Платежная операция недействительна. Свяжитесь с администратором.
+Log In,Авторизоваться
+Please Enter Password,Пожалуйста введите пароль
+Password must be at least 8 characters and must contain at least one lower case letter,Пароль должен состоять не менее чем из 8 символов и содержать хотя бы одну строчную букву.
+Please Enter Confirm Password,"Пожалуйста, введите Подтвердите Пароль"
+Confirm Password is not match,Подтвердите пароль не совпадает
+We sent update password link.,Мы отправили ссылку для обновления пароля.
+Please check your Email!,"Пожалуйста, проверьте свою электронную почту!"
+Login,Авторизоваться
+OTP Verification,OTP верификация
+OTP Number is Required,Требуется номер OTP
+Your account created successfully and account details sent to your registered email address,"Ваша учетная запись успешно создана, и данные учетной записи отправлены на ваш зарегистрированный адрес электронной почты"
+Your password change successfully and new password sent to your registered email address,"Ваш пароль успешно изменен, и новый пароль отправлен на ваш зарегистрированный адрес электронной почты"
+OTP Number is Wrong Please try again Or OTP expire Please Resend,Неправильный номер OTP. Повторите попытку. Или срок действия OTP истек. Отправьте повторно.
+OTP has been sent on your email or Telephone number,OTP был отправлен на вашу электронную почту или номер телефона
+OTP,OTP
+Resend OTP,Отправить OTP повторно
+OTP Sent time Out,Время ожидания отправлено OTP
+Not Get OTP ?,Не получаете OTP?
+Note:,Заметка:
+Please make sure do not refresh the page or don't go back,"Пожалуйста, не обновляйте страницу и не возвращайтесь"
+Login unsuccessful. Please make sure you entered the correct username and password,"Неудачный вход. Убедитесь, что вы ввели правильный логин и пароль"
+Your account has been created successfully!,Ваша учетная запись успешно создана!
+Here is your login information,Вот ваша информация для входа
+Link is Expire Please Try Again,"Срок действия ссылки истек, попробуйте еще раз"
+Sorry,сожалею
+Please contact administrator for more information,"Пожалуйста, свяжитесь с администратором для получения дополнительной информации"
+Successful!,Успешно!
+Captcha is required,Требуется капча
+First Name is Required,Имя обязательно
+Telephone is Required,Телефон не требуется
+Email is Required,Электронная почта обязательна
+Please enter a valid email address,"Пожалуйста, введите действительный адрес электронной почты"
+Please make sure you entered the correct username and password,"Убедитесь, что вы ввели правильный логин и пароль"
+Company Name,название компании
+Enter above Captcha,Введите выше Captcha
+Sign up,зарегистрироваться
+Already Registered !,Уже зарегистрирован !
+January,Январь
+February,Февраль
+March,марш
+April,апреля
+May,май
+June,Июнь
+July,Июль
+August,Август
+September,сентябрь
+October,Октябрь
+November,Ноябрь
+December,Декабрь
+Doesn't Contain,Не содержит
+Greater Than,Лучше чем
+Less Than,"Меньше, чем"
+Greater Or Equal Than,"Больше или равно, чем"
+Less Or Equal Than,"Меньше или равно, чем"
+Set To,Установлен в
+Increase By,Увеличить на
+Decrease By,Уменьшить на
+Community,Сообщество
+You must either select a field from your file OR provide a default value for the following fields:,"Вы должны либо выбрать поле в своем файле, либо указать значение по умолчанию для следующих полей:"
+Note : Records with duplicate account number and email will be ignored.,Примечание. Записи с одинаковым номером учетной записи и адресом электронной почты игнорируются.
+Map CSV to Customers,Сопоставить CSV с клиентами
+Account Information,Информация Об Учетной Записи
+Select Account,Выберите аккаунт
+DEFAULT VALUE,ЗНАЧЕНИЕ ПО УМОЛЧАНИЮ
+SIP Username,Имя пользователя SIP
+sip_username,sip_username
+SIP Password,SIP пароль
+Same as Password,"То же, что и пароль"
+Same as Account Number,"То же, что и номер счета"
+Random,Случайный
+Import File Data.,Импортировать данные файла.
+Process Records,Записи процесса
+Note : Duplicate accounts with account number / email are ignored.,Примечание. Дублирующиеся учетные записи с номером учетной записи / адресом электронной почты игнорируются.
+Remove,удалять
+Number of Account,Номер Аккаунта
+Account Number Length,Длина номера счета
+DID (CLI Match,DID (совпадение CLI
+Caller Id (CLI Match,Идентификатор вызывающего абонента (соответствие CLI
+Use NON-CLI Rate Group (If CLI not match with DID),Использовать группу скорости без интерфейса командной строки (если интерфейс командной строки не совпадает с DID)
+Use NON-CLI Rate Group (If CLI not match with Caller ID),Использовать группу скорости без интерфейса командной строки (если интерфейс командной строки не совпадает с идентификатором вызывающего абонента)
+Use NON-CLI Rate Group (If CLI not match with DID & Caller id),Использовать группу скорости без CLI (если CLI не совпадает с DID и идентификатором вызывающего абонента)
+Reject Call (If CLI not match with DID),Отклонить вызов (если CLI не совпадает с DID)
+Reject Call (If CLI not match with Caller ID),Отклонить вызов (если интерфейс командной строки не соответствует идентификатору вызывающего абонента)
+Reject Call (If CLI not match with DID & Caller id),Отклонить вызов (если CLI не соответствует DID и идентификатору вызывающего абонента)
+--Select--,--Выбрать--
+Test Mail,Тестовое письмо
+Reset Password,Сброс пароля
+AFGHANISTAN,АФГАНИСТАН
+ALBANIA,АЛБАНИЯ
+ALGERIA,АЛЖИР
+AMERICAN SAMOA,АМЕРИКАНСКОЕ САМОА
+ANDORRA,АНДОРРА
+ANGOLA,АНГОЛА
+ANGUILLA,АНГИЛЬЯ
+ANTIGUA & BARBUDA,АНТИГУА И БАРБУДА
+ARGENTINA,АРГЕНТИНА
+ARMENIA,АРМЕНИЯ
+ARUBA,АРУБА
+AUSTRALIA,АВСТРАЛИЯ
+AUSTRIA,АВСТРИЯ
+AZERBAIJAN,АЗЕРБАЙДЖАН
+BAHAMAS,БАГАМЫ
+BAHRAIN,БАХРЕЙН
+BANGLADESH,БАНГЛАДЕШ
+BARBADOS,БАРБАДОС
+BELARUS,БЕЛАРУСЬ
+BELGIUM,БЕЛЬГИЯ
+BELIZE,БЕЛИЗ
+BENIN,БЕНИН
+BERMUDA,БЕРМУДЫ
+BHUTAN,БУТАН
+BOLIVIA,БОЛИВИЯ
+BOSNIA AND HERZEGOVINA,БОСНИЯ И ГЕРЦЕГОВИНА
+BOTSWANA,БОТСВАНА
+BRAZIL,БРАЗИЛИЯ
+BRITISH VIRGIN ISLANDS,БРИТАНСКИЕ ВИРГИНСКИЕ ОСТРОВА
+BRUNEI,БРУНЕЙ
+BULGARIA,БОЛГАРИЯ
+BURKINA FASO,БУРКИНА-ФАСО
+BURUNDI,БУРУНДИ
+CAMBODIA,КАМБОДЖА
+CAMEROON,КАМЕРУН
+CANADA,КАНАДА
+CAPE VERDE,КАБО-ВЕРДЕ
+CAYMAN ISLANDS,КАЙМАНОВЫ ОСТРОВА
+CENTRAL AFRICAN REPUBLIC,ЦЕНТРАЛЬНО-АФРИКАНСКАЯ РЕСПУБЛИКА
+CHAD,ЧАД
+CHILE,ЧИЛИ
+CHINA,КИТАЙ
+COLOMBIA,КОЛУМБИЯ
+COMOROS,КОМОРСКИЕ ОСТРОВА
+CONGO,КОНГО
+COSTA RICA,КОСТА-РИКА
+CROATIA,ХОРВАТИЯ
+CUBA,КУБА
+CYPRUS,КИПР
+CZECH REPUBLIC,ЧЕХИЯ
+DEMOCRATIC REPUBLIC,ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА
+DENMARK,ДАНИЯ
+DJIBOUTI,ДЖИБУТИ
+DOMINICA,ДОМИНИКА
+DOMINICAN REPUBLIC,ДОМИНИКАНСКАЯ РЕСПБЛИКА
+ECUADOR,ЭКВАДОР
+EGYPT,ЕГИПЕТ
+EL SALVADOR,ЭЛЬ САЛЬВАДОР
+EQUATORIAL GUINEA,ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ
+ERITREA,ЭРИТРЕА
+ERITREA,ЭРИТРЕА
+ETHIOPIA,ЭФИОПИЯ
+FAEROE ISLANDS,ФАЭРОСКИЕ ОСТРОВА
+FIJI ISLANDS,ОСТРОВА ФИДЖИ
+FINLAND,ФИНЛЯНДИЯ
+FRANCE,ФРАНЦИЯ
+FRENCH GUIANA,ФРАНЦУЗСКАЯ ГВИАНА
+FRENCH POLYNESIA,ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ
+GABON,ГАБОН
+GAMBIA,ГАМБИЯ
+GEORGIA,ГРУЗИЯ
+GERMANY,ГЕРМАНИЯ
+GHANA,ГАНА
+GIBRALTAR,ГИБРАЛТАР
+GREECE,ГРЕЦИЯ
+GRENADA,ГРЕНАДА
+GUADELOUPE,ГВАДЕЛУПА
+GUAM,ГУАМ
+GUATEMALA,ГВАТЕМАЛА
+GUINEA,ГВИНЕЯ
+GUINEA BISSAU,ГВИНЕЯ-БИССАУ
+GUYANA,ГАЙАНА
+HAITI,ГАИТИ
+HONDURAS,ГОНДУРАС
+HONG KONG,ГОНКОНГ
+HUNGARY,ВЕНГРИЯ
+ICELAND,ИСЛАНДИЯ
+INDIA,ИНДИЯ
+INDONESIA,ИНДОНЕЗИЯ
+IRAN,ИРАН
+IRAQ,ИРАК
+IRELAND,ИРЛАНДИЯ
+ISRAEL,ИЗРАИЛЬ
+ITALY,ИТАЛИЯ
+IVORY COAST,КОТ-Д'ИВУАР
+JAMAICA,ЯМАЙКА
+JAPAN,ЯПОНИЯ
+JORDAN,ИОРДАНИЯ
+KAZAKHSTAN,КАЗАХСТАН
+KENYA,КЕНИЯ
+KOSOVO,КОСОВО
+KUWAIT,КУВЕЙТ
+KYRGYZSTAN,КЫРГЫЗСТАН
+LAOS,ЛАОС
+LATVIA,ЛАТВИЯ
+LEBANON,ЛИВАН
+LESOTHO,ЛЕСОТО
+LIBERIA,ЛИБЕРИЯ
+LIBYA,ЛИВИЯ
+LIECHTENSTEIN,ЛИХТЕНШТЕЙН
+LITHUANIA,ЛИТВА
+LUXEMBOURG,ЛЮКСЕМБУРГ
+MACAU,МАКАО
+MACEDONIA,МАКЕДОНИЯ
+MADAGASCAR,МАДАГАСКАР
+MALAWI,МАЛАВИ
+MALAYSIA,МАЛАЙЗИЯ
+MALI,МАЛИ
+MALTA,МАЛЬТА
+MARSHALL ISLANDS,МАРШАЛЛОВЫ ОСТРОВА
+MARTINIQUE,МАРТИНИКА
+MAURITANIA,МАВРИТАНИЯ
+MAURITIUS,МАВРИКИЙ
+MEXICO,МЕКСИКА
+MICRONESIA,МИКРОНЕЗИЯ
+MOLDOVA,МОЛДОВА
+MONACO,МОНАКО
+MONGOLIA,МОНГОЛИЯ
+MONTENEGRO,ЧЕРНОГОРИЯ
+MONTSERRAT,МОНЦЕРРАТ
+MOROCCO,МАРОККО
+MOZAMBIQUE,МОЗАМБИК
+MYANMAR,МЬЯНМА
+NAMIBIA,НАМИБИЯ
+NEPAL,НЕПАЛ
+NETHERLANDS,НИДЕРЛАНДЫ
+NEW CALEDONIA,НОВАЯ КАЛЕДОНИЯ
+NEW ZEALAND,НОВАЯ ЗЕЛАНДИЯ
+NICARAGUA,НИКАРАГУА
+NIGER,НИГЕР
+NIGERIA,НИГЕРИЯ
+NO. MARIANA ISLANDS,Нет. МАРИАНСКИЕ ОСТРОВА
+NORTH KOREA,СЕВЕРНАЯ КОРЕЯ
+NORWAY,НОРВЕГИЯ
+OMAN,ОМАН
+PAKISTAN,ПАКИСТАН
+PALAU,ПАЛАУ
+PANAMA,ПАНАМА
+PARAGUAY,ПАРАГВАЙ
+PERU,ПЕРУ
+PHILIPPINES,ФИЛИППИНЫ
+POLAND,ПОЛЬША
+PORTUGAL,ПОРТУГАЛИЯ
+PUERTO RICO,ПУЭРТО-РИКО
+QATAR,КАТАР
+REUNION ISLAND,ОСТРОВ РЕЮНЬОН
+ROMANIA,РУМЫНИЯ
+RUSSIAN FEDERATION,РОССИЙСКАЯ ФЕДЕРАЦИЯ
+RWANDA,РУАНДА
+SAN MARINO,САН-МАРИНО
+SAUDI ARABIA,САУДОВСКАЯ АРАВИЯ
+SENEGAL,СЕНЕГАЛ
+SERBIA,СЕРБИЯ
+SEYCHELLES ISLANDS,СЕЙШЕЛЬСКИЕ ОСТРОВА
+SIERRA LEONE,СЬЕРРА-ЛЕОНЕ
+SINGAPORE,СИНГАПУР
+SLOVAKIA,СЛОВАКИЯ
+SLOVENIA,СЛОВЕНИЯ
+SOMALIA,СОМАЛИ
+SOUTH AFRICA,ЮЖНАЯ АФРИКА
+SOUTH KOREA,ЮЖНАЯ КОРЕЯ
+SOUTH SUDAN,ЮЖНЫЙ СУДАН
+SPAIN,ИСПАНИЯ
+SRI LANKA,ШРИ-ЛАНКА
+ST. KITTS,ST. КИТТЫ
+ST. LUCIA,ST. ЛЮСИЯ
+ST. MARTIN,ST. МАРТИН
+ST. PIERRE & MIQUELON,ST. ПЬЕР И МИКЕЛОН
+ST. VINCENT,ST. ВИНСЕНТ
+SUDAN,СУДАН
+SURINAME,СУРИНАМ
+SWAZILAND,СВАЗИЛЕНД
+SWEDEN,ШВЕЦИЯ
+SWITZERLAND,ШВЕЙЦАРИЯ
+SYRIA,СИРИЯ
+TAIWAN,ТАЙВАНЬ
+TAJIKISTAN,ТАДЖИКИСТАН
+TANZANIA,ТАНЗАНИЯ
+THAILAND,ТАИЛАНД
+TRINIDAD & TOBAGO,ТРИНИДАД И ТОБАГО
+TUNISIA,ТУНИС
+TURKEY,ИНДЮК
+TURKMENISTAN,ТУРКМЕНИСТАН
+TURKS & CAICOS ISLANDS,ТУРКИ И ОСТРОВА КАЙКОС
+UGANDA,УГАНДА
+UKRAINE,УКРАИНА
+UNITED ARAB EMIRATES,ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ
+UNITED KINGDOM,СОЕДИНЕННОЕ КОРОЛЕВСТВО
+URUGUAY,УРУГВАЙ
+US VIRGIN ISLANDS,ВИРГИНСКИЕ ОСТРОВА США
+United States,Соединенные Штаты
+UZBEKISTAN,УЗБЕКИСТАН
+VENEZUELA,ВЕНЕСУЭЛА
+VIETNAM,ВЬЕТНАМ
+YEMEN,ЙЕМЕН
+ZAMBIA,ЗАМБИЯ
+ZIMBABWE,ЗИМБАБВЕ
+ASCENSION,ВОЗНЕСЕНИЕ
+COOK ISLANDS,ОСТРОВА КУКА
+EAST TIMOR,ВОСТОЧНЫЙ ТИМОР
+FALKLAND ISLANDS,ФОЛКЛЕНДСКИЕ ОСТРОВА
+GREENLAND,ГРИНЛАНДИЯ
+KIRIBATI,КИРИБАТИ
+MALDIVES,МАЛЬДИВЫ
+NAURU,НАУРУ
+Albanian Lek,Албанский лек
+Algerian Dinar,Алжирский динар
+Aluminium Ounces,Унции алюминия
+Argentine Peso,Аргентинское песо
+Aruba Florin,Аруба Флорин
+Australian Dollar,Австралийский доллар
+Bahamian Dollar,Багамский доллар
+Bahraini Dinar,Бахрейнский динар
+Bangladesh Taka,Бангладешская така
+Barbados Dollar,Барбадосский доллар
+Belarus Ruble,Белорусский рубль
+Belize Dollar,Белизский доллар
+Bermuda Dollar,Бермудский доллар
+Bhutan Ngultrum,Бутан Нгултрум
+Bolivian Boliviano,Боливийский боливиано
+Brazilian Real,Бразильский реал
+British Pound,Английский фунт
+Brunei Dollar,Брунейский доллар
+Bulgarian Lev,Болгарский лев
+Burundi Franc,Бурундийский франк
+Cambodia Riel,Камбоджа Риель
+Canadian Dollar,Канадский доллар
+Cayman Islands Dollar,Доллар Каймановых островов
+CFA Franc (BCEAO),Франк КФА (BCEAO)
+CFA Franc (BEAC),Франк КФА (СБЕР)
+Chilean Peso,Чилийское песо
+Chinese Yuan,Китайский юань
+Colombian Peso,Колумбийское песо
+Comoros Franc,Коморский франк
+Copper Ounces,Медные унции
+Costa Rica Colon,Коста-Рика Колон
+Croatian Kuna,Хорватская куна
+Cuban Peso,Кубинское песо
+Cyprus Pound,Кипрский фунт
+Czech Koruna,Чешская крона
+Danish Krone,Датская крона
+Dijibouti Franc,Франк Диджибути
+Dominican Peso,Доминиканский песо
+East Caribbean Dollar,Восточно-карибский доллар
+Ecuador Sucre,Эквадор Сукре
+Egyptian Pound,Египетский фунт
+El Salvador Colon,Сальвадор Колон
+Eritrea Nakfa,Эритрея Накфа
+Estonian Kroon,Эстонская крона
+Ethiopian Birr,Эфиопский быр
+Euro,Евро
+Falkland Islands Pound,Фунт Фолклендских островов
+Gambian Dalasi,Гамбийский даласи
+Ghanian Cedi,Ганский седи
+Gibraltar Pound,Гибралтарский фунт
+Gold Ounces,Золотые унции
+Guatemala Quetzal,Гватемала Кетсаль
+Guinea Franc,Гвинейский франк
+Haiti Gourde,Гаити Гурд
+Honduras Lempira,Гондурасская лемпира
+Hong Kong Dollar,Гонконгский доллар
+Hungarian ForINT,Венгерский ForINT
+Iceland Krona,Исландская крона
+Indian Rupee,Индийская рупия
+Indonesian Rupiah,Индонезийская рупия
+Iran Rial,Иранский риал
+Israeli Shekel,Израильский шекель
+Jamaican Dollar,Ямайский доллар
+Japanese Yen,Японская иена
+Jordanian Dinar,Иорданский динар
+Kazakhstan Tenge,Казахстанский тенге
+Kenyan Shilling,Кенийский шиллинг
+Korean Won,Корейский вон
+Kuwaiti Dinar,Кувейтский динар
+Lao Kip,Лао Кип
+Latvian Lat,Латышский лат
+Lebanese Pound,Ливанский фунт
+Lesotho Loti,Лесото Лоти
+Libyan Dinar,Ливийский динар
+Lithuanian Lita,Литовский лит
+Macau Pataca,Макао Патака
+Macedonian Denar,Македонский динар
+Malagasy Franc,Малагасийский франк
+Malawi Kwacha,Малави квача
+Malaysian Ringgit,Малайзийский ринггит
+Maldives Rufiyaa,Мальдивы Руфия
+Maltese Lira,Мальтийская лира
+Mauritania Ougulya,Мавритания Угуля
+Mauritius Rupee,Маврикийская рупия
+Mexican Peso,Мексиканский песо
+Moldovan Leu,Молдавский лей
+Mongolian Tugrik,Монгольский тугрик
+Moroccan Dirham,Марокканский дирхам
+Mozambique Metical,Мозамбик Метикаль
+Namibian Dollar,Намибийский доллар
+Nepalese Rupee,Непальская рупия
+Neth Antilles Guilder,Гульден Neth Antilles
+New Turkish Lira,Новая турецкая лира
+New Zealand Dollar,Новозеландский доллар
+Nicaragua Cordoba,Никарагуа Кордова
+Nigerian Naira,Нигерийская найра
+Norwegian Krone,Норвежская крона
+Omani Rial,Оманский риал
+Pacific Franc,Тихоокеанский франк
+Pakistani Rupee,Пакистанская рупия
+Palladium Ounces,Палладий унции
+Panama Balboa,Панама Бальбоа
+Papua New Guinea Kina,Папуа-Новая Гвинея Кина
+Paraguayan Guarani,Парагвайский гуарани
+Peruvian Nuevo Sol,Перуанский новый соль
+Philippine Peso,Филиппинское песо
+Platinum Ounces,Платиновые унции
+Polish Zloty,Польский злотый
+Qatar Rial,Катарский риал
+Romanian Leu,Румынский лей
+Romanian New Leu,Новый румынский лей
+Russian Rouble,Российский рубль
+Rwanda Franc,Руандский франк
+Samoa Tala,Самоа Тала
+Sao Tome Dobra,Сан-Томе-Добра
+Saudi Arabian Riyal,Риал Саудовской Аравии
+Seychelles Rupee,Сейшельская рупия
+Sierra Leone Leone,Сьерра-Леоне-Леоне
+Silver Ounces,Серебряные унции
+Singapore Dollar,Сингапурский доллар
+Slovak Koruna,Словацкая крона
+Slovenian Tolar,Словенский толар
+Somali Shilling,Сомалийский шиллинг
+South African Rand,Южноафриканский рэнд
+Sri Lanka Rupee,Шри-ланкийская рупия
+St Helena Pound,Святой Елены Фунт
+Sudanese Dinar,Суданский динар
+Surinam Guilder,Суринамский гульден
+Swaziland Lilageni,Свазиленд Лилагени
+Swedish Krona,Шведская крона
+Swiss Franc,Швейцарский франк
+Syrian Pound,Сирийский фунт
+Taiwan Dollar,Тайваньский доллар
+Tanzanian Shilling,Танзанийский шиллинг
+Thai Baht,Тайский бат
+Tonga Paanga,Тонга Паанга
+Trinidad&Tobago Dollar,Доллар Тринидада и Тобаго
+Tunisian Dinar,Тунисский динар
+U.S. Dollar,Доллар США
+UAE Dirham,Дирхам ОАЭ
+Ugandan Shilling,Угандийский шиллинг
+Ukraine Hryvnia,Украинская гривна
+Uruguayan New Peso,Уругвайское новое песо
+Vanuatu Vatu,Вануату Вату
+Venezuelan Bolivar,Венесуэльский боливар
+Vietnam Dong,Вьетнамский донг
+Yemen Riyal,Йеменский Риал
+Zambian Kwacha,Замбийская квача
+Zimbabwe Dollar,Доллар Зимбабве
+Guyana Dollar,Гайанский доллар
+Aruban florin,Арубанский флорин
+Armenian dram,Армянский драм
+Azerbaijani manat,Азербайджанский манат
+Barbadian dollar,Барбадосский доллар
+Bosnian Convertible Marka,Боснийская конвертируемая марка
+Botswana pula,Ботсвана пула
+Cape Verdean escudo,Эскудо Кабо-Верде
+Congolese franc,Конголезский франк
+Fijian Dollar,Фиджийский доллар
+CFP franc,CFP франк
+Georgian lari,Грузинский лари
+Iraqi dinar,Иракский динар
+Kyrgyzstani som,Киргизский сом
+Liberian dollar,Либерийский доллар
+Malagasy ariary,Малагасийский ариари
+Burmese Kyat,Бирманский кьят
+North Korean won,Северокорейский вон
+nuevo sol,Nuevo Sol
+Serbian dinar,Сербский динар
+South Korean won,Южнокорейский вон
+South Sudanese pound,Южносуданский фунт
+Sudanese pound,Суданский фунт
+Surinamese dollar,Суринамский доллар
+Tajikistani samani,Таджикский самани
+Turkish lira,Турецкая лира
+Turkmenistan manat,Туркменский манат
+Pound sterling,Фунт стерлингов
+Uzbekistani soʻm,Узбекский soʻm
+Saint Helena pound,Фунт Святой Елены
+Indian Rupees,Индийские рупии
+CLI Pool,Пул CLI
+Download,Скачать
+TRUE,ПРАВДА
+FALSE,ЛОЖНЫЙ
+--Select Type--,- Выберите тип -
+One Time,Один раз
+Recurring,Повторяющийся
+Recurring Monthly,Повторяющийся ежемесячно
+Outbound,Исходящий
+Default,По умолчанию
+Speed Dial Number Added Successfully,Номер быстрого набора добавлен успешно
+Are you sure want to confirm this invoice ? once you confirm it,Вы действительно хотите подтвердить этот счет? как только вы это подтвердите
+DIDs already purchased by someone.,DID уже куплены кем-то.
+DIDs Assigned sucessfully!,DIDs назначены успешно!
+Something wrong.Please contact to administrator.,"Что-то не так, обратитесь к администратору."
+Duplicate DID found from database,В базе данных обнаружен повторяющийся DID
+Account have not sufficient amount to purchase this DID.,На аккаунте недостаточно суммы для покупки этого DID.
+Account not found or assign to invalid account,Аккаунт не найден или назначен неверному аккаунту
+Duplicate DID found from import file.,В импортируемом файле обнаружен повторяющийся DID.
+DIDs Imported Successfully!,DID успешно импортированы!
+Insuffiecient fund to purchase this DID.,Недостаточно средств для покупки этого DID.
+Balance Below Notification,Баланс ниже уведомления
+Edit SIP Device,Изменить SIP-устройство
+Note : Page will display only receipts and confirmed invoices.,Примечание. На странице отображаются только квитанции и подтвержденные счета.
+Termination Rate Updated Successfully!,Коэффициент прерывания успешно обновлен!
+Import Termination Rates Using Field Mapper,Частота прерывания импорта с использованием Field Mapper
+Edit Roles & Permissions,Изменить роли и разрешения
+Create Roles & Permissions,Создание ролей и разрешений
+Edit Admin,Изменить администратора
+Pin Updated Successfully!.,PIN-код успешно обновлен !.
+Create Termination Rate,Создать коэффициент прерывания
+Edit Company Profile,Изменить профиль компании
+Website,Веб-сайт
+Generate Invoice for no usage,Создать счет без использования
+Commission Repots,Комиссионные отчеты
+Top Up,Пополнить
+Purchase DIDs,Покупка DID
+Package,Пакет
+Setup,Настроить
+DID Purchased Successfully.,ДЕЙСТВИТЕЛЬНО куплено успешно.
+release,выпуск
+DID Batch Updated Successfully!,Пакет обновлен успешно!
+DID forwading set sucessfully!,ДЕЙСТВИТЕЛЬНО пересылка установлена ​​успешно!
+Are you sure want to release DID?,"Вы уверены, что хотите выпустить DID?"
+Please select atleast one record,Выберите хотя бы одну запись
+Account Balance,Остаток на счету
+Next Bill Date,Дата следующего счета
+TOTAL AMOUNT,ИТОГО
+Invoice,Выставленный счет
+IP Address,Айпи адрес
+Terminate,Прекратить
+Seconds,Секунды
+Recording,Запись
+Rates,Ставки
+Paid,Платный
+No Records,Нет записей
+Please select from date,"Пожалуйста, выберите дату"
+Please select to date,"Пожалуйста, выберите дату"
+Please select to date bigger than from date,"Пожалуйста, выберите на дату больше, чем на дату"
+Confirm,Подтвердить
+Edit Country,Изменить страну
+Skip Header,Пропустить заголовок
+Origination_rate_error,Origination_rate_error
+Termination_rate_error,Termination_rate_error
+Termination_Rates,Termination_Rates
+Origination_Rates,Origination_Rates
+refill_coupon,refill_coupon
+Edit Reseller,Изменить реселлера
+Edit Calltype,Изменить тип вызова
+updated successfully!,Успешно Обновлено!
+added successfully!,успешно добавлен!
+Invoice generation completed .,Формирование счета завершено.
+NOTE,ЗАМЕТКА
+No data found.,Данные не найдены.
+Added successfully!,Добавлено успешно!
+DID added successfully!,DID успешно добавлен!
+DID updated successfully!,ДЕЙСТВИТЕЛЬНО обновлено успешно!
+File must be in the following format(.csv):,Файл должен быть в следующем формате (.csv):
+Process,Процесс
+DID Import Error,Ошибка импорта DID
+Records Imported Successfully,Записи успешно импортированы
+Records Not Imported,Записи не импортированы
+Back to DID List,Вернуться к списку DID
+DID Batch Updated Successfully!,Пакет обновлен успешно!
+Accessnumber Added Successfully!,Номер доступа успешно добавлен!
+Process,Процесс
+Accessnumber Import Error,Ошибка импорта номера доступа
+DIDs Assigned sucessfully!,DIDs назначены успешно!
+Origination Rates Preview,Предварительный просмотр ставок на создание
+Origination Rates Import Error,Ошибка импорта ставок оригинала
+Back to Origination Rates List,Вернуться к списку расценок на отправку
+Origination Rates Batch Updated Successfully!,Пакет ставок на отправку успешно обновлен!
+Import Ratedeck Preview,Предварительный просмотр Import Ratedeck
+CALLTYPE,CALLTYPE
+Edit Calltype,Изменить тип вызова
+Outbound-Proxy,Исходящий прокси
+Edit Trunk,Изменить багажник
+Termination Rate Added Successfully!,Коэффициент прерывания успешно добавлен!
+Edit Termination Rate,Изменить коэффициент прерывания
+Termination Rates Import Error,Ошибка импорта тарифов на завершение
+Termination Rates Imported Successfully!,Тарифы на завершение успешно импортированы!
+Back to Origination Rates List,Вернуться к списку расценок на отправку
+Select,Выбрать
+pattern,шаблон
+comment,комментарий
+connectcost,стоимость подключения
+includedseconds,включенысекунды
+init_inc,init_inc
+inc,inc
+prepend,добавить
+cost ,Стоимость
+strip,полоса
+DID added successfully!,DID успешно добавлен!
+DID updated successfully!,ДЕЙСТВИТЕЛЬНО обновлено успешно!
+Country Name,Имя страны
+PAID,ПЛАТНЫЙ
+PENDING,ОЖИДАНИЕ
+FAIL,ПОТЕРПЕТЬ ПОРАЖЕНИЕ
+ORDER,ЗАКАЗ
+payment method,Способ оплаты
+Terminate Order,Отменить заказ
+Compose Email,Написать письмо
+Message,Сообщение
+Send,послать
+SIP Port is Required.,Требуется порт SIP.
+Start,Начало
+SIP Port is Required.,Требуется порт SIP.
+SIP IP is Required.,Требуется IP-адрес SIP.
+Name is Required.,Имя обязательно.
+The SIP Port field is Required.,Поле «Порт SIP» является обязательным.
+The SIP Port field must contain only numbers.,Поле порта SIP должно содержать только числа.
+The SIP Port field can not exceed 5 characters in length.,Поле «Порт SIP» не может превышать 5 символов.
+Value is Required.,Требуется значение.
+Value,Значение
+Update Setting,Обновить настройки
+Add Setting,Добавить настройку
+Edit Freeswitch Server,Редактировать сервер Freeswitch
+CUT,ПОРЕЗ
+ADD,ДОБАВИТЬ
+Edit Localization,Изменить локализацию
+Callbarring Settings Added Successfully!,Настройки запрета вызовов добавлены успешно!
+Edit Call Barring,Изменить запрет вызовов
+Callbarring Settings Updated Successfully!,Настройки запрета вызовов успешно обновлены!
+The Name field is required.,Необходимо ввести имя в поле.
+Please select file.,"Пожалуйста, выберите файл."
+Database import allows only gzfile types of file.,Импорт базы данных разрешает файлы только типа gzfile.
+File must be in (.gz) format :,Файл должен быть в формате (.gz):
+The Coupon Number field must contain only numbers.,Поле номера купона должно содержать только числа.
+The Coupon Number field have inactive refill coupon.,В поле «Номер купона» указан неактивный купон на пополнение.
+This Coupon Number is already in use.,Этот номер купона уже используется.
+This Coupon Number is not found.,Этот номер купона не найден.
+The Coupon Number field is required.,Поле Номер купона является обязательным.
+Select Customer.,"Выберите ""Клиент""."
+Please enter your email,"Пожалуйста, введите вашу электронную почту"
+Please enter proper email,"Пожалуйста, введите правильный адрес электронной почты"
+The Caller ID field is required.,Поле Caller ID обязательно для заполнения.
+Please enter your password,Пожалуйста введите ваш пароль
+Please enter your first name,"Пожалуйста, введите ваше имя"
+Please enter your email,"Пожалуйста, введите вашу электронную почту"
+This field is require,Это поле обязательно для заполнения
+The IP field must contain a unique value.,Поле IP должно содержать уникальное значение.
+The Name field is required.,Необходимо ввести имя в поле.
+The IP field is required.,Поле IP обязательно для заполнения.
+Please Enter Valid Account Number,"Пожалуйста, введите действительный номер счета"
+Main,Главный
+--Select Disposition--,--Выберите диспозицию -
+Group By #time,Группировать по # время
+Active User,Активный пользователь
+Used Minutes,Использованные минуты
+Available Minutes,Доступные минуты
+Total Price,Итоговая цена
+Total User,Всего пользователей
+Resend Mail,Отправить письмо повторно
+Restore,Восстановить
+View Details,Посмотреть детали
+Other,разное
+Edit Tax,Изменить налог
+Edit Country,Изменить страну
+Download Database,Скачать базу данных
+Import Database,Импортировать базу данных
+File must be in (.gz) format,Файл должен быть в формате (.gz).
+ Please select file.," Пожалуйста, выберите файл."
+Please enter name and select file.,"Пожалуйста, введите имя и выберите файл."
+Edit Cron Settings,Изменить настройки Cron
+Global Settings updated sucessfully!,Глобальные настройки обновлены успешно!
+Alert Notifications,Уведомления о предупреждениях
+Fraud Configuration,Конфигурация мошенничества
+Configuration add,Добавить конфигурацию
+Alarm Configuration,Конфигурация сигнализации
+Please select atleast one pattern.,Выберите хотя бы один узор.
+Problem In Add Patterns to account.,Проблема с добавлением шаблонов в учетную запись.
+Blocked Codes,Заблокированные коды
+The IP field must contain a unique value.,Поле IP должно содержать уникальное значение.
+The IP field is required.,Поле IP обязательно для заполнения.
+Please Enter Switch command,"Пожалуйста, введите команду переключения"
+are you sure to delete?,вы обязательно удалите?
+Are you sure want to confirm this invoice ? once you confirm it,Вы действительно хотите подтвердить этот счет? как только вы это подтвердите
+can not able to edit invoice again.,не может снова редактировать счет.
+Maximum Logo upload size is 1MB,Максимальный размер загружаемого логотипа - 1 МБ.
+Profit per day,Прибыль в день
+Please enter number,"Пожалуйста, введите номер"
+Import Customer,Импортный клиент
+Processing,Обработка
+please wait,пожалуйста подождите
+U.S. Dollar (USD),Доллар США (USD)
+Account Number,Номер счета
+Selected records has been deleted.,Выбранные записи были удалены.
+Processing,Обработка
+Invoice Due Date,Срок оплаты счета
+This month credits,Кредиты в этом месяце
+Product & Services,Продукты и услуги
+Total Calls Amount,Общая сумма звонков
+Total Amount (Inc. tax),Общая сумма (включая налог)
+Bill To,Плательщик
+Subtotal,Промежуточный итог
+Emails,Электронные письма
+Add IP Settings,Добавить настройки IP
+Edit IP Settings,Изменить настройки IP
+Edit Caller ID,Изменить идентификатор вызывающего абонента
+Reseller Type,Тип реселлера
+Distributor,Распределитель
+Commission Based,На основе комиссии
+Invoice Date Interval,Интервал даты счета
+Please select atleast one record to delete.,Выберите хотя бы одну запись для удаления.
+Are you sure you want to delete? This action will delete all other data which belongs to this account(s).,"Вы уверены, что хотите удалить? Это действие удалит все остальные данные, принадлежащие этой учетной записи (-ам)."
+Days to Unhold,"Дни, чтобы удержать"
+DID,СДЕЛАЛ
+Access Numbers,Номера доступа
+Create Duplicate Rate Group,Создать повторяющуюся группу ставок
+Connection,Подключение
+Effective Date,Дата вступления в силу
+Effective Date Time,Дата вступления в силу Время
+Effective From Date,Дата вступления в силу
+Effective To Date,Действует на сегодняшний день
+Edit Ratedeck,Изменить рейтинг
+Routing,Маршрутизация
+Initial,Начальная
+Edit Rate Group,Изменить группу ставок
+Effective,Эффективный
+Begin zone,Начальная зона
+Nothing selected,Ничего не выбрано
+Please check your customers calls are running or not if running then may be customer balance goes in nagative!,"Пожалуйста, проверьте звонки ваших клиентов или нет, если они запущены, тогда баланс клиента может быть отрицательным!"
+Stop,Стоп
+Reload,Перезагрузить
+Rescan,Повторное сканирование
+Template(regexp),Шаблон (регулярное выражение)
+Destination Based CallerId,CallerId на основе пункта назначения
+Provider Summary,Резюме поставщика
+Notification History,История уведомлений
+Are you sure you want to delete?,"Вы уверены, что хотите удалить?"
+Address1,Адрес 1
+ (250 * 60),  (250 * 60)
+" (Allowed Extensions JPG, PNG, JPEG)","  (Допустимые расширения JPG, PNG, JPEG)"
+ (16 * 16),  (16 * 16)
+" (Allowed Extensions ICO, PNG, JPG, JPEG)","  (Допустимые расширения ICO, PNG, JPG, JPEG)"
+SMTP Email Test,SMTP Email Test
+Email Body,Текст сообщения электронной почты
+Alert Body,Тело предупреждения
+Are you sure want to restore this database?,"Вы уверены, что хотите восстановить эту базу данных?"
+Forwarding,Пересылка
+DID-Local,DID-Local
+DID@IP/URL,DID @ IP / URL
+Direct-IP,Прямой IP
+PSTN,Поршень
+SIP-DID,SIP-DID
+Edit Access number,Изменить номер доступа
+Realm,Царство
+Reg-Transport,Reg-Transport
+Gateway,Шлюз
+Failover,Отказоустойчивый
+GW Name #1,Имя GW # 1
+GW Name #2,Имя GW # 2
+Count,Считать
+Rate Type,Тип ставки
+Refill,Пополнение
+Full Price,Полная цена
+Max. Days,Максимум. Дней
+Max. Minute,Максимум. Минуты
+Both of one Maximum,Оба из одного Максимума
+Both,И то и другое
+Are you sure you want to delete this selected records?,"Вы уверены, что хотите удалить эти выбранные записи?"
+Please check your customers calls are running or not. if running then may be customer balance goes in nagative!,"Пожалуйста, проверьте звонки ваших клиентов. если работает, то, возможно, баланс клиента будет отрицательным!"
+ESTONIA,ЭСТОНИЯ
+CLI,CLI
+STANDARD,СТАНДАРТНЫЙ
+CALLINGCARD,ЗВОНОК
+FREE,СВОБОДНЫЙ
+LOCAL,МЕСТНЫЙ
+Resand Email,Повторно отправить электронное письмо
+Sent,Отправлено
+Failed,Не удалось
+Resent Email,Повторно отправить электронное письмо
+Org.,Орг.
+Pefix,Pefix
+Term.,Срок.
+GMT Offset,Смещение по Гринвичу
+Add Timezone,Добавить часовой пояс
+Timezone List,Список часовых поясов
+Edit Timezone,Изменить часовой пояс
+Folder Path,Путь к папке
+Custom Rule,Пользовательское правило
+Account Number Editable,Номер счета редактируемый
+Packages,Пакеты
+Terms & Condition,Условия и положения
+Play Audio Notifications,Воспроизвести звуковые уведомления
+Sort cost based routing,Сортировка маршрутизации по стоимости
+Half Year,Полгода
+Open a Ticket,Открыть билет
+Licence,Лицензия
+DID Reservation Days,Дни бронирования DID
+DID Reservation,DID бронирование
+Term_and_condition,Срок и условие
+Text,Текст
+Url,URL
+Generated,Создано
+Customer_permission,Разрешение клиента
+Resend Email,Отправить письмо повторно
+Create Translation Languages,Создать языки перевода
+Edit Translation Language,Изменить язык перевода
+Module Name,Название модуля
+English,английский
+French,французский язык
+Chinese,китайский язык
+German,Немецкий
+Greek,Греческий
+Italian,Итальянский
+Japanese,Японский
+Portuguese,португальский
+Romanian,румынский
+Russian,русский
+Spanish,испанский язык
+Both (Email & SMS),Оба (электронная почта и SMS)
+Account Notification,Уведомление об аккаунте
+Use Same Credential For Invoice Config,Использовать те же учетные данные для конфигурации счета
+Registration URL,URL регистрации
+Admin_permission,Admin_permission
+My Order,Мой заказ
+please select any recharge amount,выберите любую сумму пополнения
+Todays Calls,Сегодняшние звонки
+Are you sure want to delete speed dial record?,Вы действительно хотите удалить запись быстрого набора?
+Buy DIDs,Купить DID
+Purchased DID,Куплен DID
+DID Information,Информация DID
+Sell Cost,Стоимость продажи
+Admin Rate Group,Группа оценки администратора
+Copy From Rate Group,Копировать из тарифной группы
+Search My Rates,Искать мои тарифы
+Read/Write,Читай пиши
+Edit SIP Devices,Редактировать SIP-устройства
+Inextrix Technologies Pvt. Ltd All Rights Reserved.,Inextrix Technologies Pvt. Ltd Все права защищены.
+iNextrix Technologies Pvt. Ltd.,iNextrix Technologies Pvt. ООО
+Bal,Мяч
+Europe/Andorra,Европа / Андорра
+Asia/Dubai,Азия / Дубай
+Asia/Kabul,Азия / Кабул
+America/Antigua,Америка / Антигуа
+America/Anguilla,Америка / Ангилья
+Europe/Tirane,Европа / Тиран
+Asia/Yerevan,Азия / Ереван
+Africa/Luanda,Африка / Луанда
+Antarctica/Casey,Антарктида / Кейси
+Antarctica/Davis,Антарктида / Дэвис
+Antarctica/DumontDUrville,Антарктида / Дюмон-Дюрвиль
+Antarctica/Mawson,Антарктида / Моусон
+Antarctica/McMurdo,Антарктида / Макмердо
+Antarctica/Palmer,Антарктида / Палмер
+Antarctica/Rothera,Антарктида / Ротера
+Antarctica/Syowa,Антарктида / Сёва
+Antarctica/Troll,Антарктида / Тролль
+Antarctica/Vostok,Антарктида / Восток
+America/Argentina/Buenos_Aires,Америка / Аргентина / Буэнос-Айрес
+America/Argentina/Catamarca,Америка / Аргентина / Катамарка
+America/Argentina/Cordoba,Америка / Аргентина / Кордова
+America/Argentina/Jujuy,Америка / Аргентина / Жужуй
+America/Argentina/La_Rioja,Америка / Аргентина / Ла_Риоха
+America/Argentina/Mendoza,Америка / Аргентина / Мендоса
+America/Argentina/Rio_Gallegos,Америка / Аргентина / Rio_Gallegos
+America/Argentina/Salta,Америка / Аргентина / Сальта
+America/Argentina/San_Juan,Америка / Аргентина / Сан-Хуан
+America/Argentina/San_Luis,Америка / Аргентина / Сан-Луис
+America/Argentina/Tucuman,Америка / Аргентина / Тукуман
+America/Argentina/Ushuaia,Америка / Аргентина / Ушуайя
+Pacific/Pago_Pago,Pacific / Pago_Pago
+Europe/Vienna,Европа / Вена
+Antarctica/Macquarie,Антарктида / Маккуори
+Australia/Adelaide,Австралия / Аделаида
+Australia/Brisbane,Австралия / Брисбен
+Australia/Broken_Hill,Австралия / Broken_Hill
+Australia/Currie,Австралия / Карри
+Australia/Darwin,Австралия / Дарвин
+Australia/Eucla,Австралия / Евкла
+Australia/Hobart,Австралия / Хобарт
+Australia/Lindeman,Австралия / Линдеман
+Australia/Lord_Howe,Австралия / Lord_Howe
+Australia/Melbourne,Австралия / Мельбурн
+Australia/Perth,Австралия / Перт
+Australia/Sydney,Австралия / Сидней
+America/Aruba,Америка / Аруба
+Europe/Mariehamn,Европа / Мариехамн
+Asia/Baku,Азия / Баку
+Europe/Sarajevo,Европа / Сараево
+America/Barbados,Америка / Барбадос
+Asia/Dhaka,Азия / Дакка
+Europe/Brussels,Европа / Брюссель
+Africa/Ouagadougou,Африка / Уагадугу
+Europe/Sofia,Европа / София
+Asia/Bahrain,Азия / Бахрейн
+Africa/Bujumbura,Африка / Бужумбура
+Africa/Porto-Novo,Африка / Порто-Ново
+America/St_Barthelemy,America / St_Barthelemy
+Atlantic/Bermuda,Атлантика / Бермуды
+Asia/Brunei,Азия / Бруней
+America/La_Paz,America / La_Paz
+America/Kralendijk,Америка / Кралендейк
+America/Araguaina,America / Araguaina
+America/Bahia,Америка / Баия
+America/Belem,Америка / Белен
+America/Boa_Vista,Америка / Boa_Vista
+America/Campo_Grande,Америка / Кампо-Гранде
+America/Cuiaba,Америка / Куяба
+America/Eirunepe,Америка / Эйрунепе
+America/Fortaleza,Америка / Форталеза
+America/Maceio,Америка / Масейо
+America/Manaus,Америка / Манаус
+America/Noronha,Америка / Норонья
+America/Porto_Velho,America / Porto_Velho
+America/Recife,Америка / Ресифи
+America/Rio_Branco,Америка / Рио_Бранко
+America/Santarem,Америка / Сантарен
+America/Sao_Paulo,America / Sao_Paulo
+America/Nassau,Америка / Нассау
+Asia/Thimphu,Азия / Тхимпху
+Africa/Gaborone,Африка / Габороне
+Europe/Minsk,Европа / Минск
+America/Belize,Америка / Белиз
+America/Atikokan,Америка / Атикокан
+America/Blanc-Sablon,Америка / Блан-Саблон
+America/Cambridge_Bay,America / Cambridge_Bay
+America/Creston,Америка / Крестон
+America/Dawson,Америка / Доусон
+America/Dawson_Creek,Америка / Доусон-Крик
+America/Edmonton,Америка / Эдмонтон
+America/Fort_Nelson,Америка / Форт-Нельсон
+America/Glace_Bay,Америка / Glace_Bay
+America/Goose_Bay,America / Goose_Bay
+America/Halifax,Америка / Галифакс
+America/Inuvik,Америка / Инувик
+America/Iqaluit,Америка / Икалуит
+America/Moncton,Америка / Монктон
+America/Nipigon,Америка / Нипигон
+America/Pangnirtung,America / Pangnirtung
+America/Rainy_River,Америка / Rainy_River
+America/Rankin_Inlet,America / Rankin_Inlet
+America/Regina,Америка / Регина
+America/Resolute,Америка / Решительный
+America/St_Johns,America / St_Johns
+America/Swift_Current,Америка / Swift_Current
+America/Thunder_Bay,Америка / Thunder_Bay
+America/Toronto,Америка / Торонто
+America/Vancouver,Америка / Ванкувер
+America/Whitehorse,Америка / Уайтхорс
+America/Winnipeg,Америка / Виннипег
+America/Yellowknife,Америка / Йеллоунайф
+Indian/Cocos,Индийский / Кокосовые
+Africa/Kinshasa,Африка / Киншаса
+Africa/Lubumbashi,Африка / Лубумбаши
+Africa/Bangui,Африка / Банги
+Africa/Brazzaville,Африка / Браззавиль
+Europe/Zurich,Европа / Цюрих
+Africa/Abidjan,Африка / Абиджан
+Pacific/Rarotonga,Pacific / Rarotonga
+America/Punta_Arenas,America / Punta_Arenas
+America/Santiago,Америка / Сантьяго
+Pacific/Easter,Тихий океан / Пасха
+Africa/Douala,Африка / Дуала
+Asia/Shanghai,Азия / Шанхай
+Asia/Urumqi,Азия / Урумчи
+America/Bogota,Америка / Богота
+America/Costa_Rica,Америка / Коста-Рика
+America/Havana,Америка / Гавана
+Atlantic/Cape_Verde,Атлантика / мыс Верде
+America/Curacao,Америка / Кюрасао
+Indian/Christmas,Индийский / Рождество
+Asia/Famagusta,Азия / Фамагуста
+Asia/Nicosia,Азия / Никосия
+Europe/Prague,Европа / Прага
+Europe/Berlin,Европа / Берлин
+Europe/Busingen,Европа / Бусинген
+Africa/Djibouti,Африка / Джибути
+Europe/Copenhagen,Европа / Копенгаген
+America/Dominica,Америка / Доминика
+America/Santo_Domingo,Америка / Санто-Доминго
+Africa/Algiers,Африка / Алжир
+America/Guayaquil,Америка / Гуаякиль
+Pacific/Galapagos,Тихий океан / Галапагосские острова
+Europe/Tallinn,Европа / Таллинн
+Africa/Cairo,Африка / Каир
+Africa/El_Aaiun,Африка / Эль-Аайун
+Africa/Asmara,Африка / Асмэра
+Africa/Ceuta,Африка / Сеута
+Atlantic/Canary,Атлантика / Канарские острова
+Europe/Madrid,Европа / Мадрид
+Africa/Addis_Ababa,Africa / Addis_Ababa
+Europe/Helsinki,Европа / Хельсинки
+Pacific/Fiji,Тихий океан / Фиджи
+Atlantic/Stanley,Атлантик / Стэнли
+Pacific/Chuuk,Pacific / Chuuk
+Pacific/Kosrae,Pacific / Kosrae
+Pacific/Pohnpei,Тихий океан / Понпеи
+Atlantic/Faroe,Атлантика / Фарерские острова
+Europe/Paris,Европа / Париж
+Africa/Libreville,Африка / Либревиль
+Europe/London,Европа / Лондон
+America/Grenada,Америка / Гренада
+Asia/Tbilisi,Азия / Тбилиси
+America/Cayenne,Америка / Кайенна
+Europe/Guernsey,Европа / Гернси
+Africa/Accra,Африка / Аккра
+Europe/Gibraltar,Европа / Гибралтар
+America/Danmarkshavn,Америка / Данмарксхавн
+America/Nuuk,Америка / Нуук
+America/Scoresbysund,Америка / Scoresbysund
+America/Thule,Америка / Туле
+Africa/Banjul,Африка / Банжул
+Africa/Conakry,Африка / Конакри
+America/Guadeloupe,Америка / Гваделупа
+Africa/Malabo,Африка / Малабо
+Europe/Athens,Европа / Афины
+Atlantic/South_Georgia,Атлантика / Южная_Грузия
+America/Guatemala,Америка / Гватемала
+Pacific/Guam,Тихий океан / Гуам
+Africa/Bissau,Африка / Бисау
+America/Guyana,Америка / Гайана
+Asia/Hong_Kong,Азия / Гонконг
+America/Tegucigalpa,Америка / Тегусигальпа
+Europe/Zagreb,Европа / Загреб
+America/Port-au-Prince,Америка / Порт-о-Пренс
+Europe/Budapest,Европа / Будапешт
+Asia/Jakarta,Азия / Джакарта
+Asia/Jayapura,Азия / Джаяпура
+Asia/Makassar,Asia / Makassar
+Asia/Pontianak,Азия / Понтианак
+Europe/Dublin,Европа / Дублин
+Asia/Jerusalem,Азия / Иерусалим
+Europe/Isle_of_Man,Europe / Isle_of_Man
+Asia/Kolkata,Азия / Калькутта
+Indian/Chagos,Индийский / Чагос
+Asia/Baghdad,Азия / Багдад
+Asia/Tehran,Азия / Тегеран
+Atlantic/Reykjavik,Атлантика / Рейкьявик
+Europe/Rome,Европа / Рим
+Europe/Jersey,Европа / Джерси
+America/Jamaica,Америка / Ямайка
+Asia/Amman,Азия / Амман
+Asia/Tokyo,Азия / Токио
+Africa/Nairobi,Африка / Найроби
+Asia/Bishkek,Азия / Бишкек
+Asia/Phnom_Penh,Asia / Phnom_Penh
+Pacific/Enderbury,Pacific / Enderbury
+Pacific/Kiritimati,Тихий океан / Киритимати
+Pacific/Tarawa,Pacific / Tarawa
+Indian/Comoro,Индийский / Коморо
+America/St_Kitts,Америка / Сент-Китс
+Asia/Pyongyang,Азия / Пхеньян
+Asia/Seoul,Азия / Сеул
+Asia/Kuwait,Азия / Кувейт
+America/Cayman,Америка / Кайман
+Asia/Almaty,Азия / Алматы
+Asia/Aqtau,Азия / Актау
+Asia/Aqtobe,Азия / Актобе
+Asia/Atyrau,Азия / Атырау
+Asia/Oral,Азия / Устный
+Asia/Qostanay,Азия / Костанай
+Asia/Qyzylorda,Asia / Qyzylorda
+Asia/Vientiane,Азия / Вьентьян
+Asia/Beirut,Азия / Бейрут
+America/St_Lucia,Америка / Сент-Люсия
+Europe/Vaduz,Европа / Вадуц
+Asia/Colombo,Азия / Коломбо
+Africa/Monrovia,Африка / Монровия
+Africa/Maseru,Африка / Масеру
+Europe/Vilnius,Европа / Вильнюс
+Europe/Luxembourg,Европа / Люксембург
+Europe/Riga,Европа / Рига
+Africa/Tripoli,Африка / Триполи
+Africa/Casablanca,Африка / Касабланка
+Europe/Monaco,Европа / Монако
+Europe/Chisinau,Европа / Кишинев
+Europe/Podgorica,Европа / Подгорица
+America/Marigot,Америка / Мариго
+Indian/Antananarivo,Индийский / Антананариву
+Pacific/Kwajalein,Тихий океан / Кваджалейн
+Pacific/Majuro,Тихий океан / Маджуро
+Europe/Skopje,Европа / Скопье
+Africa/Bamako,Африка / Бамако
+Asia/Yangon,Азия / Янгон
+Asia/Choibalsan,Азия / Чойбалсан
+Asia/Hovd,Азия / Ховд
+Asia/Ulaanbaatar,Asia / Ulaanbaatar
+Asia/Macau,Азия / Макао
+Pacific/Saipan,Тихий океан / Сайпан
+America/Martinique,Америка / Мартиника
+Africa/Nouakchott,Африка / Нуакшот
+America/Montserrat,Америка / Монтсеррат
+Europe/Malta,Европа / Мальта
+Indian/Mauritius,Индийский / Маврикий
+Indian/Maldives,Индия / Мальдивы
+Africa/Blantyre,Африка / Блантайр
+America/Bahia_Banderas,America / Bahia_Banderas
+America/Cancun,Америка / Канкун
+America/Chihuahua,Америка / Чихуахуа
+America/Hermosillo,America / Hermosillo
+America/Matamoros,America / Matamoros
+America/Mazatlan,Америка / Мазатлан
+America/Merida,Америка / Мерида
+America/Mexico_City,Америка / Мексика_Город
+America/Monterrey,Америка / Монтеррей
+America/Ojinaga,Америка / Охинага
+America/Tijuana,Америка / Тихуана
+Asia/Kuala_Lumpur,Asia / Kuala_Lumpur
+Asia/Kuching,Азия / Кучинг
+Africa/Maputo,Африка / Мапуту
+Africa/Windhoek,Африка / Виндхук
+Pacific/Noumea,Pacific / Noumea
+Africa/Niamey,Африка / Ниамей
+Pacific/Norfolk,Тихий океан / Норфолк
+Africa/Lagos,Африка / Лагос
+America/Managua,Америка / Манагуа
+Europe/Amsterdam,Европа / Амстердам
+Europe/Oslo,Европа / Осло
+Asia/Kathmandu,Азия / Катманду
+Pacific/Nauru,Тихий океан / Науру
+Pacific/Niue,Тихий океан / Ниуэ
+Pacific/Auckland,Тихий океан / Окленд
+Pacific/Chatham,Тихий океан / Чатем
+Asia/Muscat,Азия / Маскат
+America/Panama,Америка / Панама
+America/Lima,Америка / Лима
+Pacific/Gambier,Pacific / Gambier
+Pacific/Marquesas,Pacific / Marquesas
+Pacific/Tahiti,Тихий океан / Таити
+Pacific/Bougainville,Тихий океан / Бугенвиль
+Pacific/Port_Moresby,Pacific / Port_Moresby
+Asia/Manila,Азия / Манила
+Asia/Karachi,Азия / Карачи
+Europe/Warsaw,Европа / Варшава
+America/Miquelon,Америка / Микелон
+Pacific/Pitcairn,Тихий океан / Питкэрн
+America/Puerto_Rico,Америка / Пуэрто-Рико
+Asia/Gaza,Азия / Газа
+Asia/Hebron,Азия / Хеврон
+Atlantic/Azores,Атлантика / Азорские острова
+Atlantic/Madeira,Атлантика / Мадейра
+Europe/Lisbon,Европа / Лиссабон
+Pacific/Palau,Pacific / Palau
+America/Asuncion,Америка / Асунсьон
+Asia/Qatar,Азия / Катар
+Indian/Reunion,Indian / Reunion
+Europe/Bucharest,Европа / Бухарест
+Europe/Belgrade,Европа / Белград
+Asia/Anadyr,Азия / Анадырь
+Asia/Barnaul,Азия / Барнаул
+Asia/Chita,Азия / Чита
+Asia/Irkutsk,Азия / Иркутск
+Asia/Kamchatka,Азия / Камчатка
+Asia/Khandyga,Азия / Хандыга
+Asia/Krasnoyarsk,Азия / Красноярск
+Asia/Magadan,Азия / Магадан
+Asia/Novokuznetsk,Азия / Новокузнецк
+Asia/Novosibirsk,Азия / Новосибирск
+Asia/Omsk,Азия / Омск
+Asia/Sakhalin,Азия / Сахалин
+Asia/Srednekolymsk,Азия / Среднеколымск
+Asia/Tomsk,Азия / Томск
+Asia/Ust-Nera,Азия / Усть-Нера
+Asia/Vladivostok,Азия / Владивосток
+Asia/Yakutsk,Азия / Якутск
+Asia/Yekaterinburg,Азия / Екатеринбург
+Europe/Astrakhan,Европа / Астрахань
+Europe/Kaliningrad,Европа / Калининград
+Europe/Kirov,Европа / Киров
+Europe/Moscow,Европа / Москва
+Europe/Samara,Европа / Самара
+Europe/Saratov,Европа / Саратов
+Europe/Ulyanovsk,Европа / Ульяновск
+Europe/Volgograd,Европа / Волгоград
+Africa/Kigali,Африка / Кигали
+Asia/Riyadh,Азия / Эр-Рияд
+Pacific/Guadalcanal,Тихий океан / Гуадалканал
+Indian/Mahe,Индийский / Маэ
+Africa/Khartoum,Африка / Хартум
+Europe/Stockholm,Европа / Стокгольм
+Asia/Singapore,Азия / Сингапур
+Atlantic/St_Helena,Atlantic / St_Helena
+Europe/Ljubljana,Европа / Любляна
+Arctic/Longyearbyen,Арктика / Лонгйир
+Europe/Bratislava,Европа / Братислава
+Africa/Freetown,Африка / Фритаун
+Europe/San_Marino,Европа / Сан-Марино
+Africa/Dakar,Африка / Дакар
+Africa/Mogadishu,Африка / Могадишо
+America/Paramaribo,Америка / Парамарибо
+Africa/Juba,Африка / Джуба
+Africa/Sao_Tome,Африка / Сан-Томе
+America/El_Salvador,Америка / Сальвадор
+America/Lower_Princes,America / Lower_Princes
+Asia/Damascus,Азия / Дамаск
+Africa/Mbabane,Африка / Мбабане
+America/Grand_Turk,America / Grand_Turk
+Africa/Ndjamena,Африка / Нджамена
+Indian/Kerguelen,Indian / Kerguelen
+Africa/Lome,Африка / Ломе
+Asia/Bangkok,Азия / Бангкок
+Asia/Dushanbe,Азия / Душанбе
+Pacific/Fakaofo,Pacific / Fakaofo
+Asia/Dili,Азия / Дили
+Asia/Ashgabat,Азия / Ашхабад
+Africa/Tunis,Африка / Тунис
+Pacific/Tongatapu,Тихий океан / Тонгатапу
+Europe/Istanbul,Европа / Стамбул
+America/Port_of_Spain,America / Port_of_Spain
+Pacific/Funafuti,Тихий океан / Фунафути
+Asia/Taipei,Азия / Тайбэй
+Africa/Dar_es_Salaam,Africa / Dar_es_Salaam
+Europe/Kiev,Европа / Киев
+Europe/Simferopol,Европа / Симферополь
+Europe/Uzhgorod,Европа / Ужгород
+Europe/Zaporozhye,Европа / Запорожье
+Africa/Kampala,Африка / Кампала
+Pacific/Midway,Тихий океан / Мидуэй
+Pacific/Wake,Тихий океан / Уэйк
+America/Adak,Америка / Адак
+America/Anchorage,Америка / Анкоридж
+America/Boise,Америка / Бойсе
+America/Chicago,Америка / Чикаго
+America/Denver,Америка / Денвер
+America/Detroit,Америка / Детройт
+America/Indiana/Indianapolis,Америка / Индиана / Индианаполис
+America/Indiana/Knox,Америка / Индиана / Нокс
+America/Indiana/Marengo,Америка / Индиана / Маренго
+America/Indiana/Petersburg,Америка / Индиана / Петербург
+America/Indiana/Tell_City,Америка / Индиана / Tell_City
+America/Indiana/Vevay,Америка / Индиана / Вевей
+America/Indiana/Vincennes,Америка / Индиана / Винсеннес
+America/Indiana/Winamac,Америка / Индиана / Винамак
+America/Juneau,Америка / Джуно
+America/Kentucky/Louisville,Америка / Кентукки / Луисвилл
+America/Kentucky/Monticello,Америка / Кентукки / Монтичелло
+America/Los_Angeles,America / Los_Angeles
+America/Menominee,Америка / Меномини
+America/Metlakatla,America / Metlakatla
+America/New_York,Америка / Нью-Йорк
+America/Nome,Америка / Ном
+America/North_Dakota/Beulah,America / North_Dakota / Beulah
+America/North_Dakota/Center,Америка / Северная_Дакота / Центр
+America/North_Dakota/New_Salem,Америка / Северная_Дакота / Нью_Салем
+America/Phoenix,Америка / Феникс
+America/Sitka,Америка / Ситка
+America/Yakutat,Америка / Якутат
+Pacific/Honolulu,Тихий океан / Гонолулу
+America/Montevideo,Америка / Монтевидео
+Asia/Samarkand,Азия / Самарканд
+Asia/Tashkent,Азия / Ташкент
+Europe/Vatican,Европа / Ватикан
+America/St_Vincent,Америка / Сент-Винсент
+America/Caracas,Америка / Каракас
+America/Tortola,Америка / Тортола
+America/St_Thomas,Америка / Сент-Томас
+Asia/Ho_Chi_Minh,Азия / Ho_Chi_Minh
+Pacific/Efate,Pacific / Efate
+Pacific/Wallis,Pacific / Wallis
+Pacific/Apia,Тихий океан / Апиа
+Asia/Aden,Азия / Аден
+Indian/Mayotte,Индийский / Майотта
+Africa/Johannesburg,Африка / Йоханнесбург
+Africa/Lusaka,Африка / Лусака
+Africa/Harare,Африка / Хараре
+Company Profile,Профиль Компании
+Opensips Dispatcher,Диспетчер Opensips
+account_refilled,счет пополнен
+create_account,Регистрация
+create_sip_device,создать sip устройство
+new_invoice,новый счет
+low_balance,низкий баланс
+signup_confirmation,подтверждение регистрации
+new_password,Новый пароль
+forgot_password_confirmation,забыл подтверждение пароля
+invoice_due_reminder,напоминание о сроке оплаты
+new_archive_table,новая архивная таблица
+balance_tranfer,перевод баланса
+product_purchase,покупка продукта
+product_release,выпуск продукта
+product_renewal_notice,уведомление об обновлении продукта
+product_renewed,продукт обновлен
+product_commission,комиссия за продукт
+cdrs_archive_table_create_success,таблица архива cdrs создает успех
+cdrs_archive_table_create_fail,Ошибка создания таблицы архива cdrs
+reset_password,Сброс пароля
+international_low_balance,международный низкий баланс
+account_postcharge,постплата по счету
+ACCOUNT_INACTIVE_DELETED,АККАУНТ НЕАКТИВНЫЙ УДАЛЕН
+ACCOUNT_EXPIRE,СРОК СЧЕТА
+ALLOTTED_TIMEOUT,РАЗРЕШЕННЫЙ ТАЙМ-АУТ
+AUTHENTICATION_FAIL,НЕИСПРАВНОСТЬ АУТЕНТИФИКАЦИИ
+BEARERCAPABILITY_NOTAUTH,НЕСКОЛЬКО ВОЗМОЖНОСТИ
+BEARERCAPABILITY_NOTAVAIL,НОСИТЕЛЬНАЯ СПРАВКА
+BEARERCAPABILITY_NOTIMPL,НЕСУЩАЯ ВОЗМОЖНОСТЬ NOTIMPL
+CALL_REJECTED,ЗВОНОК ОТКЛОНЕН
+CHAN_NOT_IMPLEMENTED,ЧАН НЕ РЕАЛИЗОВАН
+CHANNEL_UNACCEPTABLE,КАНАЛ НЕПРИЕМЛЕМО
+DESTINATION_OUT_OF_ORDER,НАПРАВЛЕНИЕ НЕЗАКАЗАНО
+DESTINATION_BLOCKED,НАЗНАЧЕНИЕ ЗАБЛОКИРОВАНО
+DID_DESTINATION_NOT_FOUND,НАЗНАЧЕНИЕ НЕ НАЙДЕНО
+FACILITY_REJECTED,ОБЪЕКТ ОТКЛОНЕН
+FACILITY_NOT_SUBSCRIBED,ОБЪЕКТ НЕ ПОДПИСАННЫЙ
+FACILITY_NOT_IMPLEMENTED,ОБЪЕКТ НЕ ОСУЩЕСТВЛЯЕТСЯ
+FRAUD_CALL_PER_ACCOUNT,МОШЕННИЧЕСТВО ЗВОНОК НА СЧЕТ
+FRAUD_CALL_PER_DESTINATION,ВЫЗОВ МОШЕННИЧЕСТВА НА НАЗНАЧЕНИЕ
+FRAUD_COST_PER_ACCOUNT,СТОИМОСТЬ МОШЕННИЧЕСТВА НА СЧЕТ
+FRAUD_COST_PER_DESTINATION,СТОИМОСТЬ МОШЕННИЧЕСТВА НА НАЗНАЧЕНИЕ
+INVALID_NUMBER_FORMAT,НЕДЕЙСТВИТЕЛЬНЫЙ ФОРМАТ НОМЕРА
+INCOMPATIBLE_DESTINATION,НЕСОВМЕСТИМОЕ НАЗНАЧЕНИЕ
+MANAGER_REQUEST,ЗАПРОС МЕНЕДЖЕРА
+MEDIA_TIMEOUT,МЕДИА-АУТ
+NO_ROUTE_DESTINATION,НЕТ МАРШРУТА НАЗНАЧЕНИЯ
+NORMAL_CLEARING,НОРМАЛЬНАЯ ОЧИСТКА
+NETWORK_OUT_OF_ORDER,СЕТЬ НЕДОСТУПНА
+NORMAL_UNSPECIFIED,НОРМАЛЬНОЕ НЕ УКАЗАНО
+NORMAL_CIRCUIT_CONGESTION,НОРМАЛЬНАЯ ЗАГРУЗКА ЦЕПИ
+NORMAL_TEMPORARY_FAILURE,ОБЫЧНЫЙ ВРЕМЕННЫЙ ОТКАЗ
+NO_SUFFICIENT_FUND,НЕТ ДОСТАТОЧНЫХ СРЕДСТВ
+NO_USER_RESPONSE,НЕТ ОТВЕТА ПОЛЬЗОВАТЕЛЯ
+NO_ANSWER,НЕТ ОТВЕТА
+NUMBER_CHANGED,НОМЕР ИЗМЕНЕН
+ORIGINATOR_CANCEL,ОТМЕНА ОРИГИНАТОРА
+ORIGNATION_RATE_NOT_FOUND,ЦЕНА ОРИГИНАЦИИ НЕ НАЙДЕНА
+OUTGOING_CALL_BARRED,ИСХОДЯЩИЙ ВЫЗОВ ЗАПРЕЩЕН
+PROGRESS_TIMEOUT,ВРЕМЯ ПРОГРЕССА
+RECOVERY_ON_TIMER_EXPIRE,ВОССТАНОВЛЕНИЕ ПО ИСТЕЧЕНИИ ТАЙМЕРА
+RESELLER_COST_CHEAP,СТОИМОСТЬ РАСПРОДАЖА
+SERVICE_NOT_IMPLEMENTED,УСЛУГА НЕ ВЫПОЛНЕНА
+SERVICE_UNAVAILABLE,СЕРВИС НЕДОСТУПЕН
+SUCCESS,УСПЕХ
+SWITCH_CONGESTION,ВЫКЛЮЧИТЕ ЗАГРУЗКУ
+TERMINATION_RATE_NOT_FOUND,СТАВКА ПРЕКРАЩЕНИЯ НЕ НАЙДЕНА
+UNSPECIFIED,НЕОПРЕДЕЛЕННЫЕ
+UNALLOCATED_NUMBER,НЕИЗВЕСТНЫЙ НОМЕР
+USER_BUSY,ПОЛЬЗОВАТЕЛЬ ЗАНЯТ
+USER_NOT_REGISTERED,ПОЛЬЗОВАТЕЛЬ НЕ ЗАРЕГИСТРИРОВАН
+REQUESTED_CHAN_UNAVAIL,ЗАПРОСОВАННЫЙ ЧАН UNAVAIL
+SUBSCRIBER_ABSENT,ПОДПИСКА ОТСУТСТВУЕТ
+account_refilled,счет пополнен
+create_account,Регистрация
+create_sip_device,создать sip устройство
+new_invoice,новый счет
+low_balance,низкий баланс
+signup_confirmation,подтверждение регистрации
+new_password,Новый пароль
+forgot_password_confirmation,забыл подтверждение пароля
+invoice_due_reminder,напоминание о сроке оплаты
+new_archive_table,новая архивная таблица
+balance_tranfer,перевод баланса
+product_purchase,покупка продукта
+product_release,выпуск продукта
+product_renewal_notice,уведомление об обновлении продукта
+product_renewed,продукт обновлен
+product_commission,комиссия за продукт
+cdrs_archive_table_create_success,таблица архива cdrs создает успех
+cdrs_archive_table_create_fail,Ошибка создания таблицы архива cdrs
+reset_password,Сброс пароля
+international_low_balance,международный низкий баланс
+account_postcharge,постплата по счету
+Caller Id (CLI Match - If not matched then use random allocated Caller Id),"Идентификатор вызывающего абонента (совпадение в интерфейсе командной строки - если не сопоставлено, используется случайный идентификатор вызывающего абонента)"
+DID (CLI Match - If not matched then use random allocated DID),"DID (совпадение CLI - если не найдено, используйте случайный выделенный DID)"
+ERROR:No Reords found.,ОШИБКА: записи не найдены.
+Sub Admin,Дополнительный администратор
+Create Account Range For Customer,Создать диапазон счетов для клиента
+Minimum Account Number,Минимальный номер счета
+Maximum Account Number,Максимальный номер счета
+Create Account Range For Reseller,Создать диапазон аккаунтов для реселлера
+Create Account Range For Provider,Создать диапазон аккаунтов для провайдера
+International Credits,Международные кредиты
+Recharge,Перезарядка
+Basic Details,Основные детали
+International Balance,Международный баланс
+InternationalPrefixes,Международные префиксы
+International Prefixes,Международные префиксы
+International Credit Limit,Международный кредитный лимит
+Create Local Number,Создать местный номер
+Local Number Import Process,Процесс импорта местного номера
+Import Local Number,Импортировать местный номер
+Edit Local Number,Изменить местный номер
+Mailchimp,Mailchimp
+Mailchimp API Key,Ключ API Mailchimp
+Mailchimp Audience Id,Идентификатор аудитории Mailchimp
+Support Tickets,Тикеты поддержки
+Support Ticket,Билет в службу поддержки
+Create Support Ticket,Создать заявку в службу поддержки
+Open New Ticket,Открыть новый билет
+Department,Отдел
+Attach more files,Прикрепите еще файлы
+Reply,Ответить
+Submit,Разместить
+High,Высоко
+Normal,Обычный
+Low,Низкий
+Open,Открыто
+Answered,Ответил
+Customer-Reply,Клиент-Ответ
+On-hold,На удерживании
+Progress,Прогресс
+Ticket Number,Номер билета
+Close Support Ticket,Закрыть обращение в службу поддержки
+Last Reply,Последний ответ
+Ticket No,Билет №
+--All--,--Все--
+Add Department,Добавить отдел
+Department List,Список отделов
+SMTP Details,Детали SMTP
+Department Additional Email Address,Дополнительный адрес электронной почты отдела
+Department User,Пользователь отдела
+Charge Full Amount,Списать полную сумму
+Based On Utilized Days,На основе использованных дней
+XML Updated Successfully!,XML обновлен успешно!
+ACL Reload Successfully!,ACL перезагрузить успешно!
+ACL Management,Управление ACL
+XML,XML
+XML is Required!,XML требуется!
+Reload ACL,Перезагрузить ACL
+Low Balance,Низкий баланс
+Current Balance,Текущий баланс
+Trunk Statistics,Статистика магистралей
+Create Account Range,Создать диапазон учетных записей
+Recharge done successfully!,Пополнение баланса выполнено успешно!
+Duplicate Local number found from database,В базе данных найден повторяющийся местный номер
+Country not valid.,Страна не действительна.
+Duplicate Local number found from import file.,В файле импорта обнаружен дублирующийся местный номер.
+Local Number Import Error,Ошибка импорта местного номера
+Local number updated successfully!,Местный номер успешно обновлен!
+Local number added successfully!,Местный номер успешно добавлен!
+Local number removed successfully!,Местный номер успешно удален!
+Local number forwarding successfully!,Переадресация местного номера прошла успешно!
+Destination Number,Номер назначения
+Destination Name,Название пункта назначения
+Add Local Number,Добавить местный номер
+Added Date,Дата добавления
+Support ticket removed successfully!,Запрос в службу поддержки успешно удален!
+Support ticket generated successfully!,Запрос в службу поддержки создан успешно!
+Edit Ticket,Редактировать заявку
+Create Department,Создать отдел
+Department added successfully!,Отдел успешно добавлен!
+Department removed successfully!,Отдел успешно удален!
+Import Area Code,Код зоны импорта
+Back to Area Code List,Вернуться к списку кодов городов
+Alarm added successfully!,Тревога успешно добавлена!
+Alarm updated successfully!,Сигнализация успешно обновлена!
+Add Custom Rate,Добавить индивидуальную ставку
+Custom Rate Updated Successfully!,Специальная ставка успешно обновлена!
+Custom Rate Added Successfully!,Пользовательская ставка успешно добавлена!
+Custom rate removed successfully!,Специальная ставка успешно удалена!
+Delete Search Record,Удалить запись поиска
+Add Prefixes,Добавить префиксы
+Register Gateway Information,Зарегистрировать информацию о шлюзе
+Authentication,Аутентификация
+Please Enter Valid Key,"Пожалуйста, введите действительный ключ"
+Alert,Предупреждение
+Remote Check Failed,Ошибка удаленной проверки
+MD5 Checksum Verification Failed,Ошибка проверки контрольной суммы MD5
+Gateway ragister fail please try again,"Ошибка регистратора шлюза, попробуйте еще раз"
+Context,Контекст
+Expires,Истекает
+Frequency,Частота
+Ping Frequency,Частота пинга
+Fails Call In,Не удается позвонить
+Fails Call Out,Неудачный вызов
+Opensips Devices,Устройства Opensips
+Second,Второй
+Add Auth Email,Добавить адрес электронной почты для аутентификации
+Edit Auth Email,Изменить адрес электронной почты для аутентификации
+Add Authemail,Добавить Authemail
+Auth Email updated successfully!,Электронная почта аутентификации успешно обновлена!
+Auth Email added successfully!,Электронная почта аутентификации успешно добавлена!
+Auth Email removed successfully!,Электронная почта аутентификации успешно удалена!
+Auth Email,Авторизация электронной почты
+Authemail added successfully!,Authemail успешно добавлен!
+Please Enter Authemail value.,"Пожалуйста, введите значение Authemail."
+Authemail already Exists.,Authemail уже существует.
+Authemail removed sucessfully!,Authemail успешно удален!
+Auth Email List,Список рассылки аутентификации
+Auth Mapping,Сопоставление аутентификации
+Auth,Auth
+Authemail,Authemail
+Faxer,Факсимильный аппарат
+This file not avilable for download!,Этот файл недоступен для загрузки!
+Create FAX,Создать ФАКС
+Web2fax removed successfully!,Web2fax успешно удален!
+Fax Type,Тип факса
+Fax Number,Номер факса
+Fax Format,Формат факса
+Fax Sent,Факс отправлен
+Send Date,Дата отправки
+Files with format are allowed: .pdf,Разрешены файлы в формате: .pdf
+Send Fax,Отправить факс
+Receive,Получить
+Error,ошибка
+Conference List,Список конференций
+Edit Conference,Редактировать конференцию
+Create Conference,Создать конференцию
+Conference Added Successfully!,Конференция успешно добавлена!
+Conference Updated Successfully!,Конференция успешно обновлена!
+Conference removed successfully!,Конференция успешно удалена!
+Conference profiles,Профили конференций
+Create Conference profiles,Создать профили конференции
+Edit Conference Profile,Изменить профиль конференции
+Conference Setting Added Successfully!,Настройка конференции успешно добавлена!
+Conference Setting Updated Successfully!,Настройки конференции успешно обновлены!
+Conference Profile Removed Successfully!,Профиль конференции успешно удален!
+Conference Profiles Added Successfully!,Профили конференции успешно добавлены!
+Conference Profiles Updated Successfully!,Профили конференций успешно обновлены!
+Conference profiles removed successfully!,Профили конференции успешно удалены!
+Conference controls List,Список элементов управления конференцией
+Edit Conference controls,Редактировать элементы управления конференцией
+Conference Controls Removed Successfully!,Управление конференцией успешно удалено!
+Conference Controls Added Successfully!,Управление конференцией успешно добавлено!
+Conference Controls Updated Successfully!,Управление конференцией успешно обновлено!
+Pin Number,Пин код
+Duration (Second),Продолжительность (секунды)
+Greeting,Приветствие
+Create Conference Controls,Создать элементы управления конференцией
+Controls Name,Имя управления
+Data,Данные
+Domains,Домены
+Edit Domains,Редактировать домены
+Domain Updated Successfully!,Домен успешно обновлен!
+Please enter proper domain value.,"Пожалуйста, введите правильное значение домена."
+Domain name,Доменное имя
+Edit Domain,Изменить домен
+Feature Code,Код функции
+Feature code removed successfully!,Код функции успешно удален!
+Feature code is already exist in system,Код функции уже существует в системе
+Pickup Group,Пикап группа
+Create Pickup Group,Создать группу самовывоза
+Edit Pickup Group,Изменить группу перехвата
+Pickup group updated successfully!,Группа пикапа успешно обновлена!
+Pickup group added successfully!,Группа самовывоза успешно добавлена!
+Pickup group removed successfully!,Группа самовывоза успешно удалена!
+Feature,Особенность
+IVR List,Список IVR
+Create IVR,Создать IVR
+Edit IVR,Изменить IVR
+Ivr added successfully!,Ивр успешно добавлен!
+Ivr updated successfully!,Ivr успешно обновлен!
+Ivr removed successfully!,Ивр успешно удален!
+Caller ID Name Prefix,Префикс имени вызывающего абонента
+Options,Опции
+Advance,Заранее
+Add More,Добавить больше
+Ring Back,Перезвонить
+Invalid Retries,Недействительные попытки
+Timeout,Тайм-аут
+Caller ID Number Prefix,Префикс номера вызывающего абонента
+Invalid Message,Неверное сообщение
+Welcome Greeting,Приветственное приветствие
+Direct Dial,Прямой набор
+Create Queue,Создать очередь
+Edit Queue,Изменить очередь
+Queue Added Successfully!,Очередь успешно добавлена!
+Queue Updated Successfully!,Очередь успешно обновлена!
+Queue removed successfully!,Очередь успешно удалена!
+Agent Dial Number,Номер набора агента
+Queues,Очереди
+Queue,Очередь
+Edit Recording,Редактировать запись
+Create Recording,Создать запись
+Recording Added Successfully!,Запись успешно добавлена!
+Recording deleted successfully!,Запись успешно удалена!
+Recording Information,Информация о записи
+to create a recording,создать запись
+Dial,Набирать номер
+Ring Group,Группа звонков
+Ring Group Add,Группа звонков Добавить
+Edit Ring Group,Изменить группу звонков
+Create Ringgroup,Создать кольцевую группу
+Ring group added successfully!,Группа звонков успешно добавлена!
+Ring group updated successfully!,Группа звонков успешно обновлена!
+Ring group deleted successfully!,Группа звонков успешно удалена!
+Ring Group Information,Информация о группе звонков
+Do you want create sip devices?,Хотите создавать sip-устройства?
+Sip device Count,Количество устройств Sip
+Next,Следующий
+Basic Settings,Основные настройки
+Ring Strategy,Кольцевая стратегия
+Sequence,Последовательность
+Simultaneous,Одновременный
+Delay (Seconds),Задержка (секунды)
+Timeout (Seconds),Тайм-аут (секунды)
+Prompt,Незамедлительный
+Announcement,Объявление
+CID Name Prefix,Префикс имени CID
+CID Number Prefix,Префикс номера CID
+Call Recording,Запись звонков
+Forcefully Enable,Принудительно включить
+Forcefully Disable,Принудительно отключить
+Skip busy,Пропустить занят
+No Answer Call Type,Тип вызова без ответа
+Call Routing,Маршрутизация звонков
+Enabled,Включено
+Disabled,инвалид
+Time Conditions List,Список временных условий
+Create Time Conditions,Создать временные условия
+Edit Time Conditions,Изменить временные условия
+Time Conditions Added Successfully!,Временные условия добавлены успешно!
+Time Conditions Updated Successfully!,Временные условия обновлены успешно!
+Time Conditions removed successfully!,Временные условия успешно удалены!
+Failover Condition,Условие аварийного переключения
+Start Hour,Начальный час
+Week day,День недели
+Month day,День месяца
+End Hour,Конец часа
+Jan,Янв
+Feb,Фев
+Mar,Мар
+Apr,Апр
+Jun,Июн
+Jul,Июл
+Aug,Авг
+Sep,Сен
+Oct,Октябрь
+Nov,Ноя
+Dec,Декабрь
+Sunday,Воскресенье
+Monday,понедельник
+Tuesday,вторник
+Wednesday,Среда
+Thursday,Четверг
+Friday,Пятница
+Saturday,суббота
+Extensions Destination,Назначение расширений
+Extensions Call Type,Тип вызова внутренних абонентов
+Ignore Busy,Игнорировать занятость
+Do Not Disturb,Не беспокойте
+Pickup Group List,Список групп самовывоза
+Allow Pickup Group List,Разрешить список групп перехвата
+Not Registered,Не зарегистрирован
+Call Waiting,Ожидание вызова
+On Busy,Занят
+No Answer,Нет ответа
+Destinations,Направления
+Follow Me,Подписывайтесь на меня
+Conference Profile,Профиль конференции
+Conference Controls,Управление конференцией
+Conference,Конференция
+Time Conditions,Временные условия
+RingGroup,RingGroup
+IVR,IVR
+Advance Settings,Дополнительные настройки
+Agent Back-Tone,Агент Back-Tone
+Customer Back-Tone,Звонок клиента
+Time Condition,Условие времени
+LAST FTP PROCESS,ПОСЛЕДНИЙ ПРОЦЕСС FTP
+Group Name,Название группы
+Ported Number List,Список перенесенных номеров
+Import Ported Number,Импортировать перенесенный номер
+has been uploaded successfully!,загружено успешно!
+Destination From,Пункт назначения из
+Destination To,Место назначения
+Routing Label,Этикетка маршрутизации
+Number From,Номер от
+Participant,Участник
+Number To,Номер Кому
+File must be in the following format(.gz):,Файл должен быть в следующем формате (.gz):
+Create Schedule Report,Создать отчет по расписанию
+Schedule Report,Расписание отчета
+Schedule Report added successfully!,Отчет по расписанию успешно добавлен!
+Schedule Report has been deleted !,Отчет о расписании удален!
+Email ID,Электронный идентификатор
+Filters,Фильтры
+Unique ID,Уникальный идентификатор
+Call Start,Call Start
+Recurring Type,Повторяющийся тип
+Field List,Список полей
+Report Description,Описание отчета
+Are you sure you want to close?,"Вы уверены, что хотите закрыть?"
+Alarm Name,Название сигнала тревоги
+Alarm Type,Тип тревоги
+Alarm On,Будильник включен
+Threshold Value,Пороговое значение
+Period,Период
+Last Triggered Date,Дата последнего срабатывания
+Create Alarm,Создать будильник
+Ping Type,Тип пинга
+Freeswitch,Freeswitch
+Console,Консоль
+Period (In Seconds),Период (в секундах)
+Edit Alarm,Изменить будильник
+CIC,CIC
+Active Calls,Активные звонки
+Call Alarms,Тревоги вызова
+Report,Отчет
+Triggered Value,Триггерное значение
+Period,Период
+Alarm Report,Отчет о тревоге
+Resolved,Решено
+Are you sure want to close selected alarm ?,Вы действительно хотите закрыть выбранный будильник?
+Country Report,Страновой отчет
+Debits,Дебет
+ASR : Answer Seizure Ratio,ASR: коэффициент использования ответов
+ACD : Average Call Duration,ACD: средняя продолжительность разговора
+MCD : Maximum Call Duration,MCD: максимальная продолжительность разговора
+Custom Rates,Индивидуальные ставки
+Create Custom Rate,Создать индивидуальную ставку
+Edit Custom Rate,Изменить индивидуальную ставку
+Registered SIP Devices,Зарегистрированные SIP-устройства
+Switch Host,Switch Host
+Refresh Time,Время обновления
+Sec.,Раздел
+Min.,Мин.
+User,Пользователь
+Contact,Связаться с нами
+Client-IP,Клиент-IP
+Client Port,Клиентский порт
+User Agent,Пользовательский агент
+Registered Gateways,Зарегистрированные шлюзы
+Call In,Вызывать
+Call Out,Вызывать
+Fail Call In,Неудачный вызов
+Fail Call Out,Неудачный вызов
+State,государство
+Switch CLI,Коммутатор CLI
+Freeswitch CLI,Интерфейс командной строки Freeswitch
+Live Call Graph,График живых звонков
+--Select All--,--Выбрать все--
+Call Count,Счетчик звонков
+Live Call data,Данные Live Call
+SMS Rate Group,SMS Rate Group
+SMS CDRs,SMS CDR
+Auto Refill,Автозаполнение
+Refill Amount,Сумма пополнения
+Occurrence Per Day,Возникновение в день
+Message From,Сообщение от
+Message To,Сообщение
+SMS Type,Тип СМС
+Profile Name,Имя профиля
+Edit Conference profiles,Редактировать профили конференции
+Ring-Group,Ring-Group
+Failover Destination,Назначение аварийного переключения
+Timeout(min),Тайм-аут (мин)
+Create SMS Rate Group,Создать группу скорости SMS
+SMS Rate Group Information,Информация о группе скорости SMS
+Markup(%),Наценка (%)
+SMS Origination Rate,Скорость отправки SMS
+Per SMS Cost,Стоимость SMS
+SMS Trunk add,SMS Trunk добавить
+SMS Trunk Information,СМС информация о внешней линии
+Trunk Settings,Настройки магистрали
+Precedence,Приоритет
+Trunk Name,Имя внешней линии
+Edit SMS Trunk,Изменить транк для SMS
+Add SMS Termination Rates,Добавить тарифы на прерывание SMS
+Edit SMS Termination Rates,Изменить тарифы на прерывание SMS
+Import SMS Termination Rates Using Field Mapper,Импорт скорости прерывания SMS с помощью Field Mapper
+Import SMS Termination Rates,Тарифы на прерывание импорта SMS
+SMS Trunk,SMS Транк
+Create SMS Gateway,Создать SMS-шлюз
+Base URL,Базовый URL
+Api Key / Application Id,Ключ API / идентификатор приложения
+Secret Key Id,Идентификатор секретного ключа
+Api Key,Ключ API
+Based On Utilized Free Minutes,На основе использованных бесплатных минут
+Based On Utilized Highest Days/Free Minutes,На основе максимального количества использованных дней / бесплатных минут
+ASR : Answer Seizure Ratio,ASR: коэффициент использования ответов
+ACD : Average Call Duration,ACD: средняя продолжительность разговора
+MCD : Maximum Call Duration,MCD: максимальная продолжительность разговора
+Edit SMS Rate Group,Изменить группу скорости отправки SMS
+ (Enterprise),  (Предприятие)
+Edit SMS Gateway,Изменить SMS-шлюз
+Edit Department,Редактировать отдел
+Edit Support Ticket,Изменить заявку в службу поддержки
+SMS Package,SMS пакет
+Free SMS,Бесплатные SMS
+auto_reply_mail_support,автоответчик по электронной почте
+email_sent_support_ticket,электронное письмо отправлено в службу поддержки
+alarm_report,отчет о тревоге
+two_factor_authentication,двухфакторная аутентификация
+schedule_report,отчет по расписанию
+ported_number,перенесенный номер
+ported_number_ftp_connect,перенесенный номер ftp connect
+ported_number_no_file,перенесенный номер без файла
+fraud_report,отчет о мошенничестве
+outbound_fax_mail,исходящая факсимильная почта
+fax_receive_mail,факс получать почту
+Format,Формат
+Fax Method,Метод факса
+SIP Device,SIP устройство
+Web2fax,Web2fax
+Email2fax,Email2fax
+Fax2Mail,Fax2Mail
+Success,Успех
+File,файл
+APFaxer,APFaxer
+Fax send Retries,Повторные попытки отправки факса
+Fax Email Id,Идентификатор электронной почты факса
+Fax Email Password,Пароль электронной почты факса
+Fax Server,Факс-сервер
+Fax Server SIP Port,Порт SIP факс-сервера
+Fax Email Host,Хост факсов электронной почты
+Create Fraud Detection,Создание обнаружения мошенничества
+Filter by,Сортировать по
+Per Dst. Prefix,Per Dst. Приставка
+Group By Dst. Prefix,Группировать по Dst. Приставка
+Per Country,По стране
+Group by Country,Группировать по странам
+Time Period,Временной период
+Warning Threshold,Порог предупреждения
+15 minutes,15 минут
+30 minutes,30 минут
+1 Hour,1 час
+3 Hours,3 часа
+6 Hours,6 часов
+12 Hours,12 часов
+24 Hours,24 часа
+Warning Action,Предупреждение Действие
+None,Никто
+Block Threshold,Блокировать порог
+Block Action,Блокировать действие
+ (In Minutes),  (В минутах)
+Time Period,Временной период
+Edit Fraud Detection,Изменить обнаружение мошенничества
+Fraud Report,Отчет о мошенничестве
+Fraud Trigger,Причина мошенничества
+Alarm Value,Значение сигнала тревоги
+warning,предупреждение
+block,блокировать
+--Select Account Type--,- Выберите тип учетной записи -
+Weekly,Еженедельно
+Quarterly,Ежеквартальный
+Yearly,Ежегодно
+SMS Reports,SMS отчеты
+SMS Summary,Сводка по SMS
+SMS Customer,SMS клиенту
+SMS Reseller,SMS-реселлер
+Customer SMS Report,СМС-отчет клиента
+Message Count,Количество сообщений
+Resellers SMS Report,СМС-отчет реселлеров
+Customer SMS Summary Report,Сводный отчет по SMS для клиентов
+Total Message,Общее сообщение
+Send Message,Отправить сообщение
+Cancel Message,Отменить сообщение
+Reseller SMS Summary Report,Сводный отчет реселлера по SMS
+Two-factor Authentication,Двухфакторная аутентификация
+Security,Безопасность
+Whmcs Secret Key,Секретный ключ Whmcs
+Whmcs IV Key,Ключ Whmcs IV
+Two-factor Authentication,Двухфакторная аутентификация
+Currencies Update,Обновление валют
+Call Activity Report,Отчет об активности звонков
+Request A Number Port,Запросить номер порта
+Porting,Портирование
+Generate,Генерировать
+Callerid,Callerid
+International Recharge,Международное пополнение
+Feature code updated successfully!,Код функции успешно обновлен!
+Number Porting,Перенос номера
+Number Porting Requests,Запросы на перенос номера
+Request a Number Port,Запросить номер порта
+Number / Number Range,Число / Диапазон чисел
+Date Submitted,Дата отправки
+Requested Date,Запрошенная дата
+Requested Time,Запрошенное время
+Actioned by,Действовал
+Note for Customer,Примечание для клиента
+Accepted,Принято
+Rejected,Отклоненный
+In Progress,В ходе выполнения
+Completed,Завершенный
+Cancelled,Отменено
+Create Porting Request Number,Создать номер запроса на перенос
+Porting Request Number,Номер запроса на перенос
+Company Address,Адрес компании
+Individual Number,Индивидуальный номер
+Start Number,Начальный номер
+Number Range,Диапазон номеров
+End Number,Конечный номер
+New Provider Name,Новое имя провайдера
+Existing Provider Name,Имя существующего провайдера
+Requested Port Date,Запрошенная дата порта
+Requested Port Time,Запрошенное время порта
+Upload most recent phone bill,Загрузить последний телефонный счет
+Edit Porting Request,Изменить запрос на перенос
+Telephone Number,Номер телефона
+File Download,Загрузка файла
+Accept,Принимать
+Reject,Отклонять
+Edit Porting Request Number,Изменить номер запроса на перенос
+Retired,На пенсии
+porting_request,запрос на перенос
+Public IP,Публичный IP
+Activity Report,Отчет о деятельности
+Push Status,Статус отправки
+Last DID Call Date,Дата последнего звонка
+Last Outbound Call Date,Дата последнего исходящего звонка
+Login Activity,Вход в систему
+Last DID Call From Date,Последний DID звонок с даты
+Last DID Call To Date,Последний звонок на сегодняшний день
+Last Outbound Call From Date,Последний исходящий звонок с даты
+Last Outbound Call To Date,Последний исходящий вызов на дату
+Find Time(min),Найти время (мин)
+Login Activity Report,Отчет об активности входа
+Assorted,Ассорти
+Auto Refresh Page,Автоматическое обновление страницы
+Ticket Digits,Цифры билета
+Recording Number,Номер записи
+Hybrid Routing,Гибридная маршрутизация
+Opensips Public Host,Публичный хост Opensips
+Ban Time(min),Время запрета (мин)
+SMS Logs,Журналы SMS
+Ported Number,Перенесенный номер
+FTP Details,Детали FTP
+Admin Notification Email,Адрес электронной почты для уведомления администратора
+Term and Condition URL,Срок и условия URL
+Invoice Debug,Счет-фактура отладки
+Wrong Attempts/Customer/Days,Неправильные попытки / клиент / дни
+(Fixed tax),(Фиксированный налог)
+Assign Product,Назначить продукт
+Search by code,Поиск по коду
+INVOICE HISTORY,ИСТОРИЯ СЧЕТОВ
+PAYMENT HISTORY,ИСТОРИЯ ПЛАТЕЖЕЙ
+Please Insert Amount,"Пожалуйста, введите сумму"
+Special Note,Специальная записка
+Low Balance Threshold,Порог низкого баланса
+No Balance Threshold,Нет порога баланса
+Max amount per call,Максимальная сумма за звонок
+Alert Type,Тип оповещения
+Heartbeat,Стук сердца
+Hangup,Вешать трубку
+Available Credit limit,Доступный кредитный лимит

@@ -1,0 +1,23 @@
+English,Russian
+Create Local Number,Создать локальный номер
+Local Number Import Process,Процесс импорта локального номера
+File must be in the following format(.csv):,Файл должен быть в следующем формате (.csv):
+Import Local Number,Импортировать локальный номер
+Duplicate Local number found from database,Дубликат Локальный номер найден в базе данных
+Country not valid.,Страна не действительна.
+Duplicate Local number found from import file.,В файле импорта найден дубликат локального номера.
+Local Number Import Error,Ошибка импорта локального номера
+Edit Local Number,Изменить местный номер
+Local number updated successfully!,Локальный номер успешно обновлен!
+Local number added successfully!,Локальный номер успешно добавлен!
+Local number removed successfully!,Локальный номер успешно удален!
+Local number forwarding successfully!,Переадресация местного номера успешно!
+city,город
+Destination Number,Номер назначения
+Destination Name,Название места назначения
+Add Local Number,Добавить местный номер
+Added Date,Дата добавления
+Records Imported Successfully,Записи успешно импортированы
+Records Not Imported,Записи не импортированы
+Error In CSV File,Ошибка в файле CSV
+Process,Процесс

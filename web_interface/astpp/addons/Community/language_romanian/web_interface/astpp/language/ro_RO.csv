@@ -1,0 +1,3009 @@
+English,Romanian
+Access Number,Număr de acces
+Access Numbers,Numere de acces
+Account,Cont
+Account Type,Tip de cont
+Account Valid Days,Zile valabile pentru cont
+Account Verification By,Verificarea contului de către
+Accounts,Conturi
+Accounts Report,Raport de conturi
+ACD,ACD
+Action,Acțiune
+Action Type,Tipul acțiunii
+Add,Adăuga
+Add Country,Adăugați țară
+Add Currency,Adăugați monedă
+Add Destination,Adăugați destinație
+Add Ratedeck,Adăugați Ratedeck
+Address1,Adresa 1
+Administrator,Administrator
+Admin,Administrator
+Admins,Administratori
+After Balance,După echilibru
+Alarm,Alarma
+Alert Status,Stare alertă
+Allow integration with Fraud detection,Permiteți integrarea cu detectarea fraudei
+Allow IP Management,Permiteți administrarea IP
+Allow Local Call,Permiteți apel local
+Allow Local Calls,Permiteți apeluri locale
+Allow Loss Less Routing,Permiteți pierderea mai puțin de rutare
+Allow Max Retries,Permiteți reîncercări maxime
+Allow Recording,Permiteți înregistrarea
+Amount,Cantitate
+Amount INR,Suma INR
+Answered Calls,Apeluri cu răspuns
+Applicable For,Aplicabil pentru
+Apply on existing accounts,Aplicați pe conturile existente
+Archive,Arhiva
+ASR,ASR
+Attachement,Atașament
+Attempted Calls,Apeluri încercate
+Audit,Audit
+Audit Log,Jurnal de audit
+Audit Logs Older Than Days,Jurnalele de audit mai vechi de zile
+Authorize.net,Autorizați.net
+Automatically,Automat
+Balance,Echilibru
+Balance Announcement,Anunț de sold
+Balance Below,Soldul de mai jos
+Base Currency,Moneda de bază
+Basic,De bază
+Basic Information,Informatii de baza
+Batch Update,Actualizare lot
+Before Balance INR,Înainte de sold INR
+Begins With,Începe cu
+Beta,Beta
+Billable,Facturabil
+Billing,Facturare
+Billing Cycle,Ciclu de facturare
+Billing Days,Zilele de facturare
+Billing Information,Informații de facturare
+Billing Type,Tipul de facturare
+Body,Corp
+Buy Cost,Costul de cumpărare
+Call Barring,Blocare apeluri
+Call Date,Data apelului
+Call Detail Reports,Rapoarte de detalii apel
+Call Max Length,Sunați la lungimea maximă
+Call State,Starea apelului
+Call Summary Reports,Rapoarte sumare apel
+Call Timeout,Expirarea apelului
+Call Type,Tipul apelului
+Call Types,Tipuri de apeluri
+Called Number,Număr apelat
+Caller ID,ID-ul apelantului
+Caller IDs,ID-uri ale apelantului
+Caller IP,IP apelant
+Caller Name,Numele apelantului
+Caller Number,Număr apelant
+Caller-Id-In-Form,Identificator apelant în formă
+Calling Card,Cartea de vizită
+Calls,Apeluri
+Calls Breakdown,Defalcare apeluri
+Calltype Information,Informații despre tipul de apel
+Can be purchased?,Poate fi achiziționat?
+Capital,Capital
+Capture Server,Capture Server
+Card Input Timeout,Timp de intrare card
+Card Length,Lungimea cardului
+Card Retries,Reîncercări de card
+Carriers,Purtători
+Category,Categorie
+CC,CC
+CDRs Older Than Days,CDR-urile mai vechi de zile
+Charge Type,Tipul de încărcare
+Charges Breakdown,Defalcarea taxelor
+Charges History,Istoricul taxelor
+CID,CID
+City,Oraș
+Clear,clar
+Client IP,IP client
+Client User Agent,Agent de utilizator client
+Code,Cod
+Codecs,Codecuri
+Commission,Comision
+Commission Rate,Rata comisionului
+Commission Reports,Rapoarte ale Comisiei
+Company,Companie
+Company Profiles,Profilurile companiei
+Company Tax number,Numărul de impozit pe societate
+Completed Calls,Apeluri finalizate
+Concurrent Calls,Apeluri simultane
+Configuration ,Configurare
+Confirmed,Confirmat
+Connection Cost,Costul conexiunii
+Contains,Conține
+Cost,Cost
+Cost/Min,Cost / Min
+Countries,Țări
+Country,Țară
+Country Code,Codul tarii
+Country List,Lista țărilor
+Country Reports,Rapoarte de țară
+Coupon Information,Informații despre cupon
+Coupon Number,Număr cupon
+CPS,CPS
+Create,Crea
+Create Admin,Creați administrator
+Create calltype,Creați tip de apel
+Create Company Profile ,Creați profilul companiei
+Create Customer,Creați client
+Create Origination Rate,Creați rata de inițiere
+Create Product ,Creați produs
+Create Provider,Creați furnizor
+Create Rate Group,Creați un grup de rate
+Create Refill Coupon,Creați cupon de reumplere
+Create SIP Device,Creați dispozitiv SIP
+Create Tax,Creați impozite
+Created Date,data creata
+Creation Date,Data crearii
+Credit,Credit
+Credit Limit,Limita de credit
+Crons,Crons
+Currency,Valută
+Currency Conversion Loss Percentage,Procentul pierderii conversiei valutare
+Currency List,Lista valutară
+Customer,Client
+Customer CDRs Report ,Raport CDR client
+Customer Summary,Rezumatul clientului
+Customer Summary Report ,Raport sumar client
+Customers,Clienți
+Dashboard,Bord
+Database,Bază de date
+Date,Data
+Debit,Debit
+Debug,Depanare
+Decimal Points,Puncte zecimale
+Default Increment ,Increment implicit
+Default Invoice Mode,Mod implicit de facturare
+Default Tax,Impozit implicit
+Delete,Șterge
+Deleted Accounts After Days,Conturi șterse după zile
+Description,Descriere
+Destination,Destinaţie
+Dial Input Timeout,Apelați Input Timeout
+DID,FĂCUT
+DIDs,DID-uri
+Direction,Direcţie
+Disable,Dezactivează
+Display records in,Afișați înregistrările în
+Disposition,Dispoziţie
+Documentation,Documentație
+Doesnt Contain,Nu conține
+Domain,Domeniu
+Draft,Proiect
+Due Date,Data scadentă
+Duplicate,Duplicat
+Duration,Durată
+Email,E-mail
+Email Alerts ?,Alerte prin e-mail?
+Email History,Istoricul e-mailurilor
+Email History List ,Lista istoricului e-mailurilor
+Email Notification,notificare prin e-mail
+Email Notifications,notificări prin email
+Email Status,Stare e-mail
+Email Template,Șablon de e-mail
+Emails Older Than Days,E-mailuri mai vechi de zile
+En,En
+Enable,Permite
+Enable Signup,Activați înscrierea
+Ends With,Se termină cu
+Enterprise,Afacere
+Entity Type,Tip de entitate
+Environment,Mediu inconjurator
+Ewallet Payment Gateway,Ewallet Payment Gateway
+Expired Accounts After Days,Conturi expirate după zile
+Expiry Date,Data expirarii
+Export,Export
+Failover  GW Name #1,Numele GW de failover # 1
+Failover GW Name #2,Numele GW de failover # 2
+Favicon,Favicon
+Fax,Fax
+Fee,Taxă
+File Path,Calea fișierului
+Filter,Filtru
+First Name,Nume
+First Used,Prima utilizare
+Fixer Key,Tasta Fixer
+FMAddon,FMAddon
+Footer,Subsol
+Fraud Detection,Detectarea fraudei
+Free Minutes,Minute gratuite
+FreeSwitch Servers,Servere FreeSwitch
+From,Din
+From Date,Din data
+From Timestamp,De la Timestamp
+Gateway Name,Nume gateway
+Gateways,Porți
+General,General
+General Input Timeout,Timp de intrare general
+Generate Invoice,Generați factură
+Generate Pin,Generați Pin
+Generates Alarm From System,Generează alarma din sistem
+Generates Local Number system,Generează sistemul de număr local
+Generates ticket of issues from system,Generează biletul de probleme din sistem
+Generates Various Alarms From System,Generează diferite alarme din sistem
+Generates Various Country Reports From System,Generează diferite rapoarte de țară din sistem
+Generates various reports from system,Generează diferite rapoarte din sistem
+Get Addons,Obțineți Addons
+Get App,Obține aplicația
+Global,Global
+Grace Time,Grace Time
+Grand Total,Total general
+Group By,A se grupa cu
+Group By #1,Grupați după numărul 1
+Group By #2,Grupați după numărul 2
+Group By #3,Grupați după numărul 3
+Group By #Time,Grupați după # Timp
+Header,Antet
+Homer,Homer
+Host,Gazdă
+Import,Import
+Import Customers,Importați clienții
+Import with field map,Importați cu harta câmpului
+Inbound,Intrare
+Inbound Fax,Fax de intrare
+Included Seconds,Secunde incluse
+Increment,Creştere
+Initial Balance,Balanta initiala
+Initial Increment,Increment inițial
+Inovices Older Than Days,Inovices Mai vechi De Zile
+Install,Instalare
+Installed,Instalat
+Interval,Interval
+Interval Type,Tipul intervalului
+Invoice Configuration ,Configurarea facturii
+Invoice Date,Data facturii
+Invoice Due Days,Zilele scadente ale facturii
+Invoice Due Notification,Notificare datorată facturii
+Invoice Notification,Notificare factură
+Invoice Number,Număr de factură
+Invoice Prefix,Prefixul facturii
+Invoice Start Form,Formular de pornire a facturii
+Invoices,Facturi
+IP,IP
+IP Settings,Setări IP
+Is Equal To,Este egal cu
+Is Not Equal To,Nu este egal cu
+Is Purchased?,Este achiziționat?
+Iso,Iso
+Iso3,Iso3
+IVR Count,IVR Cont
+Languages,Limbi
+Last Execution Date,Data ultimei execuții
+Last Modified Date,Data ultimei modificări
+Last Name,Numele de familie
+Last Paid Date,Data ultimei plăți
+Latest Orders,Ultimele comenzi
+LC Charge / Min,Încărcare LC / min
+LC Charge/Min,Încărcare LC / min
+Live,Trăi
+Live Call Report,Raport apel live
+Live Id,Id live
+Live Key,Cheie live
+Live Url,Live Url
+Local Call Timeout,Expirare apel local
+Local Number,Numar local
+Local Numbers,Numere locale
+Locale code,Cod local
+Localization,Localizare
+Localization Type,Tipul de localizare
+Localizations,Localizări
+Log out,Deconectează-te
+Log Path,Calea jurnalului
+Logo,Siglă
+Low balance Alert?,Alertă cu sold scăzut?
+Mail Log,Jurnal de e-mail
+Manually,Manual
+Markup,Markup
+Mass Create,Crearea în masă
+Mass Email,E-mail de masă
+Max Free Length,Lungime maximă liberă
+MCD,MCD
+Minimum Fund Transfer,Transfer minim de fond
+Minutes,Minute
+Minutes Announcement,Anunț proces-verbal
+Minutes Breakdown,Defalcarea procesului verbal
+Moderate,Moderat
+Modified Date,Data modificata
+Module,Modul
+Name,Nume
+New Accounts,Conturi noi
+Nexmo API Key,Cheia API Nexmo
+Nexmo Secret Key,Cheia secretă Nexmo
+Next Execution Date,Data următoare de execuție
+Nickname,Poreclă
+No,Nu
+No Records Found,Nu au fost găsite
+Notes,Note
+Notifications,Notificări
+Notify before due days,Notificați înainte de zilele scadente
+Number,Număr
+Number Type,Tipul numărului
+ of , de 
+Opensips,Deschide
+Opensips DB Engine,Deschide motorul DB
+Opensips DB Host,Deschide gazdă DB
+Opensips DB Name,Deschide numele DB
+Opensips DB Pass,Deschide DB Pass
+Opensips DB User,Deschide Utilizator DB
+Opensips Domain,Deschide domeniul
+Opensource,Sursa deschisa
+Order,Ordin
+Order Amount,Cantitatea comenzii
+Order Date,Data comandă
+Order ID,Comanda ID
+Order Now,Comanda acum
+Orders,Comenzi
+Org. Cost,Org. Cost
+Org. Destination,Org. Destinaţie
+Org. Pefix,Org. Pefix
+Origination Rates,Ratele de inițiere
+Outbound Fax,Fax de ieșire
+Outstanding Amount INR,Suma remarcabilă INR
+Page ,Pagină 
+Password,Parola
+Password Strength,Puterea parolei
+Payment Method,Modalitate de plată
+Payment Methods,Metode de plata
+Payment Status,Starea plății
+Paypal,Paypal
+Per Minute Cost,Cost pe minut
+Phone,Telefon
+Pin Input Timeout,Timp de intrare pin
+Pin Length,Lungimea pinului
+Pin retries,Pinul reîncearcă
+Pinless Authentication,Autentificare fără pin
+Place Order ,Plasați comanda
+Playback Audio Notifications,Redare notificări audio
+Port,Port
+Portal personalization,Personalizare portal
+Powered by ASTPP,Alimentat de ASTPP
+Prefix,Prefix
+Prepend,Prepend
+Preserve,Păstrați
+Price,Preț
+Priority,Prioritate
+Product Category,Categorie produs
+Product Details,Detalii produs
+Product Name,numele produsului
+Products,Produse
+Profile Action,Acțiune profil
+Profit,Profit
+Provider,Furnizor
+Provider CDRs Report ,Raportul furnizorului de CDR-uri
+Provider Outbound,Furnizor de ieșire
+Provider Outbound Report,Raportul de ieșire al furnizorului
+Provider Summary Report ,Raport rezumat al furnizorului
+Province,Provincie
+Province/State,Provincie / Stat
+Proxy,Proxy
+Purge,Purjare
+Push Notifications,Notificări
+Quantity,Cantitate
+Rate,Rată
+Rate Announcement,Anunț de tarif
+Rate Count,Numărul de rate
+Rate Group,Evaluează grupul
+Rate Groups,Evaluează grupurile
+Rate Information,Informații despre tarif
+Ratedeck,Ratedeck
+Ratedeck Information,Informații Ratedeck
+Rates Count,Tarifele se numără
+Realtime Billing,Facturare în timp real
+Receiver Email,E-mail receptor
+Recording Files Older Than Days,Înregistrarea fișierelor mai vechi de zile
+ Records, Înregistrări
+Referer Page,Pagina de referință
+Refill By,Reumple By
+Refill Coupon Length,Reumpleți lungimea cuponului
+Refill Coupons,Reumpleți cupoanele
+Refill Report,Raport de reumplere
+Refills,Reumpleri
+Register,Inregistreaza-te
+Release if no balance,Eliberați dacă nu există sold
+Report a Bug,Raporteaza o eroare
+Reports,Rapoarte
+Request URI,Solicitați URI
+Reseller,Reseller
+Reseller can resell,Revânzătorul poate revinde
+Reseller Summary,Rezumatul distribuitorului
+Reseller Summary Report ,Raport rezumat al revânzătorului
+Resellers,Revânzători
+Resellers CDRs Report ,Raport CDR-uri pentru revânzători
+Resend Mail,Retrimiteți e-mailul
+Role,Rol
+Roles & Permission,Roluri și permisiuni
+Roles & Permissions,Roluri și permisiuni
+Routing Prefix,Prefix de rutare
+Routing Type,Tip de rutare
+Sandbox,Sandbox
+Sandbox Id,Cod Sandbox
+Sandbox Key,Cheie Sandbox
+Sandbox Name,Nume Sandbox
+Sandbox Url,Sandbox Url
+Save,Salvați
+Schedule Reports,Programează rapoarte
+Search,Căutare
+Select File,Selectați Fișier
+Select Year,Selectați Anul
+Services,Servicii
+Set Maximum Add card limit,Setați limita maximă Adăugați card
+Settings,Setări
+Setup Fee,Taxa de instalare
+Signup,Inscrie-te
+SIP Devices,Dispozitive SIP
+SIP IP,IP SIP
+SIP Port,Port SIP
+SIP Profile,Profil SIP
+SIP Profiles,Profiluri SIP
+SMS,mesaj
+SMS Body,Corpul SMS
+SMS Notifications,Notificări prin SMS
+SMS Status,Stare SMS
+SMTP,SMTP
+SMTP Host,Gazdă SMTP
+SMTP Pass,SMTP Pass
+SMTP Port,Port SMTP
+SMTP User,Utilizator SMTP
+Start prefix,Începeți prefixul
+Starting Digit,Cifra de pornire
+Status,stare
+Strip,Bandă
+Strong,Puternic
+Subject,Subiect
+Subscription,Abonament
+Supportticket,Suport bilet
+Switch,Intrerupator
+Tariff,Tarifar
+Tax,Impozit
+Tax Information,Informații fiscale
+Telephone,Telefon
+Telephone as account number,Telefon ca număr de cont
+Templates,Șabloane
+Term. Cost,Termen. Cost
+Term. Destination,Termen. Destinaţie
+Term. Prefix,Termen. Prefix
+Term. Trunk,Termen. Trompă
+Termination Rates,Tarife de reziliere
+Third Party,Terț
+This Month,Luna aceasta
+This Week,Săptămâna aceasta
+Timelimit Announcement,Anunț Timelimit
+Timestamp,Timestamp-ul
+Timezone,Fus orar
+To,La
+To Number,To Number
+To Timestamp,La Timestamp
+Today,Astăzi
+Top 10 Accounts,Top 10 conturi
+Top 10 Destinations,Top 10 destinații
+Total Calls ,Total apeluri
+Total Charges,Taxe totale
+Total Minutes,Minute totale
+Transaction ID,ID-ul de tranzacție
+Translations,Traduceri
+Translations Language,Limba traducerilor
+Trunk,Trompă
+Trunks,Trunchiuri
+Type,Tip
+Unpaid,Neplătit
+Update,Actualizați
+Used,Folosit
+Used Date,Data folosită
+Username,Nume de utilizator
+Version,Versiune
+Version 4.0 Beta,Versiunea 4.0 Beta
+View All,A vedea tot
+Voicemail,Mesageria vocală
+Panel Access,Acces la panou
+Profile,Profil
+Billing Settings,Setări de facturare
+Pin,Pin
+Account Settings,Setările contului
+Notification Email,E-mail de notificare
+Address,Abordare
+NON-CLI Rate Group,Grup de rată NON-CLI
+Billing Schedule,Program de facturare
+Billing Day,Ziua facturării
+Tax Number,Cod fiscal
+Invoice Note,Notă despre factură
+Reference,Referinţă
+Cancel,Anulare
+Device Information,Informatie despre dispozitiv
+Voicemail Options,Opțiuni pentru mesageria vocală
+Mail To,Trimiteți un e-mail către
+Attach File,Ataseaza fisier
+Local After Email,Local după e-mail
+Send all Message,Trimiteți tot mesajul
+Close,Închide
+IP map,Harta IP
+Identificador de llamadas,Identificador de llamadas
+Add Caller ID,Adăugați ID-ul apelantului
+Create Reseller,Creați distribuitor
+Role Name,Nume rol
+Outstanding Amount,Suma restanta
+To Date,La zi
+Before Balance,Înainte de echilibru
+Commission Report,Raportul Comisiei
+MonthlyFee,Taxă lunară
+Grace Time (Sec.),Grace Time (Sec.)
+Import DIDs,Importați DID-uri
+File must be in the following format,Fișierul trebuie să fie în următorul format
+DID Import Process,Procesul de import DID
+Get Sample file,Obțineți fișierul eșantion
+Check Header,Verificați antetul
+Select the file,Selectați fișierul
+Account Count,Număr de cont
+Acc. Number Length,Acc. Lungimea numărului
+Valid Days,Zile valabile
+Create Access Number,Creați un număr de acces
+Information,informație
+Import Access Numbers,Importați numerele de acces
+Access Numbers Import Process,Procesul de import al numerelor de acces
+DIDs Bulk Assign,Alocați în bloc DID-uri
+Bulk DID Purchase,Achiziție în vrac DID
+Provience,Proviență
+Assign Number,Atribuiți numărul
+DID Destination,Destinație DID
+DID Forward,DID înainte
+Always,Mereu
+If Busy,Dacă este ocupat
+If SIP Not Registered,Dacă SIP nu este înregistrat
+If No Answer,Dacă nu există răspuns
+New Rate Group Name,Nume grup nou de tarif
+Duplicate Rate Group Information,Informații despre grupul de rate duplicat
+Import Origination Rates,Ratele de inițiere a importului
+Force Trunk,Trunchiul de forță
+Please select atleast one record to dele,Vă rugăm să selectați cel puțin o înregistrare pentru a dele
+Import Ratedeck,Import Ratedeck
+Optional Information,informatii optionale
+From- Domain,Din- Domeniu
+From User,De la Utilizator
+Extension,Extensie
+Extension-In-Contact,Extensie-în-contact
+Ping,Ping
+Contact Params,Contactați Params
+Retry-Seconds,Reîncercați-secunde
+Register-Proxy,Înregistrare-proxy
+Channel,Canal
+Failover GW Name,Nume GW de trecere la basculare
+Create Trunk,Creați portbagaj
+Import Termination Rates,Ratele de încetare a importului
+Call Timeout (Sec.),Expirare apel (sec.)
+Trunk List,Lista portbagajului
+Reset,Resetați
+Create SIP Profile,Creați un profil SIP
+Create Freeswitch Server,Creați server Freeswitch
+Live Calls,Apeluri live
+Term Cost,Cost pe termen
+Term Destination,Destinația termenului
+Term Prefix,Prefixul termenului
+Localizaciones,Localizaciones
+Create Localization,Creați localizare
+Origination,Originară
+Termination,Rezilierea
+Inbound Callerid Translation,Traducere Callerid Inbound
+Destination Number Translation,Traducerea numărului de destinație
+Outbound Callerid Translation,Traducere Callerid de ieșire
+Create Call Barring,Creați blocarea apelurilor
+Callbarring Settings,Setări Callbarring
+Product Summary Report,Raport sumar produs
+SIP User,Utilizator SIP
+Product,Produs
+Taxes,Impozite
+Update Currencies,Actualizați valute
+File Name,Nume de fișier
+Database Information,Informații despre baza de date
+Database Backup,Copie de rezervă a bazei de date
+Command,Comanda
+Cron Settings,Setări Cron
+Create Cron Settings,Creați setări Cron
+Stripe,Dunga
+Live Secret key,Cheia Live Secret
+Live Publishable key,Cheie Live Publishable
+Set Percentage Charges,Setați taxele procentuale
+Set Fix Charges,Setați taxe fixe
+Stripe Mode,Stripe Mode
+Sandbox secret key,Cheie secretă Sandbox
+Sandbox publishable key,Cheie publicabilă Sandbox
+Version 4.0 Enterprise,Versiunea 4.0 Enterprise
+Powered by,Cu sprijinul
+Import Customer Using Field Mapper,Importați client utilizând Field Mapper
+You must either select a field from your,Trebuie fie să selectați un câmp din
+Records with duplicate account number an,Înregistrează un număr de cont duplicat an
+Account Import Error,Eroare la importarea contului
+Back to Customer List,Înapoi la lista de clienți
+Duplicate accounts with account number /,Conturi duplicate cu numărul de cont /
+Records imported successfully,Înregistrări importate cu succes
+Records not imported,Înregistrări neimportate
+Error In CSV File,Eroare în fișierul CSV
+Invoice Summary,Rezumatul facturii
+Customer Details,Detalii Client
+Invoice Details,Detaliile facturii
+Account Number,Numar de cont
+Invoice Amount,Valoarea facturii
+Invoice Item,Element factură
+Sub Total,Subtotal
+Total Due,Total datorat
+Note,Notă
+Add Setting,Adăugați setare
+Edit SIP Profile,Editați profilul SIP
+New,Nou
+Used?,Folosit?
+View Email,Vizualizați adresa de e-mail
+Active,Activ
+Inactive,Inactiv
+Black List,Lista neagră
+White List,Lista Albă
+Freeswitch Server Information,Informații despre serverul Freeswitch
+Currencies,Valute
+Edit Currency,Editați moneda
+Is Distributor,Este Distribuitor
+Package created successfully!,Pachetul a fost creat cu succes!
+DID Removed Successfully.,A fost eliminat cu succes.
+DID not found.,NU am găsit.
+Password changed Sucessfully....!!!,Parola s-a schimbat cu succes .... !!!
+New Password & Conformpassword not match,Parola nouă și parola de conformitate nu se potrivesc
+Invalid old passwword.,Passwword vechi nevalid.
+Permission Denied!,Acces refuzat!
+Refill Coupon amount is added successful,Reumpleți valoarea cuponului cu succes
+PLease upload maximum file,Vă rugăm să încărcați fișierul maxim
+files added successfully!,fișiere adăugate cu succes!
+File Uploading Fail Please Try Again,Eroare la încărcarea fișierelor Vă rugăm să încercați din nou
+Please upload only image!,Vă rugăm să încărcați doar imagini!
+Invoice config updated successfully!,Configurarea facturii a fost actualizată cu succes!
+Your Profile Updated Successfully!,Profilul dvs. a fost actualizat cu succes!
+Something wrong.Please contact to admini,Ceva în neregulă. Vă rugăm să contactați administratorul
+DID Released Successfully!,S-a lansat cu succes!
+IP already exist in system.,IP există deja în sistem.
+IP Added Sucessfully.,IP adăugat cu succes.
+IP Removed Sucessfully.,IP eliminat cu succes.
+SIP Device Updated Successfully!,Dispozitivul SIP a fost actualizat cu succes!
+SIP Device Added Successfully!,Dispozitiv SIP adăugat cu succes!
+SIP Device Removed Sucessfully!,Dispozitivul SIP a fost eliminat cu succes!
+Caller ID Added Sucessfully!,ID apelant adăugat cu succes!
+Please Enter Caller ID value.,Vă rugăm să introduceți valoarea ID-ului apelantului.
+Caller ID already Exists.,ID-ul apelantului există deja.
+Caller ID removed sucessfully!,ID-ul apelantului a fost eliminat cu succes!
+Alert Threshold Updated Successfully!,Pragul de alertă a fost actualizat cu succes!
+Can not trnasfer fund to postpaid custom,Nu se poate transfera fondul personalizat postplătit
+Access Denied! unable transfer fund to t,Acces interzis! fond de transfer incapabil către t
+You can not transfer fund in same accoun,Nu puteți transfera fond în același cont
+You can only transfer fund in same level,Puteți transfera fonduri numai la același nivel
+Please enter To account number.,Vă rugăm să introduceți numărul de cont.
+Please enter valid amount.,Vă rugăm să introduceți o sumă validă.
+You have insufficient balance.,Aveți un echilibru insuficient.
+Please enter valid account number.,Vă rugăm să introduceți un număr de cont valid.
+Please enter amount greater then 0.,Vă rugăm să introduceți o sumă mai mare decât 0.
+You need to enter minimum for fund trans,Trebuie să introduceți minimum pentru transferul de fonduri
+Please enter valid account number!,Vă rugăm să introduceți un număr de cont valid!
+Insuffiecient amount !,Suma insuficientă!
+Transfer successfully!,Transfer cu succes!
+Account number not found.,Numărul contului nu a fost găsit.
+OpenSips updated successfully!,OpenSips a fost actualizat cu succes!
+Duplicate Username Found.Username Must b,Numele de utilizator duplicat a fost găsit. Numele de utilizator trebuie să fie b
+User name is required field.,Nume utilizator este câmp obligatoriu.
+Opensips Device Removed Successfully!.,Dispozitivul de deschidere a fost eliminat cu succes !.
+Speed-dial Number Added Successfully!,Număr de apelare rapidă adăugat cu succes!
+Can not delete blank speeddial number,Nu se poate șterge numărul de marcare rapidă necompletat
+Speed-dial Number Removed Successfully!,Numărul de apelare rapidă a fost eliminat cu succes!
+Pin Updated Successfully!,Pinul a fost actualizat cu succes!
+DID Updated Successfully!,S-a actualizat cu succes!
+for fund transfer.,pentru transferul de fonduri.
+You need to enter minimum,Trebuie să introduceți minimum
+please enter recharge value,vă rugăm să introduceți valoarea de reîncărcare
+New Password,Parolă Nouă
+Old Password,Parola veche
+Conform Password,Confirmați parola
+Letters only please,"Numai scrisori, vă rog"
+IP Mapping,Mapare IP
+The Coupon Number field must contain onl,Câmpul Număr cupon trebuie să conțină onl
+The Coupon Number field have inactive re,Câmpul Număr cupon are re inactiv
+This Coupon Number is already in use.,Acest număr de cupon este deja utilizat.
+This Coupon Number is not found.,Acest număr de cupon nu este găsit.
+The Coupon Number field is required.,Câmpul Număr cupon este obligatoriu.
+REFILL COUPON RECHARGE,REUMPLAȚI RECĂRCAREA CUPONULUI
+You just recharged,Tocmai ai reîncărcat
+account with The new balance will be,cont cu Noul sold va fi
+My Profile,Profilul meu
+My Account,Contul meu
+Alert Threshold,Prag de alertă
+The Caller ID field is required.,Câmpul ID apelant este obligatoriu.
+Change Password,Schimbați parola
+Bill Type,Tipul facturii
+Bill Days,Bill Days
+New Products,Produse noi
+Active Products,Produse active
+Outstanding,Remarcabil
+Today's Calls,Apelurile de astăzi
+Recent Calls,Apeluri recente
+The Available DIDs field is required.,Câmpul DID-uri disponibile este obligatoriu.
+Please enter your password,Va rugam sa introduceti parola
+Please enter your first name,Vă rugăm să introduceți prenumele
+Please enter your email,te rog introdu e-mailul tău
+Please enter valid email,Vă rugăm să introduceți un e-mail valid
+This field is required.,Acest câmp este obligatoriu.
+Email Setting,Setare e-mail
+SMTP Password,Parolă SMTP
+Are you sure want to remove logo?,Sigur doriți să eliminați sigla?
+The IP field must contain a unique value,Câmpul IP trebuie să conțină o valoare unică
+The IP field have not valid IP.,Câmpul IP nu are un IP valid.
+The IP field is required.,Câmpul IP este obligatoriu.
+The Name field is required.,Câmpul Nume este obligatoriu.
+Please enter only alpha-numeric value,Vă rugăm să introduceți numai valoare alfanumerică
+Are you sure want to delete speed dial r,Sigur doriți să ștergeți apelarea rapidă r
+Generated Date,Data generării
+My Products,Produsele mele
+Pinless CLI,CLI fără pin
+Refill Coupon,Reumpleți cuponul
+TopUp,Umple
+Pay with Paypal,Plătiți cu PayPal
+Pay with Card,Plătiți cu cardul
+Assign,Atribui
+Send Credit,Trimiteți credit
+To Account,Pentru a contabiliza
+From Account,Din cont
+Transfer,Transfer
+Telephone 1,Telefon 1
+Telephone 2,Telefon 2
+Address 2,Adresa 2
+Zip/Postal Code,Zip / Cod Poștal
+User Profile,Profil utilizator
+Low Balance Alert Level,Nivel de alertă echilibru scăzut
+Enable Email Alerts ?,Activați alertele prin e-mail?
+Low Balance Alert Email,E-mail de alertă cu sold redus
+User name,Nume de utilizator
+Something went to wrong !,Ceva a mers prost!
+Product Purchased successfully !,Produs achiziționat cu succes!
+Insufficent Balance to purchase product ,Sold insuficient pentru cumpărarea produsului
+Product assigned successfully!,Produsul a fost atribuit cu succes!
+Something went wrong !,Ceva n-a mers bine !
+Product Not Found,Produsul nu a fost găsit
+Transaction has been failed,Tranzacția a eșuat
+not inserted. Transaction has been faile,neinserată. Tranzacția a fost greșită
+Select Customer.,Selectați Client.
+Product Information,Informații despre produs
+Price+SetUp Fee,Preț + Taxă SetUp
+Use Voucher,Folosiți voucher
+Amount Without Tax,Suma fără impozitare
+Total Tax,Impozit total
+Amount With Tax,Suma cu impozit
+Parent Products,Produse părinte
+Edit Product,Editați produsul
+Product updated successfully!,Produsul a fost actualizat cu succes!
+Product added successfully!,Produsul a fost adăugat cu succes!
+Product removed successfully!,Produsul a fost eliminat cu succes!
+Product optin successfully!,Optarea produsului cu succes!
+Edit Info,Editați informațiile
+Product assign successfully,Alocarea produsului cu succes
+Insufficient balance to assign product!,Sold insuficient pentru a aloca produsul!
+Terminated Updated Successfully!,Încheiat Actualizat cu succes!
+Terminated,Încetat
+Setup Cost,Cost de instalare
+Order New,Comandă nouă
+Caller ID updated successfully!,ID-ul apelantului a fost actualizat cu succes!
+Caller ID added successfully!,ID-ul apelantului a fost adăugat cu succes!
+Caller ID removed successfully!,ID-ul apelantului a fost eliminat cu succes!
+Name is not contain any space,Numele nu conține niciun spațiu
+Name already exist in system.,Numele există deja în sistem.
+Callbarring Settings Updated Successfull,Setările Callbarring au fost actualizate cu succes
+allbarring Settings Added Successfully!,Setări allbarring adăugate cu succes!
+Call Barring Removed Successfully!,Blocarea apelurilor a fost eliminată cu succes!
+Calltype already exist in system.,Tipul de apel există deja în sistem.
+Calltype Updated Successfully!,Tip de apel actualizat cu succes!
+Calltype Added Successfully!,Tip de apel adăugat cu succes!
+calltype removed successfully!,tip de apel eliminat cu succes!
+File must be in the following format(.cs,Fișierul trebuie să fie în următorul format (.cs
+Import Package Codes:,Importați codurile pachetului:
+Records Imported Successfully:,Înregistrări importate cu succes:
+Records Not Imported :,Înregistrări neimportate:
+Download Errors,Descărcați erorile
+Back to Package Patterns List,Înapoi la lista modelelor de pachete
+Add To List,Adaugă la listă
+Routing Prefix already exist in system.,Prefixul de rutare există deja în sistem.
+Rate Group Updated Successfully!,Evaluează grupul actualizat cu succes!
+Rate Group Added Successfully!,Evaluează grupul adăugat cu succes!
+Duplicate Rate Group Added Successfully!,Grup de rate duplicat adăugat cu succes!
+Routing Prefix (Enterprise),Prefix de rutare (Enterprise)
+Priority (Enterprise),Prioritate (întreprindere)
+Percentage (WIP) (Enterprise),Procent (WIP) (Enterprise)
+LCR,LCR
+Percentage,Procent
+Tax removed successfully!,Taxa eliminată cu succes!
+Tax added successfully!,Taxa adăugată cu succes!
+Tax updated successfully!,Impozitul a fost actualizat cu succes!
+Charges List,Lista tarifelor
+Trunk Updated Successfully!,Trunchiul a fost actualizat cu succes!
+Trunk Added Successfully!,Portbagaj adăugat cu succes!
+Trunk removed successfully!,Portbagajul a fost eliminat cu succes!
+setting updated successfully!,setarea actualizată cu succes!
+Template Updated Successfully!,Șablonul actualizat cu succes!
+Template Added Successfully!,Șablon adăugat cu succes!
+Country Updated successfully!,Țara actualizată cu succes!
+Country Added successfully!,Țara adăugată cu succes!
+Country removed successfully!,Țara eliminată cu succes!
+Currency Updated Successfully!,Moneda actualizată cu succes!
+My Rates,Tarifele mele
+Cost / Min,Cost / Min
+Purchase,Cumpărare
+Available DIDs,DID-uri disponibile
+New IP,IP nou
+Digits,Cifre
+Email Address,Adresa de email
+Call Forward,Redirectionare apel
+If Busy:,Dacă este ocupat:
+If SIP Not Registered:,Dacă SIP nu este înregistrat:
+If No Answer:,Dacă nu există răspuns:
+Pay Now,Plătește acum
+Pay with Account,Plătiți cu contul
+Please wait,Te rog asteapta
+Coupon Number:,Număr cupon:
+Add Voucher,Adăugați voucher
+Selected Plan,Planul selectat
+My Product,Produsul meu
+Parent Product,Produs părinte
+Edit Email Template,Editați șablonul de e-mail
+Details,Detalii
+KEY,CHEIE
+Value,VALOARE
+Records with duplicate account number and email will be ignored.,Înregistrările cu număr de cont duplicat și e-mail vor fi ignorate.
+Account Details,Detalii cont
+Mass Customer,Client de masă
+Daily,Zilnic
+Monthly,Lunar
+Prepaid,Preplătit
+Postpaid,Postplătit
+Force Caller ID,Forțează ID-ul apelantului
+Customer Profile,Profilul cumpărătorului
+Caller Id Name,Numele ID-ului apelantului
+Caller Id Number,Număr de identificare a apelantului
+Blocked Codes,Coduri blocate
+Page will display only receipts and confirmed invoices.,Pagina va afișa numai chitanțe și facturi confirmate.
+Accessnumber Updated Successfully!,Număr de acces actualizat cu succes!
+Accessnumber Removed Successfully!,Numărul de acces a fost eliminat cu succes!
+Invalid file format : Only CSV file allows to import records(Can't import empty file),Format de fișier nevalid: numai fișierul CSV permite importul de înregistrări (nu se poate importa fișierul gol)
+Please Select File.,Vă rugăm să selectați fișier.
+ are required, sunt necesare
+ is Required, este necesară
+ is not Valid, nu e valid
+Duplicate accessnumber found from database,Număr de acces duplicat găsit din baza de date
+Duplicate accessnumber found from import file.,Număr de acces duplicat găsit din fișierul de import.
+Total,Total
+AccessNumber Imported Successfully!,Numărul de acces a fost importat cu succes!
+Records Not Imported:,Înregistrări neimportate:
+Back to AccessNumber List,Înapoi la lista AccessNumber
+Speed Dial Number Updated Successfully,Numărul de apelare rapidă a fost actualizat cu succes
+Please insert only numeric value!,Vă rugăm să introduceți numai valoare numerică!
+Speed Dial Number Removed Successfully,Numărul de apelare rapidă a fost eliminat cu succes
+Speed Dial Number is Empty,Numărul de apelare rapidă este gol
+Sip Device removed successfully!,Dispozitivul SIP a fost eliminat cu succes!
+Sip updated successfully!,SIP actualizat cu succes!
+Block Code Removed Sucessfully!,Codul de blocare a fost eliminat cu succes!
+Your Account Limit has been reached.Please Change Your Prefix.,Limita contului dvs. a fost atinsă. Vă rugăm să schimbați prefixul.
+Please Enter Proper Account Length.,Vă rugăm să introduceți lungimea corectă a contului.
+Bulk customer generate successfully!,Clientul în vrac generează cu succes!
+Recharge successfully!,Reîncărcați cu succes!
+Post charge applied successfully.,Postarea a fost aplicată cu succes.
+Account callerID updated successfully!,ID apelant cont actualizat cu succes!
+Account callerID added successfully!,ID-ul apelantului contului a fost adăugat cu succes!
+Reseller updated successfully!,Resellerul a fost actualizat cu succes!
+Reseller added successfully!,Revânzătorul a fost adăugat cu succes!
+Updated successfully!,Actualizat cu succes!
+Added Successfully!,Adăugat cu succes!
+Customer batch updated successfully!,Lotul de clienți a fost actualizat cu succes!
+Reseller batch updated successfully!,Lotul revânzătorului a fost actualizat cu succes!
+Customer Removed Successfully!,Clientul a fost eliminat cu succes!
+Reseller Removed Successfully!,Revânzătorul a fost eliminat cu succes!
+Provider Removed Successfully!,Furnizorul a fost eliminat cu succes!
+Admin Removed Successfully!,Administratorul a fost eliminat cu succes!
+Sub Admin Removed Successfully!,Administratorul secundar a fost eliminat cu succes!
+DID Added Successfully.,A fost adăugat cu succes.
+DID Already Removed Before.,A FOST deja eliminat înainte.
+Account Tax Added Successfully!,Taxă de cont adăugată cu succes!
+Account Tax Removed Successfully!,Impozitul pe cont a fost eliminat cu succes!
+Product Removed Sucessfully.,Produsul a fost eliminat cu succes.
+Email Resend Successfully!,E-mail Retrimiteți cu succes!
+Email List Updated Successfully!,Lista de e-mail a fost actualizată cu succes!
+Email List Added Successfully!,Lista de e-mailuri a fost adăugată cu succes!
+Email Removed Successfully!,E-mailul a fost eliminat cu succes!
+Please Try Again!,Vă rugăm să încercați din nou!
+Email BroadCast Successfully!,Trimiteți prin e-mail BroadCast cu succes!
+No Record Found!,Nicio inregistrare gasita!
+Email Address Not Found!,Adresa de e-mail nu a fost găsită!
+Edit Freeswitch SIP Devices,Editați dispozitivele SIP Freeswitch
+Create Freeswitch SIP Devices,Creați dispozitive SIP Freeswitch
+Gateway Updated Successfully!,Gateway actualizat cu succes!
+Gateways already exist in system.,Gateway-urile există deja în sistem.
+Gateway name must not have any space.,Numele gateway-ului nu trebuie să aibă spațiu.
+Gateway Added Successfully!,Gateway adăugat cu succes!
+Gateway Removed Successfully!,Gateway eliminat cu succes!
+Please enter All profile value!,Vă rugăm să introduceți toată valoarea profilului!
+SIP Profile name must not have any space!,Numele profilului SIP nu trebuie să aibă spațiu!
+Duplicate SIP IP OR Port found it must be unique!,Duplicat SIP IP SAU portul a constatat că trebuie să fie unic!
+SIP Profile Added Successfully!,Profil SIP adăugat cu succes!
+Name must be unique!,Numele trebuie să fie unic!
+SIP Profile Updated Successfully!,Profilul SIP a fost actualizat cu succes!
+SIP Setting Added Successfully!,Setarea SIP a fost adăugată cu succes!
+SIP Setting Updated Successfully!,Setarea SIP a fost actualizată cu succes!
+SIP Setting Removed Successfully!,Setarea SIP a fost eliminată cu succes!
+SIP Profile Removed Successfully!,Profilul SIP a fost eliminat cu succes!
+Host Already Exist in System.,Gazda există deja în sistem.
+Freeswitch Server Updated Successfully!,Serverul Freeswitch a fost actualizat cu succes!
+Freeswitch Server Added Successfully!,Server Freeswitch adăugat cu succes!
+Freeswitch Server Removed Successfully!,Serverul Freeswitch a fost eliminat cu succes!
+Invoice updated successfully!,Factura actualizată cu succes!
+Invoice payment done successfully!,Plata facturilor a fost efectuată cu succes!
+Account Not Found.,Contul nu a fost găsit.
+Invoice payment amount should be higher then the invoice amount.,Valoarea plății facturii ar trebui să fie mai mare decât valoarea facturii.
+The Favicon file size shoud not exceed 1MB!,Dimensiunea fișierului Favicon nu trebuie să depășească 1 MB!
+Please upload 250 * 60 size file,Vă rugăm să încărcați fișierul cu dimensiunea de 250 * 60
+Logo only allows file types of JPG and JPEG.,Logo-ul permite doar tipuri de fișiere JPG și JPEG.
+Favicon only allows file types of ICO,Favicon permite doar tipuri de fișiere de ICO
+Please upload 16 * 16 size of favicon.,Vă rugăm să încărcați dimensiunea 16 * 16 a faviconului.
+Company profile updated sucessfully!,Profilul companiei a fost actualizat cu succes!
+Company profile added sucessfully!,Profilul companiei a fost adăugat cu succes!
+Permission Denied.,Acces refuzat.
+is Deleted Sucessfully!,este șters cu succes!
+To date should not be greater than current date.,Până în prezent nu ar trebui să fie mai mare decât data curentă.
+Invoice generation completed.,Generarea facturilor finalizată.
+No data found,Nu s-au gasit date
+Invoices removed successfully,Facturile au fost eliminate
+The Prefix field must contain a unique value.,Câmpul Prefix trebuie să conțină o valoare unică.
+The IP field must contain a unique value.,Câmpul IP trebuie să conțină o valoare unică.
+IP Map added successfully!,Harta IP a fost adăugată cu succes!
+IP Map removed successfully!,Harta IP a fost eliminată cu succes!
+Localization Added Successfully!,Localizare adăugată cu succes!
+Localization Updated Successfully!,Localizarea a fost actualizată cu succes!
+Localization Removed Successfully!,Localizarea a fost eliminată cu succes!
+Globalization is already exist in this system,Globalizarea există deja în acest sistem
+Dispatcher Updated Successfully!,Dispecerul a fost actualizat cu succes!
+Dispatcher Added Successfully!,Dispeceratul a fost adăugat cu succes!
+Dispatcher Removed Successfully!,Dispeceratul a fost eliminat cu succes!
+Code is already in system,Codul este deja în sistem
+Country is already in system,Țara este deja în sistem
+Ratedeck updated successfully!,Ratedeck a fost actualizat cu succes!
+Ratedeck added successfully!,Ratedeck a fost adăugat cu succes!
+Ratedeck removed successfully!,Ratedeck a fost eliminat cu succes!
+Duplicate Ratedeck Number found from import file.,Duplicate Ratedeck Număr găsit din fișierul de import.
+Ratedeck Imported Successfully!,Ratedeck a fost importat cu succes!
+Ratedeck Import Error,Eroare de import Ratedeck
+Back to Ratedeck List,Înapoi la lista Ratedeck
+Origination Rate Imported Successfully!,Rata de inițiere a fost importată cu succes!
+Origination Rate Updated Successfully!,Rata de inițiere actualizată cu succes!
+Origination Rate Added Successfully!,Rata de inițiere a fost adăugată cu succes!
+Termination Rates Batch Updated Successfully!,Tarifele de reziliere Lotul a fost actualizat cu succes!
+Map CSV to Termination Rates,Harta CSV la tarifele de reziliere
+Data Example,Exemplu de date
+Map to Field,Hartă către câmp
+PREFIX/DEFAULT VALUE,PREFIX / VALOARE DEFAULT
+ASTPP Field,Câmpul ASTPP
+Created,Creată
+Modified,Modificat
+You can not create,Nu puteți crea
+Refill coupon with,Reumpleți cuponul cu
+You can create maximum,Puteți crea maxim
+Refill coupon created successfully!,Cuponul de reumplere a fost creat cu succes!
+Currency Added Successfully!,Moneda adăugată cu succes!
+Currency Removed Successfully!,Moneda eliminată cu succes!
+Backup Exported Successfully!,Backupul a fost exportat cu succes!
+An error occur when the system tried to backup of the database. Please check yours system settings for the backup section,O eroare apare atunci când sistemul a încercat să facă backup pentru baza de date. Vă rugăm să verificați setările dvs. de sistem pentru secțiunea de copiere de rezervă
+Database Restore successfully.,Restaurarea bazei de date cu succes.
+File not exists!,Fișierul nu există!
+There is a some issue or invalid file format.,Există o problemă sau un format de fișier nevalid.
+Database backup deleted successfully.,Copia de siguranță a bazei de date a fost ștearsă cu succes.
+Languages updated successfully!,Limbile actualizate cu succes!
+Languages removed successfully!,Limbile au fost eliminate cu succes!
+Languages added successfully!,Limbile adăugate cu succes!
+Translation updated successfully!,Traducerea a fost actualizată cu succes!
+Translation added successfully!,Traducerea a fost adăugată cu succes!
+Update Languages,Actualizați limbile
+Speed Dial,Apelare rapida
+Payment,Plată
+Method,Metodă
+Once you confirm the invoice,Odată confirmată factura
+Payment Gateway Permission,Permis de gateway de plată
+Zip Code,Cod postal
+Yes,da
+Back,Înapoi
+Edit Reseller,Editați distribuitorul
+Asignar DID a granel,Asignar a făcut un granel
+DIDs Search,Căutare DID
+By Month,Pe lună
+Create Gateway,Creați Gateway
+Calling Card Language,Limba cardului de apel
+Last,Ultimul
+Pay Date,Data plății
+Purchase DID,Cumpărați DID
+Caller-ID-A-Form,ID-apelant-A-Form
+Expire Seconds,Expiră secunde
+Termination Date,Data încetării
+Registration Date,Data Înregistrării
+Payment By,Plată de către
+Product Status,Starea produsului
+Minute,Minut
+Hour,Ora
+Day,Zi
+Month,Lună
+Year,An
+List,Listă
+Edit,Editați | ×
+Not Avaialable any Subscription.,Nu este disponibil niciun abonament.
+Not Avaialable any Package for this Country.,Nu este disponibil niciun pachet pentru această țară.
+You can only transfer fund in same level account.,Puteți transfera fonduri numai în contul de același nivel.
+You can not transfer fund in same account.,Nu puteți transfera fond în același cont.
+Monthly Fee,Taxă lunară
+Bulk DID Assign,Alocați DID în bloc
+Invoice Start From,Factură Începeți de la
+Edit Gateway,Editați Gateway
+Number Of Default Rows,Numărul de rânduri implicite
+Mobile Dialer,Dialer mobil
+Trunk Count,Numărul de trunchiuri
+Welcome File,Fișier de bun venit
+Local Call Timeout (Sec.),Expirarea apelurilor locale (sec.)
+Rate check for DID,Verificarea ratei pentru DID
+DID Localization,Localizare DID
+Voicemail Number,Număr de mesagerie vocală
+OTP Expire Time(min),Timp de expirare OTP (min)
+Edit Provider,Editați furnizorul
+Product Summary Reports,Rapoarte rezumative ale produsului
+Edit Origination Rate,Editați rata de inițiere
+Dialplan Variable,Dialplan Variable
+Uninstall,Dezinstalați
+Call Stat,Stat de apel
+Failed Calls,Apeluri nereușite
+Top 10 Countries,Top 10 țări
+By Minutes,Prin minute
+By Calls,Prin apeluri
+Telephone number is only numeric,Numărul de telefon este doar numeric
+Please enter valid Captcha code,Vă rugăm să introduceți cod Captcha valid
+Please contact to administrator,Vă rugăm să contactați administratorul
+Requested email is already exist,E-mailul solicitat există deja
+Requested number is already exist,Numărul solicitat există deja
+Please enter correct words!,Vă rugăm să introduceți cuvinte corecte!
+THIS IS REQUIRED!,ESTE NECESAR!
+Your account has been deleted. Please contact administrator for more information.,Contul dvs. a fost șters. Vă rugăm să contactați administratorul pentru mai multe informații.
+Your account is inactive. Please contact administrator for more information.,Contul dvs. este inactiv. Vă rugăm să contactați administratorul pentru mai multe informații.
+Please enter proper Email.,Vă rugăm să introduceți un e-mail adecvat.
+Please enter proper Username.,Vă rugăm să introduceți numele de utilizator corect.
+This Username or Email is not valid.,Acest nume de utilizator sau e-mail nu este valid.
+ASTPP - A Smart TelePhony Platform,ASTPP - O platformă inteligentă TelePhony
+Forgot Password,Ați uitat parola
+ASTPP work best with JavaScript enabled,ASTPP funcționează cel mai bine cu JavaScript activat
+Enter Your Password,Introduceți parola
+Confirm Password,Confirmă parola
+The Email field is Required,Câmpul E-mail este obligatoriu
+The Account Number field is Required,Câmpul Număr cont este Obligatoriu
+Set Default Language,Setați limba implicită
+Please Re-login to get Impact of selected language.,Vă rugăm să vă conectați din nou pentru a obține impactul limbii selectate.
+Default Language,Limba implicita
+Signup now!,Inscrie-te acum!
+Forgot Password?,Ați uitat parola?
+Sign in,conectare
+Username OR Email,Nume de utilizator sau email
+Username is Required,Numele de utilizator este necesar
+Password is Required,Parola este necesara
+Please Check Your account is deleted or inactive from admin side,Vă rugăm să verificați Contul dvs. este șters sau inactiv din partea administratorului
+Please do not use default or less secure password for your account!! You must change password from,Vă rugăm să nu utilizați parola implicită sau mai puțin sigură pentru contul dvs. !! Trebuie să schimbați parola din
+HERE,AICI
+Login unsuccessful. Please make sure you entered the correct username and password,Conectarea nu a reușit. Vă rugăm să vă asigurați că ați introdus numele de utilizator și parola corecte
+Please enter Username/email and Password.,Vă rugăm să introduceți numele de utilizator / adresa de e-mail și parola.
+Payment transaction invalid. Please contact Administrator.,Tranzacția de plată este nevalidă. Vă rugăm să contactați administratorul.
+Log In,Autentificare
+Please Enter Password,Te rog introdu parola
+Password must be at least 8 characters and must contain at least one lower case letter,Parola trebuie să aibă cel puțin 8 caractere și trebuie să conțină cel puțin o literă minusculă
+Please Enter Confirm Password,Vă rugăm să introduceți Confirmați parola
+Confirm Password is not match,Confirmați parola nu este potrivită
+We sent update password link.,Am trimis un link de actualizare a parolei.
+Please check your Email!,Vă rugăm să verificați email-ul!
+Login,Autentificare
+OTP Verification,Verificare OTP
+OTP Number is Required,Numărul OTP este obligatoriu
+Your account created successfully and account details sent to your registered email address,Contul dvs. a fost creat cu succes și detaliile contului au fost trimise la adresa dvs. de e-mail înregistrată
+Your password change successfully and new password sent to your registered email address,Parola dvs. s-a schimbat cu succes și noua parolă a fost trimisă la adresa dvs. de e-mail înregistrată
+OTP Number is Wrong Please try again Or OTP expire Please Resend,Numărul OTP este greșit Vă rugăm să încercați din nou sau OTP expiră Vă rugăm să retrimiteți
+OTP has been sent on your email or Telephone number,OTP a fost trimis pe e-mail sau pe numărul dvs. de telefon
+OTP,OTP
+Resend OTP,Retrimiteți OTP
+OTP Sent time Out,OTP expirat
+Not Get OTP ?,Nu primiți OTP?
+Note:,Notă:
+Please make sure do not refresh the page or don't go back,Vă rugăm să vă asigurați că nu reîmprospătați pagina sau nu reveniți înapoi
+Login unsuccessful. Please make sure you entered the correct username and password,Conectarea nu a reușit. Vă rugăm să vă asigurați că ați introdus numele de utilizator și parola corecte
+Your account has been created successfully!,Contul dvs. a fost creat cu succes!
+Here is your login information,Iată informațiile dvs. de conectare
+Link is Expire Please Try Again,Linkul expiră Vă rugăm să încercați din nou
+Sorry,Îmi pare rău
+Please contact administrator for more information,Vă rugăm să contactați administratorul pentru mai multe informații
+Successful!,De succes!
+Captcha is required,Captcha este obligatoriu
+First Name is Required,Prenumele este obligatoriu
+Telephone is Required,Este necesar un telefon
+Email is Required,E-mailul este obligatoriu
+Please enter a valid email address,te rog introdu o adresa de email valida
+Please make sure you entered the correct username and password,Vă rugăm să vă asigurați că ați introdus numele de utilizator și parola corecte
+Company Name,Numele Companiei
+Enter above Captcha,Introduceți deasupra Captcha
+Sign up,Inscrie-te
+Already Registered !,Deja înregistrat !
+January,ianuarie
+February,februarie
+March,Martie
+April,Aprilie
+May,Mai
+June,iunie
+July,iulie
+August,August
+September,Septembrie
+October,octombrie
+November,noiembrie
+December,decembrie
+Doesn't Contain,Nu conține
+Greater Than,Mai mare ca
+Less Than,Mai puțin decât
+Greater Or Equal Than,Mai mare sau egal decât
+Less Or Equal Than,Mai puțin sau egal decât
+Set To,Setat la
+Increase By,Crestere cu
+Decrease By,Scade cu
+Community,Comunitate
+You must either select a field from your file OR provide a default value for the following fields:,Trebuie fie să selectați un câmp din fișierul dvs. SAU să furnizați o valoare implicită pentru următoarele câmpuri:
+Note : Records with duplicate account number and email will be ignored.,Notă: înregistrările cu număr de cont duplicat și e-mail vor fi ignorate.
+Map CSV to Customers,Asociați CSV clienților
+Account Information,informatii despre cont
+Select Account,Selectați Cont
+DEFAULT VALUE,VALOARE IMPLICITĂ
+SIP Username,Nume utilizator SIP
+sip_username,sip_username
+SIP Password,Parolă SIP
+Same as Password,La fel ca parola
+Same as Account Number,La fel ca numărul contului
+Random,Aleatoriu
+Import File Data.,Importați date de fișiere.
+Process Records,Înregistrări de proces
+Note : Duplicate accounts with account number / email are ignored.,Notă: conturile duplicate cu numărul de cont / e-mail sunt ignorate.
+Remove,Elimina
+Number of Account,Numărul de cont
+Account Number Length,Lungimea numărului de cont
+DID (CLI Match,DID (CLI Match
+Caller Id (CLI Match,ID apelant (potrivire CLI
+Use NON-CLI Rate Group (If CLI not match with DID),Utilizați grupul de rată NON-CLI (dacă CLI nu se potrivește cu DID)
+Use NON-CLI Rate Group (If CLI not match with Caller ID),Utilizați grupul de tarifare NON-CLI (dacă CLI nu se potrivește cu ID-ul apelantului)
+Use NON-CLI Rate Group (If CLI not match with DID & Caller id),Utilizați grupul de tarifare NON-CLI (dacă CLI nu se potrivește cu ID-ul DID și apelant)
+Reject Call (If CLI not match with DID),Respingere apel (Dacă CLI nu se potrivește cu DID)
+Reject Call (If CLI not match with Caller ID),Respingeți apelul (dacă CLI nu se potrivește cu ID-ul apelantului)
+Reject Call (If CLI not match with DID & Caller id),Respingere apel (dacă CLI nu se potrivește cu ID-ul DID și apelant)
+--Select--,--Selectați--
+Test Mail,Test Mail
+Reset Password,Reseteaza parola
+AFGHANISTAN,AFGANISTAN
+ALBANIA,ALBANIA
+ALGERIA,ALGERIA
+AMERICAN SAMOA,SAMOA AMERICANĂ
+ANDORRA,ANDORRA
+ANGOLA,ANGOLA
+ANGUILLA,ANGUILLA
+ANTIGUA & BARBUDA,ANTIGUA & BARBUDA
+ARGENTINA,ARGENTINA
+ARMENIA,ARMENIA
+ARUBA,ARUBA
+AUSTRALIA,AUSTRALIA
+AUSTRIA,AUSTRIA
+AZERBAIJAN,AZERBAIJAN
+BAHAMAS,BAHAMAS
+BAHRAIN,BAHRAIN
+BANGLADESH,BANGLADESH
+BARBADOS,BARBADOS
+BELARUS,BIELORUSIA
+BELGIUM,BELGIA
+BELIZE,BELIZE
+BENIN,BENIN
+BERMUDA,BERMUDA
+BHUTAN,BHUTAN
+BOLIVIA,BOLIVIA
+BOSNIA AND HERZEGOVINA,BOSNIA SI HERTEGOVINA
+BOTSWANA,BOTSWANA
+BRAZIL,BRAZILIA
+BRITISH VIRGIN ISLANDS,INSULELE VIRGINE BRITANICE
+BRUNEI,BRUNEI
+BULGARIA,BULGARIA
+BURKINA FASO,BURKINA FASO
+BURUNDI,BURUNDI
+CAMBODIA,CAMBODIA
+CAMEROON,CAMERUN
+CANADA,CANADA
+CAPE VERDE,CAPUL VERDE
+CAYMAN ISLANDS,INSULELE CAYMAN
+CENTRAL AFRICAN REPUBLIC,REPUBLICA CENTRAL AFRICANĂ
+CHAD,CIAD
+CHILE,CHILE
+CHINA,CHINA
+COLOMBIA,COLUMBIA
+COMOROS,COMORE
+CONGO,CONGO
+COSTA RICA,COSTA RICA
+CROATIA,CROAŢIA
+CUBA,CUBA
+CYPRUS,CIPRU
+CZECH REPUBLIC,REPUBLICA CEHĂ
+DEMOCRATIC REPUBLIC,REPUBLICĂ DEMOCRATĂ
+DENMARK,DANEMARCA
+DJIBOUTI,DJIBOUTI
+DOMINICA,DOMINICA
+DOMINICAN REPUBLIC,REPUBLICA DOMINICANA
+ECUADOR,ECUADOR
+EGYPT,EGIPT
+EL SALVADOR,EL SALVADOR
+EQUATORIAL GUINEA,GUINEEA ECUATORIALĂ
+ERITREA,ERITREA
+ERITREA,ERITREA
+ETHIOPIA,ETIOPIA
+FAEROE ISLANDS,INSULE FAEROE
+FIJI ISLANDS,INSULE FIJI
+FINLAND,FINLANDA
+FRANCE,FRANŢA
+FRENCH GUIANA,GUIANA FRANȚEZĂ
+FRENCH POLYNESIA,POLINEZIA FRANCEZĂ
+GABON,GABON
+GAMBIA,GAMBIA
+GEORGIA,GEORGIA
+GERMANY,GERMANIA
+GHANA,GHANA
+GIBRALTAR,GIBRALTAR
+GREECE,GRECIA
+GRENADA,GRENADA
+GUADELOUPE,GUADELOUPE
+GUAM,GUAM
+GUATEMALA,GUATEMALA
+GUINEA,GUINEEA
+GUINEA BISSAU,GUINEA BISSAU
+GUYANA,GUYANA
+HAITI,HAITI
+HONDURAS,HONDURAS
+HONG KONG,HONG KONG
+HUNGARY,UNGARIA
+ICELAND,ISLANDA
+INDIA,INDIA
+INDONESIA,INDONEZIA
+IRAN,IRAN
+IRAQ,IRAQ
+IRELAND,IRLANDA
+ISRAEL,ISRAEL
+ITALY,ITALIA
+IVORY COAST,COASTA DE FILDES
+JAMAICA,JAMAICA
+JAPAN,JAPONIA
+JORDAN,IORDANIA
+KAZAKHSTAN,KAZAKHSTAN
+KENYA,KENYA
+KOSOVO,KOSOVO
+KUWAIT,KUWEIT
+KYRGYZSTAN,KIRGIZAN
+LAOS,LAOS
+LATVIA,LETONIA
+LEBANON,LIBAN
+LESOTHO,LESOTHO
+LIBERIA,LIBERIA
+LIBYA,LIBIA
+LIECHTENSTEIN,LIECHTENSTEIN
+LITHUANIA,LITUANIA
+LUXEMBOURG,LUXEMBURG
+MACAU,MACAU
+MACEDONIA,MACEDONIA
+MADAGASCAR,MADAGASCAR
+MALAWI,MALAWI
+MALAYSIA,MALAEZIA
+MALI,MALI
+MALTA,MALTA
+MARSHALL ISLANDS,INSULELE MARSHALL
+MARTINIQUE,MARTINIQUE
+MAURITANIA,MAURITANIA
+MAURITIUS,MAURITIUS
+MEXICO,MEXIC
+MICRONESIA,MICRONESIA
+MOLDOVA,MOLDOVA
+MONACO,MONACO
+MONGOLIA,MONGOLIA
+MONTENEGRO,MONTENEGRO
+MONTSERRAT,MONTSERRAT
+MOROCCO,MAROC
+MOZAMBIQUE,MOZAMBIQUE
+MYANMAR,MYANMAR
+NAMIBIA,NAMIBIA
+NEPAL,NEPAL
+NETHERLANDS,OLANDA
+NEW CALEDONIA,NOUA CALEDONIE
+NEW ZEALAND,NOUA ZEELANDA
+NICARAGUA,NICARAGUA
+NIGER,NIGER
+NIGERIA,NIGERIA
+NO. MARIANA ISLANDS,NU. Insulele MARIANA
+NORTH KOREA,COREEA DE NORD
+NORWAY,NORVEGIA
+OMAN,OMAN
+PAKISTAN,PAKISTAN
+PALAU,PALAU
+PANAMA,PANAMA
+PARAGUAY,PARAGUAY
+PERU,PERU
+PHILIPPINES,FILIPINE
+POLAND,POLONIA
+PORTUGAL,PORTUGALIA
+PUERTO RICO,PUERTO RICO
+QATAR,QATAR
+REUNION ISLAND,REUNION ISLAND
+ROMANIA,ROMÂNIA
+RUSSIAN FEDERATION,FEDERAȚIA RUSĂ
+RWANDA,RWANDA
+SAN MARINO,SAN MARINO
+SAUDI ARABIA,ARABIA SAUDITĂ
+SENEGAL,SENEGAL
+SERBIA,SERBIA
+SEYCHELLES ISLANDS,Insulele SEYCHELLES
+SIERRA LEONE,SIERRA LEONE
+SINGAPORE,SINGAPORE
+SLOVAKIA,SLOVACIA
+SLOVENIA,SLOVENIA
+SOMALIA,SOMALIA
+SOUTH AFRICA,AFRICA DE SUD
+SOUTH KOREA,COREEA DE SUD
+SOUTH SUDAN,SUDUL SUDANULUI
+SPAIN,SPANIA
+SRI LANKA,SRI LANKA
+ST. KITTS,SF. KITTS
+ST. LUCIA,SF. LUCIA
+ST. MARTIN,SF. MARTIN
+ST. PIERRE & MIQUELON,SF. PIERRE & MIQUELON
+ST. VINCENT,SF. VINCENT
+SUDAN,SUDAN
+SURINAME,SURINAME
+SWAZILAND,SWAZILAND
+SWEDEN,SUEDIA
+SWITZERLAND,ELVEŢIA
+SYRIA,SIRIA
+TAIWAN,TAIWAN
+TAJIKISTAN,TAJIKISTAN
+TANZANIA,TANZANIA
+THAILAND,TAILANDA
+TRINIDAD & TOBAGO,TRINIDAD & TOBAGO
+TUNISIA,TUNISIA
+TURKEY,CURCAN
+TURKMENISTAN,TURKMENISTAN
+TURKS & CAICOS ISLANDS,INSULURILE TURCELOR ȘI CAICOS
+UGANDA,UGANDA
+UKRAINE,UCRAINA
+UNITED ARAB EMIRATES,EMIRATELE ARABE UNITE
+UNITED KINGDOM,REGATUL UNIT
+URUGUAY,URUGUAY
+US VIRGIN ISLANDS,INSULURILE FECIOARE SUA
+United States,Statele Unite
+UZBEKISTAN,UZBEKISTAN
+VENEZUELA,VENEZUELA
+VIETNAM,VIETNAM
+YEMEN,YEMEN
+ZAMBIA,ZAMBIA
+ZIMBABWE,ZIMBABWE
+ASCENSION,ASCENSIUNE
+COOK ISLANDS,INSULELE COOK
+EAST TIMOR,TIMORUL DE EST
+FALKLAND ISLANDS,INSULELE FALKLAND
+GREENLAND,GROENLANDA
+KIRIBATI,KIRIBATI
+MALDIVES,MALDIVE
+NAURU,NAURU
+Albanian Lek,Lek albanez
+Algerian Dinar,Dinar algerian
+Aluminium Ounces,Uncii de aluminiu
+Argentine Peso,Peso argentinian
+Aruba Florin,Aruba Florin
+Australian Dollar,Dolar australian
+Bahamian Dollar,Dolar Bahamian
+Bahraini Dinar,Dinar Bahraini
+Bangladesh Taka,Bangladesh Taka
+Barbados Dollar,Dolarul Barbados
+Belarus Ruble,Rubla Belarusiei
+Belize Dollar,Dolarul din Belize
+Bermuda Dollar,Dolarul Bermudelor
+Bhutan Ngultrum,Bhutan Ngultrum
+Bolivian Boliviano,Bolivian Boliviano
+Brazilian Real,Real brazilian
+British Pound,Lira sterlină
+Brunei Dollar,Dolarul Brunei
+Bulgarian Lev,Bulgară Lev
+Burundi Franc,Francul Burundi
+Cambodia Riel,Cambodgia Riel
+Canadian Dollar,Dolarul canadian
+Cayman Islands Dollar,Dolarul Insulelor Cayman
+CFA Franc (BCEAO),Franc CFA (BCEAO)
+CFA Franc (BEAC),Franc CFA (BEAC)
+Chilean Peso,Peso chilian
+Chinese Yuan,Yuan chinezesc
+Colombian Peso,Peso columbian
+Comoros Franc,Comore Franc
+Copper Ounces,Uncii de cupru
+Costa Rica Colon,Costa Rica Colon
+Croatian Kuna,Kuna croată
+Cuban Peso,Peso cubanez
+Cyprus Pound,Lira Cipru
+Czech Koruna,Coroana cehă
+Danish Krone,Coroană daneză
+Dijibouti Franc,Franc Dijibouti
+Dominican Peso,Peso dominican
+East Caribbean Dollar,Dolarul Caraibelor de Est
+Ecuador Sucre,Ecuador Sucre
+Egyptian Pound,Lira egipteană
+El Salvador Colon,El Salvador Colon
+Eritrea Nakfa,Eritrea Nakfa
+Estonian Kroon,Kronă estonă
+Ethiopian Birr,Etiopian Birr
+Euro,Euro
+Falkland Islands Pound,Lira Insulelor Falkland
+Gambian Dalasi,Dalasi Gambian
+Ghanian Cedi,Ghanian Cedi
+Gibraltar Pound,Lira Gibraltar
+Gold Ounces,Uncii de aur
+Guatemala Quetzal,Quetzal Guatemala
+Guinea Franc,Franc Guineea
+Haiti Gourde,Haiti Gourde
+Honduras Lempira,Honduras Lempira
+Hong Kong Dollar,Dolar Hong Kong
+Hungarian ForINT,ForINT maghiară
+Iceland Krona,Coroana Islandei
+Indian Rupee,Rupia indiană
+Indonesian Rupiah,Rupia indoneziană
+Iran Rial,Iran Rial
+Israeli Shekel,Shekel israelian
+Jamaican Dollar,Dolarul jamaican
+Japanese Yen,Yen japonez
+Jordanian Dinar,Dinar iordanian
+Kazakhstan Tenge,Tenge Kazahstan
+Kenyan Shilling,Shilling kenyan
+Korean Won,Won coreean
+Kuwaiti Dinar,Dinar kuwaitian
+Lao Kip,Lao Kip
+Latvian Lat,Letonă lat
+Lebanese Pound,Lira libaneză
+Lesotho Loti,Lesotho Loti
+Libyan Dinar,Dinar libian
+Lithuanian Lita,Lituana Lita
+Macau Pataca,Macaca Pataca
+Macedonian Denar,Denar macedonean
+Malagasy Franc,Franc malgaș
+Malawi Kwacha,Malawi Kwacha
+Malaysian Ringgit,Ringgit din Malaezia
+Maldives Rufiyaa,Maldive Rufiyaa
+Maltese Lira,Lira malteză
+Mauritania Ougulya,Mauritania Ougulya
+Mauritius Rupee,Rupia Mauritius
+Mexican Peso,Peso mexican
+Moldovan Leu,Leul moldovenesc
+Mongolian Tugrik,Tugrik mongol
+Moroccan Dirham,Dirham marocan
+Mozambique Metical,Mozambic Metical
+Namibian Dollar,Dolarul namibian
+Nepalese Rupee,Rupia nepaleză
+Neth Antilles Guilder,Florin Antilele Olandeze
+New Turkish Lira,Noua lira turcească
+New Zealand Dollar,Dolar Noua Zeelandă
+Nicaragua Cordoba,Nicaragua Cordoba
+Nigerian Naira,Naira nigeriană
+Norwegian Krone,Coroana norvegiană
+Omani Rial,Oman Rial
+Pacific Franc,Francul Pacificului
+Pakistani Rupee,Rupia pakistaneză
+Palladium Ounces,Uncii de paladiu
+Panama Balboa,Panama Balboa
+Papua New Guinea Kina,Papua Noua Guinee Kina
+Paraguayan Guarani,Guarani paraguayani
+Peruvian Nuevo Sol,Nuevo Sol peruvian
+Philippine Peso,Peso filipinez
+Platinum Ounces,Uncii de platină
+Polish Zloty,Zlot polonez
+Qatar Rial,Qatar Rial
+Romanian Leu,Leu românesc
+Romanian New Leu,Noul Leu românesc
+Russian Rouble,Rubla rusească
+Rwanda Franc,Francul ruandez
+Samoa Tala,Samoa Tala
+Sao Tome Dobra,Sao Tome Dobra
+Saudi Arabian Riyal,Riyal saudit
+Seychelles Rupee,Rupia Seychelles
+Sierra Leone Leone,Sierra Leone Leone
+Silver Ounces,Uncii de argint
+Singapore Dollar,Dolarul din Singapore
+Slovak Koruna,Coroană slovacă
+Slovenian Tolar,Tolar sloven
+Somali Shilling,Shilling somalez
+South African Rand,Rand sud-african
+Sri Lanka Rupee,Rupia Sri Lanka
+St Helena Pound,Sfânta Helena Pound
+Sudanese Dinar,Dinar sudanez
+Surinam Guilder,Surinam Florin
+Swaziland Lilageni,Swaziland Lilageni
+Swedish Krona,Coroana suedeză
+Swiss Franc,Franc elvetian
+Syrian Pound,Lira Siriană
+Taiwan Dollar,Dolar Taiwan
+Tanzanian Shilling,Șilingul tanzanian
+Thai Baht,Baht thailandez
+Tonga Paanga,Tonga Paanga
+Trinidad&Tobago Dollar,Dolar Trinidad și Tobago
+Tunisian Dinar,Dinar tunisian
+U.S. Dollar,Dolar american
+UAE Dirham,Dirham din Emiratele Arabe Unite
+Ugandan Shilling,Shilling ugandez
+Ukraine Hryvnia,Ucraina Grivna
+Uruguayan New Peso,Peso nou uruguayan
+Vanuatu Vatu,Vanuatu Vatu
+Venezuelan Bolivar,Bolivar venezuelean
+Vietnam Dong,Vietnam Dong
+Yemen Riyal,Yemen Riyal
+Zambian Kwacha,Kwacha zambian
+Zimbabwe Dollar,Dolarul Zimbabwe
+Guyana Dollar,Dolarul Guyanei
+Aruban florin,Florin Aruban
+Armenian dram,Dram armean
+Azerbaijani manat,Manat azer
+Barbadian dollar,Dolar barbadian
+Bosnian Convertible Marka,Marka bosniacă decapotabilă
+Botswana pula,Pula Botswana
+Cape Verdean escudo,Escudo capoverdian
+Congolese franc,Franc congolez
+Fijian Dollar,Dolarul fijian
+CFP franc,Franc CFP
+Georgian lari,Lari georgiene
+Iraqi dinar,Dinar irakian
+Kyrgyzstani som,Kyrgyzstani som
+Liberian dollar,Dolar liberian
+Malagasy ariary,Ariary malgache
+Burmese Kyat,Kyat birmanez
+North Korean won,Nord-coreean a câștigat
+nuevo sol,nuevo sol
+Serbian dinar,Dinar sârbesc
+South Korean won,Coreea de Sud a câștigat
+South Sudanese pound,Lira sudaneză de sud
+Sudanese pound,Lira sudaneză
+Surinamese dollar,Dolar surinamez
+Tajikistani samani,Tajaniști samani
+Turkish lira,Lira turcească
+Turkmenistan manat,Turkmenistan manat
+Pound sterling,Liră sterlină
+Uzbekistani soʻm,Uzbekistani soʻm
+Saint Helena pound,Sfânta Helena lira
+Indian Rupees,Rupii indiene
+CLI Pool,Piscină CLI
+Download,Descarca
+TRUE,ADEVĂRAT
+FALSE,FALS
+--Select Type--,- Selectați tipul--
+One Time,O data
+Recurring,Recurent
+Recurring Monthly,Lunar recurent
+Outbound,Outbound
+Default,Mod implicit
+Speed Dial Number Added Successfully,Numărul de apelare rapidă a fost adăugat cu succes
+Are you sure want to confirm this invoice ? once you confirm it,Sigur doriți să confirmați această factură? odată confirmat
+DIDs already purchased by someone.,DID-uri deja cumpărate de cineva.
+DIDs Assigned sucessfully!,DID-uri alocate cu succes!
+Something wrong.Please contact to administrator.,Ceva nu este în regulă. Vă rugăm să contactați administratorul.
+Duplicate DID found from database,S-a găsit un duplicat DID din baza de date
+Account have not sufficient amount to purchase this DID.,Contul nu are o sumă suficientă pentru a cumpăra acest DID.
+Account not found or assign to invalid account,Contul nu a fost găsit sau atribuit unui cont nevalid
+Duplicate DID found from import file.,S-a găsit un duplicat DID din fișierul de import.
+DIDs Imported Successfully!,DID-urile au fost importate cu succes!
+Insuffiecient fund to purchase this DID.,Fond insuficient pentru achiziționarea acestui DID.
+Balance Below Notification,Sold sub notificare
+Edit SIP Device,Editați dispozitivul SIP
+Note : Page will display only receipts and confirmed invoices.,Notă: Pagina va afișa numai chitanțe și facturi confirmate.
+Termination Rate Updated Successfully!,Rata de reziliere a fost actualizată cu succes!
+Import Termination Rates Using Field Mapper,Importați tarifele de terminare utilizând Field Mapper
+Edit Roles & Permissions,Editați rolurile și permisiunile
+Create Roles & Permissions,Creați roluri și permisiuni
+Edit Admin,Editați administratorul
+Pin Updated Successfully!.,Pinul a fost actualizat cu succes !.
+Create Termination Rate,Creați o rată de reziliere
+Edit Company Profile,Editați profilul companiei
+Website,Site-ul web
+Generate Invoice for no usage,Generați factură fără utilizare
+Commission Repots,Comisioane Repot
+Top Up,Umple
+Purchase DIDs,Cumpărați DID-uri
+Package,Pachet
+Setup,Înființat
+DID Purchased Successfully.,Ați achiziționat cu succes.
+release,eliberare
+DID Batch Updated Successfully!,DID-ul a fost actualizat cu succes!
+DID forwading set sucessfully!,A FĂCUT setul de vadă cu succes!
+Are you sure want to release DID?,Sigur doriți să lansați DID?
+Please select atleast one record,Vă rugăm să selectați cel puțin o înregistrare
+Account Balance,Soldul contului
+Next Bill Date,Data următoare a facturii
+TOTAL AMOUNT,VALOARE TOTALĂ
+Invoice,Factura fiscala
+IP Address,Adresa IP
+Terminate,Termină
+Seconds,Secunde
+Recording,Înregistrare
+Rates,Tarife
+Paid,Plătit
+No Records,Fără înregistrări
+Please select from date,Vă rugăm să selectați din data
+Please select to date,Vă rugăm să selectați până în prezent
+Please select to date bigger than from date,Vă rugăm să selectați data mai mare decât data
+Confirm,A confirma
+Edit Country,Editați țara
+Skip Header,Salt antetul
+Origination_rate_error,Eroare_ratare_originare
+Termination_rate_error,Termination_rate_error
+Termination_Rates,Rata de reziliere
+Origination_Rates,Ratele_originare
+refill_coupon,refill_coupon
+Edit Reseller,Editați distribuitorul
+Edit Calltype,Editați tipul de apel
+updated successfully!,Actualizat cu succes!
+added successfully!,adăugat cu succes!
+Invoice generation completed .,Generarea facturilor finalizată.
+NOTE,NOTĂ
+No data found.,Nu s-au gasit date.
+Added successfully!,Adăugat cu succes!
+DID added successfully!,DID a fost adăugat cu succes!
+DID updated successfully!,S-a actualizat cu succes!
+File must be in the following format(.csv):,Fișierul trebuie să aibă următorul format (.csv):
+Process,Proces
+DID Import Error,Eroare de import DID
+Records Imported Successfully,Înregistrări importate cu succes
+Records Not Imported,Înregistrări neimportate
+Back to DID List,Înapoi la lista DID
+DID Batch Updated Successfully!,DID-ul a fost actualizat cu succes!
+Accessnumber Added Successfully!,Număr de acces adăugat cu succes!
+Process,Proces
+Accessnumber Import Error,Eroare la importul numărului de acces
+DIDs Assigned sucessfully!,DID-uri alocate cu succes!
+Origination Rates Preview,Previzualizare rate de inițiere
+Origination Rates Import Error,Eroare la importul ratelor de inițiere
+Back to Origination Rates List,Înapoi la lista tarifelor de inițiere
+Origination Rates Batch Updated Successfully!,Ratele de inițiere Lot actualizat cu succes!
+Import Ratedeck Preview,Importați Previzualizarea Ratedeck
+CALLTYPE,TIP DE APEL
+Edit Calltype,Editați tipul de apel
+Outbound-Proxy,Outbound-Proxy
+Edit Trunk,Editați portbagajul
+Termination Rate Added Successfully!,Rata de reziliere a fost adăugată cu succes!
+Edit Termination Rate,Editați rata de reziliere
+Termination Rates Import Error,Eroare la importul tarifelor de reziliere
+Termination Rates Imported Successfully!,Tarifele de reziliere au fost importate cu succes!
+Back to Origination Rates List,Înapoi la lista tarifelor de inițiere
+Select,Selectați
+pattern,model
+comment,cometariu
+connectcost,connectcost
+includedseconds,secunde incluse
+init_inc,init_inc
+inc,inc
+prepend,prepend
+cost ,cost
+strip,bandă
+DID added successfully!,DID a fost adăugat cu succes!
+DID updated successfully!,S-a actualizat cu succes!
+Country Name,Numele tarii
+PAID,PLĂTIT
+PENDING,IN ASTEPTAREA
+FAIL,EȘECE
+ORDER,ORDIN
+payment method,Modalitate de plată
+Terminate Order,Terminați comanda
+Compose Email,Scrie un email
+Message,Mesaj
+Send,Trimite
+SIP Port is Required.,Portul SIP este necesar.
+Start,start
+SIP Port is Required.,Portul SIP este necesar.
+SIP IP is Required.,SIP IP este obligatoriu.
+Name is Required.,Numele este obligatoriu.
+The SIP Port field is Required.,Câmpul Port SIP este obligatoriu.
+The SIP Port field must contain only numbers.,Câmpul Port SIP trebuie să conțină numai numere.
+The SIP Port field can not exceed 5 characters in length.,Câmpul Port SIP nu poate depăși 5 caractere.
+Value is Required.,Este necesară o valoare.
+Value,Valoare
+Update Setting,Actualizați setarea
+Add Setting,Adăugați setare
+Edit Freeswitch Server,Editați serverul Freeswitch
+CUT,A TĂIA
+ADD,ADĂUGA
+Edit Localization,Editați localizarea
+Callbarring Settings Added Successfully!,Setările Callbarring au fost adăugate cu succes!
+Edit Call Barring,Editați restricționarea apelurilor
+Callbarring Settings Updated Successfully!,Setările Callbarring au fost actualizate cu succes!
+The Name field is required.,Câmpul Nume este obligatoriu.
+Please select file.,Vă rugăm să selectați fișierul.
+Database import allows only gzfile types of file.,Importul bazei de date permite numai tipurile de fișiere gzfile.
+File must be in (.gz) format :,Fișierul trebuie să fie în format (.gz):
+The Coupon Number field must contain only numbers.,Câmpul Număr cupon trebuie să conțină numai numere.
+The Coupon Number field have inactive refill coupon.,Câmpul Număr cupon are cupon de reumplere inactiv.
+This Coupon Number is already in use.,Acest număr de cupon este deja utilizat.
+This Coupon Number is not found.,Acest număr de cupon nu este găsit.
+The Coupon Number field is required.,Câmpul Număr cupon este obligatoriu.
+Select Customer.,Selectați Client.
+Please enter your email,te rog introdu e-mailul tău
+Please enter proper email,Vă rugăm să introduceți un e-mail corect
+The Caller ID field is required.,Câmpul ID apelant este obligatoriu.
+Please enter your password,Va rugam sa introduceti parola
+Please enter your first name,Vă rugăm să introduceți prenumele
+Please enter your email,te rog introdu e-mailul tău
+This field is require,Acest câmp este obligatoriu
+The IP field must contain a unique value.,Câmpul IP trebuie să conțină o valoare unică.
+The Name field is required.,Câmpul Nume este obligatoriu.
+The IP field is required.,Câmpul IP este obligatoriu.
+Please Enter Valid Account Number,Vă rugăm să introduceți un număr de cont valid
+Main,Principal
+--Select Disposition--,--Selectați Dispoziție--
+Group By #time,Grupați după # timp
+Active User,Utilizator activ
+Used Minutes,Minute uzate
+Available Minutes,Minute disponibile
+Total Price,Pretul total
+Total User,Utilizator total
+Resend Mail,Retrimiteți e-mailul
+Restore,Restabili
+View Details,Vezi detalii
+Other,Alte
+Edit Tax,Modificați taxa
+Edit Country,Editați țara
+Download Database,Descărcați baza de date
+Import Database,Import Baza de date
+File must be in (.gz) format,Fișierul trebuie să fie în format (.gz)
+ Please select file., Vă rugăm să selectați fișierul.
+Please enter name and select file.,Vă rugăm să introduceți numele și să selectați fișierul.
+Edit Cron Settings,Editați setările Cron
+Global Settings updated sucessfully!,Setările globale au fost actualizate cu succes!
+Alert Notifications,Notificări de alertă
+Fraud Configuration,Configurarea fraudelor
+Configuration add,Configurare adăugare
+Alarm Configuration,Configurare alarmă
+Please select atleast one pattern.,Vă rugăm să selectați cel puțin un model.
+Problem In Add Patterns to account.,Problemă în Adăugarea modelelor în cont.
+Blocked Codes,Coduri blocate
+The IP field must contain a unique value.,Câmpul IP trebuie să conțină o valoare unică.
+The IP field is required.,Câmpul IP este obligatoriu.
+Please Enter Switch command,Vă rugăm să introduceți comanda Switch
+are you sure to delete?,sunteți sigur că ștergeți?
+Are you sure want to confirm this invoice ? once you confirm it,Sigur doriți să confirmați această factură? odată confirmat
+can not able to edit invoice again.,nu pot modifica din nou factura.
+Maximum Logo upload size is 1MB,Dimensiunea maximă de încărcare a logo-ului este de 1 MB
+Profit per day,Profit pe zi
+Please enter number,Vă rugăm să introduceți numărul
+Import Customer,Importați clientul
+Processing,Prelucrare
+please wait,te rog asteapta
+U.S. Dollar (USD),Dolar SUA (USD)
+Account Number,Numar de cont
+Selected records has been deleted.,Înregistrările selectate au fost șterse.
+Processing,Prelucrare
+Invoice Due Date,Data scadentă a facturii
+This month credits,Credite în această lună
+Product & Services,Produs și servicii
+Total Calls Amount,Suma totală a apelurilor
+Total Amount (Inc. tax),Suma totală (impozit inc.)
+Bill To,Proiect de lege pentru
+Subtotal,Subtotal
+Emails,E-mailuri
+Add IP Settings,Adăugați setări IP
+Edit IP Settings,Editați setările IP
+Edit Caller ID,Editați ID-ul apelantului
+Reseller Type,Tipul revânzătorului
+Distributor,Distribuitor
+Commission Based,Bazat pe Comisie
+Invoice Date Interval,Intervalul datei facturii
+Please select atleast one record to delete.,Vă rugăm să selectați cel puțin o înregistrare de șters.
+Are you sure you want to delete? This action will delete all other data which belongs to this account(s).,Ești sigur că vrei să ștergi? Această acțiune va șterge toate celelalte date care aparțin acestui cont.
+Days to Unhold,Zile de retinut
+DID,FĂCUT
+Access Numbers,Numere de acces
+Create Duplicate Rate Group,Creați un grup de rate duplicat
+Connection,Conexiune
+Effective Date,Data efectivă
+Effective Date Time,Data efectivă
+Effective From Date,În vigoare începând cu data
+Effective To Date,În vigoare până în prezent
+Edit Ratedeck,Editați Ratedeck
+Routing,Rutare
+Initial,Iniţială
+Edit Rate Group,Editați grupul de rate
+Effective,Efectiv
+Begin zone,Începeți zona
+Nothing selected,Nimic selectat
+Please check your customers calls are running or not if running then may be customer balance goes in nagative!,"Vă rugăm să verificați dacă apelurile clienților dvs. rulează sau nu, dacă se execută, atunci s-ar putea ca soldul clienților să fie negativ!"
+Stop,Stop
+Reload,Reîncarcă
+Rescan,Rescanează
+Template(regexp),Șablon (regexp)
+Destination Based CallerId,Destinație bazată pe apelant
+Provider Summary,Rezumatul furnizorului
+Notification History,Istoricul notificărilor
+Are you sure you want to delete?,Ești sigur că vrei să ștergi?
+Address1,Adresa 1
+ (250 * 60),  (250 * 60)
+" (Allowed Extensions JPG, PNG, JPEG)","  (Extensii permise JPG, PNG, JPEG)"
+ (16 * 16),  (16 * 16)
+" (Allowed Extensions ICO, PNG, JPG, JPEG)","  (Extensii permise ICO, PNG, JPG, JPEG)"
+SMTP Email Test,Test de e-mail SMTP
+Email Body,Corpul e-mailului
+Alert Body,Corp de alertă
+Are you sure want to restore this database?,Sigur doriți să restaurați această bază de date?
+Forwarding,Transmiterea
+DID-Local,DID-Local
+DID@IP/URL,DID @ IP / URL
+Direct-IP,Direct-IP
+PSTN,Piston
+SIP-DID,SIP-DID
+Edit Access number,Editați numărul de acces
+Realm,Tărâm
+Reg-Transport,Reg-Transport
+Gateway,Gateway
+Failover,Failover
+GW Name #1,Numele GW # 1
+GW Name #2,Numele GW # 2
+Count,Numara
+Rate Type,Tipul ratei
+Refill,Reumpleți
+Full Price,Pret intreg
+Max. Days,Max. Zile
+Max. Minute,Max. Minut
+Both of one Maximum,Ambele de un maxim
+Both,Ambii
+Are you sure you want to delete this selected records?,Sigur doriți să ștergeți aceste înregistrări selectate?
+Please check your customers calls are running or not. if running then may be customer balance goes in nagative!,Verificați dacă apelurile clienților dvs. rulează sau nu. dacă rulați atunci poate fi echilibrul clienților merge în nagative!
+ESTONIA,ESTONIA
+CLI,CLI
+STANDARD,STANDARD
+CALLINGCARD,CALLINGCARD
+FREE,GRATUIT
+LOCAL,LOCAL
+Resand Email,Retrimiteți e-mailul
+Sent,Trimis
+Failed,A eșuat
+Resent Email,Trimiteți e-mailul
+Org.,Org.
+Pefix,Pefix
+Term.,Termen.
+GMT Offset,GMT Offset
+Add Timezone,Adăugați fusul orar
+Timezone List,Lista fusului orar
+Edit Timezone,Editați fusul orar
+Folder Path,Calea folderului
+Custom Rule,Regula personalizată
+Account Number Editable,Număr de cont modificabil
+Packages,Pachete
+Terms & Condition,Termeni si conditii
+Play Audio Notifications,Redă notificări audio
+Sort cost based routing,Sortați rutarea bazată pe costuri
+Half Year,Jumatate de an
+Open a Ticket,Deschideți un bilet
+Licence,Licență
+DID Reservation Days,Zile de rezervare DID
+DID Reservation,Rezervare DID
+Term_and_condition,Termeni și condiții
+Text,Text
+Url,Url
+Generated,Generat
+Customer_permission,Permisiunea_clientului
+Resend Email,Retrimiteți e-mailul
+Create Translation Languages,Creați limbi de traducere
+Edit Translation Language,Editați limba de traducere
+Module Name,Nume modul
+English,Engleză
+French,limba franceza
+Chinese,chinez
+German,limba germana
+Greek,Greacă
+Italian,Italiană
+Japanese,japonez
+Portuguese,Portugheză
+Romanian,Română
+Russian,Rusă
+Spanish,Spaniolă
+Both (Email & SMS),Ambele (e-mail și SMS)
+Account Notification,Notificare cont
+Use Same Credential For Invoice Config,Utilizați aceleași acreditări pentru configurarea facturii
+Registration URL,Adresa URL de înregistrare
+Admin_permission,Admin_permission
+My Order,Comanda mea
+please select any recharge amount,vă rugăm să selectați orice sumă de reîncărcare
+Todays Calls,Apeluri de azi
+Are you sure want to delete speed dial record?,Sigur doriți să ștergeți înregistrarea de apelare rapidă?
+Buy DIDs,Cumpărați DID-uri
+Purchased DID,DID achiziționat
+DID Information,Informații DID
+Sell Cost,Costul de vânzare
+Admin Rate Group,Grup de rată de administrare
+Copy From Rate Group,Copiați din grupul de tarifare
+Search My Rates,Căutați tarifele mele
+Read/Write,"Citeste, scrie"
+Edit SIP Devices,Editați dispozitivele SIP
+Inextrix Technologies Pvt. Ltd All Rights Reserved.,Inextrix Technologies Pvt. Ltd Toate drepturile rezervate.
+iNextrix Technologies Pvt. Ltd.,iNextrix Technologies Pvt. Ltd.
+Bal,Minge
+Europe/Andorra,Europa / Andorra
+Asia/Dubai,Asia / Dubai
+Asia/Kabul,Asia / Kabul
+America/Antigua,America / Antigua
+America/Anguilla,America / Anguilla
+Europe/Tirane,Europa / Tirane
+Asia/Yerevan,Asia / Erevan
+Africa/Luanda,Africa / Luanda
+Antarctica/Casey,Antarctica / Casey
+Antarctica/Davis,Antarctica / Davis
+Antarctica/DumontDUrville,Antarctica / DumontDUrville
+Antarctica/Mawson,Antarctica / Mawson
+Antarctica/McMurdo,Antarctica / McMurdo
+Antarctica/Palmer,Antarctica / Palmer
+Antarctica/Rothera,Antarctica / Rothera
+Antarctica/Syowa,Antarctica / Syowa
+Antarctica/Troll,Antarctica / Troll
+Antarctica/Vostok,Antarctica / Vostok
+America/Argentina/Buenos_Aires,America / Argentina / Buenos_Aires
+America/Argentina/Catamarca,America / Argentina / Catamarca
+America/Argentina/Cordoba,America / Argentina / Cordoba
+America/Argentina/Jujuy,America / Argentina / Jujuy
+America/Argentina/La_Rioja,America / Argentina / La_Rioja
+America/Argentina/Mendoza,America / Argentina / Mendoza
+America/Argentina/Rio_Gallegos,America / Argentina / Rio_Gallegos
+America/Argentina/Salta,America / Argentina / Salta
+America/Argentina/San_Juan,America / Argentina / San_Juan
+America/Argentina/San_Luis,America / Argentina / San_Luis
+America/Argentina/Tucuman,America / Argentina / Tucuman
+America/Argentina/Ushuaia,America / Argentina / Ushuaia
+Pacific/Pago_Pago,Pacific / Pago_Pago
+Europe/Vienna,Europa / Viena
+Antarctica/Macquarie,Antarctica / Macquarie
+Australia/Adelaide,Australia / Adelaide
+Australia/Brisbane,Australia / Brisbane
+Australia/Broken_Hill,Australia / Broken_Hill
+Australia/Currie,Australia / Currie
+Australia/Darwin,Australia / Darwin
+Australia/Eucla,Australia / Eucla
+Australia/Hobart,Australia / Hobart
+Australia/Lindeman,Australia / Lindeman
+Australia/Lord_Howe,Australia / Lord_Howe
+Australia/Melbourne,Australia / Melbourne
+Australia/Perth,Australia / Perth
+Australia/Sydney,Australia / Sydney
+America/Aruba,America / Aruba
+Europe/Mariehamn,Europa / Mariehamn
+Asia/Baku,Asia / Baku
+Europe/Sarajevo,Europa / Sarajevo
+America/Barbados,America / Barbados
+Asia/Dhaka,Asia / Dhaka
+Europe/Brussels,Europa / Bruxelles
+Africa/Ouagadougou,Africa / Ouagadougou
+Europe/Sofia,Europa / Sofia
+Asia/Bahrain,Asia / Bahrain
+Africa/Bujumbura,Africa / Bujumbura
+Africa/Porto-Novo,Africa / Porto-Novo
+America/St_Barthelemy,America / St_Barthelemy
+Atlantic/Bermuda,Atlantic / Bermuda
+Asia/Brunei,Asia / Brunei
+America/La_Paz,America / La_Paz
+America/Kralendijk,America / Kralendijk
+America/Araguaina,America / Araguaina
+America/Bahia,America / Bahia
+America/Belem,America / Belem
+America/Boa_Vista,America / Boa_Vista
+America/Campo_Grande,America / Campo_Grande
+America/Cuiaba,America / Cuiaba
+America/Eirunepe,America / Eirunepe
+America/Fortaleza,America / Fortaleza
+America/Maceio,America / Maceio
+America/Manaus,America / Manaus
+America/Noronha,America / Noronha
+America/Porto_Velho,America / Porto_Velho
+America/Recife,America / Recife
+America/Rio_Branco,America / Rio_Branco
+America/Santarem,America / Santarem
+America/Sao_Paulo,America / Sao_Paulo
+America/Nassau,America / Nassau
+Asia/Thimphu,Asia / Thimphu
+Africa/Gaborone,Africa / Gaborone
+Europe/Minsk,Europa / Minsk
+America/Belize,America / Belize
+America/Atikokan,America / Atikokan
+America/Blanc-Sablon,America / Blanc-Sablon
+America/Cambridge_Bay,America / Cambridge_Bay
+America/Creston,America / Creston
+America/Dawson,America / Dawson
+America/Dawson_Creek,America / Dawson_Creek
+America/Edmonton,America / Edmonton
+America/Fort_Nelson,America / Fort_Nelson
+America/Glace_Bay,America / Glace_Bay
+America/Goose_Bay,America / Goose_Bay
+America/Halifax,America / Halifax
+America/Inuvik,America / Inuvik
+America/Iqaluit,America / Iqaluit
+America/Moncton,America / Moncton
+America/Nipigon,America / Nipigon
+America/Pangnirtung,America / Pangnirtung
+America/Rainy_River,America / Rainy_River
+America/Rankin_Inlet,America / Rankin_Inlet
+America/Regina,America / Regina
+America/Resolute,America / Rezolut
+America/St_Johns,America / St_Johns
+America/Swift_Current,America / Swift_Current
+America/Thunder_Bay,America / Thunder_Bay
+America/Toronto,America / Toronto
+America/Vancouver,America / Vancouver
+America/Whitehorse,America / Whitehorse
+America/Winnipeg,America / Winnipeg
+America/Yellowknife,America / Yellowknife
+Indian/Cocos,Indian / Cocos
+Africa/Kinshasa,Africa / Kinshasa
+Africa/Lubumbashi,Africa / Lubumbashi
+Africa/Bangui,Africa / Bangui
+Africa/Brazzaville,Africa / Brazzaville
+Europe/Zurich,Europa / Zurich
+Africa/Abidjan,Africa / Abidjan
+Pacific/Rarotonga,Pacific / Rarotonga
+America/Punta_Arenas,America / Punta_Arenas
+America/Santiago,America / Santiago
+Pacific/Easter,Pacific / Paște
+Africa/Douala,Africa / Douala
+Asia/Shanghai,Asia / Shanghai
+Asia/Urumqi,Asia / Urumqi
+America/Bogota,America / Bogota
+America/Costa_Rica,America / Costa_Rica
+America/Havana,America / Havana
+Atlantic/Cape_Verde,Atlantic / Cape_Verde
+America/Curacao,America / Curacao
+Indian/Christmas,Indian / Crăciun
+Asia/Famagusta,Asia / Famagusta
+Asia/Nicosia,Asia / Nicosia
+Europe/Prague,Europa / Praga
+Europe/Berlin,Europa / Berlin
+Europe/Busingen,Europa / Busingen
+Africa/Djibouti,Africa / Djibouti
+Europe/Copenhagen,Europa / Copenhaga
+America/Dominica,America / Dominica
+America/Santo_Domingo,America / Santo_Domingo
+Africa/Algiers,Africa / Alger
+America/Guayaquil,America / Guayaquil
+Pacific/Galapagos,Pacific / Galapagos
+Europe/Tallinn,Europa / Tallinn
+Africa/Cairo,Africa / Cairo
+Africa/El_Aaiun,Africa / El_Aaiun
+Africa/Asmara,Africa / Asmara
+Africa/Ceuta,Africa / Ceuta
+Atlantic/Canary,Atlantic / Canare
+Europe/Madrid,Europa / Madrid
+Africa/Addis_Ababa,Africa / Addis_Ababa
+Europe/Helsinki,Europa / Helsinki
+Pacific/Fiji,Pacific / Fiji
+Atlantic/Stanley,Atlantic / Stanley
+Pacific/Chuuk,Pacific / Chuuk
+Pacific/Kosrae,Pacific / Kosrae
+Pacific/Pohnpei,Pacific / Pohnpei
+Atlantic/Faroe,Atlantic / Feroe
+Europe/Paris,Europa / Paris
+Africa/Libreville,Africa / Libreville
+Europe/London,Europa / Londra
+America/Grenada,America / Grenada
+Asia/Tbilisi,Asia / Tbilisi
+America/Cayenne,America / Cayenne
+Europe/Guernsey,Europa / Guernsey
+Africa/Accra,Africa / Accra
+Europe/Gibraltar,Europa / Gibraltar
+America/Danmarkshavn,America / Danmarkshavn
+America/Nuuk,America / Nuuk
+America/Scoresbysund,America / Scoresbysund
+America/Thule,America / Thule
+Africa/Banjul,Africa / Banjul
+Africa/Conakry,Africa / Conakry
+America/Guadeloupe,America / Guadelupa
+Africa/Malabo,Africa / Malabo
+Europe/Athens,Europa / Atena
+Atlantic/South_Georgia,Atlantic / Georgia_ de Sud
+America/Guatemala,America / Guatemala
+Pacific/Guam,Pacific / Guam
+Africa/Bissau,Africa / Bissau
+America/Guyana,America / Guyana
+Asia/Hong_Kong,Asia / Hong_Kong
+America/Tegucigalpa,America / Tegucigalpa
+Europe/Zagreb,Europa / Zagreb
+America/Port-au-Prince,America / Port-au-Prince
+Europe/Budapest,Europa / Budapesta
+Asia/Jakarta,Asia / Jakarta
+Asia/Jayapura,Asia / Jayapura
+Asia/Makassar,Asia / Makassar
+Asia/Pontianak,Asia / Pontianak
+Europe/Dublin,Europa / Dublin
+Asia/Jerusalem,Asia / Ierusalim
+Europe/Isle_of_Man,Europe / Isle_of_Man
+Asia/Kolkata,Asia / Calcutta
+Indian/Chagos,Indian / Chagos
+Asia/Baghdad,Asia / Bagdad
+Asia/Tehran,Asia / Teheran
+Atlantic/Reykjavik,Atlantic / Reykjavik
+Europe/Rome,Europa / Roma
+Europe/Jersey,Europa / Jersey
+America/Jamaica,America / Jamaica
+Asia/Amman,Asia / Amman
+Asia/Tokyo,Asia / Tokyo
+Africa/Nairobi,Africa / Nairobi
+Asia/Bishkek,Asia / Bișkek
+Asia/Phnom_Penh,Asia / Phnom_Penh
+Pacific/Enderbury,Pacific / Enderbury
+Pacific/Kiritimati,Pacific / Kiritimati
+Pacific/Tarawa,Pacific / Tarawa
+Indian/Comoro,Indian / Comoro
+America/St_Kitts,America / St_Kitts
+Asia/Pyongyang,Asia / Phenian
+Asia/Seoul,Asia / Seul
+Asia/Kuwait,Asia / Kuweit
+America/Cayman,America / Cayman
+Asia/Almaty,Asia / Almaty
+Asia/Aqtau,Asia / Aqtau
+Asia/Aqtobe,Asia / Aqtobe
+Asia/Atyrau,Asia / Atyrau
+Asia/Oral,Asia / Orală
+Asia/Qostanay,Asia / Qostanay
+Asia/Qyzylorda,Asia / Qyzylorda
+Asia/Vientiane,Asia / Vientiane
+Asia/Beirut,Asia / Beirut
+America/St_Lucia,America / St_Lucia
+Europe/Vaduz,Europa / Vaduz
+Asia/Colombo,Asia / Colombo
+Africa/Monrovia,Africa / Monrovia
+Africa/Maseru,Africa / Maseru
+Europe/Vilnius,Europa / Vilnius
+Europe/Luxembourg,Europa / Luxemburg
+Europe/Riga,Europa / Riga
+Africa/Tripoli,Africa / Tripoli
+Africa/Casablanca,Africa / Casablanca
+Europe/Monaco,Europa / Monaco
+Europe/Chisinau,Europa / Chișinău
+Europe/Podgorica,Europa / Podgorica
+America/Marigot,America / Marigot
+Indian/Antananarivo,Indian / Antananarivo
+Pacific/Kwajalein,Pacific / Kwajalein
+Pacific/Majuro,Pacific / Majuro
+Europe/Skopje,Europa / Skopje
+Africa/Bamako,Africa / Bamako
+Asia/Yangon,Asia / Yangon
+Asia/Choibalsan,Asia / Choibalsan
+Asia/Hovd,Asia / Hovd
+Asia/Ulaanbaatar,Asia / Ulaanbaatar
+Asia/Macau,Asia / Macau
+Pacific/Saipan,Pacific / Saipan
+America/Martinique,America / Martinica
+Africa/Nouakchott,Africa / Nouakchott
+America/Montserrat,America / Montserrat
+Europe/Malta,Europa / Malta
+Indian/Mauritius,Indian / Mauritius
+Indian/Maldives,Indian / Maldive
+Africa/Blantyre,Africa / Blantyre
+America/Bahia_Banderas,America / Bahia_Banderas
+America/Cancun,America / Cancun
+America/Chihuahua,America / Chihuahua
+America/Hermosillo,America / Hermosillo
+America/Matamoros,America / Matamoros
+America/Mazatlan,America / Mazatlan
+America/Merida,America / Merida
+America/Mexico_City,America / Mexico_City
+America/Monterrey,America / Monterrey
+America/Ojinaga,America / Ojinaga
+America/Tijuana,America / Tijuana
+Asia/Kuala_Lumpur,Asia / Kuala_Lumpur
+Asia/Kuching,Asia / Kuching
+Africa/Maputo,Africa / Maputo
+Africa/Windhoek,Africa / Windhoek
+Pacific/Noumea,Pacific / Noumea
+Africa/Niamey,Africa / Niamey
+Pacific/Norfolk,Pacific / Norfolk
+Africa/Lagos,Africa / Lagos
+America/Managua,America / Managua
+Europe/Amsterdam,Europa / Amsterdam
+Europe/Oslo,Europa / Oslo
+Asia/Kathmandu,Asia / Kathmandu
+Pacific/Nauru,Pacific / Nauru
+Pacific/Niue,Pacific / Niue
+Pacific/Auckland,Pacific / Auckland
+Pacific/Chatham,Pacific / Chatham
+Asia/Muscat,Asia / Muscat
+America/Panama,America / Panama
+America/Lima,America / Lima
+Pacific/Gambier,Pacific / Gambier
+Pacific/Marquesas,Pacific / Marquesas
+Pacific/Tahiti,Pacific / Tahiti
+Pacific/Bougainville,Pacific / Bougainville
+Pacific/Port_Moresby,Pacific / Port_Moresby
+Asia/Manila,Asia / Manila
+Asia/Karachi,Asia / Karachi
+Europe/Warsaw,Europa / Varșovia
+America/Miquelon,America / Miquelon
+Pacific/Pitcairn,Pacific / Pitcairn
+America/Puerto_Rico,America / Puerto_Rico
+Asia/Gaza,Asia / Gaza
+Asia/Hebron,Asia / Hebron
+Atlantic/Azores,Atlantic / Azore
+Atlantic/Madeira,Atlantic / Madeira
+Europe/Lisbon,Europa / Lisabona
+Pacific/Palau,Pacific / Palau
+America/Asuncion,America / Asuncion
+Asia/Qatar,Asia / Qatar
+Indian/Reunion,Indian / Reuniune
+Europe/Bucharest,Europa / București
+Europe/Belgrade,Europa / Belgrad
+Asia/Anadyr,Asia / Anadyr
+Asia/Barnaul,Asia / Barnaul
+Asia/Chita,Asia / Chita
+Asia/Irkutsk,Asia / Irkutsk
+Asia/Kamchatka,Asia / Kamchatka
+Asia/Khandyga,Asia / Khandyga
+Asia/Krasnoyarsk,Asia / Krasnoyarsk
+Asia/Magadan,Asia / Magadan
+Asia/Novokuznetsk,Asia / Novokuznetsk
+Asia/Novosibirsk,Asia / Novosibirsk
+Asia/Omsk,Asia / Omsk
+Asia/Sakhalin,Asia / Sahalin
+Asia/Srednekolymsk,Asia / Srednekolymsk
+Asia/Tomsk,Asia / Tomsk
+Asia/Ust-Nera,Asia / Ust-Nera
+Asia/Vladivostok,Asia / Vladivostok
+Asia/Yakutsk,Asia / Iakutsk
+Asia/Yekaterinburg,Asia / Ekaterinburg
+Europe/Astrakhan,Europa / Astrahan
+Europe/Kaliningrad,Europa / Kaliningrad
+Europe/Kirov,Europa / Kirov
+Europe/Moscow,Europa / Moscova
+Europe/Samara,Europa / Samara
+Europe/Saratov,Europa / Saratov
+Europe/Ulyanovsk,Europa / Ulyanovsk
+Europe/Volgograd,Europa / Volgograd
+Africa/Kigali,Africa / Kigali
+Asia/Riyadh,Asia / Riad
+Pacific/Guadalcanal,Pacific / Guadalcanal
+Indian/Mahe,Indian / Mahe
+Africa/Khartoum,Africa / Khartoum
+Europe/Stockholm,Europa / Stockholm
+Asia/Singapore,Asia / Singapore
+Atlantic/St_Helena,Atlantic / St_Helena
+Europe/Ljubljana,Europa / Ljubljana
+Arctic/Longyearbyen,Arctic / Longyearbyen
+Europe/Bratislava,Europa / Bratislava
+Africa/Freetown,Africa / Freetown
+Europe/San_Marino,Europa / San_Marino
+Africa/Dakar,Africa / Dakar
+Africa/Mogadishu,Africa / Mogadiscio
+America/Paramaribo,America / Paramaribo
+Africa/Juba,Africa / Juba
+Africa/Sao_Tome,Africa / Sao_Tome
+America/El_Salvador,America / El_Salvador
+America/Lower_Princes,America / inferioare_princi
+Asia/Damascus,Asia / Damasc
+Africa/Mbabane,Africa / Mbabane
+America/Grand_Turk,America / Grand_Turk
+Africa/Ndjamena,Africa / Ndjamena
+Indian/Kerguelen,Indian / Kerguelen
+Africa/Lome,Africa / Lome
+Asia/Bangkok,Asia / Bangkok
+Asia/Dushanbe,Asia / Dușanbe
+Pacific/Fakaofo,Pacific / Fakaofo
+Asia/Dili,Asia / Dili
+Asia/Ashgabat,Asia / Ashgabat
+Africa/Tunis,Africa / Tunis
+Pacific/Tongatapu,Pacific / Tongatapu
+Europe/Istanbul,Europa / Istanbul
+America/Port_of_Spain,America / Port_of_Spain
+Pacific/Funafuti,Pacific / Funafuti
+Asia/Taipei,Asia / Taipei
+Africa/Dar_es_Salaam,Africa / Dar_es_Salaam
+Europe/Kiev,Europa / Kiev
+Europe/Simferopol,Europa / Simferopol
+Europe/Uzhgorod,Europa / Uzhgorod
+Europe/Zaporozhye,Europa / Zaporojie
+Africa/Kampala,Africa / Kampala
+Pacific/Midway,Pacific / Midway
+Pacific/Wake,Pacific / Wake
+America/Adak,America / Adak
+America/Anchorage,America / Ancoraj
+America/Boise,America / Boise
+America/Chicago,America / Chicago
+America/Denver,America / Denver
+America/Detroit,America / Detroit
+America/Indiana/Indianapolis,America / Indiana / Indianapolis
+America/Indiana/Knox,America / Indiana / Knox
+America/Indiana/Marengo,America / Indiana / Marengo
+America/Indiana/Petersburg,America / Indiana / Petersburg
+America/Indiana/Tell_City,America / Indiana / Tell_City
+America/Indiana/Vevay,America / Indiana / Vevay
+America/Indiana/Vincennes,America / Indiana / Vincennes
+America/Indiana/Winamac,America / Indiana / Winamac
+America/Juneau,America / Juneau
+America/Kentucky/Louisville,America / Kentucky / Louisville
+America/Kentucky/Monticello,America / Kentucky / Monticello
+America/Los_Angeles,America / Los_Angeles
+America/Menominee,America / Menominee
+America/Metlakatla,America / Metlakatla
+America/New_York,America / New_York
+America/Nome,America / Nome
+America/North_Dakota/Beulah,America / North_Dakota / Beulah
+America/North_Dakota/Center,America / North_Dakota / Center
+America/North_Dakota/New_Salem,America / North_Dakota / New_Salem
+America/Phoenix,America / Phoenix
+America/Sitka,America / Sitka
+America/Yakutat,America / Yakutat
+Pacific/Honolulu,Pacific / Honolulu
+America/Montevideo,America / Montevideo
+Asia/Samarkand,Asia / Samarkand
+Asia/Tashkent,Asia / Tașkent
+Europe/Vatican,Europa / Vatican
+America/St_Vincent,America / St_Vincent
+America/Caracas,America / Caracas
+America/Tortola,America / Tortola
+America/St_Thomas,America / St_Thomas
+Asia/Ho_Chi_Minh,Asia / Ho_Chi_Minh
+Pacific/Efate,Pacific / Efate
+Pacific/Wallis,Pacific / Wallis
+Pacific/Apia,Pacific / Apia
+Asia/Aden,Asia / Aden
+Indian/Mayotte,Indian / Mayotte
+Africa/Johannesburg,Africa / Johannesburg
+Africa/Lusaka,Africa / Lusaka
+Africa/Harare,Africa / Harare
+Company Profile,Profilul Companiei
+Opensips Dispatcher,Dispenser de deschidere
+account_refilled,cont reumplut
+create_account,creează cont
+create_sip_device,creați dispozitivul sip
+new_invoice,factură nouă
+low_balance,echilibru redus
+signup_confirmation,confirmarea înscrierii
+new_password,Parolă Nouă
+forgot_password_confirmation,ați uitat confirmarea parolei
+invoice_due_reminder,memento datorat factură
+new_archive_table,nou tabel de arhivă
+balance_tranfer,transfer de sold
+product_purchase,achiziționarea produsului
+product_release,lansarea produsului
+product_renewal_notice,aviz de reînnoire a produsului
+product_renewed,produs reînnoit
+product_commission,comision produs
+cdrs_archive_table_create_success,tabelul de arhivă cdrs creează succes
+cdrs_archive_table_create_fail,tabela arhivă cdrs creează eșuează
+reset_password,reseteaza parola
+international_low_balance,echilibru internațional scăzut
+account_postcharge,taxă postală a contului
+ACCOUNT_INACTIVE_DELETED,CONT INACTIV Șters
+ACCOUNT_EXPIRE,EXPERIU DE CONT
+ALLOTTED_TIMEOUT,TIMEOUT ALOCAT
+AUTHENTICATION_FAIL,AUTENTICARE EȘUATĂ
+BEARERCAPABILITY_NOTAUTH,NOTAUTĂ PENTRU PUTEREA PUTERII
+BEARERCAPABILITY_NOTAVAIL,NOTĂ DISPONIBILĂ PENTRU PUTERE
+BEARERCAPABILITY_NOTIMPL,NOTABILITATE PENTRU CARABILITATE
+CALL_REJECTED,APEL RESPINS
+CHAN_NOT_IMPLEMENTED,CHAN NU ESTE IMPLEMENTAT
+CHANNEL_UNACCEPTABLE,CANAL INACCEPTABIL
+DESTINATION_OUT_OF_ORDER,DESTINAȚIE FĂRĂ COMANDĂ
+DESTINATION_BLOCKED,DESTINAȚIE BLOCATĂ
+DID_DESTINATION_NOT_FOUND,DESTINAȚIA NU A FOST GĂSITĂ
+FACILITY_REJECTED,FACILITATEA RESPINSĂ
+FACILITY_NOT_SUBSCRIBED,FACILITATEA NU SUBSCRISĂ
+FACILITY_NOT_IMPLEMENTED,FACILITATEA NU ESTE IMPLEMENTATĂ
+FRAUD_CALL_PER_ACCOUNT,APEL DE FRAUDĂ PE CONT
+FRAUD_CALL_PER_DESTINATION,APEL DE FRAUDĂ PE DESTINAȚIE
+FRAUD_COST_PER_ACCOUNT,COSTUL FRAUDEI PE CONT
+FRAUD_COST_PER_DESTINATION,COSTUL FRAUDELOR PE DESTINAȚIE
+INVALID_NUMBER_FORMAT,FORMATUL DE NUMĂR NEVALID
+INCOMPATIBLE_DESTINATION,DESTINAȚIE INCOMPATIBILĂ
+MANAGER_REQUEST,SOLICITARE MANAGER
+MEDIA_TIMEOUT,TIMEOUT MEDIA
+NO_ROUTE_DESTINATION,FARA DESTINAȚIE RUTĂ
+NORMAL_CLEARING,DEPĂRAREA NORMALĂ
+NETWORK_OUT_OF_ORDER,RETEA NEFUNCTIONALA
+NORMAL_UNSPECIFIED,NORMAL NESPECIFICAT
+NORMAL_CIRCUIT_CONGESTION,CONGESTIUNEA CIRCUITULUI NORMAL
+NORMAL_TEMPORARY_FAILURE,ECHIPAMENT TEMPORAR NORMAL
+NO_SUFFICIENT_FUND,FARA FOND SUFICIENT
+NO_USER_RESPONSE,FĂRĂ RĂSPUNS AL UTILIZATORULUI
+NO_ANSWER,NICI UN RASPUNS
+NUMBER_CHANGED,NUMĂR SCHIMBAT
+ORIGINATOR_CANCEL,ANULARE ORIGINATOR
+ORIGNATION_RATE_NOT_FOUND,RATA DE ORIGINARE NU A FOST GĂSITĂ
+OUTGOING_CALL_BARRED,APEL IEȘITOR BARRAT
+PROGRESS_TIMEOUT,TIMP DE PROGRES
+RECOVERY_ON_TIMER_EXPIRE,RECUPERARE PE EXPERIUL TIMER
+RESELLER_COST_CHEAP,REZERVATOR COST MAI BUN
+SERVICE_NOT_IMPLEMENTED,SERVICIUL NU ESTE IMPLEMENTAT
+SERVICE_UNAVAILABLE,SERVICIU INDISPONIBIL
+SUCCESS,SUCCES
+SWITCH_CONGESTION,CONGESTIUNEA COMUTATORULUI
+TERMINATION_RATE_NOT_FOUND,RATA DE ÎNCETARE NU A FOST GĂSITĂ
+UNSPECIFIED,NESPECIFICAT
+UNALLOCATED_NUMBER,NUMĂR NELOCAT
+USER_BUSY,UTILIZATOR OCUPAT
+USER_NOT_REGISTERED,UTILIZATORUL NU ESTE ÎNREGISTRAT
+REQUESTED_CHAN_UNAVAIL,SOLICITAT CHAN NEDISPONDERE
+SUBSCRIBER_ABSENT,ABONATUL ABSENT
+account_refilled,cont reumplut
+create_account,creează cont
+create_sip_device,creați dispozitivul sip
+new_invoice,factură nouă
+low_balance,echilibru redus
+signup_confirmation,confirmarea înscrierii
+new_password,Parolă Nouă
+forgot_password_confirmation,ați uitat confirmarea parolei
+invoice_due_reminder,memento datorat factură
+new_archive_table,nou tabel de arhivă
+balance_tranfer,transfer de sold
+product_purchase,achiziționarea produsului
+product_release,lansarea produsului
+product_renewal_notice,notificare reînnoire produs
+product_renewed,produs reînnoit
+product_commission,comision produs
+cdrs_archive_table_create_success,tabelul de arhivă cdrs creează succes
+cdrs_archive_table_create_fail,tabela arhivă cdrs creează eșuează
+reset_password,reseteaza parola
+international_low_balance,echilibru internațional scăzut
+account_postcharge,taxă postală a contului
+Caller Id (CLI Match - If not matched then use random allocated Caller Id),"Identificator apelant (potrivire CLI - Dacă nu se potrivește, folosiți ID apelant alocat aleatoriu)"
+DID (CLI Match - If not matched then use random allocated DID),"DID (potrivire CLI - Dacă nu se potrivește, utilizați DID alocat aleatoriu)"
+ERROR:No Reords found.,EROARE: Nu au fost găsite Reords.
+Sub Admin,Subadministrator
+Create Account Range For Customer,Creați un interval de cont pentru client
+Minimum Account Number,Număr minim de cont
+Maximum Account Number,Număr maxim de cont
+Create Account Range For Reseller,Creați un interval de cont pentru distribuitor
+Create Account Range For Provider,Creați un interval de cont pentru furnizor
+International Credits,Credite internaționale
+Recharge,REÎNCĂRCĂ
+Basic Details,Detalii de bază
+International Balance,Sold internațional
+InternationalPrefixes,Prefixe internaționale
+International Prefixes,Prefixe internaționale
+International Credit Limit,Limita de credit internațională
+Create Local Number,Creați un număr local
+Local Number Import Process,Procesul de import al numărului local
+Import Local Number,Importați numărul local
+Edit Local Number,Editați numărul local
+Mailchimp,Mailchimp
+Mailchimp API Key,Cheia API Mailchimp
+Mailchimp Audience Id,Codul audienței Mailchimp
+Support Tickets,Bilete de asistență
+Support Ticket,Bilet de asistență
+Create Support Ticket,Creați bilet de asistență
+Open New Ticket,Deschideți un bilet nou
+Department,Departament
+Attach more files,Atașați mai multe fișiere
+Reply,Răspuns
+Submit,Trimite
+High,Înalt
+Normal,Normal
+Low,Scăzut
+Open,Deschis
+Answered,Răspuns
+Customer-Reply,Răspuns client
+On-hold,In asteptare
+Progress,Progres
+Ticket Number,Număr de bilet
+Close Support Ticket,Închideți biletul de asistență
+Last Reply,Ultimul răspuns
+Ticket No,Biletul nr
+--All--,--Toate--
+Add Department,Adăugați departament
+Department List,Lista departamentelor
+SMTP Details,Detalii SMTP
+Department Additional Email Address,Adresa de e-mail suplimentară a departamentului
+Department User,Utilizator departament
+Charge Full Amount,Încărcați suma totală
+Based On Utilized Days,Pe baza zilelor utilizate
+XML Updated Successfully!,XML actualizat cu succes!
+ACL Reload Successfully!,Reîncărcați ACL cu succes!
+ACL Management,Managementul ACL
+XML,XML
+XML is Required!,XML este obligatoriu!
+Reload ACL,Reîncărcați ACL
+Low Balance,Sold redus
+Current Balance,Sold curent
+Trunk Statistics,Statistica portbagajului
+Create Account Range,Creați gama de conturi
+Recharge done successfully!,Reîncărcarea a fost realizată cu succes!
+Duplicate Local number found from database,Număr local duplicat găsit din baza de date
+Country not valid.,Țara nu este validă.
+Duplicate Local number found from import file.,Număr local duplicat găsit din fișierul de import.
+Local Number Import Error,Eroare la importul numărului local
+Local number updated successfully!,Număr local actualizat cu succes!
+Local number added successfully!,Număr local adăugat cu succes!
+Local number removed successfully!,Numărul local a fost eliminat cu succes!
+Local number forwarding successfully!,Redirecționarea numerelor locale cu succes!
+Destination Number,Numarul destinatiei
+Destination Name,Numele destinației
+Add Local Number,Adăugați un număr local
+Added Date,Data adăugării
+Support ticket removed successfully!,Biletul de asistență a fost eliminat cu succes!
+Support ticket generated successfully!,Bilet de asistență generat cu succes!
+Edit Ticket,Editați biletul
+Create Department,Creați departament
+Department added successfully!,Departamentul a fost adăugat cu succes!
+Department removed successfully!,Departamentul a fost eliminat cu succes!
+Import Area Code,Importarea codului de zonă
+Back to Area Code List,Înapoi la lista codurilor de zonă
+Alarm added successfully!,Alarma a fost adăugată cu succes!
+Alarm updated successfully!,Alarma actualizată cu succes!
+Add Custom Rate,Adăugați o rată personalizată
+Custom Rate Updated Successfully!,Tariful personalizat a fost actualizat cu succes!
+Custom Rate Added Successfully!,Tarif personalizat adăugat cu succes!
+Custom rate removed successfully!,Tariful personalizat a fost eliminat cu succes!
+Delete Search Record,Ștergeți înregistrarea de căutare
+Add Prefixes,Adăugați prefixe
+Register Gateway Information,Înregistrați informații despre gateway
+Authentication,Autentificare
+Please Enter Valid Key,Vă rugăm să introduceți cheia validă
+Alert,Alerta
+Remote Check Failed,Verificarea la distanță nu a reușit
+MD5 Checksum Verification Failed,Verificarea sumei de verificare MD5 nu a reușit
+Gateway ragister fail please try again,"Gateway ragister nu reușește, încercați din nou"
+Context,Context
+Expires,Expiră
+Frequency,Frecvență
+Ping Frequency,Frecvența Ping
+Fails Call In,Nu reușește să apeleze
+Fails Call Out,Nu reușește să apeleze
+Opensips Devices,Deschide Dispozitive
+Second,Al doilea
+Add Auth Email,Adăugați un e-mail de autentificare
+Edit Auth Email,Editați e-mailul de autentificare
+Add Authemail,Adăugați Authemail
+Auth Email updated successfully!,E-mail de autentificare actualizat cu succes!
+Auth Email added successfully!,Autentificare de e-mail adăugată cu succes!
+Auth Email removed successfully!,Autentificare de e-mail eliminată cu succes!
+Auth Email,Autentificare e-mail
+Authemail added successfully!,Authemail a fost adăugat cu succes!
+Please Enter Authemail value.,Vă rugăm să introduceți valoarea Authemail.
+Authemail already Exists.,Authemail există deja.
+Authemail removed sucessfully!,Authemail a fost eliminat cu succes!
+Auth Email List,Autentificare listă e-mail
+Auth Mapping,Aut mapare
+Auth,Aut
+Authemail,Autemail
+Faxer,Faxer
+This file not avilable for download!,Acest fișier nu este disponibil pentru descărcare!
+Create FAX,Creați FAX
+Web2fax removed successfully!,Web2fax eliminat cu succes!
+Fax Type,Tipul de fax
+Fax Number,Numar de fax
+Fax Format,Format Fax
+Fax Sent,Fax trimis
+Send Date,Trimiteți data
+Files with format are allowed: .pdf,Sunt permise fișierele cu format: .pdf
+Send Fax,Trimiteți fax
+Receive,A primi
+Error,Eroare
+Conference List,Lista conferințelor
+Edit Conference,Editați conferința
+Create Conference,Creați conferința
+Conference Added Successfully!,Conferința a fost adăugată cu succes!
+Conference Updated Successfully!,Conferința a fost actualizată cu succes!
+Conference removed successfully!,Conferința a fost eliminată cu succes!
+Conference profiles,Profilurile conferinței
+Create Conference profiles,Creați profiluri de conferință
+Edit Conference Profile,Editați profilul conferinței
+Conference Setting Added Successfully!,Configurarea conferinței a fost adăugată cu succes!
+Conference Setting Updated Successfully!,Configurarea conferinței a fost actualizată cu succes!
+Conference Profile Removed Successfully!,Profilul conferinței a fost eliminat cu succes!
+Conference Profiles Added Successfully!,Profilurile conferinței au fost adăugate cu succes!
+Conference Profiles Updated Successfully!,Profilurile conferinței au fost actualizate cu succes!
+Conference profiles removed successfully!,Profilurile conferinței au fost eliminate!
+Conference controls List,Lista controalelor conferinței
+Edit Conference controls,Editați comenzile conferinței
+Conference Controls Removed Successfully!,Comenzile conferinței au fost eliminate!
+Conference Controls Added Successfully!,Controalele de conferință au fost adăugate cu succes!
+Conference Controls Updated Successfully!,Controalele de conferință au fost actualizate cu succes!
+Pin Number,Numarul pin
+Duration (Second),Durata (a doua)
+Greeting,Salut
+Create Conference Controls,Creați controale de conferință
+Controls Name,Numele comenzilor
+Data,Date
+Domains,Domenii
+Edit Domains,Editați domeniile
+Domain Updated Successfully!,Domeniul actualizat cu succes!
+Please enter proper domain value.,Vă rugăm să introduceți valoarea corectă a domeniului.
+Domain name,Numele domeniului
+Edit Domain,Editați domeniul
+Feature Code,Codul funcției
+Feature code removed successfully!,Codul funcțional a fost eliminat cu succes!
+Feature code is already exist in system,Codul funcțional există deja în sistem
+Pickup Group,Grup de preluare
+Create Pickup Group,Creați un grup de preluare
+Edit Pickup Group,Editați grupul de preluare
+Pickup group updated successfully!,Grupul de preluare a fost actualizat cu succes!
+Pickup group added successfully!,Grupul de preluare a fost adăugat cu succes!
+Pickup group removed successfully!,Grupul de preluare a fost eliminat cu succes!
+Feature,Caracteristică
+IVR List,Lista IVR
+Create IVR,Creați IVR
+Edit IVR,Editați IVR
+Ivr added successfully!,Ivr a adăugat cu succes!
+Ivr updated successfully!,Ivr a fost actualizat cu succes!
+Ivr removed successfully!,Ivr eliminat cu succes!
+Caller ID Name Prefix,Prefix numele apelantului
+Options,Opțiuni
+Advance,Avans
+Add More,Adăuga mai multe
+Ring Back,Suna inapoi
+Invalid Retries,Reîncercări nevalide
+Timeout,Pauză
+Caller ID Number Prefix,Prefixul numărului de identificare a apelantului
+Invalid Message,Mesaj nevalid
+Welcome Greeting,Salut de bun venit
+Direct Dial,Apelare directa
+Create Queue,Creați coadă
+Edit Queue,Editați coada
+Queue Added Successfully!,Coada a fost adăugată cu succes!
+Queue Updated Successfully!,Coada actualizată cu succes!
+Queue removed successfully!,Coada a fost eliminată cu succes!
+Agent Dial Number,Număr de apelare a agentului
+Queues,Cozi
+Queue,Coadă
+Edit Recording,Editați înregistrarea
+Create Recording,Creați înregistrare
+Recording Added Successfully!,Înregistrarea a fost adăugată cu succes!
+Recording deleted successfully!,Înregistrarea a fost ștearsă cu succes!
+Recording Information,Înregistrarea informațiilor
+to create a recording,pentru a crea o înregistrare
+Dial,Formați
+Ring Group,Ring Group
+Ring Group Add,Adăugare grup de inele
+Edit Ring Group,Editați grupul de apeluri
+Create Ringgroup,Creați Ringgroup
+Ring group added successfully!,Grupul de apeluri a fost adăugat cu succes!
+Ring group updated successfully!,Grupul de apeluri a fost actualizat cu succes!
+Ring group deleted successfully!,Grupul de apeluri a fost șters cu succes!
+Ring Group Information,Informații despre grupul de apeluri
+Do you want create sip devices?,Doriți să creați dispozitive SIP?
+Sip device Count,Număr dispozitiv SIP
+Next,Următorul
+Basic Settings,Setări de bază
+Ring Strategy,Strategia Ring
+Sequence,Secvenţă
+Simultaneous,Simultan
+Delay (Seconds),Întârziere (secunde)
+Timeout (Seconds),Timeout (secunde)
+Prompt,Prompt
+Announcement,Anunţ
+CID Name Prefix,Prefixul numelui CID
+CID Number Prefix,Prefixul numărului CID
+Call Recording,Înregistrarea apelurilor
+Forcefully Enable,Activați cu forță
+Forcefully Disable,Dezactivează forțat
+Skip busy,Săriți ocupat
+No Answer Call Type,Tip de apel fără răspuns
+Call Routing,Rutare apel
+Enabled,Activat
+Disabled,Dezactivat
+Time Conditions List,Lista condițiilor de timp
+Create Time Conditions,Creați condiții de timp
+Edit Time Conditions,Editați condițiile de timp
+Time Conditions Added Successfully!,Condiții de timp adăugate cu succes!
+Time Conditions Updated Successfully!,Condițiile de timp actualizate cu succes!
+Time Conditions removed successfully!,Condițiile de timp au fost eliminate cu succes!
+Failover Condition,Stare Failover
+Start Hour,Ora de început
+Week day,Ziua săptămânii
+Month day,Lună zi
+End Hour,Ora de sfârșit
+Jan,Ian
+Feb,Februarie
+Mar,Mar
+Apr,Aprilie
+Jun,Iunie
+Jul,Iul
+Aug,Aug
+Sep,Sept
+Oct,Oct
+Nov,Noiembrie
+Dec,Dec
+Sunday,duminică
+Monday,luni
+Tuesday,marţi
+Wednesday,miercuri
+Thursday,joi
+Friday,vineri
+Saturday,sâmbătă
+Extensions Destination,Destinația extensiilor
+Extensions Call Type,Tip de apel pentru extensii
+Ignore Busy,Ignorați ocupat
+Do Not Disturb,Nu deranjați
+Pickup Group List,Lista grupurilor de preluare
+Allow Pickup Group List,Permiteți lista grupurilor de preluare
+Not Registered,Neînregistrat
+Call Waiting,Apel în așteptare
+On Busy,Pe Ocupat
+No Answer,Nici un raspuns
+Destinations,Destinații
+Follow Me,Urmați-mă
+Conference Profile,Profilul conferinței
+Conference Controls,Controale de conferință
+Conference,Conferinţă
+Time Conditions,Condiții de timp
+RingGroup,RingGroup
+IVR,IVR
+Advance Settings,Setări avansate
+Agent Back-Tone,Tonul de fundal al agentului
+Customer Back-Tone,Ton de fundal al clientului
+Time Condition,Condiția de timp
+LAST FTP PROCESS,ULTIMUL PROCES FTP
+Group Name,Numele Grupului
+Ported Number List,Lista numerelor portate
+Import Ported Number,Importați numărul portat
+has been uploaded successfully!,a fost încărcat cu succes!
+Destination From,Destinație de la
+Destination To,Destinație către
+Routing Label,Etichetă de rutare
+Number From,Număr de la
+Participant,Participant
+Number To,Număr la
+File must be in the following format(.gz):,Fișierul trebuie să aibă următorul format (.gz):
+Create Schedule Report,Creați un raport de programare
+Schedule Report,Raport de programare
+Schedule Report added successfully!,Programarea raportului a fost adăugată cu succes!
+Schedule Report has been deleted !,Programarea raportului a fost ștearsă!
+Email ID,ID de e-mail
+Filters,Filtre
+Unique ID,ID unic
+Call Start,Apelați Start
+Recurring Type,Tip recurent
+Field List,Lista câmpurilor
+Report Description,Descrierea raportului
+Are you sure you want to close?,Sigur vrei să închizi?
+Alarm Name,Nume alarmă
+Alarm Type,Tip alarmă
+Alarm On,Alarmă activată
+Threshold Value,Valoarea pragului
+Period,Perioadă
+Last Triggered Date,Ultima dată declanșată
+Create Alarm,Creați alarmă
+Ping Type,Tip Ping
+Freeswitch,Freeswitch
+Console,Consolă
+Period (In Seconds),Perioada (în secunde)
+Edit Alarm,Editați alarma
+CIC,CIC
+Active Calls,Apeluri active
+Call Alarms,Alarme de apel
+Report,Raport
+Triggered Value,Valoare declanșată
+Period,Perioadă
+Alarm Report,Raport de alarmă
+Resolved,S-a rezolvat
+Are you sure want to close selected alarm ?,Sigur doriți să închideți alarma selectată?
+Country Report,Raport de țară
+Debits,Debite
+ASR : Answer Seizure Ratio,ASR: Răspunsul Raport de sechestru
+ACD : Average Call Duration,ACD: Durata medie a apelului
+MCD : Maximum Call Duration,MCD: Durata maximă a apelului
+Custom Rates,Tarife personalizate
+Create Custom Rate,Creați o rată personalizată
+Edit Custom Rate,Editați rata personalizată
+Registered SIP Devices,Dispozitive SIP înregistrate
+Switch Host,Schimbați gazda
+Refresh Time,Timp de reîmprospătare
+Sec.,Sec.
+Min.,Min.
+User,Utilizator
+Contact,a lua legatura
+Client-IP,Client-IP
+Client Port,Port client
+User Agent,Agent utilizator
+Registered Gateways,Gateway-uri înregistrate
+Call In,Sună
+Call Out,Strigă
+Fail Call In,Apelare nereușită
+Fail Call Out,Apelare nereușită
+State,Stat
+Switch CLI,Comutați CLI
+Freeswitch CLI,CLI Freeswitch
+Live Call Graph,Grafic apel live
+--Select All--,--Selectează tot--
+Call Count,Număr de apeluri
+Live Call data,Date despre apeluri live
+SMS Rate Group,Grupul SMS Rate
+SMS CDRs,SMS CDR-uri
+Auto Refill,Reumplere automată
+Refill Amount,Suma de reumplere
+Occurrence Per Day,Apariție pe zi
+Message From,Mesaj de la
+Message To,Mesaj către
+SMS Type,Tip SMS
+Profile Name,Numele profilului
+Edit Conference profiles,Editați profilurile conferinței
+Ring-Group,Ring-Group
+Failover Destination,Destinație de basculare
+Timeout(min),Timeout (min)
+Create SMS Rate Group,Creați un grup SMS Rate
+SMS Rate Group Information,Informații despre grupul de tarif SMS
+Markup(%),Marcare (%)
+SMS Origination Rate,Rata de inițiere a SMS-urilor
+Per SMS Cost,Cost pe SMS
+SMS Trunk add,Adăugare trunchi SMS
+SMS Trunk Information,Informații despre portbagaj SMS
+Trunk Settings,Setări portbagaj
+Precedence,Precedenta
+Trunk Name,Numele portbagajului
+Edit SMS Trunk,Editați portbagajul SMS
+Add SMS Termination Rates,Adăugați tarife de reziliere SMS
+Edit SMS Termination Rates,Editați tarifele de reziliere SMS
+Import SMS Termination Rates Using Field Mapper,Importați tarifele de reziliere SMS folosind Field Mapper
+Import SMS Termination Rates,Importați tarifele de reziliere SMS
+SMS Trunk,Trunchiul SMS
+Create SMS Gateway,Creați SMS Gateway
+Base URL,Adresa URL de bază
+Api Key / Application Id,Api Key / ID aplicație
+Secret Key Id,Id-cheie secretă
+Api Key,Api Key
+Based On Utilized Free Minutes,Pe baza minutelor gratuite utilizate
+Based On Utilized Highest Days/Free Minutes,Pe baza celor mai mari zile / minute gratuite utilizate
+ASR : Answer Seizure Ratio,ASR: Răspunsul Raport de sechestru
+ACD : Average Call Duration,ACD: Durata medie a apelului
+MCD : Maximum Call Duration,MCD: Durata maximă a apelului
+Edit SMS Rate Group,Editați grupul SMS Rate
+ (Enterprise),  (Afacere)
+Edit SMS Gateway,Editați SMS Gateway
+Edit Department,Editați departamentul
+Edit Support Ticket,Editați biletul de asistență
+SMS Package,Pachet SMS
+Free SMS,SMS gratuit
+auto_reply_mail_support,asistență de e-mail de răspuns automat
+email_sent_support_ticket,e-mail trimis bilet de asistență
+alarm_report,raport de alarmă
+two_factor_authentication,autentificare cu doi factori
+schedule_report,raport de programare
+ported_number,numărul portat
+ported_number_ftp_connect,număr portat ftp conectare
+ported_number_no_file,număr portat fără fișier
+fraud_report,raport de fraudă
+outbound_fax_mail,mesaje fax de ieșire
+fax_receive_mail,fax primiți e-mail
+Format,Format
+Fax Method,Metoda de fax
+SIP Device,Dispozitiv SIP
+Web2fax,Web2fax
+Email2fax,Email2fax
+Fax2Mail,Fax2Mail
+Success,Succes
+File,Fişier
+APFaxer,APFaxer
+Fax send Retries,Trimite prin fax Reîncercări
+Fax Email Id,Cod e-mail fax
+Fax Email Password,Parola de e-mail prin fax
+Fax Server,Server de fax
+Fax Server SIP Port,Portul SIP al serverului de fax
+Fax Email Host,Trimiteți prin e-mail gazdă
+Create Fraud Detection,Creați detectarea fraudelor
+Filter by,Filtreaza dupa
+Per Dst. Prefix,Per Dst. Prefix
+Group By Dst. Prefix,Grupați după Dst. Prefix
+Per Country,Pe țară
+Group by Country,Grup pe țări
+Time Period,Perioada de timp
+Warning Threshold,Prag de avertizare
+15 minutes,15 minute
+30 minutes,30 minute
+1 Hour,1 oră
+3 Hours,3 ore
+6 Hours,6 ore
+12 Hours,12 ore
+24 Hours,24 de ore
+Warning Action,Acțiune de avertizare
+None,Nici unul
+Block Threshold,Prag bloc
+Block Action,Blocați acțiunea
+ (In Minutes),  (În minute)
+Time Period,Perioada de timp
+Edit Fraud Detection,Editați detectarea fraudei
+Fraud Report,Raport de fraudă
+Fraud Trigger,Declanșator de fraudă
+Alarm Value,Valoarea alarmei
+warning,avertizare
+block,bloc
+--Select Account Type--,- Selectați tipul de cont--
+Weekly,Săptămânal
+Quarterly,Trimestrial
+Yearly,Anual
+SMS Reports,Rapoarte SMS
+SMS Summary,Rezumat SMS
+SMS Customer,Client SMS
+SMS Reseller,Reseller SMS
+Customer SMS Report,Raport SMS client
+Message Count,Număr de mesaje
+Resellers SMS Report,Raport SMS pentru revânzători
+Customer SMS Summary Report,Raport rezumat SMS client
+Total Message,Mesaj total
+Send Message,Trimite mesaj
+Cancel Message,Anulați mesajul
+Reseller SMS Summary Report,Raport sumar al resellerului SMS
+Two-factor Authentication,Autentificare cu doi factori
+Security,Securitate
+Whmcs Secret Key,Cheia secretă Whmcs
+Whmcs IV Key,Cheia Whmcs IV
+Two-factor Authentication,Autentificare cu doi factori
+Currencies Update,Actualizare valute
+Call Activity Report,Raport de activitate apel
+Request A Number Port,Solicitați un port numeric
+Porting,Portare
+Generate,Genera
+Callerid,ID-ul apelantului
+International Recharge,Reîncărcare internațională
+Feature code updated successfully!,Codul de caracteristică a fost actualizat cu succes!
+Number Porting,Portarea numerelor
+Number Porting Requests,Cereri de portare numerică
+Request a Number Port,Solicitați un port numeric
+Number / Number Range,Număr / Gama de numere
+Date Submitted,Data trimiterii
+Requested Date,Data solicitată
+Requested Time,Timpul solicitat
+Actioned by,Acționat de
+Note for Customer,Notă pentru client
+Accepted,Admis
+Rejected,Respins
+In Progress,In progres
+Completed,Efectuat
+Cancelled,Anulat
+Create Porting Request Number,Creați numărul cererii de portare
+Porting Request Number,Număr cerere de portare
+Company Address,adresa companiei
+Individual Number,Număr individual
+Start Number,Număr de pornire
+Number Range,Gama de numere
+End Number,Număr final
+New Provider Name,Nume nou al furnizorului
+Existing Provider Name,Numele furnizorului existent
+Requested Port Date,Data portului solicitat
+Requested Port Time,Timp de port solicitat
+Upload most recent phone bill,Încărcați cea mai recentă factură de telefon
+Edit Porting Request,Editați cererea de portare
+Telephone Number,Număr de telefon
+File Download,Descărcare fișier
+Accept,Accept
+Reject,Respinge
+Edit Porting Request Number,Editați numărul cererii de portare
+Retired,Retras
+porting_request,cerere de portare
+Public IP,IP public
+Activity Report,Raport de activitate
+Push Status,Push Status
+Last DID Call Date,Data ultimului apel DID
+Last Outbound Call Date,Data ultimei apeluri de ieșire
+Login Activity,Activitate de conectare
+Last DID Call From Date,Ultimul apel efectuat de la dată
+Last DID Call To Date,Ultimul apel efectuat până în prezent
+Last Outbound Call From Date,Ultimul apel efectuat de la data
+Last Outbound Call To Date,Ultimul apel ieșit până în prezent
+Find Time(min),Găsiți timpul (min)
+Login Activity Report,Raport de activitate de conectare
+Assorted,Asortat
+Auto Refresh Page,Pagina de reîmprospătare automată
+Ticket Digits,Cifre de bilete
+Recording Number,Număr de înregistrare
+Hybrid Routing,Rutare hibridă
+Opensips Public Host,Deschide gazdă publică
+Ban Time(min),Timp de interzicere (min)
+SMS Logs,Jurnale SMS
+Ported Number,Număr portat
+FTP Details,Detalii FTP
+Admin Notification Email,E-mail de notificare de administrator
+Term and Condition URL,URL-ul termenului și condiției
+Invoice Debug,Depanare factură
+Wrong Attempts/Customer/Days,Încercări greșite / Client / Zile
+(Fixed tax),(Impozit fix)
+Assign Product,Atribuiți produsul
+Search by code,Căutare după cod
+INVOICE HISTORY,ISTORICUL FACTURII
+PAYMENT HISTORY,ISTORIA PLATILOR
+Please Insert Amount,Vă rugăm să introduceți suma
+Special Note,Notă specială
+Low Balance Threshold,Prag de echilibru redus
+No Balance Threshold,Fără prag de sold
+Max amount per call,Suma maximă pe apel
+Alert Type,Tip de alertă
+Heartbeat,Bătăile inimii
+Hangup,Închide
+Available Credit limit,Limită de credit disponibilă

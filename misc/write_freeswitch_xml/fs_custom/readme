@@ -1,0 +1,23 @@
+This feature will write the SIP Devices information in FreeSwitch xml files. This will write files for only core ASTPP. If you have PBX add-on installed then you will need to work on the code to enhance it. 
+
+How to configure and use: 
+1. Copy folder in /opt/
+
+2. Import sql file in database 
+mysql -u <USERNAME> -p astpp < /opt/fs_custom/database/fs_custom.sql
+
+Note: If you have more than 1 FreeSwitch servers then refer multiple_fs_custom.sql file and change triggers and tables accordingly. In this sql file, you will find the usage of 3 FreeSwitch servers.
+
+3. Change paramters in directory.php file 
+$fs_directory : Define path where you want to generate .xml files
+$table_name : Define temp table name which you have created
+$fs_cli_password : Give your freeswitch fs_cli password to reloadxml
+
+Note: The default path of fs_cli is set to /usr/bin/fs_cli. If you do not have that then please create link to it and then execute the script.
+
+4. Configure scripts in cron 
+* * * * * cd /opt/fs_custom/ && php directory.php 
+
+Additional: 
+If you want to rewrite all the files then
+cd /opt/fs_custom/ && php directory.php rewrite

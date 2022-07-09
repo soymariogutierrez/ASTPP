@@ -1,0 +1,2988 @@
+English,Chinese
+Access Number,訪問號
+Access Numbers,訪問號碼
+Account,帳戶
+Account Type,帳戶類型
+Account Valid Days,帳戶有效天數
+Account Verification By,帳戶驗證人
+Accounts,帳目
+Accounts Report,帳戶報告
+ACD,ACD
+Action,行動
+Action Type,動作類型
+Add,加
+Add Country,添加國家
+Add Currency,添加貨幣
+Add Destination,添加目的地
+Add Ratedeck,添加評分
+Address1,地址1
+Administrator,管理員
+Admin,管理員
+Admins,管理員
+After Balance,平衡後
+Alarm,報警
+Alert Status,警報狀態
+Allow integration with Fraud detection,允許與欺詐檢測集成
+Allow IP Management,允許IP管理
+Allow Local Call,允許本地通話
+Allow Local Calls,允許本地通話
+Allow Loss Less Routing,允許減少損耗的路由
+Allow Max Retries,允許最大重試
+Allow Recording,允許錄音
+Amount,量
+Amount INR,金額INR
+Answered Calls,已接電話
+Applicable For,適用於
+Apply on existing accounts,申請現有帳戶
+Archive,封存
+ASR,ASR
+Attachement,附件
+Attempted Calls,嘗試通話
+Audit,審計
+Audit Log,審核日誌
+Audit Logs Older Than Days,審計日誌比以前更舊
+Authorize.net,Authorize.net
+Automatically,自動地
+Balance,平衡
+Balance Announcement,餘額公告
+Balance Below,餘額低於
+Base Currency,基礎貨幣
+Basic,基本的
+Basic Information,基本信息
+Batch Update,批量更新
+Before Balance INR,餘額前INR
+Begins With,開始於
+Beta,貝塔
+Billable,可開票
+Billing,開票
+Billing Cycle,結算週期
+Billing Days,帳單天數
+Billing Information,賬單信息
+Billing Type,帳單類型
+Body,身體
+Buy Cost,購買費用
+Call Barring,呼叫限制
+Call Date,通話日期
+Call Detail Reports,通話明細報告
+Call Max Length,通話最大長度
+Call State,通話狀態
+Call Summary Reports,通話摘要報告
+Call Timeout,通話超時
+Call Type,通話類型
+Call Types,通話類型
+Called Number,被叫號碼
+Caller ID,來電顯示
+Caller IDs,來電顯示
+Caller IP,來電者IP
+Caller Name,來電者姓名
+Caller Number,來電號碼
+Caller-Id-In-Form,來電顯示表格
+Calling Card,電話卡
+Calls,來電
+Calls Breakdown,來電細目
+Calltype Information,呼叫類型信息
+Can be purchased?,可以購買嗎？
+Capital,首都
+Capture Server,捕獲服務器
+Card Input Timeout,卡輸入超時
+Card Length,卡長
+Card Retries,卡重試
+Carriers,承運人
+Category,類別
+CC,抄送
+CDRs Older Than Days,CDR早於
+Charge Type,收費類型
+Charges Breakdown,收費明細
+Charges History,收費記錄
+CID,客戶編號
+City,市
+Clear,明確
+Client IP,客戶IP
+Client User Agent,客戶用戶代理
+Code,碼
+Codecs,編解碼器
+Commission,佣金
+Commission Rate,佣金率
+Commission Reports,佣金報告
+Company,公司
+Company Profiles,公司簡介
+Company Tax number,公司稅號
+Completed Calls,已完成的通話
+Concurrent Calls,並發通話
+Configuration ,組態
+Confirmed,已確認
+Connection Cost,連接費用
+Contains,包含
+Cost,成本
+Cost/Min,成本/分鐘
+Countries,國別
+Country,國家
+Country Code,國家代碼
+Country List,國家清單
+Country Reports,國家報告
+Coupon Information,優惠券信息
+Coupon Number,優惠券編號
+CPS,CPS
+Create,創造
+Create Admin,創建管理員
+Create calltype,創建呼叫類型
+Create Company Profile ,創建公司資料
+Create Customer,建立客戶
+Create Origination Rate,創建始發率
+Create Product ,創建產品
+Create Provider,創建提供者
+Create Rate Group,創建費率組
+Create Refill Coupon,創建充值券
+Create SIP Device,創建SIP設備
+Create Tax,建立稅收
+Created Date,創建日期
+Creation Date,創建日期
+Credit,信用
+Credit Limit,信用額度
+Crons,Crons
+Currency,貨幣
+Currency Conversion Loss Percentage,貨幣換算損失率
+Currency List,貨幣清單
+Customer,顧客
+Customer CDRs Report ,客戶CDR報告
+Customer Summary,客戶總結
+Customer Summary Report ,客戶摘要報告
+Customers,顧客
+Dashboard,儀表板
+Database,數據庫
+Date,日期
+Debit,借方
+Debug,除錯
+Decimal Points,小數點
+Default Increment ,默認增量
+Default Invoice Mode,默認發票模式
+Default Tax,違約稅
+Delete,刪除
+Deleted Accounts After Days,幾天后刪除帳戶
+Description,描述
+Destination,目的地
+Dial Input Timeout,撥號輸入超時
+DID,DID
+DIDs,DID
+Direction,方向
+Disable,禁用
+Display records in,顯示記錄
+Disposition,性格
+Documentation,文獻資料
+Doesnt Contain,不包含
+Domain,域
+Draft,草案
+Due Date,截止日期
+Duplicate,重複
+Duration,持續時間
+Email,電子郵件
+Email Alerts ?,電子郵件警報？
+Email History,電子郵件記錄
+Email History List ,電子郵件歷史記錄列表
+Email Notification,電子郵件通知
+Email Notifications,電子郵件通知
+Email Status,電郵狀態
+Email Template,電子郵件範本
+Emails Older Than Days,電子郵件早於
+En,恩
+Enable,啟用
+Enable Signup,啟用註冊
+Ends With,以。。結束
+Enterprise,企業
+Entity Type,實體類型
+Environment,環境
+Ewallet Payment Gateway,電子錢包支付網關
+Expired Accounts After Days,日後過期的帳戶
+Expiry Date,到期日
+Export,出口
+Failover  GW Name #1,故障轉移GW名稱1
+Failover GW Name #2,故障轉移GW名稱＃2
+Favicon,網站圖標
+Fax,傳真
+Fee,費用
+File Path,文件路徑
+Filter,過濾
+First Name,名字
+First Used,首次使用
+Fixer Key,固定鍵
+FMAddon,FM附加
+Footer,頁腳
+Fraud Detection,欺詐識別
+Free Minutes,自由時間
+FreeSwitch Servers,FreeSwitch服務器
+From,從
+From Date,從日期
+From Timestamp,從時間戳記
+Gateway Name,網關名稱
+Gateways,網關
+General,一般
+General Input Timeout,通用輸入超時
+Generate Invoice,生成發票
+Generate Pin,產生圖釘
+Generates Alarm From System,從系統生成警報
+Generates Local Number system,生成本地號碼系統
+Generates ticket of issues from system,從系統生成問題單
+Generates Various Alarms From System,從系統生成各種警報
+Generates Various Country Reports From System,從系統生成各種國家報告
+Generates various reports from system,從系統生成各種報告
+Get Addons,獲取附件
+Get App,獲取應用
+Global,全球
+Grace Time,寬限時間
+Grand Total,累計
+Group By,通過...分組
+Group By #1,按＃1分組
+Group By #2,按＃2分組
+Group By #3,按＃3分組
+Group By #Time,按＃時間分組
+Header,標頭
+Homer,荷馬
+Host,主辦
+Import,進口
+Import Customers,導入客戶
+Import with field map,使用現場圖導入
+Inbound,入站
+Inbound Fax,入站傳真
+Included Seconds,包括秒
+Increment,增量
+Initial Balance,初始餘額
+Initial Increment,初始增量
+Inovices Older Than Days,革新遠古時代
+Install,安裝
+Installed,已安裝
+Interval,間隔
+Interval Type,間隔類型
+Invoice Configuration ,發票配置
+Invoice Date,發票日期
+Invoice Due Days,發票到期日
+Invoice Due Notification,發票到期通知
+Invoice Notification,發票通知
+Invoice Number,發票號碼
+Invoice Prefix,發票前綴
+Invoice Start Form,發票開始表格
+Invoices,發票
+IP,知識產權
+IP Settings,IP設定
+Is Equal To,等於
+Is Not Equal To,不等於
+Is Purchased?,已購買？
+Iso,磯
+Iso3,異3
+IVR Count,IVR計數
+Languages,語言能力
+Last Execution Date,上次執行日期
+Last Modified Date,最後修改日期
+Last Name,姓
+Last Paid Date,最後付款日期
+Latest Orders,最新訂單
+LC Charge / Min,LC費用/分鐘
+LC Charge/Min,LC費用/分鐘
+Live,生活
+Live Call Report,實時通話報告
+Live Id,即時編號
+Live Key,活鑰匙
+Live Url,直播網址
+Local Call Timeout,本地通話超時
+Local Number,本地號碼
+Local Numbers,本地號碼
+Locale code,區域代碼
+Localization,本土化
+Localization Type,本地化類型
+Localizations,本地化
+Log out,登出
+Log Path,日誌路徑
+Logo,商標
+Low balance Alert?,餘額不足警報？
+Mail Log,郵件記錄
+Manually,手動地
+Markup,標記
+Mass Create,大量創建
+Mass Email,大量電子郵件
+Max Free Length,最大自由長度
+MCD,MCD
+Minimum Fund Transfer,最低轉賬
+Minutes,分鐘
+Minutes Announcement,會議紀要
+Minutes Breakdown,分鐘細目
+Moderate,中等
+Modified Date,修改日期
+Module,模組
+Name,名稱
+New Accounts,新帳戶
+Nexmo API Key,Nexmo API密鑰
+Nexmo Secret Key,Nexmo秘鑰
+Next Execution Date,下次執行日期
+Nickname,暱稱
+No,沒有
+No Records Found,沒有找到記錄
+Notes,筆記
+Notifications,通知事項
+Notify before due days,在到期日之前通知
+Number,數
+Number Type,號碼類型
+ of , 的 
+Opensips,開飲
+Opensips DB Engine,Opensips數據庫引擎
+Opensips DB Host,Opensips數據庫主機
+Opensips DB Name,Opensips數據庫名稱
+Opensips DB Pass,Opensips數據庫通行證
+Opensips DB User,Opensips數據庫用戶
+Opensips Domain,Opensips網域
+Opensource,開源的
+Order,訂購
+Order Amount,訂單金額
+Order Date,訂購日期
+Order ID,訂單編號
+Order Now,現在下單
+Orders,訂單
+Org. Cost,單位成本
+Org. Destination,單位目的地
+Org. Pefix,單位佩克斯
+Origination Rates,始發率
+Outbound Fax,出站傳真
+Outstanding Amount INR,未付金額INR
+Page ,頁 
+Password,密碼
+Password Strength,密碼強度
+Payment Method,付款方法
+Payment Methods,支付方式
+Payment Status,支付狀態
+Paypal,貝寶
+Per Minute Cost,每分鐘費用
+Phone,電話
+Pin Input Timeout,引腳輸入超時
+Pin Length,針長
+Pin retries,PIN重試
+Pinless Authentication,無密碼驗證
+Place Order ,下訂單
+Playback Audio Notifications,播放音頻通知
+Port,港口
+Portal personalization,門戶個性化
+Powered by ASTPP,由ASTPP提供支持
+Prefix,字首
+Prepend,前置
+Preserve,保留
+Price,價錢
+Priority,優先
+Product Category,產品分類
+Product Details,產品詳情
+Product Name,產品名稱
+Products,產品展示
+Profile Action,個人資料動作
+Profit,利潤
+Provider,提供者
+Provider CDRs Report ,提供商CDR報告
+Provider Outbound,提供商出站
+Provider Outbound Report,供應商出站報告
+Provider Summary Report ,供應商摘要報告
+Province,省
+Province/State,省/州
+Proxy,代理
+Purge,清除
+Push Notifications,推送通知
+Quantity,數量
+Rate,率
+Rate Announcement,收費公告
+Rate Count,費率計數
+Rate Group,費率組
+Rate Groups,費率組
+Rate Information,價格信息
+Ratedeck,拉德特克
+Ratedeck Information,蘭德克信息
+Rates Count,費率計數
+Realtime Billing,實時計費
+Receiver Email,收件人電子郵件
+Recording Files Older Than Days,記錄比天久的文件
+ Records, 記錄
+Referer Page,推薦頁面
+Refill By,充值方式
+Refill Coupon Length,充值券長度
+Refill Coupons,增值券
+Refill Report,補充報告
+Refills,筆芯
+Register,寄存器
+Release if no balance,如果沒有餘額則釋放
+Report a Bug,報告錯誤
+Reports,報告書
+Request URI,請求URI
+Reseller,轉銷商
+Reseller can resell,轉銷商可以轉售
+Reseller Summary,經銷商摘要
+Reseller Summary Report ,轉銷商摘要報告
+Resellers,轉銷商
+Resellers CDRs Report ,轉銷商CDR報告
+Resend Mail,重新發送郵件
+Role,角色
+Roles & Permission,角色和權限
+Roles & Permissions,角色和權限
+Routing Prefix,路由前綴
+Routing Type,路由類型
+Sandbox,沙盒
+Sandbox Id,沙盒ID
+Sandbox Key,沙盒密鑰
+Sandbox Name,沙箱名稱
+Sandbox Url,沙盒網址
+Save,保存
+Schedule Reports,計劃報告
+Search,搜索
+Select File,選擇文件
+Select Year,選擇年份
+Services,服務
+Set Maximum Add card limit,設置最大添加卡數限制
+Settings,設定值
+Setup Fee,設立費
+Signup,註冊
+SIP Devices,SIP設備
+SIP IP,SIP IP
+SIP Port,SIP端口
+SIP Profile,SIP配置文件
+SIP Profiles,SIP配置文件
+SMS,短信
+SMS Body,短信正文
+SMS Notifications,短信通知
+SMS Status,短信狀態
+SMTP,SMTP
+SMTP Host,SMTP主機
+SMTP Pass,SMTP通行證
+SMTP Port,SMTP端口
+SMTP User,SMTP用戶
+Start prefix,起始前綴
+Starting Digit,起始數字
+Status,狀態
+Strip,跳閘
+Strong,強大
+Subject,學科
+Subscription,訂閱
+Supportticket,支持票
+Switch,開關
+Tariff,關稅
+Tax,稅
+Tax Information,稅務資訊
+Telephone,電話
+Telephone as account number,電話為帳號
+Templates,範本
+Term. Cost,術語。成本
+Term. Destination,術語。目的地
+Term. Prefix,術語。字首
+Term. Trunk,術語。樹幹
+Termination Rates,終止率
+Third Party,第三方
+This Month,這個月
+This Week,本星期
+Timelimit Announcement,時限公告
+Timestamp,時間戳記
+Timezone,時區
+To,至
+To Number,到號碼
+To Timestamp,時間戳記
+Today,今天
+Top 10 Accounts,前10個帳戶
+Top 10 Destinations,十大目的地
+Total Calls ,總通話
+Total Charges,總收費
+Total Minutes,總分鐘數
+Transaction ID,交易編號
+Translations,翻譯
+Translations Language,翻譯語言
+Trunk,樹幹
+Trunks,皮箱
+Type,類型
+Unpaid,未付
+Update,更新資料
+Used,用過的
+Used Date,使用日期
+Username,用戶名
+Version,版
+Version 4.0 Beta,版本4.0 Beta
+View All,查看全部
+Voicemail,語音信箱
+Panel Access,面板訪問
+Profile,個人資料
+Billing Settings,帳單設定
+Pin,銷
+Account Settings,帳號設定
+Notification Email,通知電子郵件
+Address,地址
+NON-CLI Rate Group,非CLI費率組
+Billing Schedule,開票時間表
+Billing Day,開票日
+Tax Number,稅號
+Invoice Note,發票說明
+Reference,參考
+Cancel,取消
+Device Information,設備信息
+Voicemail Options,語音信箱選項
+Mail To,郵寄到
+Attach File,附加檔案
+Local After Email,本地後電子郵件
+Send all Message,發送所有消息
+Close,關
+IP map,IP地圖
+Identificador de llamadas,利亞馬達斯身份
+Add Caller ID,添加來電顯示
+Create Reseller,創建經銷商
+Role Name,角色名稱
+Outstanding Amount,未付金額
+To Date,至今
+Before Balance,平衡前
+Commission Report,佣金報告
+MonthlyFee,月租費
+Grace Time (Sec.),寬限時間（秒）
+Import DIDs,導入DID
+File must be in the following format,文件必須採用以下格式
+DID Import Process,DID導入過程
+Get Sample file,獲取樣本文件
+Check Header,檢查標題
+Select the file,選擇文件
+Account Count,賬戶數
+Acc. Number Length,累積號碼長度
+Valid Days,有效天數
+Create Access Number,創建訪問號碼
+Information,信息
+Import Access Numbers,導入訪問號碼
+Access Numbers Import Process,訪問號碼導入過程
+DIDs Bulk Assign,DID批量分配
+Bulk DID Purchase,批量DID購買
+Provience,普羅旺斯
+Assign Number,分配號碼
+DID Destination,DID目的地
+DID Forward,DID轉發
+Always,總是
+If Busy,如果忙
+If SIP Not Registered,如果未註冊SIP
+If No Answer,如果沒有答案
+New Rate Group Name,新費率組名稱
+Duplicate Rate Group Information,重複費率組信息
+Import Origination Rates,進口原產率
+Force Trunk,力箱
+Please select atleast one record to dele,請選擇至少一條記錄進行刪除
+Import Ratedeck,進口拉特德克
+Optional Information,可選信息
+From- Domain,發件人域
+From User,來自用戶
+Extension,延期
+Extension-In-Contact,聯繫擴展
+Ping,平
+Contact Params,聯繫參數
+Retry-Seconds,重試秒
+Register-Proxy,註冊代理
+Channel,渠道
+Failover GW Name,故障轉移網關名稱
+Create Trunk,創建中繼
+Import Termination Rates,進口終止率
+Call Timeout (Sec.),通話超時（秒）
+Trunk List,行李箱清單
+Reset,重啟
+Create SIP Profile,創建SIP配置文件
+Create Freeswitch Server,創建Freeswitch服務器
+Live Calls,實時通話
+Term Cost,期限費用
+Term Destination,學期目的地
+Term Prefix,術語前綴
+Localizaciones,本地化
+Create Localization,創建本地化
+Origination,始發地
+Termination,終止
+Inbound Callerid Translation,入站Callerid翻譯
+Destination Number Translation,目的地號碼轉換
+Outbound Callerid Translation,出站Callerid翻譯
+Create Call Barring,創建呼叫限制
+Callbarring Settings,通話限制設置
+Product Summary Report,產品摘要報告
+SIP User,SIP用戶
+Product,產品
+Taxes,稅收
+Update Currencies,更新貨幣
+File Name,文檔名稱
+Database Information,數據庫信息
+Database Backup,數據庫備份
+Command,命令
+Cron Settings,Cron設定
+Create Cron Settings,創建Cron設置
+Stripe,條紋
+Live Secret key,實時秘密密鑰
+Live Publishable key,實時發布密鑰
+Set Percentage Charges,設定費用百分比
+Set Fix Charges,設定固定費用
+Stripe Mode,條紋模式
+Sandbox secret key,沙盒密鑰
+Sandbox publishable key,沙盒可發布密鑰
+Version 4.0 Enterprise,版本4.0企業
+Powered by,供電
+Import Customer Using Field Mapper,使用字段映射器導入客戶
+You must either select a field from your,您必須從中選擇一個字段
+Records with duplicate account number an,帳號重複的記錄
+Account Import Error,帳戶導入錯誤
+Back to Customer List,返回客戶清單
+Duplicate accounts with account number /,帳號重複的帳號/
+Records imported successfully,記錄已成功導入
+Records not imported,記錄未導入
+Error In CSV File,CSV文件錯誤
+Invoice Summary,發票摘要
+Customer Details,顧客信息
+Invoice Details,發票明細
+Account Number,賬號
+Invoice Amount,發票金額
+Invoice Item,發票項目
+Sub Total,小計
+Total Due,應付總額
+Note,注意
+Add Setting,添加設置
+Edit SIP Profile,編輯SIP配置文件
+New,新
+Used?,用過的？
+View Email,查看電郵
+Active,活性
+Inactive,不活躍
+Black List,黑名單
+White List,白名單
+Freeswitch Server Information,Freeswitch服務器信息
+Currencies,貨幣
+Edit Currency,編輯幣種
+Is Distributor,是分銷商
+Package created successfully!,包創建成功！
+DID Removed Successfully.,DID已成功刪除。
+DID not found.,找不到DID。
+Password changed Sucessfully....!!!,密碼更改成功.... !!!
+New Password & Conformpassword not match,新密碼和符合密碼不匹配
+Invalid old passwword.,無效的舊密碼。
+Permission Denied!,沒有權限！
+Refill Coupon amount is added successful,增值券金額成功添加
+PLease upload maximum file,請上傳最大文件數
+files added successfully!,文件添加成功！
+File Uploading Fail Please Try Again,文件上傳失敗，請重試
+Please upload only image!,請僅上傳圖片！
+Invoice config updated successfully!,發票配置已成功更新！
+Your Profile Updated Successfully!,您的個人資料已成功更新！
+Something wrong.Please contact to admini,出了點問題。請聯繫管理員
+DID Released Successfully!,DID發布成功！
+IP already exist in system.,IP已存在於系統中。
+IP Added Sucessfully.,IP已成功添加。
+IP Removed Sucessfully.,IP已成功刪除。
+SIP Device Updated Successfully!,SIP設備更新成功！
+SIP Device Added Successfully!,SIP設備已成功添加！
+SIP Device Removed Sucessfully!,SIP設備已成功刪除！
+Caller ID Added Sucessfully!,來電顯示已成功添加！
+Please Enter Caller ID value.,請輸入來電顯示值。
+Caller ID already Exists.,來電顯示已經存在。
+Caller ID removed sucessfully!,來電顯示已成功刪除！
+Alert Threshold Updated Successfully!,警報閾值已成功更新！
+Can not trnasfer fund to postpaid custom,無法將資金轉移到後付款的習慣中
+Access Denied! unable transfer fund to t,拒絕訪問！無法將資金轉入t
+You can not transfer fund in same accoun,您不能在同一賬戶中轉賬
+You can only transfer fund in same level,您只能在同一級別轉賬
+Please enter To account number.,請輸入至帳號。
+Please enter valid amount.,請輸入有效金額。
+You have insufficient balance.,您的餘額不足。
+Please enter valid account number.,請輸入有效的帳號。
+Please enter amount greater then 0.,請輸入大於0的金額。
+You need to enter minimum for fund trans,您需要輸入最低資金限額
+Please enter valid account number!,請輸入有效的帳號！
+Insuffiecient amount !,數量不足！
+Transfer successfully!,轉移成功！
+Account number not found.,找不到帳號。
+OpenSips updated successfully!,OpenSips更新成功！
+Duplicate Username Found.Username Must b,找到重複的用戶名。用戶名必須為b
+User name is required field.,用戶名為必填字段。
+Opensips Device Removed Successfully!.,Opensips設備已成功刪除！
+Speed-dial Number Added Successfully!,快速撥號號碼已成功添加！
+Can not delete blank speeddial number,無法刪除空白快速撥號號碼
+Speed-dial Number Removed Successfully!,快速撥號號碼已成功刪除！
+Pin Updated Successfully!,引腳更新成功！
+DID Updated Successfully!,DID已成功更新！
+for fund transfer.,進行資金轉移。
+You need to enter minimum,您需要輸入最小值
+please enter recharge value,請輸入充值
+New Password,新密碼
+Old Password,舊密碼
+Conform Password,符合密碼
+Letters only please,請只寫字母
+IP Mapping,IP映射
+The Coupon Number field must contain onl,優惠券編號字段必須包含onl
+The Coupon Number field have inactive re,優惠券編號字段具有無效的重新
+This Coupon Number is already in use.,此優惠券號已被使用。
+This Coupon Number is not found.,找不到此優惠券編號。
+The Coupon Number field is required.,優惠券編號字段為必填項。
+REFILL COUPON RECHARGE,充值券充值
+You just recharged,你剛剛充電
+account with The new balance will be,具有新余額的帳戶將是
+My Profile,我的簡歷
+My Account,我的帳戶
+Alert Threshold,警報閾值
+The Caller ID field is required.,來電顯示字段為必填項。
+Change Password,更改密碼
+Bill Type,帳單類型
+Bill Days,比爾·戴斯
+New Products,新產品
+Active Products,活性產品
+Outstanding,優秀
+Today's Calls,今天的電話
+Recent Calls,最近通話
+The Available DIDs field is required.,“可用的DID”字段為必填字段。
+Please enter your password,請輸入您的密碼
+Please enter your first name,請輸入您的名字
+Please enter your email,請輸入您的電子郵件
+Please enter valid email,請輸入有效的電子郵件
+This field is required.,這是必填欄。
+Email Setting,電郵設定
+SMTP Password,SMTP密碼
+Are you sure want to remove logo?,您確定要刪除徽標嗎？
+The IP field must contain a unique value,IP字段必須包含唯一值
+The IP field have not valid IP.,IP字段無效的IP。
+The IP field is required.,IP字段是必填字段。
+The Name field is required.,名稱字段是必需的。
+Please enter only alpha-numeric value,請僅輸入字母數字值
+Are you sure want to delete speed dial r,您確定要刪除快速撥號嗎？
+Generated Date,產生日期
+My Products,我的產品
+Pinless CLI,無針CLI
+Refill Coupon,充值券
+TopUp,充值
+Pay with Paypal,用貝寶付款
+Pay with Card,用卡付款
+Assign,分配
+Send Credit,發送積分
+To Account,開戶
+From Account,從帳戶
+Transfer,轉讓
+Telephone 1,電話1
+Telephone 2,電話2
+Address 2,地址2
+Zip/Postal Code,郵編/郵政編碼
+User Profile,用戶資料
+Low Balance Alert Level,低餘額警報級別
+Enable Email Alerts ?,啟用電子郵件警報？
+Low Balance Alert Email,低餘額警報電子郵件
+User name,用戶名
+Something went to wrong !,出問題了！
+Product Purchased successfully !,產品購買成功！
+Insufficent Balance to purchase product ,餘額不足，無法購買產品
+Product assigned successfully!,產品分配成功！
+Something went wrong !,出了些問題 ！
+Product Not Found,找不到產品
+Transaction has been failed,交易失敗
+not inserted. Transaction has been faile,沒有插入。交易失敗
+Select Customer.,選擇客戶。
+Product Information,產品信息
+Price+SetUp Fee,價格+設置費
+Use Voucher,使用憑證
+Amount Without Tax,不含稅金額
+Total Tax,總稅
+Amount With Tax,含稅金額
+Parent Products,母產品
+Edit Product,編輯產品
+Product updated successfully!,產品更新成功！
+Product added successfully!,產品添加成功！
+Product removed successfully!,產品成功移除！
+Product optin successfully!,產品選擇成功！
+Edit Info,編輯資訊
+Product assign successfully,產品分配成功
+Insufficient balance to assign product!,餘額不足，無法分配產品！
+Terminated Updated Successfully!,終止成功更新！
+Terminated,已終止
+Setup Cost,設置成本
+Order New,訂購新
+Caller ID updated successfully!,來電顯示已成功更新！
+Caller ID added successfully!,來電顯示已成功添加！
+Caller ID removed successfully!,來電顯示已成功刪除！
+Name is not contain any space,名稱不包含任何空格
+Name already exist in system.,名稱已存在於系統中。
+Callbarring Settings Updated Successfull,呼叫限制設置已成功更新
+allbarring Settings Added Successfully!,allbarring設置已成功添加！
+Call Barring Removed Successfully!,呼叫限制已成功刪除！
+Calltype already exist in system.,系統中已經存在呼叫類型。
+Calltype Updated Successfully!,呼叫類型已成功更新！
+Calltype Added Successfully!,呼叫類型已成功添加！
+calltype removed successfully!,通話類型已成功刪除！
+File must be in the following format(.cs,文件必須採用以下格式（.cs
+Import Package Codes:,導入包裝代碼：
+Records Imported Successfully:,記錄已成功導入：
+Records Not Imported :,記錄未導入：
+Download Errors,下載錯誤
+Back to Package Patterns List,返回包裝模式清單
+Add To List,添加到列表
+Routing Prefix already exist in system.,系統中已經存在路由前綴。
+Rate Group Updated Successfully!,費率組成功更新！
+Rate Group Added Successfully!,費率組已成功添加！
+Duplicate Rate Group Added Successfully!,重複費率組已成功添加！
+Routing Prefix (Enterprise),路由前綴（企業）
+Priority (Enterprise),優先級（企業）
+Percentage (WIP) (Enterprise),百分比（WIP）（企業）
+LCR,LCR
+Percentage,百分比
+Tax removed successfully!,稅收已成功刪除！
+Tax added successfully!,增稅成功！
+Tax updated successfully!,稅務更新成功！
+Charges List,收費清單
+Trunk Updated Successfully!,中繼已成功更新！
+Trunk Added Successfully!,中繼已成功添加！
+Trunk removed successfully!,中繼成功移除！
+setting updated successfully!,設置更新成功！
+Template Updated Successfully!,模板更新成功！
+Template Added Successfully!,模板已成功添加！
+Country Updated successfully!,國家成功更新！
+Country Added successfully!,國家已成功添加！
+Country removed successfully!,國家已成功刪除！
+Currency Updated Successfully!,貨幣更新成功！
+My Rates,我的房價
+Cost / Min,費用/分鐘
+Purchase,採購
+Available DIDs,可用的DID
+New IP,新知識產權
+Digits,位數
+Email Address,電子郵件地址
+Call Forward,呼叫轉接
+If Busy:,如果忙：
+If SIP Not Registered:,如果未註冊SIP：
+If No Answer:,如果沒有答案：
+Pay Now,現在付款
+Pay with Account,用賬戶付款
+Please wait,請耐心等待
+Coupon Number:,優惠券編號：
+Add Voucher,添加優惠券
+Selected Plan,選擇方案
+My Product,我的產品
+Parent Product,母產品
+Edit Email Template,編輯電子郵件模板
+Details,細節
+KEY,鍵
+Value,值
+Records with duplicate account number and email will be ignored.,帳號和電子郵件重複的記錄將被忽略。
+Account Details,帳戶詳細資料
+Mass Customer,大眾客戶
+Daily,日常
+Monthly,每月一次
+Prepaid,預付
+Postpaid,後付
+Force Caller ID,強制來電顯示
+Customer Profile,客戶資料
+Caller Id Name,來電顯示名稱
+Caller Id Number,來電顯示號碼
+Blocked Codes,被阻止的代碼
+Page will display only receipts and confirmed invoices.,頁面將僅顯示收據和已確認的發票。
+Accessnumber Updated Successfully!,Accessnumber已成功更新！
+Accessnumber Removed Successfully!,Accessnumber已成功刪除！
+Invalid file format : Only CSV file allows to import records(Can't import empty file),無效的文件格式：僅CSV文件允許導入記錄（不能導入空文件）
+Please Select File.,請選擇文件。
+ are required, 是必須的
+ is Required, 是必須的
+ is not Valid, 無效
+Duplicate accessnumber found from database,從數據庫中找到重複的訪問號
+Duplicate accessnumber found from import file.,從導入文件中找到重複的訪問號。
+Total,總
+AccessNumber Imported Successfully!,AccessNumber已成功導入！
+Records Not Imported:,記錄未導入：
+Back to AccessNumber List,返回訪問號碼列表
+Speed Dial Number Updated Successfully,快速撥號號碼已成功更新
+Please insert only numeric value!,請僅插入數值！
+Speed Dial Number Removed Successfully,快速撥號號碼已成功刪除
+Speed Dial Number is Empty,快速撥號號碼為空
+Sip Device removed successfully!,Sip設備已成功刪除！
+Sip updated successfully!,Sip更新成功！
+Block Code Removed Sucessfully!,阻止代碼已成功刪除！
+Your Account Limit has been reached.Please Change Your Prefix.,已達到您的帳戶限額。請更改您的前綴。
+Please Enter Proper Account Length.,請輸入正確的帳戶長度。
+Bulk customer generate successfully!,大量客戶產生成功！
+Recharge successfully!,充電成功！
+Post charge applied successfully.,過帳費用已成功應用。
+Account callerID updated successfully!,帳戶來電顯示已成功更新！
+Account callerID added successfully!,帳戶callerID已成功添加！
+Reseller updated successfully!,代理商更新成功！
+Reseller added successfully!,轉銷商添加成功！
+Updated successfully!,更新成功！
+Added Successfully!,已成功添加！
+Customer batch updated successfully!,客戶批次成功更新！
+Reseller batch updated successfully!,轉銷商批次已成功更新！
+Customer Removed Successfully!,客戶已成功刪除！
+Reseller Removed Successfully!,轉銷商已成功刪除！
+Provider Removed Successfully!,提供者已成功刪除！
+Admin Removed Successfully!,管理員已成功刪除！
+Sub Admin Removed Successfully!,子管理員已成功刪除！
+DID Added Successfully.,DID已成功添加。
+DID Already Removed Before.,DID已被刪除。
+Account Tax Added Successfully!,帳戶稅已成功添加！
+Account Tax Removed Successfully!,帳戶稅已成功刪除！
+Product Removed Sucessfully.,產品已成功刪除。
+Email Resend Successfully!,電子郵件重新發送成功！
+Email List Updated Successfully!,電子郵件列表已成功更新！
+Email List Added Successfully!,電子郵件列表已成功添加！
+Email Removed Successfully!,電子郵件已成功刪除！
+Please Try Again!,請再試一次！
+Email BroadCast Successfully!,成功發送電子郵件給BroadCast！
+No Record Found!,沒有找到記錄！
+Email Address Not Found!,找不到電子郵件地址！
+Edit Freeswitch SIP Devices,編輯Freeswitch SIP設備
+Create Freeswitch SIP Devices,創建Freeswitch SIP設備
+Gateway Updated Successfully!,網關已成功更新！
+Gateways already exist in system.,網關已存在於系統中。
+Gateway name must not have any space.,網關名稱不能有任何空格。
+Gateway Added Successfully!,網關已成功添加！
+Gateway Removed Successfully!,網關已成功刪除！
+Please enter All profile value!,請輸入所有配置文件值！
+SIP Profile name must not have any space!,SIP配置文件名稱不能有任何空格！
+Duplicate SIP IP OR Port found it must be unique!,重複的SIP IP OR端口發現它必須是唯一的！
+SIP Profile Added Successfully!,SIP配置文件已成功添加！
+Name must be unique!,名稱必須唯一！
+SIP Profile Updated Successfully!,SIP配置文件已成功更新！
+SIP Setting Added Successfully!,SIP設置已成功添加！
+SIP Setting Updated Successfully!,SIP設置已成功更新！
+SIP Setting Removed Successfully!,SIP設置已成功刪除！
+SIP Profile Removed Successfully!,SIP配置文件已成功刪除！
+Host Already Exist in System.,主機已存在於系統中。
+Freeswitch Server Updated Successfully!,Freeswitch服務器已成功更新！
+Freeswitch Server Added Successfully!,Freeswitch服務器已成功添加！
+Freeswitch Server Removed Successfully!,Freeswitch服務器已成功刪除！
+Invoice updated successfully!,發票已成功更新！
+Invoice payment done successfully!,發票付款成功完成！
+Account Not Found.,找不到帳戶。
+Invoice payment amount should be higher then the invoice amount.,發票付款金額應高於發票金額。
+The Favicon file size shoud not exceed 1MB!,Favicon文件大小不應超過1MB！
+Please upload 250 * 60 size file,請上傳250 * 60大小的文件
+Logo only allows file types of JPG and JPEG.,徽標僅允許JPG和JPEG的文件類型。
+Favicon only allows file types of ICO,Favicon僅允許使用ICO的文件類型
+Please upload 16 * 16 size of favicon.,請上傳16 * 16大小的圖標。
+Company profile updated sucessfully!,公司簡介已成功更新！
+Company profile added sucessfully!,公司簡介已成功添加！
+Permission Denied.,沒有權限。
+is Deleted Sucessfully!,已成功刪除！
+To date should not be greater than current date.,迄今為止不應大於當前日期。
+Invoice generation completed.,發票生成完成。
+No data found,沒有找到數據
+Invoices removed successfully,發票已成功刪除
+The Prefix field must contain a unique value.,前綴字段必須包含唯一值。
+The IP field must contain a unique value.,IP字段必須包含唯一值。
+IP Map added successfully!,IP地圖添加成功！
+IP Map removed successfully!,IP地圖已成功刪除！
+Localization Added Successfully!,本地化已成功添加！
+Localization Updated Successfully!,本地化已成功更新！
+Localization Removed Successfully!,本地化已成功刪除！
+Globalization is already exist in this system,該系統中已經存在全球化
+Dispatcher Updated Successfully!,調度程序已成功更新！
+Dispatcher Added Successfully!,分派器已成功添加！
+Dispatcher Removed Successfully!,調度程序已成功刪除！
+Code is already in system,代碼已在系統中
+Country is already in system,國家已經在系統中
+Ratedeck updated successfully!,Ratingeck更新成功！
+Ratedeck added successfully!,Ratingeck已成功添加！
+Ratedeck removed successfully!,評分等級成功刪除！
+Duplicate Ratedeck Number found from import file.,從導入文件中找到重複的Ratingeck編號。
+Ratedeck Imported Successfully!,Ratingeck已成功導入！
+Ratedeck Import Error,額定進口誤差
+Back to Ratedeck List,返回評分列表
+Origination Rate Imported Successfully!,原始率已成功導入！
+Origination Rate Updated Successfully!,發起率已成功更新！
+Origination Rate Added Successfully!,成功添加始發率！
+Termination Rates Batch Updated Successfully!,終止率批次成功更新！
+Map CSV to Termination Rates,將CSV映射到終止率
+Data Example,資料範例
+Map to Field,映射到字段
+PREFIX/DEFAULT VALUE,前綴/默認值
+ASTPP Field,ASTPP領域
+Created,已建立
+Modified,改性
+You can not create,您無法創建
+Refill coupon with,充值優惠券
+You can create maximum,您可以創建最大值
+Refill coupon created successfully!,增值券成功創建！
+Currency Added Successfully!,貨幣成功添加！
+Currency Removed Successfully!,貨幣已成功刪除！
+Backup Exported Successfully!,備份已成功導出！
+An error occur when the system tried to backup of the database. Please check yours system settings for the backup section,系統嘗試備份數據庫時發生錯誤。請檢查備份部分的系統設置
+Database Restore successfully.,數據庫還原成功。
+File not exists!,文件不存在！
+There is a some issue or invalid file format.,存在某些問題或文件格式無效。
+Database backup deleted successfully.,數據庫備份已成功刪除。
+Languages updated successfully!,語言更新成功！
+Languages removed successfully!,語言已成功刪除！
+Languages added successfully!,語言已成功添加！
+Translation updated successfully!,翻譯成功更新！
+Translation added successfully!,翻譯添加成功！
+Update Languages,更新語言
+Speed Dial,快速撥號
+Payment,付款
+Method,方法
+Once you confirm the invoice,確認發票後
+Payment Gateway Permission,支付網關權限
+Zip Code,郵政編碼
+Yes,是
+Back,背部
+Edit Reseller,編輯轉銷商
+Asignar DID a granel,Asignar DID花崗岩
+DIDs Search,DID搜索
+By Month,按月
+Create Gateway,創建網關
+Calling Card Language,電話卡語言
+Last,持續
+Pay Date,付款日期
+Purchase DID,購買DID
+Caller-ID-A-Form,來電顯示表格
+Expire Seconds,過期秒數
+Termination Date,終止日期
+Registration Date,登記日期
+Payment By,付款方式
+Product Status,產品狀態
+Minute,分鐘
+Hour,小時
+Day,天
+Month,月
+Year,年
+List,清單
+Edit,編輯
+Not Avaialable any Subscription.,沒有可用的任何訂閱。
+Not Avaialable any Package for this Country.,此國家/地區沒有任何包裝。
+You can only transfer fund in same level account.,您只能在同一級別的帳戶中轉帳資金。
+You can not transfer fund in same account.,您不能在同一帳戶中轉帳資金。
+Monthly Fee,月租費
+Bulk DID Assign,批量DID分配
+Invoice Start From,發票從
+Edit Gateway,編輯網關
+Number Of Default Rows,默認行數
+Mobile Dialer,手機撥號器
+Trunk Count,行李箱數
+Welcome File,歡迎文件
+Local Call Timeout (Sec.),本地通話超時（秒）
+Rate check for DID,DID費率檢查
+DID Localization,DID本地化
+Voicemail Number,語音信箱號碼
+OTP Expire Time(min),OTP過期時間（分鐘）
+Edit Provider,編輯提供者
+Product Summary Reports,產品摘要報告
+Edit Origination Rate,編輯始發率
+Dialplan Variable,Dialplan變量
+Uninstall,卸載
+Call Stat,通話統計
+Failed Calls,通話失敗
+Top 10 Countries,十大國家
+By Minutes,按分鐘
+By Calls,通過電話
+Telephone number is only numeric,電話號碼僅是數字
+Please enter valid Captcha code,請輸入有效的驗證碼
+Please contact to administrator,請與管理員聯繫
+Requested email is already exist,要求的電子郵件已經存在
+Requested number is already exist,要求的號碼已經存在
+Please enter correct words!,請輸入正確的單詞！
+THIS IS REQUIRED!,這是必需的！
+Your account has been deleted. Please contact administrator for more information.,您的帳戶已被刪除。請聯繫管理員以獲取更多信息。
+Your account is inactive. Please contact administrator for more information.,您的帳戶無效。請聯繫管理員以獲取更多信息。
+Please enter proper Email.,請輸入正確的電子郵件。
+Please enter proper Username.,請輸入正確的用戶名。
+This Username or Email is not valid.,此用戶名或電子郵件無效。
+ASTPP - A Smart TelePhony Platform,ASTPP-智能電話平台
+Forgot Password,忘記密碼
+ASTPP work best with JavaScript enabled,ASTPP在啟用JavaScript的情況下效果最佳
+Enter Your Password,輸入密碼
+Confirm Password,確認密碼
+The Email field is Required,電子郵件字段為必填
+The Account Number field is Required,帳號字段為必填項
+Set Default Language,設置默認語言
+Please Re-login to get Impact of selected language.,請重新登錄以獲得所選語言的影響力。
+Default Language,預設語言
+Signup now!,立即註冊！
+Forgot Password?,忘記密碼？
+Sign in,登入
+Username OR Email,用戶名或電子郵件
+Username is Required,用戶名為必填項
+Password is Required,密碼是必需的
+Please Check Your account is deleted or inactive from admin side,請檢查您的帳戶已從管理員端刪除或處於無效狀態
+Please do not use default or less secure password for your account!! You must change password from,請不要為您的帳戶使用默認密碼或不太安全的密碼！您必須更改密碼
+HERE,這裡
+Login unsuccessful. Please make sure you entered the correct username and password,登錄失敗。請確保輸入正確的用戶名和密碼
+Please enter Username/email and Password.,請輸入用戶名/電子郵件和密碼。
+Payment transaction invalid. Please contact Administrator.,付款交易無效。請聯繫管理員。
+Log In,登錄
+Please Enter Password,請輸入密碼
+Password must be at least 8 characters and must contain at least one lower case letter,密碼必須至少包含8個字符，並且必須包含至少一個小寫字母
+Please Enter Confirm Password,請輸入確認密碼
+Confirm Password is not match,確認密碼不匹配
+We sent update password link.,我們發送了更新密碼鏈接。
+Please check your Email!,請檢查您的電子郵件！
+Login,登錄
+OTP Verification,OTP驗證
+OTP Number is Required,必須輸入OTP號
+Your account created successfully and account details sent to your registered email address,您的帳戶已成功創建，帳戶詳細信息已發送到您的註冊電子郵件地址
+Your password change successfully and new password sent to your registered email address,您的密碼更改成功，新密碼已發送到您的註冊電子郵件地址
+OTP Number is Wrong Please try again Or OTP expire Please Resend,OTP編號錯誤，請重試或OTP過期，請重新發送
+OTP has been sent on your email or Telephone number,OTP已通過您的電子郵件或電話號碼發送
+OTP,一次性密碼
+Resend OTP,重新發送OTP
+OTP Sent time Out,OTP發送超時
+Not Get OTP ?,無法獲得OTP嗎？
+Note:,注意：
+Please make sure do not refresh the page or don't go back,請確保不要刷新頁面或不返回
+Login unsuccessful. Please make sure you entered the correct username and password,登錄失敗。請確保輸入正確的用戶名和密碼
+Your account has been created successfully!,您的帳戶已成功創建！
+Here is your login information,這是您的登錄信息
+Link is Expire Please Try Again,鏈接已過期，請重試
+Sorry,抱歉
+Please contact administrator for more information,請聯繫管理員以獲取更多信息
+Successful!,成功！
+Captcha is required,必須輸入驗證碼
+First Name is Required,名字為必填項
+Telephone is Required,需要電話
+Email is Required,電子郵件為必填項
+Please enter a valid email address,請輸入有效的電子郵件地址
+Please make sure you entered the correct username and password,請確保輸入正確的用戶名和密碼
+Company Name,公司名
+Enter above Captcha,在驗證碼上方輸入
+Sign up,註冊
+Already Registered !,已經註冊 ！
+January,一月
+February,二月
+March,遊行
+April,四月
+May,可能
+June,六月
+July,七月
+August,八月
+September,九月
+October,十月
+November,十一月
+December,十二月
+Doesn't Contain,不包含
+Greater Than,比...更棒
+Less Than,少於
+Greater Or Equal Than,大於等於
+Less Or Equal Than,小於或等於
+Set To,設置
+Increase By,通過增加
+Decrease By,減少
+Community,社區
+You must either select a field from your file OR provide a default value for the following fields:,您必須從文件中選擇一個字段，或者為以下字段提供默認值：
+Note : Records with duplicate account number and email will be ignored.,注意：具有重複帳號和電子郵件的記錄將被忽略。
+Map CSV to Customers,將CSV映射到客戶
+Account Information,帳戶信息
+Select Account,選擇帳號
+DEFAULT VALUE,默認值
+SIP Username,SIP用戶名
+sip_username,sip_username
+SIP Password,SIP密碼
+Same as Password,與密碼相同
+Same as Account Number,與帳號相同
+Random,隨機
+Import File Data.,導入文件數據。
+Process Records,工藝記錄
+Note : Duplicate accounts with account number / email are ignored.,注意：具有帳號/電子郵件的重複帳戶將被忽略。
+Remove,去掉
+Number of Account,帳號數
+Account Number Length,帳號長度
+DID (CLI Match,DID（CLI比賽
+Caller Id (CLI Match,來電顯示（CLI匹配
+Use NON-CLI Rate Group (If CLI not match with DID),使用NON-CLI費率組（如果CLI與DID不匹配）
+Use NON-CLI Rate Group (If CLI not match with Caller ID),使用NON-CLI費率組（如果CLI與呼叫者ID不匹配）
+Use NON-CLI Rate Group (If CLI not match with DID & Caller id),使用NON-CLI費率組（如果CLI與DID和呼叫者ID不匹配）
+Reject Call (If CLI not match with DID),拒絕呼叫（如果CLI與DID不匹配）
+Reject Call (If CLI not match with Caller ID),拒絕呼叫（如果CLI與呼叫者ID不匹配）
+Reject Call (If CLI not match with DID & Caller id),拒絕呼叫（如果CLI與DID和呼叫者ID不匹配）
+--Select--, - 選擇 - 
+Test Mail,測試郵件
+Reset Password,重設密碼
+AFGHANISTAN,阿富汗
+ALBANIA,阿爾巴尼亞
+ALGERIA,阿爾及利亞
+AMERICAN SAMOA,美國薩摩亞
+ANDORRA,安道爾
+ANGOLA,安哥拉
+ANGUILLA,安吉拉
+ANTIGUA & BARBUDA,安提瓜和巴布達
+ARGENTINA,阿根廷
+ARMENIA,亞美尼亞
+ARUBA,阿魯巴
+AUSTRALIA,澳大利亞
+AUSTRIA,奧地利
+AZERBAIJAN,阿塞拜疆
+BAHAMAS,巴哈馬
+BAHRAIN,巴林
+BANGLADESH,孟加拉國
+BARBADOS,巴巴多斯
+BELARUS,白俄羅斯
+BELGIUM,比利時
+BELIZE,相信
+BENIN,貝寧
+BERMUDA,百慕大
+BHUTAN,不丹
+BOLIVIA,玻利維亞
+BOSNIA AND HERZEGOVINA,波斯尼亞和黑塞哥維那
+BOTSWANA,博茨瓦納
+BRAZIL,巴西
+BRITISH VIRGIN ISLANDS,英國處女島
+BRUNEI,文萊
+BULGARIA,保加利亞
+BURKINA FASO,布基納法索
+BURUNDI,布隆迪
+CAMBODIA,柬埔寨
+CAMEROON,喀麥隆
+CANADA,加拿大
+CAPE VERDE,佛得角
+CAYMAN ISLANDS,開曼群島
+CENTRAL AFRICAN REPUBLIC,中非共和國
+CHAD,乍得
+CHILE,智利
+CHINA,中國
+COLOMBIA,哥倫比亞
+COMOROS,科摩羅
+CONGO,剛果
+COSTA RICA,哥斯達黎加
+CROATIA,克羅地亞
+CUBA,古巴
+CYPRUS,塞浦路斯
+CZECH REPUBLIC,捷克共和國
+DEMOCRATIC REPUBLIC,民主共和國
+DENMARK,丹麥
+DJIBOUTI,吉布提
+DOMINICA,多米尼加
+DOMINICAN REPUBLIC,多明尼加共和國
+ECUADOR,厄瓜多爾
+EGYPT,埃及
+EL SALVADOR,薩爾瓦多
+EQUATORIAL GUINEA,赤道幾內亞
+ERITREA,厄立特里亞
+ERITREA,厄立特里亞
+ETHIOPIA,埃塞俄比亞
+FAEROE ISLANDS,法羅群島
+FIJI ISLANDS,斐濟群島
+FINLAND,芬蘭
+FRANCE,法國
+FRENCH GUIANA,法屬圭亞那
+FRENCH POLYNESIA,法屬波利尼西亞
+GABON,加蓬
+GAMBIA,岡比亞
+GEORGIA,格魯吉亞
+GERMANY,德國
+GHANA,加納
+GIBRALTAR,吉拉塔爾
+GREECE,希臘
+GRENADA,格林納達
+GUADELOUPE,瓜德羅普島
+GUAM,關島
+GUATEMALA,危地馬拉
+GUINEA,幾內亞
+GUINEA BISSAU,幾內亞比紹
+GUYANA,瓜亞那
+HAITI,海地
+HONDURAS,洪都拉斯
+HONG KONG,香港
+HUNGARY,匈牙利
+ICELAND,冰島
+INDIA,印度
+INDONESIA,印度尼西亞
+IRAN,伊朗
+IRAQ,伊拉克
+IRELAND,愛爾蘭
+ISRAEL,以色列
+ITALY,意大利
+IVORY COAST,象牙海岸
+JAMAICA,牙買加
+JAPAN,日本
+JORDAN,約旦
+KAZAKHSTAN,哈薩克斯坦
+KENYA,肯尼亞
+KOSOVO,科索沃
+KUWAIT,科威特
+KYRGYZSTAN,吉爾吉斯斯坦
+LAOS,老撾
+LATVIA,拉脫維亞
+LEBANON,黎巴嫩
+LESOTHO,萊索托
+LIBERIA,利比里亞
+LIBYA,利比亞
+LIECHTENSTEIN,列支敦士登
+LITHUANIA,立陶宛
+LUXEMBOURG,盧森堡
+MACAU,澳門
+MACEDONIA,馬其頓
+MADAGASCAR,馬達加斯加
+MALAWI,馬拉維
+MALAYSIA,馬來西亞
+MALI,馬里
+MALTA,馬耳他
+MARSHALL ISLANDS,馬紹爾群島
+MARTINIQUE,馬提尼克
+MAURITANIA,毛里塔尼亞
+MAURITIUS,毛里求斯
+MEXICO,墨西哥
+MICRONESIA,密克羅尼西亞
+MOLDOVA,摩爾多瓦
+MONACO,摩納哥
+MONGOLIA,蒙古
+MONTENEGRO,黑山
+MONTSERRAT,蒙特塞拉特
+MOROCCO,摩洛哥
+MOZAMBIQUE,莫桑比克
+MYANMAR,緬甸
+NAMIBIA,納米比亞
+NEPAL,尼泊爾
+NETHERLANDS,荷蘭
+NEW CALEDONIA,新喀裡多尼亞
+NEW ZEALAND,新西蘭
+NICARAGUA,尼加拉瓜
+NIGER,尼日爾
+NIGERIA,尼日利亞
+NO. MARIANA ISLANDS,沒有。瑪麗亞娜群島
+NORTH KOREA,北朝鮮
+NORWAY,挪威
+OMAN,阿曼
+PAKISTAN,巴基斯坦
+PALAU,帕勞
+PANAMA,巴拿馬
+PARAGUAY,巴拉圭
+PERU,秘魯
+PHILIPPINES,菲律賓
+POLAND,波蘭
+PORTUGAL,葡萄牙
+PUERTO RICO,波多黎各
+QATAR,卡塔爾
+REUNION ISLAND,留尼汪島
+ROMANIA,羅馬尼亞
+RUSSIAN FEDERATION,俄羅斯聯邦
+RWANDA,盧旺達
+SAN MARINO,聖馬力諾
+SAUDI ARABIA,沙特阿拉伯
+SENEGAL,塞內加爾
+SERBIA,塞爾維亞
+SEYCHELLES ISLANDS,塞舌爾群島
+SIERRA LEONE,塞拉利昂
+SINGAPORE,新加坡
+SLOVAKIA,斯洛伐克
+SLOVENIA,斯洛文尼亞語
+SOMALIA,索馬里
+SOUTH AFRICA,南非
+SOUTH KOREA,韓國
+SOUTH SUDAN,南蘇丹
+SPAIN,西班牙
+SRI LANKA,斯里蘭卡
+ST. KITTS,ST。套件
+ST. LUCIA,ST。露西亞
+ST. MARTIN,ST。馬丁
+ST. PIERRE & MIQUELON,ST。皮埃爾和密克隆
+ST. VINCENT,ST。文森特
+SUDAN,蘇丹
+SURINAME,蘇里南
+SWAZILAND,斯威士蘭
+SWEDEN,瑞典
+SWITZERLAND,瑞士
+SYRIA,敘利亞
+TAIWAN,台灣
+TAJIKISTAN,塔吉克斯坦
+TANZANIA,坦桑尼亞
+THAILAND,泰國
+TRINIDAD & TOBAGO,特立尼達和多巴哥
+TUNISIA,突尼斯
+TURKEY,火雞
+TURKMENISTAN,土庫曼斯坦
+TURKS & CAICOS ISLANDS,特克斯和凱科斯群島
+UGANDA,烏干達
+UKRAINE,烏克蘭
+UNITED ARAB EMIRATES,阿拉伯聯合酋長國
+UNITED KINGDOM,英國
+URUGUAY,烏拉圭
+US VIRGIN ISLANDS,美國處女島
+United States,美國
+UZBEKISTAN,烏茲別克斯坦
+VENEZUELA,委內瑞拉
+VIETNAM,越南
+YEMEN,也門
+ZAMBIA,贊比亞
+ZIMBABWE,津巴布韋
+ASCENSION,升空
+COOK ISLANDS,庫克群島
+EAST TIMOR,東帝汶
+FALKLAND ISLANDS,福克蘭群島
+GREENLAND,格陵蘭
+KIRIBATI,基里巴斯
+MALDIVES,馬爾代夫
+NAURU,瑙魯
+Albanian Lek,阿爾巴尼亞列克
+Algerian Dinar,阿爾及利亞第納爾
+Aluminium Ounces,鋁盎司
+Argentine Peso,阿根廷比索
+Aruba Florin,阿魯巴·弗洛林（Aruba Florin）
+Australian Dollar,澳元
+Bahamian Dollar,巴哈馬元
+Bahraini Dinar,巴林第納爾
+Bangladesh Taka,孟加拉國塔卡
+Barbados Dollar,巴巴多斯元
+Belarus Ruble,白俄羅斯盧布
+Belize Dollar,伯利茲元
+Bermuda Dollar,百慕大元
+Bhutan Ngultrum,不丹恩古特魯姆
+Bolivian Boliviano,玻利維亞的玻利維亞諾
+Brazilian Real,巴西雷亞爾
+British Pound,英鎊
+Brunei Dollar,文萊元
+Bulgarian Lev,保加利亞列弗
+Burundi Franc,布隆迪法郎
+Cambodia Riel,柬埔寨瑞爾
+Canadian Dollar,加拿大元
+Cayman Islands Dollar,開曼群島元
+CFA Franc (BCEAO),非洲金融共同體法郎（BCEAO）
+CFA Franc (BEAC),非洲金融共同體法郎（BEAC）
+Chilean Peso,智利比索
+Chinese Yuan,人民幣元
+Colombian Peso,哥倫比亞比索
+Comoros Franc,科摩羅法郎
+Copper Ounces,銅盎司
+Costa Rica Colon,哥斯達黎加科隆
+Croatian Kuna,克羅地亞庫納
+Cuban Peso,古巴比索
+Cyprus Pound,塞浦路斯鎊
+Czech Koruna,捷克克朗
+Danish Krone,丹麥克朗
+Dijibouti Franc,吉布提法郎
+Dominican Peso,多米尼加比索
+East Caribbean Dollar,東加勒比元
+Ecuador Sucre,厄瓜多爾蘇克雷
+Egyptian Pound,埃及鎊
+El Salvador Colon,薩爾瓦多·科隆
+Eritrea Nakfa,厄立特里亞·納克法
+Estonian Kroon,愛沙尼亞克朗
+Ethiopian Birr,埃塞俄比亞比爾
+Euro,歐元
+Falkland Islands Pound,福克蘭群島磅
+Gambian Dalasi,岡比亞達拉西
+Ghanian Cedi,加納塞迪
+Gibraltar Pound,直布羅陀磅
+Gold Ounces,金盎司
+Guatemala Quetzal,危地馬拉格查爾
+Guinea Franc,幾內亞法郎
+Haiti Gourde,海地古德
+Honduras Lempira,洪都拉斯倫皮拉
+Hong Kong Dollar,港元
+Hungarian ForINT,匈牙利福林
+Iceland Krona,冰島克朗
+Indian Rupee,印度盧比
+Indonesian Rupiah,印尼盾
+Iran Rial,伊朗里亞爾
+Israeli Shekel,以色列謝克爾
+Jamaican Dollar,牙買加元
+Japanese Yen,日圓
+Jordanian Dinar,約旦第納爾
+Kazakhstan Tenge,哈薩克斯坦堅戈
+Kenyan Shilling,肯尼亞先令
+Korean Won,韓元
+Kuwaiti Dinar,科威特第納爾
+Lao Kip,老吉
+Latvian Lat,拉脫維亞語
+Lebanese Pound,黎巴嫩鎊
+Lesotho Loti,萊索托洛蒂
+Libyan Dinar,利比亞第納爾
+Lithuanian Lita,立陶宛立特
+Macau Pataca,澳門帕塔卡
+Macedonian Denar,馬其頓代納爾
+Malagasy Franc,馬達加斯加法郎
+Malawi Kwacha,馬拉維誇查
+Malaysian Ringgit,馬來西亞林吉特
+Maldives Rufiyaa,馬爾代夫拉菲亞
+Maltese Lira,馬耳他里拉
+Mauritania Ougulya,毛里塔尼亞Ougulya
+Mauritius Rupee,毛里求斯盧比
+Mexican Peso,墨西哥比索
+Moldovan Leu,摩爾多瓦·劉
+Mongolian Tugrik,蒙古圖格里克
+Moroccan Dirham,摩洛哥迪拉姆
+Mozambique Metical,莫桑比克梅蒂卡爾
+Namibian Dollar,納米比亞元
+Nepalese Rupee,尼泊爾盧比
+Neth Antilles Guilder,內斯·安的列斯·吉爾德
+New Turkish Lira,新土耳其里拉
+New Zealand Dollar,新西蘭元
+Nicaragua Cordoba,尼加拉瓜科爾多瓦
+Nigerian Naira,尼日利亞奈拉
+Norwegian Krone,挪威克朗
+Omani Rial,阿曼里亞爾
+Pacific Franc,太平洋法郎
+Pakistani Rupee,巴基斯坦盧比
+Palladium Ounces,鈀盎司
+Panama Balboa,巴拿馬巴爾博亞
+Papua New Guinea Kina,巴布亞新幾內亞基納
+Paraguayan Guarani,巴拉圭瓜拉尼
+Peruvian Nuevo Sol,秘魯新索爾
+Philippine Peso,菲律賓比索
+Platinum Ounces,白金盎司
+Polish Zloty,波蘭茲羅提
+Qatar Rial,卡塔爾里亞爾
+Romanian Leu,羅馬尼亞列伊
+Romanian New Leu,羅馬尼亞新列伊
+Russian Rouble,俄羅斯盧布
+Rwanda Franc,盧旺達法郎
+Samoa Tala,薩摩亞塔拉
+Sao Tome Dobra,聖多美多布拉
+Saudi Arabian Riyal,沙特阿拉伯里亞爾
+Seychelles Rupee,塞舌爾盧比
+Sierra Leone Leone,塞拉利昂利昂
+Silver Ounces,銀盎司
+Singapore Dollar,新加坡元
+Slovak Koruna,斯洛伐克克朗
+Slovenian Tolar,斯洛文尼亞托拉爾
+Somali Shilling,索馬里先令
+South African Rand,南非蘭特
+Sri Lanka Rupee,斯里蘭卡盧比
+St Helena Pound,聖海倫娜鎊
+Sudanese Dinar,蘇丹第納爾
+Surinam Guilder,蘇里南·吉爾德
+Swaziland Lilageni,斯威士蘭利拉蓋尼
+Swedish Krona,瑞典克朗
+Swiss Franc,瑞士法郎
+Syrian Pound,敘利亞鎊
+Taiwan Dollar,新台幣
+Tanzanian Shilling,坦桑尼亞先令
+Thai Baht,泰銖
+Tonga Paanga,湯加潘加
+Trinidad&Tobago Dollar,特立尼達和多巴哥元
+Tunisian Dinar,突尼斯第納爾
+U.S. Dollar,美元
+UAE Dirham,阿聯酋迪拉姆
+Ugandan Shilling,烏干達先令
+Ukraine Hryvnia,烏克蘭格里夫納匯率
+Uruguayan New Peso,烏拉圭新比索
+Vanuatu Vatu,瓦努阿圖瓦圖
+Venezuelan Bolivar,委內瑞拉玻利瓦爾
+Vietnam Dong,越南東
+Yemen Riyal,也門里亞爾
+Zambian Kwacha,贊比亞克瓦查
+Zimbabwe Dollar,津巴布韋元
+Guyana Dollar,圭亞那元
+Aruban florin,阿魯巴弗羅林
+Armenian dram,亞美尼亞德拉姆
+Azerbaijani manat,阿塞拜疆馬納特
+Barbadian dollar,巴巴多斯元
+Bosnian Convertible Marka,波斯尼亞可兌換馬克
+Botswana pula,博茨瓦納普拉
+Cape Verdean escudo,佛得角埃斯庫多
+Congolese franc,剛果法郎
+Fijian Dollar,斐濟元
+CFP franc,CFP法郎
+Georgian lari,格魯吉亞拉里
+Iraqi dinar,伊拉克第納爾
+Kyrgyzstani som,吉爾吉斯斯坦
+Liberian dollar,利比里亞元
+Malagasy ariary,馬達加斯加人的ariary
+Burmese Kyat,緬甸緬元
+North Korean won,朝鮮元
+nuevo sol,新溶膠
+Serbian dinar,塞爾維亞第納爾
+South Korean won,韓元
+South Sudanese pound,南蘇丹鎊
+Sudanese pound,蘇丹鎊
+Surinamese dollar,蘇里南元
+Tajikistani samani,塔吉克斯坦薩曼尼
+Turkish lira,土耳其里拉
+Turkmenistan manat,土庫曼斯坦馬納特
+Pound sterling,英鎊
+Uzbekistani soʻm,烏茲別克斯坦
+Saint Helena pound,聖海倫娜鎊
+Indian Rupees,印度盧比
+CLI Pool,CLI池
+Download,下載
+TRUE,真正
+FALSE,假
+--Select Type--,-選擇類型-
+One Time,一度
+Recurring,重複發生
+Recurring Monthly,每月定期
+Outbound,出站
+Default,默認
+Speed Dial Number Added Successfully,快速撥號號碼已成功添加
+Are you sure want to confirm this invoice ? once you confirm it,您確定要確認此發票嗎？一旦確認
+DIDs already purchased by someone.,已被某人購買的DID。
+DIDs Assigned sucessfully!,DID已成功分配！
+Something wrong.Please contact to administrator.,出了點問題。請與管理員聯繫。
+Duplicate DID found from database,從數據庫中找到重複的DID
+Account have not sufficient amount to purchase this DID.,帳戶沒有足夠的金額購買此DID。
+Account not found or assign to invalid account,找不到帳戶或分配給無效帳戶
+Duplicate DID found from import file.,從導入文件中找到重複的DID。
+DIDs Imported Successfully!,DID已成功導入！
+Insuffiecient fund to purchase this DID.,購買此DID的資金不足。
+Balance Below Notification,餘額低於通知
+Edit SIP Device,編輯SIP設備
+Note : Page will display only receipts and confirmed invoices.,注意：頁面將僅顯示收據和已確認的發票。
+Termination Rate Updated Successfully!,終止率已成功更新！
+Import Termination Rates Using Field Mapper,使用字段映射器導入終止率
+Edit Roles & Permissions,編輯角色和權限
+Create Roles & Permissions,創建角色和權限
+Edit Admin,編輯管理員
+Pin Updated Successfully!.,引腳更新成功！
+Create Termination Rate,創建終止率
+Edit Company Profile,編輯公司簡介
+Website,網站
+Generate Invoice for no usage,不用生成發票
+Commission Repots,佣金倉庫
+Top Up,充值
+Purchase DIDs,購買DID
+Package,包
+Setup,設定
+DID Purchased Successfully.,DID已成功購買。
+release,發布
+DID Batch Updated Successfully!,DID批次已成功更新！
+DID forwading set sucessfully!,DID強制設置成功！
+Are you sure want to release DID?,您確定要釋放DID嗎？
+Please select atleast one record,請選擇至少一條記錄
+Account Balance,賬戶餘額
+Next Bill Date,下一個賬單日期
+TOTAL AMOUNT,總金額
+Invoice,發票
+IP Address,IP地址
+Terminate,終止
+Seconds,秒
+Recording,記錄
+Rates,費率
+Paid,已付費
+No Records,沒有記錄
+Please select from date,請選擇日期
+Please select to date,請選擇日期
+Please select to date bigger than from date,請選擇大於日期的日期
+Confirm,確認
+Edit Country,編輯國家
+Skip Header,跳過標題
+Origination_rate_error,Origination_rate_error
+Termination_rate_error,Termination_rate_error
+Termination_Rates,終止率
+Origination_Rates,原始房價
+refill_coupon,refill_coupon
+Edit Reseller,編輯轉銷商
+Edit Calltype,編輯通話類型
+updated successfully!,更新成功！
+added successfully!,添加成功！
+Invoice generation completed .,發票生成完成。
+NOTE,注意
+No data found.,沒有找到數據。
+Added successfully!,添加成功！
+DID added successfully!,DID添加成功！
+DID updated successfully!,DID更新成功！
+File must be in the following format(.csv):,文件必須採用以下格式（.csv）：
+Process,處理
+DID Import Error,DID導入錯誤
+Records Imported Successfully,記錄已成功導入
+Records Not Imported,記錄未導入
+Back to DID List,返回DID列表
+DID Batch Updated Successfully!,DID批次已成功更新！
+Accessnumber Added Successfully!,Accessnumber已成功添加！
+Process,處理
+Accessnumber Import Error,訪問號導入錯誤
+DIDs Assigned sucessfully!,DID已成功分配！
+Origination Rates Preview,原始匯率預覽
+Origination Rates Import Error,原始速率導入錯誤
+Back to Origination Rates List,返回原始價格表
+Origination Rates Batch Updated Successfully!,原始費率批次已成功更新！
+Import Ratedeck Preview,導入Ratingeck預覽
+CALLTYPE,通話類型
+Edit Calltype,編輯通話類型
+Outbound-Proxy,出站代理
+Edit Trunk,編輯行李箱
+Termination Rate Added Successfully!,終止率已成功添加！
+Edit Termination Rate,編輯終止率
+Termination Rates Import Error,終止率導入錯誤
+Termination Rates Imported Successfully!,終止率已成功導入！
+Back to Origination Rates List,返回原始價格表
+Select,選擇
+pattern,模式
+comment,評論
+connectcost,連接成本
+includedseconds,包括秒
+init_inc,init_inc
+inc,公司
+prepend,前置
+cost ,成本
+strip,跳閘
+DID added successfully!,DID添加成功！
+DID updated successfully!,DID更新成功！
+Country Name,國家的名字
+PAID,已付
+PENDING,待處理
+FAIL,失敗
+ORDER,訂購
+payment method,付款方法
+Terminate Order,終止訂單
+Compose Email,編寫郵件
+Message,信息
+Send,發送
+SIP Port is Required.,SIP端口是必需的。
+Start,開始
+SIP Port is Required.,SIP端口是必需的。
+SIP IP is Required.,SIP IP是必需的。
+Name is Required.,名稱為必填項。
+The SIP Port field is Required.,“ SIP端口”字段是必填字段。
+The SIP Port field must contain only numbers.,SIP端口字段必須僅包含數字。
+The SIP Port field can not exceed 5 characters in length.,SIP端口字段的長度不能超過5個字符。
+Value is Required.,值是必需的。
+Value,值
+Update Setting,更新設定
+Add Setting,添加設置
+Edit Freeswitch Server,編輯Freeswitch服務器
+CUT,切
+ADD,加
+Edit Localization,編輯本地化
+Callbarring Settings Added Successfully!,呼叫限制設置已成功添加！
+Edit Call Barring,編輯通話限制
+Callbarring Settings Updated Successfully!,呼叫限制設置已成功更新！
+The Name field is required.,名稱字段是必需的。
+Please select file.,請選擇文件。
+Database import allows only gzfile types of file.,數據庫導入僅允許使用gzfile類型的文件。
+File must be in (.gz) format :,文件必須為（.gz）格式：
+The Coupon Number field must contain only numbers.,優惠券編號字段必須僅包含數字。
+The Coupon Number field have inactive refill coupon.,優惠券編號字段具有無效的充值優惠券。
+This Coupon Number is already in use.,此優惠券號已被使用。
+This Coupon Number is not found.,找不到此優惠券編號。
+The Coupon Number field is required.,優惠券編號字段為必填項。
+Select Customer.,選擇客戶。
+Please enter your email,請輸入您的電子郵件
+Please enter proper email,請輸入正確的電子郵件
+The Caller ID field is required.,來電顯示字段為必填項。
+Please enter your password,請輸入您的密碼
+Please enter your first name,請輸入您的名字
+Please enter your email,請輸入您的電子郵件
+This field is require,此字段為必填項
+The IP field must contain a unique value.,IP字段必須包含唯一值。
+The Name field is required.,名稱字段是必需的。
+The IP field is required.,IP字段是必填字段。
+Please Enter Valid Account Number,請輸入有效帳號
+Main,主要
+--Select Disposition--,-選擇處置-
+Group By #time,按＃時間分組
+Active User,活躍用戶
+Used Minutes,使用時間
+Available Minutes,可用時間
+Total Price,總價
+Total User,總用戶
+Resend Mail,重新發送郵件
+Restore,恢復
+View Details,查看詳情
+Other,其他
+Edit Tax,編輯稅收
+Edit Country,編輯國家
+Download Database,下載資料庫
+Import Database,導入數據庫
+File must be in (.gz) format,文件必須為（.gz）格式
+ Please select file., 請選擇文件。
+Please enter name and select file.,請輸入名稱並選擇文件。
+Edit Cron Settings,編輯Cron設定
+Global Settings updated sucessfully!,全局設置已成功更新！
+Alert Notifications,警報通知
+Fraud Configuration,欺詐配置
+Configuration add,配置添加
+Alarm Configuration,報警配置
+Please select atleast one pattern.,請選擇至少一種模式。
+Problem In Add Patterns to account.,向帳戶添加模式時出現問題。
+Blocked Codes,被阻止的代碼
+The IP field must contain a unique value.,IP字段必須包含唯一值。
+The IP field is required.,IP字段是必填字段。
+Please Enter Switch command,請輸入切換命令
+are you sure to delete?,您確定要刪除嗎？
+Are you sure want to confirm this invoice ? once you confirm it,您確定要確認此發票嗎？一旦確認
+can not able to edit invoice again.,無法再次編輯發票。
+Maximum Logo upload size is 1MB,徽標最大上傳大小為1MB
+Profit per day,每日利潤
+Please enter number,請輸入號碼
+Import Customer,導入客戶
+Processing,處理中
+please wait,請耐心等待
+U.S. Dollar (USD),美元（USD）
+Account Number,賬號
+Selected records has been deleted.,所選記錄已被刪除。
+Processing,處理中
+Invoice Due Date,發票到期日
+This month credits,本月學分
+Product & Services,產品與服務
+Total Calls Amount,總通話量
+Total Amount (Inc. tax),總金額（含稅）
+Bill To,記賬到
+Subtotal,小計
+Emails,電郵
+Add IP Settings,添加IP設置
+Edit IP Settings,編輯IP設定
+Edit Caller ID,編輯來電顯示
+Reseller Type,轉銷商類型
+Distributor,發行人
+Commission Based,基於佣金
+Invoice Date Interval,發票日期間隔
+Please select atleast one record to delete.,請選擇至少一條記錄以刪除。
+Are you sure you want to delete? This action will delete all other data which belongs to this account(s).,你確定你要刪除？此操作將刪除該帳戶的所有其他數據。
+Days to Unhold,待定天數
+DID,DID
+Access Numbers,訪問號碼
+Create Duplicate Rate Group,創建重複費率組
+Connection,連接
+Effective Date,生效日期
+Effective Date Time,生效日期時間
+Effective From Date,生效日期
+Effective To Date,生效日期
+Edit Ratedeck,編輯評分
+Routing,路由
+Initial,初始
+Edit Rate Group,編輯費率組
+Effective,有效
+Begin zone,開始區域
+Are you sure you want to delete this selected records?,您確定要刪除此選定記錄嗎？
+Nothing selected,沒有選擇
+Please check your customers calls are running or not if running then may be customer balance goes in nagative!,請檢查您的客戶呼叫是否正在運行，如果正在運行，則可能是客戶餘額下降了！
+Stop,停止
+Reload,重裝
+Rescan,重新掃描
+Template(regexp),模板（正則表達式）
+Destination Based CallerId,基於目的地的CallerId
+Provider Summary,提供商摘要
+Notification History,通知記錄
+Are you sure you want to delete?,你確定你要刪除？
+Address1,地址1
+ (250 * 60),  （250 * 60）
+" (Allowed Extensions JPG, PNG, JPEG)",  （允許擴展名JPG，PNG，JPEG）
+ (16 * 16),  （16 * 16）
+" (Allowed Extensions ICO, PNG, JPG, JPEG)",  （允許擴展ICO，PNG，JPG，JPEG）
+SMTP Email Test,SMTP電子郵件測試
+Email Body,郵件正文
+Alert Body,警報主體
+Are you sure want to restore this database?,您確定要還原此數據庫嗎？
+Forwarding,轉寄
+DID-Local,DID本地
+DID@IP/URL,DID @ IP / URL
+Direct-IP,直接IP
+PSTN,活塞
+SIP-DID,SIP-DID
+Edit Access number,編輯訪問號碼
+Realm,領域
+Reg-Transport,註冊運輸
+Gateway,網關
+Failover,故障轉移
+GW Name #1,GW名稱1
+GW Name #2,GW名稱＃2
+Count,計數
+Rate Type,費率類型
+Refill,筆芯
+Full Price,全價
+Max. Days,最高 天
+Max. Minute,最高 分鐘
+Both of one Maximum,兩者最大
+Both,都
+Please check your customers calls are running or not. if running then may be customer balance goes in nagative!,請檢查您的客戶電話是否正在運行。 如果運行則可能使客戶餘額下降！
+ESTONIA,愛沙尼亞
+CLI,命令行界面
+STANDARD,標準
+CALLINGCARD,電話卡
+FREE,自由
+LOCAL,本地
+Resand Email,重新發送電子郵件
+Sent,已發送
+Failed,失敗的
+Resent Email,重新發送電子郵件
+Org.,單位
+Pefix,佩克斯
+Term.,術語。
+GMT Offset,GMT偏移
+Add Timezone,添加時區
+Timezone List,時區清單
+Edit Timezone,編輯時區
+Folder Path,資料夾路徑
+Custom Rule,自訂規則
+Account Number Editable,帳號可編輯
+Packages,配套
+Terms & Condition,條款與協議
+Play Audio Notifications,播放音頻通知
+Sort cost based routing,排序基於成本的工藝路線
+Half Year,半年
+Open a Ticket,開票
+Licence,執照
+DID Reservation Days,DID預訂天數
+DID Reservation,DID預約
+Term_and_condition,規則與條例
+Text,文本
+Url,網址
+Generated,產生的
+Customer_permission,客戶許可
+Resend Email,重發電子郵件
+Create Translation Languages,創建翻譯語言
+Edit Translation Language,編輯翻譯語言
+Module Name,模塊名稱
+English,英語
+French,法文
+Chinese,中文
+German,德語
+Greek,希臘語
+Italian,義大利文
+Japanese,日本
+Portuguese,葡萄牙語
+Romanian,羅馬尼亞語
+Russian,俄語
+Spanish,西班牙文
+Both (Email & SMS),兩者（電子郵件和短信）
+Account Notification,帳戶通知
+Use Same Credential For Invoice Config,對發票配置使用相同的憑據
+Registration URL,註冊網址
+Admin_permission,管理員權限
+My Order,我的訂單
+please select any recharge amount,請選擇任何充值金額
+Todays Calls,今日通話
+Are you sure want to delete speed dial record?,您確定要刪除快速撥號記錄嗎？
+Buy DIDs,購買DID
+Purchased DID,購買的DID
+DID Information,DID信息
+Sell Cost,銷售成本
+Admin Rate Group,管理員費率組
+Copy From Rate Group,從費率組複製
+Search My Rates,搜索我的房價
+Read/Write,讀/寫
+Edit SIP Devices,編輯SIP設備
+Inextrix Technologies Pvt. Ltd All Rights Reserved.,Inextrix技術列兵。 有限公司保留所有權利。
+iNextrix Technologies Pvt. Ltd.,iNextrix技術列兵。 有限公司
+Bal,球
+Europe/Andorra,歐洲/安道爾
+Asia/Dubai,亞洲/迪拜
+Asia/Kabul,亞洲/喀布爾
+America/Antigua,美國/安提瓜
+America/Anguilla,美國/安圭拉
+Europe/Tirane,歐洲/地拉那
+Asia/Yerevan,亞洲/埃里溫
+Africa/Luanda,非洲/羅安達
+Antarctica/Casey,南極洲/凱西
+Antarctica/Davis,南極洲/戴維斯
+Antarctica/DumontDUrville,南極洲/杜蒙特
+Antarctica/Mawson,南極洲/莫森
+Antarctica/McMurdo,南極洲/麥克默多
+Antarctica/Palmer,南極洲/帕爾默
+Antarctica/Rothera,南極洲/羅瑟拉
+Antarctica/Syowa,南極洲/昭和
+Antarctica/Troll,南極/巨魔
+Antarctica/Vostok,南極洲/沃斯托克
+America/Argentina/Buenos_Aires,美國/阿根廷/布宜諾斯艾利斯
+America/Argentina/Catamarca,美國/阿根廷/卡塔馬卡
+America/Argentina/Cordoba,美國/阿根廷/科爾多瓦
+America/Argentina/Jujuy,美國/阿根廷/胡胡伊
+America/Argentina/La_Rioja,美國/阿根廷/拉里奧哈
+America/Argentina/Mendoza,美國/阿根廷/門多薩
+America/Argentina/Rio_Gallegos,美國/阿根廷/里約熱內盧
+America/Argentina/Salta,美國/阿根廷/薩爾塔
+America/Argentina/San_Juan,美國/阿根廷/聖胡安
+America/Argentina/San_Luis,美國/阿根廷/聖路易斯
+America/Argentina/Tucuman,美國/阿根廷/土庫曼
+America/Argentina/Ushuaia,美國/阿根廷/烏斯懷亞
+Pacific/Pago_Pago,太平洋/帕果
+Europe/Vienna,歐洲/維也納
+Antarctica/Macquarie,南極/麥格理
+Australia/Adelaide,澳大利亞/阿德萊德
+Australia/Brisbane,澳大利亞/布里斯班
+Australia/Broken_Hill,澳大利亞/斷山
+Australia/Currie,澳大利亞/科里
+Australia/Darwin,澳大利亞/達爾文
+Australia/Eucla,澳大利亞/尤克拉
+Australia/Hobart,澳大利亞/霍巴特
+Australia/Lindeman,澳大利亞/林德曼
+Australia/Lord_Howe,澳大利亞/豪勳爵
+Australia/Melbourne,澳大利亞/墨爾本
+Australia/Perth,澳大利亞/珀斯
+Australia/Sydney,澳大利亞/悉尼
+America/Aruba,美國/阿魯巴
+Europe/Mariehamn,歐洲/瑪麗港
+Asia/Baku,亞洲/巴庫
+Europe/Sarajevo,歐洲/薩拉熱窩
+America/Barbados,美國/巴巴多斯
+Asia/Dhaka,亞洲/達卡
+Europe/Brussels,歐洲/布魯塞爾
+Africa/Ouagadougou,非洲/瓦加杜古
+Europe/Sofia,歐洲/索非亞
+Asia/Bahrain,亞洲/巴林
+Africa/Bujumbura,非洲/布瓊布拉
+Africa/Porto-Novo,非洲/波多諾伏
+America/St_Barthelemy,美國/聖巴托洛繆島
+Atlantic/Bermuda,大西洋/百慕大
+Asia/Brunei,亞洲/文萊
+America/La_Paz,美洲/拉巴斯
+America/Kralendijk,美國/克拉倫代克
+America/Araguaina,美國/阿拉瓜那
+America/Bahia,美國/巴伊亞州
+America/Belem,美國/貝倫
+America/Boa_Vista,美國/ Boa_Vista
+America/Campo_Grande,美國/ Campo_Grande
+America/Cuiaba,美國/庫亞巴
+America/Eirunepe,美國/埃魯尼佩
+America/Fortaleza,美國/福塔雷薩
+America/Maceio,美國/馬塞約
+America/Manaus,美國/馬瑙斯
+America/Noronha,美國/諾羅尼亞
+America/Porto_Velho,美國/ Porto_Velho
+America/Recife,美國/累西腓
+America/Rio_Branco,美國/里約布蘭科
+America/Santarem,美國/聖塔倫
+America/Sao_Paulo,美國/聖保羅
+America/Nassau,美國/拿騷
+Asia/Thimphu,亞洲/廷布
+Africa/Gaborone,非洲/加博隆
+Europe/Minsk,歐洲/明斯克
+America/Belize,美國/伯利茲
+America/Atikokan,美國/ Atikokan
+America/Blanc-Sablon,美國/布蘭-薩布隆
+America/Cambridge_Bay,美洲/劍橋灣
+America/Creston,美國/克雷斯頓
+America/Dawson,美國/道森
+America/Dawson_Creek,美國/道森克里克
+America/Edmonton,美國/埃德蒙頓
+America/Fort_Nelson,美國/納爾遜堡
+America/Glace_Bay,美國/ Glace_Bay
+America/Goose_Bay,美國/鵝灣
+America/Halifax,美國/哈利法克斯
+America/Inuvik,美國/ Inuvik
+America/Iqaluit,美國/伊卡盧特
+America/Moncton,美國/蒙克頓
+America/Nipigon,美國/尼皮貢
+America/Pangnirtung,美國/龐尼城
+America/Rainy_River,美國/多雨河
+America/Rankin_Inlet,美國/ Rankin_Inlet
+America/Regina,美國/里賈納
+America/Resolute,美國/堅決
+America/St_Johns,美國/聖約翰
+America/Swift_Current,America / Swift_Current
+America/Thunder_Bay,美國/雷霆灣
+America/Toronto,美國/多倫多
+America/Vancouver,美國/溫哥華
+America/Whitehorse,美國/懷特霍斯
+America/Winnipeg,美國/溫尼伯
+America/Yellowknife,美國/黃刀
+Indian/Cocos,印度/可可
+Africa/Kinshasa,非洲/金沙薩
+Africa/Lubumbashi,非洲/盧本巴希
+Africa/Bangui,非洲/班吉
+Africa/Brazzaville,非洲/布拉柴維爾
+Europe/Zurich,歐洲/蘇黎世
+Africa/Abidjan,非洲/阿比讓
+Pacific/Rarotonga,太平洋/拉羅通加
+America/Punta_Arenas,美國/蓬塔阿雷納斯
+America/Santiago,美國/聖地亞哥
+Pacific/Easter,太平洋/復活節
+Africa/Douala,非洲/杜阿拉
+Asia/Shanghai,亞洲/上海
+Asia/Urumqi,亞洲/烏魯木齊
+America/Bogota,美國/波哥大
+America/Costa_Rica,美國/哥斯達黎加
+America/Havana,美國/哈瓦那
+Atlantic/Cape_Verde,大西洋/佛得角
+America/Curacao,美國/庫拉索島
+Indian/Christmas,印度/聖誕節
+Asia/Famagusta,亞洲/法馬古斯塔
+Asia/Nicosia,亞洲/尼科西亞
+Europe/Prague,歐洲/布拉格
+Europe/Berlin,歐洲/柏林
+Europe/Busingen,歐洲/布辛根
+Africa/Djibouti,非洲/吉布提
+Europe/Copenhagen,歐洲/哥本哈根
+America/Dominica,美國/多米尼加
+America/Santo_Domingo,美國/聖多明各
+Africa/Algiers,非洲/阿爾及爾
+America/Guayaquil,美國/瓜亞基爾
+Pacific/Galapagos,太平洋/加拉帕戈斯
+Europe/Tallinn,歐洲/塔林
+Africa/Cairo,非洲/開羅
+Africa/El_Aaiun,非洲/ El_Aaiun
+Africa/Asmara,非洲/阿斯馬拉
+Africa/Ceuta,非洲/休達
+Atlantic/Canary,大西洋/金絲雀
+Europe/Madrid,歐洲/馬德里
+Africa/Addis_Ababa,非洲/亞的斯亞貝巴
+Europe/Helsinki,歐洲/赫爾辛基
+Pacific/Fiji,太平洋/斐濟
+Atlantic/Stanley,大西洋/史丹利
+Pacific/Chuuk,太平洋/楚克
+Pacific/Kosrae,太平洋/科斯雷
+Pacific/Pohnpei,太平洋/龐貝
+Atlantic/Faroe,大西洋/法羅
+Europe/Paris,歐洲/巴黎
+Africa/Libreville,非洲/利伯維爾
+Europe/London,歐洲/倫敦
+America/Grenada,美國/格林納達
+Asia/Tbilisi,亞洲/第比利斯
+America/Cayenne,美國/卡宴
+Europe/Guernsey,歐洲/根西島
+Africa/Accra,非洲/阿克拉
+Europe/Gibraltar,歐洲/直布羅陀
+America/Danmarkshavn,美國/丹麥
+America/Nuuk,美國/努克
+America/Scoresbysund,美國/斯科比斯松
+America/Thule,美國/圖勒
+Africa/Banjul,非洲/班珠爾
+Africa/Conakry,非洲/科納克里
+America/Guadeloupe,美國/瓜德羅普島
+Africa/Malabo,非洲/馬拉博
+Europe/Athens,歐洲/雅典
+Atlantic/South_Georgia,大西洋/南喬治亞
+America/Guatemala,美國/危地馬拉
+Pacific/Guam,太平洋/關島
+Africa/Bissau,非洲/比紹
+America/Guyana,美國/圭亞那
+Asia/Hong_Kong,亞洲/香港
+America/Tegucigalpa,美國/特古西加爾巴
+Europe/Zagreb,歐洲/薩格勒布
+America/Port-au-Prince,美國/太子港
+Europe/Budapest,歐洲/布達佩斯
+Asia/Jakarta,亞洲/雅加達
+Asia/Jayapura,亞洲/賈亞普拉
+Asia/Makassar,亞洲/馬卡薩爾
+Asia/Pontianak,亞洲/蓬塔納克
+Europe/Dublin,歐洲/都柏林
+Asia/Jerusalem,亞洲/耶路撒冷
+Europe/Isle_of_Man,歐洲/馬恩島
+Asia/Kolkata,亞洲/加爾各答
+Indian/Chagos,印度/查戈斯
+Asia/Baghdad,亞洲/巴格達
+Asia/Tehran,亞洲/德黑蘭
+Atlantic/Reykjavik,大西洋/雷克雅未克
+Europe/Rome,歐洲/羅馬
+Europe/Jersey,歐洲/澤西島
+America/Jamaica,美國/牙買加
+Asia/Amman,亞洲/安曼
+Asia/Tokyo,亞洲/東京
+Africa/Nairobi,非洲/內羅畢
+Asia/Bishkek,亞洲/比什凱克
+Asia/Phnom_Penh,亞洲/金邊
+Pacific/Enderbury,太平洋/恩德伯里
+Pacific/Kiritimati,太平洋/基里蒂馬蒂
+Pacific/Tarawa,太平洋/塔拉瓦
+Indian/Comoro,印度/科摩羅
+America/St_Kitts,美國/聖基茨
+Asia/Pyongyang,亞洲/平壤
+Asia/Seoul,亞洲/首爾
+Asia/Kuwait,亞洲/科威特
+America/Cayman,美國/開曼
+Asia/Almaty,亞洲/阿拉木圖
+Asia/Aqtau,亞洲/阿克套
+Asia/Aqtobe,亞洲/阿克托比
+Asia/Atyrau,亞洲/阿特勞
+Asia/Oral,亞洲/口頭
+Asia/Qostanay,亞洲/ Qostanay
+Asia/Qyzylorda,亞洲/齊齊洛達
+Asia/Vientiane,亞洲/萬象
+Asia/Beirut,亞洲/貝魯特
+America/St_Lucia,美國/聖盧西亞
+Europe/Vaduz,歐洲/瓦杜茲
+Asia/Colombo,亞洲/科倫坡
+Africa/Monrovia,非洲/蒙羅維亞
+Africa/Maseru,非洲/馬塞魯
+Europe/Vilnius,歐洲/維爾紐斯
+Europe/Luxembourg,歐洲/盧森堡
+Europe/Riga,歐洲/裡加
+Africa/Tripoli,非洲/的黎波里
+Africa/Casablanca,非洲/卡薩布蘭卡
+Europe/Monaco,歐洲/摩納哥
+Europe/Chisinau,歐洲/基希訥烏
+Europe/Podgorica,歐洲/波德戈里察
+America/Marigot,美國/黑桃
+Indian/Antananarivo,印度/塔那那利佛
+Pacific/Kwajalein,太平洋/誇賈林
+Pacific/Majuro,太平洋/馬朱羅
+Europe/Skopje,歐洲/斯科普里
+Africa/Bamako,非洲/巴馬科
+Asia/Yangon,亞洲/仰光
+Asia/Choibalsan,亞洲/喬瓦山
+Asia/Hovd,亞洲/香港
+Asia/Ulaanbaatar,亞洲/烏蘭巴托
+Asia/Macau,亞洲/澳門
+Pacific/Saipan,太平洋/塞班島
+America/Martinique,美國/馬提尼克
+Africa/Nouakchott,非洲/努瓦克肖特
+America/Montserrat,美國/蒙特塞拉特
+Europe/Malta,歐洲/馬耳他
+Indian/Mauritius,印度/毛里求斯
+Indian/Maldives,印度/馬爾代夫
+Africa/Blantyre,非洲/布蘭太爾
+America/Bahia_Banderas,美國/巴伊亞州_班德拉斯
+America/Cancun,美國/坎昆
+America/Chihuahua,美國/奇瓦瓦州
+America/Hermosillo,美國/埃莫西約
+America/Matamoros,美國/馬塔莫羅斯
+America/Mazatlan,美國/馬薩特蘭
+America/Merida,美國/梅里達
+America/Mexico_City,美國/墨西哥城
+America/Monterrey,美國/蒙特雷
+America/Ojinaga,美國/沖繩
+America/Tijuana,美國/蒂華納
+Asia/Kuala_Lumpur,亞洲/吉隆坡
+Asia/Kuching,亞洲/古晉
+Africa/Maputo,非洲/馬普托
+Africa/Windhoek,非洲/溫得和克
+Pacific/Noumea,太平洋/努美阿
+Africa/Niamey,非洲/尼亞美
+Pacific/Norfolk,太平洋/諾福克
+Africa/Lagos,非洲/拉各斯
+America/Managua,美國/馬那瓜
+Europe/Amsterdam,歐洲/阿姆斯特丹
+Europe/Oslo,歐洲/奧斯陸
+Asia/Kathmandu,亞洲/加德滿都
+Pacific/Nauru,太平洋/瑙魯
+Pacific/Niue,太平洋/紐埃
+Pacific/Auckland,太平洋/奧克蘭
+Pacific/Chatham,太平洋/查塔姆
+Asia/Muscat,亞洲/馬斯喀特
+America/Panama,美國/巴拿馬
+America/Lima,美國/利馬
+Pacific/Gambier,太平洋/甘比爾
+Pacific/Marquesas,太平洋/馬克薩斯
+Pacific/Tahiti,太平洋/大溪地
+Pacific/Bougainville,太平洋/九重葛
+Pacific/Port_Moresby,太平洋/莫爾斯比港
+Asia/Manila,亞洲/馬尼拉
+Asia/Karachi,亞洲/卡拉奇
+Europe/Warsaw,歐洲/華沙
+America/Miquelon,美國/密克隆
+Pacific/Pitcairn,太平洋/皮特凱恩
+America/Puerto_Rico,美國/波多黎各
+Asia/Gaza,亞洲/加沙
+Asia/Hebron,亞洲/希伯倫
+Atlantic/Azores,大西洋/亞速爾群島
+Atlantic/Madeira,大西洋/馬德拉
+Europe/Lisbon,歐洲/里斯本
+Pacific/Palau,太平洋/帕勞
+America/Asuncion,美國/亞松森
+Asia/Qatar,亞洲/卡塔爾
+Indian/Reunion,印度/留尼旺
+Europe/Bucharest,歐洲/布加勒斯特
+Europe/Belgrade,歐洲/貝爾格萊德
+Asia/Anadyr,亞洲/ Anadyr
+Asia/Barnaul,亞洲/巴爾瑙爾
+Asia/Chita,亞洲/赤塔
+Asia/Irkutsk,亞洲/伊爾庫茨克
+Asia/Kamchatka,亞洲/堪察加半島
+Asia/Khandyga,亞洲/坎迪加
+Asia/Krasnoyarsk,亞洲/克拉斯諾亞爾斯克
+Asia/Magadan,亞洲/馬達加丹
+Asia/Novokuznetsk,亞洲/新庫茲涅茨克
+Asia/Novosibirsk,亞洲/新西伯利亞
+Asia/Omsk,亞洲/鄂木斯克
+Asia/Sakhalin,亞洲/薩哈林島
+Asia/Srednekolymsk,亞洲/斯雷德涅科林斯克
+Asia/Tomsk,亞洲/托木斯克
+Asia/Ust-Nera,亞洲/烏斯特-奈拉
+Asia/Vladivostok,亞洲/符拉迪沃斯托克（海參div）
+Asia/Yakutsk,亞洲/雅庫茨克
+Asia/Yekaterinburg,亞洲/葉卡捷琳堡
+Europe/Astrakhan,歐洲/阿斯特拉罕
+Europe/Kaliningrad,歐洲/加里寧格勒
+Europe/Kirov,歐洲/基洛夫
+Europe/Moscow,歐洲/莫斯科
+Europe/Samara,歐洲/薩馬拉
+Europe/Saratov,歐洲/薩拉托夫
+Europe/Ulyanovsk,歐洲/烏利亞諾夫斯克
+Europe/Volgograd,歐洲/伏爾加格勒
+Africa/Kigali,非洲/基加利
+Asia/Riyadh,亞洲/利雅得
+Pacific/Guadalcanal,太平洋/瓜達爾卡納爾島
+Indian/Mahe,印度/馬赫
+Africa/Khartoum,非洲/喀土穆
+Europe/Stockholm,歐洲/斯德哥爾摩
+Asia/Singapore,亞洲/新加坡
+Atlantic/St_Helena,大西洋/聖海倫娜
+Europe/Ljubljana,歐洲/盧布爾雅那
+Arctic/Longyearbyen,北極/朗伊爾城
+Europe/Bratislava,歐洲/布拉迪斯拉發
+Africa/Freetown,非洲/弗里敦
+Europe/San_Marino,歐洲/聖馬力諾
+Africa/Dakar,非洲/達喀爾
+Africa/Mogadishu,非洲/摩加迪沙
+America/Paramaribo,美國/巴拉馬里博
+Africa/Juba,非洲/朱巴
+Africa/Sao_Tome,非洲/聖保羅
+America/El_Salvador,美國/薩爾瓦多
+America/Lower_Princes,美國/下王子
+Asia/Damascus,亞洲/大馬士革
+Africa/Mbabane,非洲/姆巴巴內
+America/Grand_Turk,美國/大突厥
+Africa/Ndjamena,非洲/恩賈梅納
+Indian/Kerguelen,印度/克格倫
+Africa/Lome,非洲/洛美
+Asia/Bangkok,亞洲/曼谷
+Asia/Dushanbe,亞洲/杜尚別
+Pacific/Fakaofo,太平洋/法考福
+Asia/Dili,亞洲/帝力
+Asia/Ashgabat,亞洲/阿什哈巴德
+Africa/Tunis,非洲/突尼斯
+Pacific/Tongatapu,太平洋/湯加塔普
+Europe/Istanbul,歐洲/伊斯坦布爾
+America/Port_of_Spain,美國/西班牙港
+Pacific/Funafuti,太平洋/富納富提
+Asia/Taipei,亞洲/台北
+Africa/Dar_es_Salaam,非洲/達累斯薩拉姆
+Europe/Kiev,歐洲/基輔
+Europe/Simferopol,歐洲/辛菲羅波爾
+Europe/Uzhgorod,歐洲/烏日哥羅德
+Europe/Zaporozhye,歐洲/扎波羅熱
+Africa/Kampala,非洲/坎帕拉
+Pacific/Midway,太平洋/中途島
+Pacific/Wake,太平洋/甦醒
+America/Adak,美國/阿達克
+America/Anchorage,美國/安克雷奇
+America/Boise,美國/博伊西
+America/Chicago,美國/芝加哥
+America/Denver,美國/丹佛
+America/Detroit,美國/底特律
+America/Indiana/Indianapolis,美國/印第安納州/印第安納波利斯
+America/Indiana/Knox,美國/印第安納州/諾克斯
+America/Indiana/Marengo,美國/印第安納州/馬倫戈
+America/Indiana/Petersburg,美國/印第安納州/彼得斯堡
+America/Indiana/Tell_City,美洲/印第安納州/特拉城
+America/Indiana/Vevay,美國/印第安納州/韋韋
+America/Indiana/Vincennes,美國/印第安納州/文森斯
+America/Indiana/Winamac,美洲/印第安納州/威納馬克
+America/Juneau,美國/朱諾
+America/Kentucky/Louisville,美國/肯塔基州/路易斯維爾
+America/Kentucky/Monticello,美國/肯塔基州/蒙蒂塞洛
+America/Los_Angeles,美國/洛杉磯
+America/Menominee,美國/密胺
+America/Metlakatla,美國/梅特拉卡特拉
+America/New_York,美國/紐約
+America/Nome,美國/ Nome
+America/North_Dakota/Beulah,美國/北達科他州/比拉
+America/North_Dakota/Center,美國/北達科他州/中心
+America/North_Dakota/New_Salem,美洲/北達科他州/新薩勒姆
+America/Phoenix,美國/鳳凰城
+America/Sitka,美國/錫特卡
+America/Yakutat,美國/雅庫特
+Pacific/Honolulu,太平洋/檀香山
+America/Montevideo,美國/蒙得維的亞
+Asia/Samarkand,亞洲/撒馬爾罕
+Asia/Tashkent,亞洲/塔什幹
+Europe/Vatican,歐洲/梵蒂岡
+America/St_Vincent,美國/聖文森特
+America/Caracas,美國/加拉加斯
+America/Tortola,美國/托托拉
+America/St_Thomas,美國/聖托馬斯
+Asia/Ho_Chi_Minh,亞洲/胡志明市
+Pacific/Efate,太平洋/命運
+Pacific/Wallis,太平洋/沃利斯
+Pacific/Apia,太平洋/阿皮亞
+Asia/Aden,亞洲/亞丁
+Indian/Mayotte,印度/馬約特島
+Africa/Johannesburg,非洲/約翰內斯堡
+Africa/Lusaka,非洲/盧薩卡
+Africa/Harare,非洲/哈拉雷
+Company Profile,公司簡介
+Opensips Dispatcher,Opensips調度程序
+ACCOUNT_INACTIVE_DELETED,帳戶無效，已刪除
+ACCOUNT_EXPIRE,帳戶到期
+ALLOTTED_TIMEOUT,分配超時
+AUTHENTICATION_FAIL,認證失敗
+BEARERCAPABILITY_NOTAUTH,承載能力聲明
+BEARERCAPABILITY_NOTAVAIL,承載能力聲明
+BEARERCAPABILITY_NOTIMPL,承載能力通知
+CALL_REJECTED,拒絕來電
+CHAN_NOT_IMPLEMENTED,CHAN未執行
+CHANNEL_UNACCEPTABLE,頻道無法接受
+DESTINATION_OUT_OF_ORDER,目的地外
+DESTINATION_BLOCKED,目的地被封鎖
+DID_DESTINATION_NOT_FOUND,未找到目的地
+FACILITY_REJECTED,設施被拒絕
+FACILITY_NOT_SUBSCRIBED,未訂閱的設施
+FACILITY_NOT_IMPLEMENTED,設施未實施
+FRAUD_CALL_PER_ACCOUNT,每個帳戶的欺詐電話
+FRAUD_CALL_PER_DESTINATION,每個目的地的欺詐呼叫
+FRAUD_COST_PER_ACCOUNT,每個帳戶的欺詐成本
+FRAUD_COST_PER_DESTINATION,每個目的地的欺詐成本
+INVALID_NUMBER_FORMAT,無效的數字格式
+INCOMPATIBLE_DESTINATION,目的地不相容
+MANAGER_REQUEST,經理要求
+MEDIA_TIMEOUT,媒體超時
+NO_ROUTE_DESTINATION,沒有路線目的地
+NORMAL_CLEARING,正常清除
+NETWORK_OUT_OF_ORDER,網絡亂序
+NORMAL_UNSPECIFIED,正常的
+NORMAL_CIRCUIT_CONGESTION,正常電路擁塞
+NORMAL_TEMPORARY_FAILURE,正常臨時故障
+NO_SUFFICIENT_FUND,沒有足夠的資金
+NO_USER_RESPONSE,沒有用戶回應
+NO_ANSWER,沒有答案
+NUMBER_CHANGED,號碼已更改
+ORIGINATOR_CANCEL,原廠取消
+ORIGNATION_RATE_NOT_FOUND,未找到定位率
+OUTGOING_CALL_BARRED,撥出電話
+PROGRESS_TIMEOUT,進度超時
+RECOVERY_ON_TIMER_EXPIRE,計時器到期後恢復
+RESELLER_COST_CHEAP,經銷商費用便宜
+SERVICE_NOT_IMPLEMENTED,服務未實施
+SERVICE_UNAVAILABLE,暫停服務
+SUCCESS,成功
+SWITCH_CONGESTION,開關擁塞
+TERMINATION_RATE_NOT_FOUND,未找到終止率
+UNSPECIFIED,未審查
+UNALLOCATED_NUMBER,未分配的號碼
+USER_BUSY,用戶忙
+USER_NOT_REGISTERED,用戶未註冊
+REQUESTED_CHAN_UNAVAIL,要求CHAN無效
+SUBSCRIBER_ABSENT,訂戶缺席
+account_refilled,賬戶充值
+create_account,創建帳號
+create_sip_device,創建SIP設備
+new_invoice,新發票
+low_balance,低餘額
+signup_confirmation,註冊確認
+new_password,新密碼
+forgot_password_confirmation,忘記密碼確認
+invoice_due_reminder,發票到期提醒
+new_archive_table,新檔案表
+balance_tranfer,餘額轉移
+product_purchase,產品購買
+product_release,產品發布
+product_renewal_notice,產品更新通知
+product_renewed,產品更新
+product_commission,產品佣金
+cdrs_archive_table_create_success,cdrs存檔表創建成功
+cdrs_archive_table_create_fail,cdrs存檔表創建失敗
+reset_password,重設密碼
+international_low_balance,國際低餘額
+account_postcharge,帳戶附加費
+Caller Id (CLI Match - If not matched then use random allocated Caller Id),呼叫者ID（CLI匹配-如果不匹配，則使用隨機分配的呼叫者ID）
+DID (CLI Match - If not matched then use random allocated DID),DID（CLI匹配-如果不匹配，則使用隨機分配的DID）
+ERROR:No Reords found.,錯誤：找不到序號。
+Sub Admin,副管理員
+Create Account Range For Customer,為客戶創建帳戶範圍
+Minimum Account Number,最低帳號
+Maximum Account Number,最大帳號
+Create Account Range For Reseller,創建轉銷商帳戶範圍
+Create Account Range For Provider,為提供商創建帳戶範圍
+International Credits,國際學分
+Recharge,充值
+Basic Details,基本細節
+International Balance,國際平衡
+InternationalPrefixes,國際前綴
+International Prefixes,國際前綴
+International Credit Limit,國際信用額度
+Create Local Number,創建本地號碼
+Local Number Import Process,本地號碼導入過程
+Import Local Number,導入本地號碼
+Edit Local Number,編輯本地號碼
+Mailchimp,Mailchimp
+Mailchimp API Key,Mailchimp API密鑰
+Mailchimp Audience Id,Mailchimp受眾群體ID
+Support Tickets,支持票
+Support Ticket,支持票
+Create Support Ticket,創建支持票
+Open New Ticket,打開新票
+Department,部門
+Attach more files,附加更多文件
+Reply,回复
+Submit,提交
+High,高
+Normal,正常
+Low,低
+Open,打開
+Answered,已回答
+Customer-Reply,客戶回复
+On-hold,等候接聽
+Progress,進展
+Ticket Number,票號
+Close Support Ticket,關閉支持票
+Last Reply,最後回覆
+Ticket No,票號
+--All--, - 所有 - 
+Add Department,新增部門
+Department List,部門清單
+SMTP Details,SMTP詳細信息
+Department Additional Email Address,部門附加電子郵件地址
+Department User,部門用戶
+Charge Full Amount,收取全額
+Based On Utilized Days,基於使用天數
+XML Updated Successfully!,XML更新成功！
+ACL Reload Successfully!,ACL重新加載成功！
+ACL Management,ACL管理
+XML,XML格式
+XML is Required!,XML是必需的！
+Reload ACL,重新加載ACL
+Low Balance,低餘額
+Current Balance,當前餘額
+Trunk Statistics,中繼統計
+Create Account Range,創建帳戶範圍
+Recharge done successfully!,充值成功完成！
+Duplicate Local number found from database,從數據庫找到重複的本地號碼
+Country not valid.,國家/地區無效。
+Duplicate Local number found from import file.,從導入文件中找到重複的本地號碼。
+Local Number Import Error,本地號碼導入錯誤
+Local number updated successfully!,本地號碼更新成功！
+Local number added successfully!,本地號碼添加成功！
+Local number removed successfully!,本地號碼已成功刪除！
+Local number forwarding successfully!,本地號碼轉發成功！
+Destination Number,目的地號碼
+Destination Name,目的地名稱
+Add Local Number,添加本地號碼
+Added Date,上架日期
+Support ticket removed successfully!,支持憑單已成功刪除！
+Support ticket generated successfully!,支持票成功生成！
+Edit Ticket,編輯票證
+Create Department,創建部門
+Department added successfully!,部門添加成功！
+Department removed successfully!,部門成功移除！
+Import Area Code,進口區號
+Back to Area Code List,返回區號列表
+Alarm added successfully!,警報已成功添加！
+Alarm updated successfully!,警報更新成功！
+Add Custom Rate,添加自定義費率
+Custom Rate Updated Successfully!,自定義費率已成功更新！
+Custom Rate Added Successfully!,自定義費率已成功添加！
+Custom rate removed successfully!,自定義費率已成功刪除！
+Delete Search Record,刪除搜索記錄
+Add Prefixes,添加前綴
+Register Gateway Information,註冊網關信息
+Authentication,認證方式
+Please Enter Valid Key,請輸入有效密鑰
+Alert,警報
+Remote Check Failed,遠程檢查失敗
+MD5 Checksum Verification Failed,MD5校驗和驗證失敗
+Gateway ragister fail please try again,網關憤怒失敗，請重試
+Context,語境
+Expires,過期
+Frequency,頻率
+Ping Frequency,ping頻率
+Fails Call In,呼叫失敗
+Fails Call Out,呼出失敗
+Opensips Devices,Opensips設備
+Second,第二
+Add Auth Email,添加身份驗證電子郵件
+Edit Auth Email,編輯身份驗證電子郵件
+Add Authemail,添加Authemail
+Auth Email updated successfully!,驗證電子郵件已成功更新！
+Auth Email added successfully!,驗證電子郵件已成功添加！
+Auth Email removed successfully!,驗證電子郵件已成功刪除！
+Auth Email,驗證電子郵件
+Authemail added successfully!,Authemail添加成功！
+Please Enter Authemail value.,請輸入Authemail值。
+Authemail already Exists.,Authemail已經存在。
+Authemail removed sucessfully!,Authemail成功刪除！
+Auth Email List,驗證電子郵件列表
+Auth Mapping,認證映射
+Auth,驗證碼
+Authemail,Authemail
+Faxer,傳真機
+This file not avilable for download!,此文件不可下載！
+Create FAX,創建傳真
+Web2fax removed successfully!,Web2fax刪除成功！
+Fax Type,傳真類型
+Fax Number,傳真號碼
+Fax Format,傳真格式
+Fax Sent,傳真已發送
+Send Date,發送日期
+Files with format are allowed: .pdf,允許使用以下格式的文件：.pdf
+Send Fax,發送傳真
+Receive,接收
+Error,錯誤
+Conference List,會議名單
+Edit Conference,編輯會議
+Create Conference,建立會議
+Conference Added Successfully!,會議成功添加！
+Conference Updated Successfully!,會議更新成功！
+Conference removed successfully!,會議成功刪除！
+Conference profiles,會議簡介
+Create Conference profiles,創建會議資料
+Edit Conference Profile,編輯會議資料
+Conference Setting Added Successfully!,會議設置成功添加！
+Conference Setting Updated Successfully!,會議設置成功更新！
+Conference Profile Removed Successfully!,會議資料已成功刪除！
+Conference Profiles Added Successfully!,會議簡介已成功添加！
+Conference Profiles Updated Successfully!,會議簡介已成功更新！
+Conference profiles removed successfully!,會議配置文件已成功刪除！
+Conference controls List,會議控件列表
+Edit Conference Controls,編輯會議控件
+Conference Controls Removed Successfully!,會議控件已成功刪除！
+Conference Controls Added Successfully!,會議控件已成功添加！
+Conference Controls Updated Successfully!,會議控件已成功更新！
+Pin Number,針號
+Duration (Second),持續時間（第二）
+Greeting,問候語
+Create Conference Controls,創建會議控件
+Controls Name,控件名稱
+Data,數據
+Domains,域
+Edit Domains,編輯網域
+Domain Updated Successfully!,域已成功更新！
+Please enter proper domain value.,請輸入正確的域名。
+Domain name,域名
+Edit Domain,編輯網域
+Feature Code,功能碼
+Feature code removed successfully!,功能代碼已成功刪除！
+Feature code is already exist in system,系統中已經存在功能代碼
+Pickup Group,接送組
+Create Pickup Group,創建代答組
+Edit Pickup Group,編輯代答組
+Pickup group updated successfully!,代答組已成功更新！
+Pickup group added successfully!,代答組已成功添加！
+Pickup group removed successfully!,代答組已成功刪除！
+Feature,特徵
+IVR List,IVR列表
+Create IVR,創建IVR
+Edit IVR,編輯IVR
+Ivr added successfully!,IVR已成功添加！
+Ivr updated successfully!,IVR更新成功！
+Ivr removed successfully!,IVR成功移除！
+Caller ID Name Prefix,來電顯示名稱前綴
+Options,選件
+Advance,提前
+Add More,添加更多
+Ring Back,回電
+Invalid Retries,重試無效
+Timeout,超時
+Caller ID Number Prefix,來電顯示號碼前綴
+Invalid Message,無效訊息
+Welcome Greeting,歡迎辭
+Direct Dial,直撥
+Create Queue,創建隊列
+Edit Queue,編輯隊列
+Queue Added Successfully!,隊列添加成功！
+Queue Updated Successfully!,隊列更新成功！
+Queue removed successfully!,隊列已成功刪除！
+Agent Dial Number,座席撥號號碼
+Queues,s列
+Queue,隊列
+Edit Recording,編輯錄音
+Create Recording,創建錄音
+Recording Added Successfully!,錄製已成功添加！
+Recording deleted successfully!,錄音刪除成功！
+Recording Information,記錄信息
+to create a recording,創建錄音
+Dial,撥號
+Ring Group,環組
+Ring Group Add,環組添加
+Edit Ring Group,編輯鈴聲群組
+Create Ringgroup,創建環組
+Ring group added successfully!,環組添加成功！
+Ring group updated successfully!,鈴聲群組更新成功！
+Ring group deleted successfully!,環組刪除成功！
+Ring Group Information,環組信息
+Do you want create sip devices?,您要創建SIP設備嗎？
+Sip device Count,飲酒器數量
+Next,下一個
+Basic Settings,基本設置
+Ring Strategy,環網策略
+Sequence,序列
+Simultaneous,同時
+Delay (Seconds),延遲（秒）
+Timeout (Seconds),超時（秒）
+Prompt,提示
+Announcement,公告
+CID Name Prefix,CID名稱前綴
+CID Number Prefix,CID號碼前綴
+Call Recording,通話錄音
+Forcefully Enable,強制啟用
+Forcefully Disable,強制禁用
+Skip busy,跳過忙
+No Answer Call Type,無人接聽電話類型
+Call Routing,呼叫路由
+Enabled,已啟用
+Disabled,殘障人士
+Time Conditions List,時間條件列表
+Create Time Conditions,創建時間條件
+Edit Time Conditions,編輯時間條件
+Time Conditions Added Successfully!,時間條件已成功添加！
+Time Conditions Updated Successfully!,時間條件已成功更新！
+Time Conditions removed successfully!,時間條件已成功刪除！
+Failover Condition,故障轉移條件
+Start Hour,開始時間
+Week day,星期幾
+Month day,月日
+End Hour,結束時間
+Jan,一月
+Feb,二月
+Mar,三月
+Apr,四月
+Jun,君
+Jul,七月
+Aug,八月
+Sep,九月
+Oct,十月
+Nov,十一月
+Dec,十二月
+Sunday,星期日
+Monday,星期一
+Tuesday,星期二
+Wednesday,星期三
+Thursday,星期四
+Friday,星期五
+Saturday,星期六
+Extensions Destination,擴展目的地
+Extensions Call Type,分機呼叫類型
+Ignore Busy,忽略忙
+Do Not Disturb,請勿打擾
+Pickup Group List,代答組列表
+Allow Pickup Group List,允許代答組列表
+Not Registered,沒有註冊
+Call Waiting,呼叫等待
+On Busy,忙碌中
+No Answer,沒有答案
+Destinations,目的地
+Follow Me,跟著我
+Conference Profile,會議簡介
+Conference Controls,會議控制
+Conference,會議
+Time Conditions,時間條件
+RingGroup,環集團
+IVR,IVR
+Advance Settings,進階設定
+Agent Back-Tone,座席回音
+Customer Back-Tone,客戶回音
+Time Condition,時間條件
+LAST FTP PROCESS,最後的FTP過程
+Group Name,組名
+Ported Number List,移植號碼列表
+Import Ported Number,導入端口號
+has been uploaded successfully!,已成功上傳！
+Destination From,目的地來自
+Destination To,目的地
+Routing Label,路由標籤
+Number From,號碼來自
+Participant,參加者
+Number To,號碼至
+File must be in the following format(.gz):,文件必須採用以下格式（.gz）：
+Create Schedule Report,創建時間表報告
+Schedule Report,進度報告
+Schedule Report added successfully!,進度報告已成功添加！
+Schedule Report has been deleted !,時間表報告已刪除！
+Email ID,電子郵件ID
+Filters,篩選器
+Unique ID,唯一身份
+Call Start,通話開始
+Recurring Type,重複類型
+Field List,欄位清單
+Report Description,報告說明
+Are you sure you want to close?,您確定要關閉嗎？
+Alarm Name,警報名稱
+Alarm Type,警報類型
+Alarm On,警報開啟
+Threshold Value,門檻值
+Period,期
+Last Triggered Date,最後觸發日期
+Create Alarm,創建警報
+Ping Type,平型
+Freeswitch,自由開關
+Console,安慰
+Period (In Seconds),週期（秒）
+Edit Alarm,編輯鬧鐘
+CIC,中投公司
+Active Calls,通話中
+Call Alarms,通話警報
+Report,報告
+Triggered Value,觸發值
+Period,期
+Alarm Report,報警報告
+Resolved,解決
+Are you sure want to close selected alarm ?,您確定要關閉所選警報嗎？
+Country Report,國家報告
+Debits,借方
+ASR : Answer Seizure Ratio,ASR：答案癲癇率
+ACD : Average Call Duration,ACD：平均通話時間
+MCD : Maximum Call Duration,MCD：最長通話時間
+Custom Rates,自訂價格
+Create Custom Rate,創建自定義費率
+Edit Custom Rate,修改自定義費率
+Registered SIP Devices,註冊的SIP設備
+Switch Host,切換主機
+Refresh Time,刷新時間
+Sec.,秒
+Min.,最小
+User,用戶
+Contact,聯繫
+Client-IP,客戶端IP
+Client Port,客戶端端口
+User Agent,用戶代理
+Registered Gateways,註冊網關
+Call In,呼入
+Call Out,大喊
+Fail Call In,失敗呼叫
+Fail Call Out,失敗呼出
+State,州
+Switch CLI,切換CLI
+Freeswitch CLI,Freeswitch CLI
+Live Call Graph,實時通話圖
+--Select All--, - 全選 - 
+Call Count,通話次數
+Live Call data,實時通話數據
+SMS Rate Group,短信費率組
+SMS CDRs,短信話單
+Auto Refill,自動充值
+Refill Amount,充值金額
+Occurrence Per Day,每天發生
+Message From,訊息來自
+Message To,留言給
+SMS Type,短信類型
+Profile Name,個人資料名稱
+Edit Conference profiles,編輯會議資料
+Ring-Group,環組
+Failover Destination,故障轉移目的地
+Timeout(min),超時（分鐘）
+Create SMS Rate Group,創建短信費率組
+SMS Rate Group Information,短信費率組信息
+Markup(%),加價幅度（％）
+SMS Origination Rate,短信發起率
+Per SMS Cost,每條短信費用
+SMS Trunk add,SMS中繼添加
+SMS Trunk Information,SMS中繼信息
+Trunk Settings,中繼線設置
+Precedence,優先順序
+Trunk Name,中繼名稱
+Edit SMS Trunk,編輯短信中繼
+Add SMS Termination Rates,添加短信終止率
+Edit SMS Termination Rates,編輯短信終止率
+Import SMS Termination Rates Using Field Mapper,使用字段映射器導入SMS終止率
+Import SMS Termination Rates,導入短信終止率
+SMS Trunk,短信中繼
+Create SMS Gateway,創建短信網關
+Base URL,基本網址
+Api Key / Application Id,api密鑰/應用程序ID
+Secret Key Id,秘鑰ID
+Api Key,api鍵
+Based On Utilized Free Minutes,根據使用的自由時間
+Based On Utilized Highest Days/Free Minutes,根據使用的最高天數/空閒時間
+ASR : Answer Seizure Ratio,ASR：答案癲癇率
+ACD : Average Call Duration,ACD：平均通話時間
+MCD : Maximum Call Duration,MCD：最長通話時間
+Edit SMS Rate Group,編輯短信費率組
+ (Enterprise),  （企業）
+Edit SMS Gateway,編輯短信網關
+Edit Department,編輯部
+Edit Support Ticket,編輯支持票
+SMS Package,短信套餐
+Free SMS,免費短信
+auto_reply_mail_support,自動回复郵件支持
+email_sent_support_ticket,電子郵件已發送支持票
+alarm_report,警報報告
+two_factor_authentication,兩因素認證
+schedule_report,進度報告
+ported_number,移植號碼
+ported_number_ftp_connect,端口號ftp連接
+ported_number_no_file,移植號無文件
+fraud_report,欺詐報告
+outbound_fax_mail,出站傳真郵件
+fax_receive_mail,傳真接收郵件
+Format,格式
+Fax Method,傳真方式
+SIP Device,SIP設備
+Web2fax,Web2傳真
+Email2fax,Email2fax
+Fax2Mail,傳真2郵件
+Success,成功
+File,文件
+APFaxer,APFaxer
+Fax send Retries,傳真發送重試
+Fax Email Id,傳真電子郵件ID
+Fax Email Password,傳真電子郵件密碼
+Fax Server,傳真服務器
+Fax Server SIP Port,傳真服務器SIP端口
+Fax Email Host,傳真電子郵件主機
+Create Fraud Detection,創建欺詐檢測
+Filter by,過濾
+Per Dst. Prefix,每Dst。 字首
+Group By Dst. Prefix,按Dst分組。 字首
+Per Country,每個國家
+Group by Country,按國家分組
+Time Period,時間段
+Warning Threshold,警告閾值
+15 minutes,15分鐘
+30 minutes,30分鐘
+1 Hour,1小時
+3 Hours,3小時
+6 Hours,6個小時
+12 Hours,12小時
+24 Hours,24小時
+Warning Action,警告動作
+None,沒有
+Block Threshold,阻止閾值
+Block Action,阻止動作
+ (In Minutes),  （以分鐘為單位）
+Time Period,時間段
+Edit Fraud Detection,編輯欺詐檢測
+Fraud Report,欺詐報告
+Fraud Trigger,欺詐觸發
+Alarm Value,報警值
+warning,警告
+block,塊
+--Select Account Type--,-選擇帳戶類型-
+Weekly,每週
+Quarterly,季刊
+Yearly,每年
+SMS Reports,短信報告
+SMS Summary,短信摘要
+SMS Customer,短信客戶
+SMS Reseller,短信經銷商
+Customer SMS Report,客戶短信報告
+Message Count,郵件數
+Resellers SMS Report,轉銷商短信報告
+Customer SMS Summary Report,客戶短信摘要報告
+Total Message,總訊息
+Send Message,發信息
+Cancel Message,取消留言
+Reseller SMS Summary Report,轉銷商短信摘要報告
+Two-factor Authentication,兩因素驗證
+Security,安全
+Whmcs Secret Key,Whmcs秘鑰
+Whmcs IV Key,Whmcs IV鍵
+Two-factor Authentication,兩因素驗證
+Currencies Update,貨幣更新
+Call Activity Report,通話活動報告
+Request A Number Port,請求號碼端口
+Porting,移植
+Generate,產生
+Callerid,來電顯示
+International Recharge,國際充值
+Feature code updated successfully!,功能代碼已成功更新！
+Number Porting,號碼移植
+Number Porting Requests,號碼移植請求
+Request a Number Port,請求號碼端口
+Number / Number Range,編號/編號範圍
+Date Submitted,提交日期
+Requested Date,申請日期
+Requested Time,要求時間
+Actioned by,採取行動
+Note for Customer,客戶須知
+Accepted,公認
+Rejected,拒絕了
+In Progress,進行中
+Completed,完全的
+Cancelled,取消
+Create Porting Request Number,創建移植請求號
+Porting Request Number,移植請求號
+Company Address,公司地址
+Individual Number,個人編號
+Start Number,起始號碼
+Number Range,編號範圍
+End Number,結束號碼
+New Provider Name,新提供者名稱
+Existing Provider Name,現有提供者名稱
+Requested Port Date,要求的港口日期
+Requested Port Time,要求的港口時間
+Upload most recent phone bill,上載最近的電話帳單
+Edit Porting Request,編輯移植請求
+Telephone Number,電話號碼
+File Download,檔案下載
+Accept,接受
+Reject,拒絕
+Edit Porting Request Number,編輯移植請求號
+Retired,退休的
+porting_request,移植要求
+Public IP,公共IP
+Activity Report,活動報告
+Push Status,推送狀態
+Last DID Call Date,上次DID通話日期
+Last Outbound Call Date,上次出站通話日期
+Login Activity,登錄活動
+Last DID Call From Date,最後DID通話開始日期
+Last DID Call To Date,上次DID通話至今
+Last Outbound Call From Date,最後撥出電話的日期
+Last Outbound Call To Date,最後呼出電話的日期
+Find Time(min),查找時間（分鐘）
+Login Activity Report,登錄活動報告
+Assorted,什錦的
+Auto Refresh Page,自動刷新頁面
+Ticket Digits,票號
+Recording Number,記錄號
+Hybrid Routing,混合路由
+Opensips Public Host,Opensips公開主機
+Ban Time(min),禁止時間（分鐘）
+SMS Logs,短信日誌
+Ported Number,移植號碼
+FTP Details,FTP詳細信息
+Admin Notification Email,管理員通知電子郵件
+Term and Condition URL,條款和條件網址
+Invoice Debug,發票調試
+Wrong Attempts/Customer/Days,錯誤的嘗試/客戶/天數
+(Fixed tax),（固定稅）
+Assign Product,分配產品
+Search by code,按代碼搜索
+INVOICE HISTORY,發票歷史
+PAYMENT HISTORY,支付歷史
+Please Insert Amount,請輸入金額
+Special Note,特別說明
+Low Balance Threshold,低餘額閾值
+No Balance Threshold,沒有餘額閾值
+Max amount per call,每次通話的最大金額
+Alert Type,警報類型
+Heartbeat,心跳
+Hangup,掛斷
+Available Credit limit,可用信用額度

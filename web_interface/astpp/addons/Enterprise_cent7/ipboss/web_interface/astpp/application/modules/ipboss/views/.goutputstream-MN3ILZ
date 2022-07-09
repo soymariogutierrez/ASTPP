@@ -1,0 +1,118 @@
+<!--
+<?php include(FCPATH.'application/views/popup_header.php'); ?>
+-->
+<script type="text/javascript">
+ /*  $("#submit").click(function(){
+        submit_form("iptables_shortcut_form");
+    }) */
+</script>
+	
+<script type="text/javascript" src="<?php echo base_url(); ?>/assets/js/validate.js"></script>
+<script type="text/javascript">
+$('document').ready(function(){ 
+	
+		 $("#iptables_shortcut_form").validate({
+			  rules: {
+				 btnname: {
+						required: true,
+						
+					}, 
+			    },
+			  messages: {
+				   btnname: {
+						required: '<div id= "email_error" style="color: #F86A67; margin-right: 132px; margin-top: -8px; text-transform: none;width: 100%;">Email is required</div>'
+					},
+				  
+			  },
+                submitHandler: function(form) {
+                    form.submit();
+                }
+			 
+		});
+});
+</script>
+<div  class="modal-dialog">
+	<div  class="modal-content">
+		<div  class="modal-header float-left " style="padding-right:280px;"><h3>
+			<? echo $page_title; ?></h3>
+		</div>    
+		<div  class="modal-body">
+			<div>
+				<div>
+            <div style="color:red;margin-left: 60px;">
+                <?php if (isset($validation_errors)) {
+				echo $validation_errors;
+				}
+				?> 
+            </div>
+        <form action="/ipboss/ipboss_shortcut_save/" accept-charset="utf-8" id="iptables_shortcut_form" method="POST" name="iptables_shortcut_form" onsubmit="">
+             <section class="slice color-three no-margin">
+						<div class="w-section inverse no-padding">
+							<div >
+								
+								
+								
+								
+								<div class="form-group row ">
+									 <label class="col-form-label col-sm-4">Button Name:<span style="color:red;"> *</span></label>
+										<div class="col-sm-8">
+											<div class="input-group">
+												<input id="btnname" name="name" value="" size="20" class="form-control" type="text"  >
+											</div>
+										</div>
+										 
+								</div>
+								
+								<div class="form-group row ">
+									 <label class="col-form-label col-sm-4">Port Number:<span style="color:red;"> *</span></label>
+										<div class="col-sm-8">
+											<div class="input-group">
+												 <input name="portnumber" value="" size="10" id="portnumber" class="form-control" type="text" required>
+											</div>
+										</div>
+										<div class="tooltips error_div pull-left no-padding" id="port_error_div"><i style="color:#D95C5C; padding-left: 3px; padding-top: 10px;" class="fa fa-exclamation-triangle"></i>
+											<span class="popup_error error  no-padding" id="port_error">
+											</span>
+										</div>
+								</div>
+								 
+								<div class="form-group row ">	 
+									 <label class="col-form-label col-sm-4">Protocol<span style="color: red;">* </span> </label>
+									 <div class="col-sm-8">
+											<div class="input-group">
+												<select id="prot" name="protocolbutton"  class="  form-control" style="float:right;" data-live-search="true">
+													<option value="all">all</option>
+													<option value="tcp">tcp</option>
+													<option value="udp">udp</option>
+												</select>
+											</div>
+									</div>
+								</div>
+		 
+								<div class="col-md-12  pt-3 row offset-sm-5" style="padding-bottom: 20px;">
+									<center>
+											<button   type="submit" value="save" id="submit" class="btn btn-success">Save</button>
+											<input value="Cancel" class="btn btn-info ml-2" onclick="return redirect_page('NULL')" type="button"> 
+									</center>
+								</div>
+							</div>
+						</div>
+			</section>
+	</form>
+			
+			
+            
+       </div>      
+    </div>  
+   </div>           
+  </div>
+</div>
+<?php
+//~ $(document).ready(function(){
+	//~ $('div.closer').hover(function(){
+		    //~ $(this).find('span').show();
+			//~ }, function(){
+		    //~ $(this).find('span').hide();
+			//~ });
+//~ });
+?>

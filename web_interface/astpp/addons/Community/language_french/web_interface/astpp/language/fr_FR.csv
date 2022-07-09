@@ -1,0 +1,3010 @@
+English,French
+Access Number,Numéro d'accès
+Access Number,Numéro d'accès
+Access Numbers,Numéros d'accès
+Account,Compte
+Account Type,Type de compte
+Account Valid Days,Compte jours valides
+Account Verification By,Vérification du compte par
+Accounts,Comptes
+Accounts Report,Rapport sur les comptes
+ACD,ACD
+Action,action
+Action Type,type d'action
+Add,Ajouter
+Add Country,Ajouter un pays
+Add Currency,Ajouter une devise
+Add Destination,Ajouter une destination
+Add Ratedeck,Ajouter Ratedeck
+Address1,Adresse 1
+Administrator,Administrateur
+Admin,Administrateur
+Admins,Administrateurs
+After Balance,Après l'équilibre
+Alarm,Alarme
+Alert Status,État d'alerte
+Allow integration with Fraud detection,Permettre l'intégration avec la détection de fraude
+Allow IP Management,Autoriser la gestion IP
+Allow Local Call,Autoriser l'appel local
+Allow Local Calls,Autoriser les appels locaux
+Allow Loss Less Routing,Autoriser le routage sans perte
+Allow Max Retries,Autoriser le nombre maximal de tentatives
+Allow Recording,Autoriser l'enregistrement
+Amount,Montant
+Amount INR,Montant INR
+Answered Calls,Appels répondus
+Applicable For,Applicable pour
+Apply on existing accounts,Appliquer sur les comptes existants
+Archive,Archiver
+ASR,ASR
+Attachement,Attachement
+Attempted Calls,Tentatives d'appels
+Audit,Audit
+Audit Log,Journal d'audit
+Audit Logs Older Than Days,Journaux d'audit de plus de jours
+Authorize.net,Authorize.net
+Automatically,Automatiquement
+Balance,Équilibre
+Balance Announcement,Annonce du solde
+Balance Below,Solde en dessous
+Base Currency,Devise de base
+Basic,De base
+Basic Information,Informations de base
+Batch Update,Mise à jour par lots
+Before Balance INR,Avant solde INR
+Begins With,Commence par
+Beta,Bêta
+Billable,Facturable
+Billing,Facturation
+Billing Cycle,Cycle de facturation
+Billing Days,Jours de facturation
+Billing Information,détails de facturation
+Billing Type,Type de facturation
+Body,Corps
+Buy Cost,Achat Coût
+Call Barring,Interdiction d'appels
+Call Date,Date d'appel
+Call Detail Reports,Rapports détaillés des appels
+Call Max Length,Durée maximale de l'appel
+Call State,État de l'appel
+Call Summary Reports,Rapports récapitulatifs des appels
+Call Timeout,Délai d'appel
+Call Type,Type d'appel
+Call Types,Types d'appels
+Called Number,Numéro appelé
+Caller ID,Identification de l'appelant
+Caller IDs,Identification des appelants
+Caller IP,IP de l'appelant
+Caller Name,Nom de l'appelant
+Caller Number,Numéro de l'appelant
+Caller-Id-In-Form,Formulaire d'identification de l'appelant
+Calling Card,Carte téléphonique
+Calls,Appels
+Calls Breakdown,Répartition des appels
+Calltype Information,Informations sur le type d'appel
+Can be purchased?,Peut être acheté?
+Capital,Capitale
+Capture Server,Serveur de capture
+Card Input Timeout,Délai d'entrée de la carte
+Card Length,Longueur de la carte
+Card Retries,Nouvelles tentatives de carte
+Carriers,Les transporteurs
+Category,Catégorie
+CC,CC
+CDRs Older Than Days,CDR de plus de jours
+Charge Type,Type de charge
+Charges Breakdown,Répartition des charges
+Charges History,Historique des charges
+CID,CID
+City,Ville
+Clear,Clair
+Client IP,IP client
+Client User Agent,Agent utilisateur client
+Code,Code
+Codecs,Codecs
+Commission,Commission
+Commission Rate,Taux de commission
+Commission Reports,Rapports de commission
+Company,Entreprise
+Company Profiles,Profils d'entreprise
+Company Tax number,Numéro fiscal de l'entreprise
+Completed Calls,Appels terminés
+Concurrent Calls,Appels simultanés
+Configuration ,Configuration
+Confirmed,Confirmé
+Connection Cost,Coût de connexion
+Contains,Contient
+Cost,Coût
+Cost/Min,Coût / Min
+Countries,Des pays
+Country,Pays
+Country Code,Code postal
+Country List,Liste des pays
+Country Reports,Rapports de pays
+Coupon Information,Informations sur le coupon
+Coupon Number,Numéro de coupon
+CPS,CPS
+Create,Créer
+Create Admin,Créer un administrateur
+Create calltype,Créer un type d'appel
+Create Company Profile ,Créer un profil d'entreprise
+Create Customer,Créer un client
+Create Origination Rate,Créer un taux d'origination
+Create Product ,Créer un produit
+Create Provider,Créer un fournisseur
+Create Rate Group,Créer un groupe de tarifs
+Create Refill Coupon,Créer un coupon de recharge
+Create SIP Device,Créer un périphérique SIP
+Create Tax,Créer une taxe
+Created Date,Date de création
+Creation Date,Date de création
+Credit,Crédit
+Credit Limit,Limite de crédit
+Crons,Crons
+Currency,Devise
+Currency Conversion Loss Percentage,Pourcentage de perte de conversion de devises
+Currency List,Liste des devises
+Customer,Client
+Customer CDRs Report ,Rapport CDR client
+Customer Summary,Résumé du client
+Customer Summary Report ,Rapport de synthèse client
+Customers,Les clients
+Dashboard,Tableau de bord
+Database,Base de données
+Date,Date
+Debit,Débit
+Debug,Déboguer
+Decimal Points,Points décimaux
+Default Increment ,Incrément par défaut
+Default Invoice Mode,Mode de facturation par défaut
+Default Tax,Taxe par défaut
+Delete,Effacer
+Deleted Accounts After Days,Comptes supprimés après des jours
+Description,La description
+Destination,Destination
+Dial Input Timeout,Temporisation d'entrée de numérotation
+DID,FAIT
+DIDs,DID
+Direction,Direction
+Disable,Désactiver
+Display records in,Afficher les enregistrements dans
+Disposition,Disposition
+Documentation,Documentation
+Doesnt Contain,Ne contient pas
+Domain,Domaine
+Draft,Brouillon
+Due Date,Date d'échéance
+Duplicate,Dupliquer
+Duration,Durée
+Email,E-mail
+Email Alerts ?,Alertes courrier électronique ?
+Email History,Historique des e-mails
+Email History List ,Liste de l'historique des e-mails
+Email Notification,Notification par e-mail
+Email Notifications,Notifications par email
+Email Status,Statut de l'e-mail
+Email Template,Modèle d'e-mail
+Emails Older Than Days,E-mails de plus de jours
+En,Fr
+Enable,Activer
+Enable Signup,Activer l'inscription
+Ends With,Se termine par
+Enterprise,Entreprise
+Entity Type,Type d'entité
+Environment,Environnement
+Ewallet Payment Gateway,Passerelle de paiement Ewallet
+Expired Accounts After Days,Comptes expirés après des jours
+Expiry Date,Date d'expiration
+Export,Exportation
+Failover  GW Name #1,Nom GW de basculement n ° 1
+Failover GW Name #2,Nom GW de basculement n ° 2
+Favicon,Favicon
+Fax,Fax
+Fee,Frais
+File Path,Chemin du fichier
+Filter,Filtre
+First Name,Prénom
+First Used,Première utilisation
+Fixer Key,Clé de fixateur
+FMAddon,FMAddon
+Footer,Bas de page
+Fraud Detection,Détection de fraude
+Free Minutes,Minutes gratuites
+FreeSwitch Servers,Serveurs FreeSwitch
+From,De
+From Date,Partir de la date
+From Timestamp,À partir de l'horodatage
+Gateway Name,Nom de la passerelle
+Gateways,Passerelles
+General,Général
+General Input Timeout,Temporisation d'entrée générale
+Generate Invoice,Générer une facture
+Generate Pin,Générer une épingle
+Generates Alarm From System,Génère une alarme à partir du système
+Generates Local Number system,Génère un système de numéro local
+Generates ticket of issues from system,Génère un ticket de problèmes à partir du système
+Generates Various Alarms From System,Génère diverses alarmes à partir du système
+Generates Various Country Reports From System,Génère divers rapports de pays à partir du système
+Generates various reports from system,Génère divers rapports à partir du système
+Get Addons,Obtenez des addons
+Get App,Obtenir l'application
+Global,Global
+Grace Time,Temps de grâce
+Grand Total,somme finale
+Group By,Par groupe
+Group By #1,Regrouper par # 1
+Group By #2,Regrouper par # 2
+Group By #3,Regrouper par # 3
+Group By #Time,Regrouper par #Time
+Header,Entête
+Homer,Homère
+Host,Hôte
+Import,Importer
+Import Customers,Importer des clients
+Import with field map,Importer avec carte de terrain
+Inbound,Entrant
+Inbound Fax,Fax entrant
+Included Seconds,Secondes incluses
+Increment,Incrément
+Initial Balance,Balance initiale
+Initial Increment,Incrément initial
+Inovices Older Than Days,Inovices plus vieux que jours
+Install,Installer
+Installed,installée
+Interval,Intervalle
+Interval Type,Type d'intervalle
+Invoice Configuration ,Configuration de la facture
+Invoice Date,Date de la facture
+Invoice Due Days,Jours d'échéance des factures
+Invoice Due Notification,Notification d'échéance de la facture
+Invoice Notification,Notification de facture
+Invoice Number,Numéro de facture
+Invoice Prefix,Préfixe de facture
+Invoice Start Form,Formulaire de début de facture
+Invoices,Factures
+IP,IP
+IP Settings,Paramètres IP
+Is Equal To,Est égal à
+Is Not Equal To,N'est pas égal à
+Is Purchased?,Est acheté?
+Iso,Iso
+Iso3,Iso3
+IVR Count,Compte IVR
+Languages,Langues
+Last Execution Date,Date de la dernière exécution
+Last Modified Date,Date de la dernière modification
+Last Name,Nom de famille
+Last Paid Date,Date du dernier paiement
+Latest Orders,Dernières commandes
+LC Charge / Min,Charge LC / Min
+LC Charge/Min,Charge LC / Min
+Live,Vivre
+Live Call Report,Rapport d'appel en direct
+Live Id,Identifiant en direct
+Live Key,Clé en direct
+Live Url,URL en direct
+Local Call Timeout,Délai d'attente des appels locaux
+Local Number,Nombre local
+Local Numbers,Numéros locaux
+Locale code,Code local
+Localization,Localisation
+Localization Type,Type de localisation
+Localizations,Localisations
+Log out,Se déconnecter
+Log Path,Chemin du journal
+Logo,Logo
+Low balance Alert?,Alerte de solde faible?
+Mail Log,Courrier électronique
+Manually,Manuellement
+Markup,Balisage
+Mass Create,Créer en masse
+Mass Email,E-mail de masse
+Max Free Length,Longueur libre maximale
+MCD,MCD
+Minimum Fund Transfer,Transfert de fonds minimum
+Minutes,Minutes
+Minutes Announcement,Annonce du procès-verbal
+Minutes Breakdown,Répartition des minutes
+Moderate,Modérer
+Modified Date,Date modifiée
+Module,Module
+Name,Nom
+New Accounts,Nouveaux comptes
+Nexmo API Key,Clé d'API Nexmo
+Nexmo Secret Key,Clé secrète Nexmo
+Next Execution Date,Date de la prochaine exécution
+Nickname,Surnom
+No,Non
+No Records Found,Aucun enregistrement trouvé
+Notes,Remarques
+Notifications,Notifications
+Notify before due days,Notifier avant les jours dus
+Number,Nombre
+Number Type,Type de numéro
+ of , de 
+Opensips,Openips
+Opensips DB Engine,Moteur de base de données OpenSips
+Opensips DB Host,Hôte de base de données Opensips
+Opensips DB Name,Nom de la base de données OpenSips
+Opensips DB Pass,OpenSips DB Pass
+Opensips DB User,Utilisateur de la base de données Opensips
+Opensips Domain,Domaine OpenSips
+Opensource,Open source
+Order,Ordre
+Order Amount,Montant de la commande
+Order Date,Date de commande
+Order ID,numéro de commande
+Order Now,Commandez maintenant
+Orders,Ordres
+Org. Cost,Org. Coût
+Org. Destination,Org. Destination
+Org. Pefix,Org. Pefix
+Origination Rates,Tarifs d'origine
+Outbound Fax,Fax sortant
+Outstanding Amount INR,Montant impayé INR
+Page ,Page 
+Password,Mot de passe
+Password Strength,Fiabilité du mot de passe
+Payment Method,Mode de paiement
+Payment Methods,méthodes de payement
+Payment Status,Statut de paiement
+Paypal,Pay Pal
+Per Minute Cost,Coût par minute
+Phone,Téléphone
+Pin Input Timeout,Délai d'entrée des broches
+Pin Length,Longueur de la broche
+Pin retries,Épingler les tentatives
+Pinless Authentication,Authentification sans épingle
+Place Order ,Passer la commande
+Playback Audio Notifications,Lecture des notifications audio
+Port,Port
+Portal personalization,Personnalisation du portail
+Powered by ASTPP,Propulsé par ASTPP
+Prefix,Préfixe
+Prepend,Prepend
+Preserve,Préserver
+Price,Prix
+Priority,Priorité
+Product Category,catégorie de produit
+Product Details,détails du produit
+Product Name,Nom du produit
+Products,Des produits
+Profile Action,Action de profil
+Profit,Profit
+Provider,Fournisseur
+Provider CDRs Report ,Rapport sur les CDR du fournisseur
+Provider Outbound,Fournisseur sortant
+Provider Outbound Report,Rapport sortant du fournisseur
+Provider Summary Report ,Rapport récapitulatif du fournisseur
+Province,Province
+Province/State,Province / État
+Proxy,Procuration
+Purge,Purge
+Push Notifications,Notifications push
+Quantity,Quantité
+Rate,Taux
+Rate Announcement,Annonce de taux
+Rate Count,Compte de taux
+Rate Group,Groupe de taux
+Rate Groups,Groupes de taux
+Rate Information,Informations sur les tarifs
+Ratedeck,Ratedeck
+Ratedeck Information,Informations sur le évalué
+Rates Count,Nombre de taux
+Realtime Billing,Facturation en temps réel
+Receiver Email,E-mail du destinataire
+Recording Files Older Than Days,Enregistrement de fichiers de plus de jours
+ Records, Registres
+Referer Page,Page de référence
+Refill By,Remplir par
+Refill Coupon Length,Longueur du coupon de recharge
+Refill Coupons,Recharges de coupons
+Refill Report,Rapport de remplissage
+Refills,Recharges
+Register,S'inscrire
+Release if no balance,Libérer si aucun solde
+Report a Bug,Signaler un bug
+Reports,Rapports
+Request URI,Demander l'URI
+Reseller,Revendeur
+Reseller can resell,Le revendeur peut revendre
+Reseller Summary,Résumé du revendeur
+Reseller Summary Report ,Rapport récapitulatif des revendeurs
+Resellers,Revendeurs
+Resellers CDRs Report ,Rapport CDR des revendeurs
+Resend Mail,Renvoyer le courrier
+Role,Rôle
+Roles & Permission,Rôles et autorisations
+Roles & Permissions,Rôles et autorisations
+Routing Prefix,Préfixe de routage
+Routing Type,Type de routage
+Sandbox,bac à sable
+Sandbox Id,ID du bac à sable
+Sandbox Key,Clé du bac à sable
+Sandbox Name,Nom du bac à sable
+Sandbox Url,URL du bac à sable
+Save,sauver
+Schedule Reports,Planifier des rapports
+Search,Chercher
+Select File,Choisir le dossier
+Select Year,Sélectionnez l'année
+Services,Prestations de service
+Set Maximum Add card limit,Définir la limite maximale d'ajout de cartes
+Settings,Réglages
+Setup Fee,Frais d'installation
+Signup,S'inscrire
+SIP Devices,Appareils SIP
+SIP IP,IP SIP
+SIP Port,Port SIP
+SIP Profile,Profil SIP
+SIP Profiles,Profils SIP
+SMS,SMS
+SMS Body,Corps du SMS
+SMS Notifications,Notifications SMS
+SMS Status,État du SMS
+SMTP,SMTP
+SMTP Host,Hôte SMTP
+SMTP Pass,Passe SMTP
+SMTP Port,Port SMTP
+SMTP User,Utilisateur SMTP
+Start prefix,Préfixe de début
+Starting Digit,Chiffre de départ
+Status,Statut
+Strip,Bande
+Strong,Fort
+Subject,Matière
+Subscription,Abonnement
+Supportticket,Supportticket
+Switch,Commutateur
+Tariff,Tarif
+Tax,Impôt
+Tax Information,Informations fiscales
+Telephone,Téléphone
+Telephone as account number,Téléphone comme numéro de compte
+Templates,Modèles
+Term. Cost,Terme. Coût
+Term. Destination,Terme. Destination
+Term. Prefix,Terme. Préfixe
+Term. Trunk,Terme. Tronc
+Termination Rates,Taux de résiliation
+Third Party,Tierce personne
+This Month,Ce mois-ci
+This Week,Cette semaine
+Timelimit Announcement,Annonce de délai
+Timestamp,Horodatage
+Timezone,Fuseau horaire
+To,À
+To Number,Au numéro
+To Timestamp,Vers l'horodatage
+Today,Aujourd'hui
+Top 10 Accounts,Top 10 des comptes
+Top 10 Destinations,Top 10 des destinations
+Total Calls ,Total des appels
+Total Charges,Charges totales
+Total Minutes,Minutes totales
+Transaction ID,identifiant de transaction
+Translations,Traductions
+Translations Language,Langue des traductions
+Trunk,Tronc
+Trunks,Les troncs
+Type,Type
+Unpaid,Non payé
+Update,Mettre à jour
+Used,Utilisé
+Used Date,Date d'utilisation
+Username,Nom d'utilisateur
+Version,Version
+Version 4.0 Beta,Version 4.0 bêta
+View All,Voir tout
+Voicemail,Messagerie vocale
+Panel Access,Accès au panneau
+Profile,Profil
+Billing Settings,Paramètres de facturation
+Pin,Épingle
+Account Settings,Paramètres du compte
+Notification Email,Email de notification
+Address,Adresse
+NON-CLI Rate Group,Groupe de tarifs NON CLI
+Billing Schedule,Calendrier de facturation
+Billing Day,Jour de facturation
+Tax Number,Numéro d'identification fiscale
+Invoice Note,Note sur la facture
+Reference,Référence
+Cancel,Annuler
+Device Information,Informations sur l'appareil
+Voicemail Options,Options de messagerie vocale
+Mail To,Mail à
+Attach File,Pièce jointe
+Local After Email,Local après e-mail
+Send all Message,Envoyer tout le message
+Close,Fermer
+IP map,Carte IP
+Identificador de llamadas,Identificador de llamadas
+Add Caller ID,Ajouter l'identifiant de l'appelant
+Create Reseller,Créer un revendeur
+Role Name,Nom de rôle
+Outstanding Amount,Encours
+To Date,À ce jour
+Before Balance,Avant l'équilibre
+Commission Report,Rapport de commission
+MonthlyFee,Redevance mensuelle
+Grace Time (Sec.),Temps de grâce (Sec.)
+Import DIDs,Importer des DID
+File must be in the following format,Le fichier doit être au format suivant
+DID Import Process,Processus d'importation DID
+Get Sample file,Obtenir un fichier d'exemple
+Check Header,Vérifier l'en-tête
+Select the file,Sélectionnez le fichier
+Account Count,Compte de compte
+Acc. Number Length,Acc. Longueur du nombre
+Valid Days,Jours valides
+Create Access Number,Créer un numéro d'accès
+Information,Information
+Import Access Numbers,Importer les numéros d'accès
+Access Numbers Import Process,Processus d'importation des numéros d'accès
+DIDs Bulk Assign,Attribution groupée des DID
+Bulk DID Purchase,Achat DID en vrac
+Provience,Provience
+Assign Number,Attribuer un numéro
+DID Destination,Destination DID
+DID Forward,DID Forward
+Always,Toujours
+If Busy,Si occupé
+If SIP Not Registered,Si SIP n'est pas enregistré
+If No Answer,Si pas de réponse
+New Rate Group Name,Nouveau nom de groupe de tarifs
+Duplicate Rate Group Information,Informations sur le groupe de tarifs en double
+Import Origination Rates,Importer les taux d'origination
+Force Trunk,Forcer le coffre
+Please select atleast one record to dele,Veuillez sélectionner au moins un enregistrement à supprimer
+Import Ratedeck,Importer Ratedeck
+Optional Information,information optionnelle
+From- Domain,De- Domaine
+From User,De l'utilisateur
+Extension,Extension
+Extension-In-Contact,Extension en contact
+Ping,Ping
+Contact Params,Contacter Params
+Retry-Seconds,Réessayer en secondes
+Register-Proxy,S'inscrire-Proxy
+Channel,Canal
+Failover GW Name,Nom GW de basculement
+Create Trunk,Créer un tronc
+Import Termination Rates,Taux de terminaison d'importation
+Call Timeout (Sec.),Délai d'appel (sec.)
+Trunk List,Liste des troncs
+Reset,Réinitialiser
+Create SIP Profile,Créer un profil SIP
+Create Freeswitch Server,Créer un serveur Freeswitch
+Live Calls,Appels en direct
+Term Cost,Coût à terme
+Term Destination,Destination du terme
+Term Prefix,Préfixe du terme
+Localizaciones,Localizaciones
+Create Localization,Créer une localisation
+Origination,Création
+Termination,Résiliation
+Inbound Callerid Translation,Traduction de l'appelant entrant
+Destination Number Translation,Traduction du numéro de destination
+Outbound Callerid Translation,Traduction de l'appelant sortant
+Create Call Barring,Créer une interdiction d'appels
+Callbarring Settings,Paramètres de contrôle des appels
+Product Summary Report,Rapport de synthèse du produit
+SIP User,Utilisateur SIP
+Product,Produit
+Taxes,Les impôts
+Update Currencies,Mettre à jour les devises
+File Name,Nom de fichier
+Database Information,Informations sur la base de données
+Database Backup,Sauvegarde de la base de données
+Command,Commander
+Cron Settings,Paramètres Cron
+Create Cron Settings,Créer des paramètres Cron
+Stripe,Bande
+Live Secret key,Clé secrète en direct
+Live Publishable key,Clé publiable en direct
+Set Percentage Charges,Définir les frais de pourcentage
+Set Fix Charges,Définir les frais fixes
+Stripe Mode,Mode Stripe
+Sandbox secret key,Clé secrète du bac à sable
+Sandbox publishable key,Clé publiable du bac à sable
+Version 4.0 Enterprise,Entreprise version 4.0
+Powered by,Alimenté par
+Import Customer Using Field Mapper,Importer un client à l'aide de Field Mapper
+You must either select a field from your,Vous devez soit sélectionner un champ dans votre
+Records with duplicate account number an,Enregistrements avec numéro de compte en double un
+Account Import Error,Erreur d'importation de compte
+Back to Customer List,Retour à la liste des clients
+Duplicate accounts with account number /,Comptes en double avec numéro de compte /
+Records imported successfully,Enregistrements importés avec succès
+Records not imported,Enregistrements non importés
+Error In CSV File,Erreur dans le fichier CSV
+Invoice Summary,Résumé de la facture
+Customer Details,Détails du client
+Invoice Details,Détails de la facture
+Account Number,Numéro de compte
+Invoice Amount,Montant de la facture
+Invoice Item,Article de facture
+Sub Total,Sous-total
+Total Due,Total dû
+Note,Remarque
+Add Setting,Ajouter un paramètre
+Edit SIP Profile,Modifier le profil SIP
+New,Nouveau
+Used?,Utilisé?
+View Email,Afficher l'e-mail
+Active,actif
+Inactive,Inactif
+Black List,Liste noire
+White List,Liste blanche
+Freeswitch Server Information,Informations sur le serveur Freeswitch
+Currencies,Devises
+Edit Currency,Modifier la devise
+Is Distributor,Est distributeur
+Package created successfully!,Package créé avec succès!
+DID Removed Successfully.,DID supprimé avec succès.
+DID not found.,DID introuvable.
+Password changed Sucessfully....!!!,Mot de passe changé avec succès .... !!!
+New Password & Conformpassword not match,Le nouveau mot de passe et le mot de passe conforme ne correspondent pas
+Invalid old passwword.,Ancien mot de passe non valide.
+Permission Denied!,Permission refusée!
+Refill Coupon amount is added successful,Le montant du coupon de recharge est ajouté avec succès
+PLease upload maximum file,Veuillez télécharger le fichier maximum
+files added successfully!,fichiers ajoutés avec succès!
+File Uploading Fail Please Try Again,"Échec du téléchargement du fichier, veuillez réessayer"
+Please upload only image!,Veuillez télécharger uniquement l'image!
+Invoice config updated successfully!,La configuration de la facture a été mise à jour avec succès!
+Your Profile Updated Successfully!,Votre profil a été mis à jour avec succès!
+Something wrong.Please contact to admini,"Quelque chose ne va pas, veuillez contacter l'admini"
+DID Released Successfully!,DID est sorti avec succès!
+IP already exist in system.,IP existe déjà dans le système.
+IP Added Sucessfully.,IP ajoutée avec succès.
+IP Removed Sucessfully.,IP supprimée avec succès.
+SIP Device Updated Successfully!,Périphérique SIP mis à jour avec succès!
+SIP Device Added Successfully!,Appareil SIP ajouté avec succès!
+SIP Device Removed Sucessfully!,Dispositif SIP supprimé avec succès!
+Caller ID Added Sucessfully!,Identification de l'appelant ajoutée avec succès!
+Please Enter Caller ID value.,Veuillez saisir la valeur d'identification de l'appelant.
+Caller ID already Exists.,L'identification de l'appelant existe déjà.
+Caller ID removed sucessfully!,Identification de l'appelant supprimée avec succès!
+Alert Threshold Updated Successfully!,Seuil d'alerte mis à jour avec succès!
+Can not trnasfer fund to postpaid custom,Impossible de transférer des fonds vers des services postpayés personnalisés
+Access Denied! unable transfer fund to t,Accès refusé! impossible de transférer le fonds à t
+You can not transfer fund in same accoun,Vous ne pouvez pas transférer de fonds dans le même compte
+You can only transfer fund in same level,Vous ne pouvez transférer des fonds qu'au même niveau
+Please enter To account number.,Veuillez entrer le numéro de compte.
+Please enter valid amount.,Veuillez saisir un montant valide.
+You have insufficient balance.,Vous avez un solde insuffisant.
+Please enter valid account number.,Veuillez saisir un numéro de compte valide.
+Please enter amount greater then 0.,Veuillez saisir un montant supérieur à 0.
+You need to enter minimum for fund trans,Vous devez entrer le minimum pour le transfert de fonds
+Please enter valid account number!,Veuillez saisir un numéro de compte valide!
+Insuffiecient amount !,Montant insuffisant!
+Transfer successfully!,Transférer avec succès!
+Account number not found.,Numéro de compte introuvable.
+OpenSips updated successfully!,OpenSips mis à jour avec succès!
+Duplicate Username Found.Username Must b,Nom d'utilisateur en double trouvé.
+User name is required field.,Le nom d'utilisateur est un champ obligatoire.
+Opensips Device Removed Successfully!.,Le périphérique Opensips a été supprimé avec succès !.
+Speed-dial Number Added Successfully!,Numéro abrégé ajouté avec succès!
+Can not delete blank speeddial number,Impossible de supprimer le numéro abrégé vierge
+Speed-dial Number Removed Successfully!,Numéro abrégé supprimé avec succès!
+Pin Updated Successfully!,Épingle mise à jour avec succès!
+DID Updated Successfully!,DID mis à jour avec succès!
+for fund transfer.,pour le transfert de fonds.
+You need to enter minimum,Vous devez entrer le minimum
+please enter recharge value,veuillez saisir la valeur de recharge
+New Password,nouveau mot de passe
+Old Password,ancien mot de passe
+Conform Password,Mot de passe conforme
+Letters only please,Lettres seulement s'il vous plaît
+IP Mapping,Cartographie IP
+The Coupon Number field must contain onl,Le champ Numéro de coupon ne doit contenir que
+The Coupon Number field have inactive re,Le champ Numéro de coupon est inactif
+This Coupon Number is already in use.,Ce numéro de coupon est déjà utilisé.
+This Coupon Number is not found.,Ce numéro de coupon est introuvable.
+The Coupon Number field is required.,Le champ Numéro de coupon est obligatoire.
+REFILL COUPON RECHARGE,RECHARGE DU COUPON DE RECHARGE
+You just recharged,Vous venez de recharger
+account with The new balance will be,compte avec Le nouveau solde sera
+My Profile,Mon profil
+My Account,Mon compte
+Alert Threshold,Seuil d'alerte
+The Caller ID field is required.,Le champ ID de l'appelant est obligatoire.
+Change Password,Changer le mot de passe
+Bill Type,Type de facture
+Bill Days,Bill Days
+New Products,Nouveaux produits
+Active Products,Produits actifs
+Outstanding,Exceptionnel
+Today's Calls,Les appels d'aujourd'hui
+Recent Calls,Appels récents
+The Available DIDs field is required.,Le champ DID disponibles est obligatoire.
+Please enter your password,s'il vous plait entrez votre mot de passe
+Please enter your first name,Entrez votre prénom s'il vous plait
+Please enter your email,Veuillez entrer votre email
+Please enter valid email,Veuillez saisir une adresse e-mail valide
+This field is required.,Ce champ est requis.
+Email Setting,Paramètres de messagerie
+SMTP Password,Mot de passe SMTP
+Are you sure want to remove logo?,Voulez-vous vraiment supprimer le logo?
+The IP field must contain a unique value,Le champ IP doit contenir une valeur unique
+The IP field have not valid IP.,Le champ IP n'a pas d'adresse IP valide.
+The IP field is required.,Le champ IP est obligatoire.
+The Name field is required.,Il est requis de compléter le champ correspondant au nom.
+Please enter only alpha-numeric value,Veuillez saisir uniquement une valeur alphanumérique
+Are you sure want to delete speed dial r,Voulez-vous vraiment supprimer la numérotation abrégée r
+Generated Date,Date de création
+My Products,Mes produits
+Pinless CLI,CLI sans broches
+Refill Coupon,Bon de recharge
+TopUp,TopUp
+Pay with Paypal,Payer avec PayPal
+Pay with Card,Payer par carte
+Assign,Attribuer
+Send Credit,Envoyer un crédit
+To Account,Estimer
+From Account,Du compte
+Transfer,Transfert
+Telephone 1,Téléphone 1
+Telephone 2,Téléphone 2
+Address 2,Adresse 2
+Zip/Postal Code,Zip / code postal
+User Profile,Profil de l'utilisateur
+Low Balance Alert Level,Niveau d'alerte d'équilibre bas
+Enable Email Alerts ?,Activer les alertes par e-mail?
+Low Balance Alert Email,E-mail d'alerte de solde faible
+User name,Nom d'utilisateur
+Something went to wrong !,Un problème est survenu!
+Product Purchased successfully !,Produit acheté avec succès!
+Insufficent Balance to purchase product ,Solde insuffisant pour acheter le produit
+Product assigned successfully!,Produit attribué avec succès!
+Something went wrong !,Un problème est survenu!
+Product Not Found,Produit non trouvé
+Transaction has been failed,La transaction a échoué
+not inserted. Transaction has been faile,pas inséré. La transaction a échoué
+Select Customer.,Sélectionnez Client.
+Product Information,Information produit
+Price+SetUp Fee,Prix ​​+ frais d'installation
+Use Voucher,Utiliser le bon
+Amount Without Tax,Montant sans taxe
+Total Tax,Taxe total
+Amount With Tax,Montant avec taxe
+Parent Products,Produits parents
+Edit Product,Modifier le produit
+Product updated successfully!,Produit mis à jour avec succès!
+Product added successfully!,Produit ajouté avec succès!
+Product removed successfully!,Produit supprimé avec succès!
+Product optin successfully!,Option de produit avec succès!
+Edit Info,Modifier les informations
+Product assign successfully,Attribuer le produit avec succès
+Insufficient balance to assign product!,Solde insuffisant pour attribuer le produit!
+Terminated Updated Successfully!,Terminé mis à jour avec succès!
+Terminated,Terminé
+Setup Cost,Coût d'installation
+Order New,Commander nouveau
+Caller ID updated successfully!,ID de l'appelant mis à jour avec succès!
+Caller ID added successfully!,ID de l'appelant ajouté avec succès!
+Caller ID removed successfully!,Identification de l'appelant supprimée avec succès!
+Name is not contain any space,Le nom ne contient aucun espace
+Name already exist in system.,Le nom existe déjà dans le système.
+Callbarring Settings Updated Successfull,Mise à jour réussie des paramètres de contrôle d'appel
+allbarring Settings Added Successfully!,Les paramètres allbarring ont été ajoutés avec succès!
+Call Barring Removed Successfully!,Interdiction d'appel supprimée avec succès!
+Calltype already exist in system.,Le type d'appel existe déjà dans le système.
+Calltype Updated Successfully!,Calltype mis à jour avec succès!
+Calltype Added Successfully!,Calltype ajouté avec succès!
+calltype removed successfully!,calltype supprimé avec succès!
+File must be in the following format(.cs,Le fichier doit être au format suivant (.cs
+Import Package Codes:,Importer les codes de package:
+Records Imported Successfully:,Enregistrements importés avec succès:
+Records Not Imported :,Enregistrements non importés:
+Download Errors,Erreurs de téléchargement
+Back to Package Patterns List,Retour à la liste des modèles de package
+Add To List,Ajouter à la liste
+Routing Prefix already exist in system.,Le préfixe de routage existe déjà dans le système.
+Rate Group Updated Successfully!,Groupe de taux mis à jour avec succès!
+Rate Group Added Successfully!,Groupe de taux ajouté avec succès!
+Duplicate Rate Group Added Successfully!,Groupe de taux en double ajouté avec succès!
+Routing Prefix (Enterprise),Préfixe de routage (entreprise)
+Priority (Enterprise),Priorité (entreprise)
+Percentage (WIP) (Enterprise),Pourcentage (WIP) (Entreprise)
+LCR,LCR
+Percentage,Pourcentage
+Tax removed successfully!,Taxe supprimée avec succès!
+Tax added successfully!,Taxe ajoutée avec succès!
+Tax updated successfully!,Taxe mise à jour avec succès!
+Charges List,Liste des frais
+Trunk Updated Successfully!,Tronc mis à jour avec succès!
+Trunk Added Successfully!,Le coffre a été ajouté avec succès!
+Trunk removed successfully!,Le coffre a bien été supprimé!
+setting updated successfully!,paramètre mis à jour avec succès!
+Template Updated Successfully!,Modèle mis à jour avec succès!
+Template Added Successfully!,Modèle ajouté avec succès!
+Country Updated successfully!,Pays mis à jour avec succès!
+Country Added successfully!,Pays ajouté avec succès!
+Country removed successfully!,Pays supprimé avec succès!
+Currency Updated Successfully!,Monnaie mise à jour avec succès!
+My Rates,Mes tarifs
+Cost / Min,Coût / Min
+Purchase,achat
+Available DIDs,DID disponibles
+New IP,Nouvelle IP
+Digits,Chiffres
+Email Address,Adresse e-mail
+Call Forward,Renvoi d'appel
+If Busy:,Si occupé:
+If SIP Not Registered:,Si SIP n'est pas enregistré:
+If No Answer:,Si aucune réponse:
+Pay Now,Payez maintenant
+Pay with Account,Payer avec votre compte
+Please wait,"S'il vous plaît, attendez"
+Coupon Number:,Numéro de coupon:
+Add Voucher,Ajouter un bon
+Selected Plan,Plan sélectionné
+My Product,Mon produit
+Parent Product,Produit parent
+Edit Email Template,Modifier le modèle d'e-mail
+Details,Détails
+KEY,CLÉ
+Value,VALEUR
+Records with duplicate account number and email will be ignored.,Les enregistrements avec un numéro de compte et une adresse e-mail en double seront ignorés.
+Account Details,Détails du compte
+Mass Customer,Client de masse
+Daily,du quotidien
+Monthly,Mensuel
+Prepaid,Prépayé
+Postpaid,Port payé
+Force Caller ID,Forcer l'identification de l'appelant
+Customer Profile,Profil client
+Caller Id Name,Nom de l'ID de l'appelant
+Caller Id Number,Numéro d'identification de l'appelant
+Blocked Codes,Codes bloqués
+Page will display only receipts and confirmed invoices.,La page n'affichera que les reçus et les factures confirmées.
+Accessnumber Updated Successfully!,Numéro d'accès mis à jour avec succès!
+Accessnumber Removed Successfully!,Numéro d'accès supprimé avec succès!
+Invalid file format : Only CSV file allows to import records(Can't import empty file),Format de fichier non valide: seul le fichier CSV permet d'importer des enregistrements (impossible d'importer un fichier vide)
+Please Select File.,Veuillez sélectionner un fichier.
+ are required, sont requis
+ is Required, est requis
+ is not Valid, n'est pas valide
+Duplicate accessnumber found from database,Numéro d'accès en double trouvé dans la base de données
+Duplicate accessnumber found from import file.,Numéro d'accès en double trouvé dans le fichier d'importation.
+Total,Total
+AccessNumber Imported Successfully!,AccessNumber importé avec succès!
+Records Not Imported:,Enregistrements non importés:
+Back to AccessNumber List,Retour à la liste AccessNumber
+Speed Dial Number Updated Successfully,Numéro abrégé mis à jour avec succès
+Please insert only numeric value!,Veuillez insérer uniquement une valeur numérique!
+Speed Dial Number Removed Successfully,Numéro abrégé supprimé avec succès
+Speed Dial Number is Empty,Le numéro abrégé est vide
+Sip Device removed successfully!,Sip Device supprimé avec succès!
+Sip updated successfully!,Sip mis à jour avec succès!
+Block Code Removed Sucessfully!,Code de blocage supprimé avec succès!
+Your Account Limit has been reached.Please Change Your Prefix.,Votre limite de compte a été atteinte.Veuillez modifier votre préfixe.
+Please Enter Proper Account Length.,Veuillez saisir la longueur de compte appropriée.
+Bulk customer generate successfully!,Le client en masse génère avec succès!
+Recharge successfully!,Rechargez avec succès!
+Post charge applied successfully.,Les frais de poste ont été appliqués avec succès.
+Account callerID updated successfully!,L'ID de l'appelant du compte a bien été mis à jour!
+Account callerID added successfully!,L'ID de l'appelant du compte a été ajouté avec succès!
+Reseller updated successfully!,Revendeur mis à jour avec succès!
+Reseller added successfully!,Revendeur ajouté avec succès!
+Updated successfully!,Mis à jour avec succés!
+Added Successfully!,Ajouté avec succès!
+Customer batch updated successfully!,Lot client mis à jour avec succès!
+Reseller batch updated successfully!,Lot de revendeur mis à jour avec succès!
+Customer Removed Successfully!,Client supprimé avec succès!
+Reseller Removed Successfully!,Revendeur supprimé avec succès!
+Provider Removed Successfully!,Le fournisseur a bien été supprimé!
+Admin Removed Successfully!,L'administrateur a bien été supprimé!
+Sub Admin Removed Successfully!,L'administrateur secondaire a été supprimé avec succès!
+DID Added Successfully.,DID ajouté avec succès.
+DID Already Removed Before.,DID déjà supprimé avant.
+Account Tax Added Successfully!,Taxe de compte ajoutée avec succès!
+Account Tax Removed Successfully!,Taxe de compte supprimée avec succès!
+Product Removed Sucessfully.,Produit supprimé avec succès.
+Email Resend Successfully!,Renvoyer l'e-mail avec succès!
+Email List Updated Successfully!,Liste de diffusion mise à jour avec succès!
+Email List Added Successfully!,Liste de diffusion ajoutée avec succès!
+Email Removed Successfully!,E-mail supprimé avec succès!
+Please Try Again!,Veuillez réessayer!
+Email BroadCast Successfully!,Diffusion par e-mail réussie!
+No Record Found!,Aucun Enregistrement Trouvé!
+Email Address Not Found!,Adresse e-mail introuvable!
+Edit Freeswitch SIP Devices,Modifier les périphériques SIP Freeswitch
+Create Freeswitch SIP Devices,Créer des appareils SIP Freeswitch
+Gateway Updated Successfully!,Passerelle mise à jour avec succès!
+Gateways already exist in system.,Les passerelles existent déjà dans le système.
+Gateway name must not have any space.,Le nom de la passerelle ne doit pas contenir d'espace.
+Gateway Added Successfully!,Passerelle ajoutée avec succès!
+Gateway Removed Successfully!,Passerelle supprimée avec succès!
+Please enter All profile value!,Veuillez saisir toute la valeur du profil!
+SIP Profile name must not have any space!,Le nom du profil SIP ne doit pas contenir d'espace!
+Duplicate SIP IP OR Port found it must be unique!,Une adresse IP ou un port SIP en double trouvé doit être unique!
+SIP Profile Added Successfully!,Profil SIP ajouté avec succès!
+Name must be unique!,Le nom doit être unique!
+SIP Profile Updated Successfully!,Profil SIP mis à jour avec succès!
+SIP Setting Added Successfully!,Paramètre SIP ajouté avec succès!
+SIP Setting Updated Successfully!,Paramètre SIP mis à jour avec succès!
+SIP Setting Removed Successfully!,Paramètre SIP supprimé avec succès!
+SIP Profile Removed Successfully!,Profil SIP supprimé avec succès!
+Host Already Exist in System.,L'hôte existe déjà dans le système.
+Freeswitch Server Updated Successfully!,Mise à jour réussie du serveur Freeswitch!
+Freeswitch Server Added Successfully!,Le serveur Freeswitch a été ajouté avec succès!
+Freeswitch Server Removed Successfully!,Le serveur Freeswitch a été supprimé avec succès!
+Invoice updated successfully!,Facture mise à jour avec succès!
+Invoice payment done successfully!,Paiement de la facture effectué avec succès!
+Account Not Found.,Compte non trouvé.
+Invoice payment amount should be higher then the invoice amount.,Le montant du paiement de la facture doit être supérieur au montant de la facture.
+The Favicon file size shoud not exceed 1MB!,La taille du fichier Favicon ne doit pas dépasser 1 Mo!
+Please upload 250 * 60 size file,Veuillez télécharger un fichier de taille 250 * 60
+Logo only allows file types of JPG and JPEG.,Le logo autorise uniquement les types de fichiers JPG et JPEG.
+Favicon only allows file types of ICO,Favicon autorise uniquement les types de fichiers ICO
+Please upload 16 * 16 size of favicon.,Veuillez télécharger la taille 16 * 16 du favicon.
+Company profile updated sucessfully!,Le profil de l'entreprise a été mis à jour avec succès!
+Company profile added sucessfully!,Le profil de l'entreprise a été ajouté avec succès!
+Permission Denied.,Permission refusée.
+is Deleted Sucessfully!,est supprimé avec succès!
+To date should not be greater than current date.,À ce jour ne doit pas être postérieure à la date actuelle.
+Invoice generation completed.,Génération de la facture terminée.
+No data found,Aucune donnée disponible
+Invoices removed successfully,Factures supprimées avec succès
+The Prefix field must contain a unique value.,Le champ Préfixe doit contenir une valeur unique.
+The IP field must contain a unique value.,Le champ IP doit contenir une valeur unique.
+IP Map added successfully!,Carte IP ajoutée avec succès!
+IP Map removed successfully!,Carte IP supprimée avec succès!
+Localization Added Successfully!,Localisation ajoutée avec succès!
+Localization Updated Successfully!,Localisation mise à jour avec succès!
+Localization Removed Successfully!,Localisation supprimée avec succès!
+Globalization is already exist in this system,La mondialisation existe déjà dans ce système
+Dispatcher Updated Successfully!,Dispatcher mis à jour avec succès!
+Dispatcher Added Successfully!,Dispatcher ajouté avec succès!
+Dispatcher Removed Successfully!,Dispatcher supprimé avec succès!
+Code is already in system,Le code est déjà dans le système
+Country is already in system,Le pays est déjà dans le système
+Ratedeck updated successfully!,Ratedeck mis à jour avec succès!
+Ratedeck added successfully!,Ratedeck a été ajouté avec succès!
+Ratedeck removed successfully!,Ratedeck a été supprimé avec succès!
+Duplicate Ratedeck Number found from import file.,Numéro de contrôle en double trouvé à partir du fichier d'importation.
+Ratedeck Imported Successfully!,Ratedeck a été importé avec succès!
+Ratedeck Import Error,Erreur d'importation de Ratedeck
+Back to Ratedeck List,Retour à la liste des contrôles évalués
+Origination Rate Imported Successfully!,Taux d'origination importé avec succès!
+Origination Rate Updated Successfully!,Taux d'origination mis à jour avec succès!
+Origination Rate Added Successfully!,Taux d'origination ajouté avec succès!
+Termination Rates Batch Updated Successfully!,Taux de résiliation Lot mis à jour avec succès!
+Map CSV to Termination Rates,Mapper CSV aux taux de terminaison
+Data Example,Exemple de données
+Map to Field,Mapper au champ
+PREFIX/DEFAULT VALUE,VALEUR PRÉFIXE / PAR DÉFAUT
+ASTPP Field,Champ ASTPP
+Created,Établi
+Modified,Modifié
+You can not create,Vous ne pouvez pas créer
+Refill coupon with,Recharger le coupon avec
+You can create maximum,Vous pouvez créer un maximum
+Refill coupon created successfully!,Le coupon de recharge a été créé avec succès!
+Currency Added Successfully!,Monnaie ajoutée avec succès!
+Currency Removed Successfully!,La devise a bien été supprimée!
+Backup Exported Successfully!,Sauvegarde exportée avec succès!
+An error occur when the system tried to backup of the database. Please check yours system settings for the backup section,Une erreur s'est produite lorsque le système a tenté de sauvegarder la base de données. Veuillez vérifier vos paramètres système pour la section de sauvegarde
+Database Restore successfully.,La restauration de la base de données a réussi.
+File not exists!,Le fichier n'existe pas!
+There is a some issue or invalid file format.,Il y a un problème ou un format de fichier non valide.
+Database backup deleted successfully.,La sauvegarde de la base de données a bien été supprimée.
+Languages updated successfully!,Langues mises à jour avec succès!
+Languages removed successfully!,Langues supprimées avec succès!
+Languages added successfully!,Langues ajoutées avec succès!
+Translation updated successfully!,Traduction mise à jour avec succès!
+Translation added successfully!,Traduction ajoutée avec succès!
+Update Languages,Mettre à jour les langues
+Speed Dial,Numérotation rapide
+Payment,Paiement
+Method,Méthode
+Once you confirm the invoice,Une fois que vous confirmez la facture
+Payment Gateway Permission,Autorisation de la passerelle de paiement
+Zip Code,Code postal
+Yes,Oui
+Back,Retour
+Edit Reseller,Modifier le revendeur
+Asignar DID a granel,Asignar a fait un granel
+DIDs Search,Recherche DID
+By Month,Par mois
+Create Gateway,Créer une passerelle
+Calling Card Language,Langue de la carte d'appel
+Last,Dernier
+Pay Date,Date de paie
+Purchase DID,Acheter DID
+Caller-ID-A-Form,Formulaire d'identification de l'appelant
+Expire Seconds,Expire en secondes
+Termination Date,Date de résiliation
+Registration Date,Date d'inscription
+Payment By,Paiement par
+Product Status,État du produit
+Minute,Minute
+Hour,Heure
+Day,journée
+Month,Mois
+Year,An
+List,liste
+Edit,Éditer
+Not Avaialable any Subscription.,Aucun abonnement disponible.
+Not Avaialable any Package for this Country.,Aucun forfait disponible pour ce pays.
+You can only transfer fund in same level account.,Vous ne pouvez transférer des fonds que dans un compte de même niveau.
+You can not transfer fund in same account.,Vous ne pouvez pas transférer de fonds sur le même compte.
+Monthly Fee,Redevance mensuelle
+Bulk DID Assign,Attribution groupée de DID
+Invoice Start From,Facture à partir de
+Edit Gateway,Modifier la passerelle
+Number Of Default Rows,Nombre de lignes par défaut
+Mobile Dialer,Numéroteur mobile
+Trunk Count,Nombre de tronc
+Welcome File,Fichier de bienvenue
+Local Call Timeout (Sec.),Délai d'appel local (sec.)
+Rate check for DID,Contrôle de taux pour DID
+DID Localization,Localisation DID
+Voicemail Number,Numéro de messagerie vocale
+OTP Expire Time(min),Heure d'expiration OTP (min)
+Edit Provider,Modifier le fournisseur
+Product Summary Reports,Rapports de synthèse des produits
+Edit Origination Rate,Modifier le taux d'origination
+Dialplan Variable,Variable de plan de numérotation
+Uninstall,Désinstaller
+Call Stat,Appeler Stat
+Failed Calls,Appels échoués
+Top 10 Countries,Top 10 des pays
+By Minutes,Par minutes
+By Calls,Par appels
+Telephone number is only numeric,Le numéro de téléphone est uniquement numérique
+Please enter valid Captcha code,Veuillez saisir un code Captcha valide
+Please contact to administrator,Veuillez contacter l'administrateur
+Requested email is already exist,L'e-mail demandé existe déjà
+Requested number is already exist,Le numéro demandé existe déjà
+Please enter correct words!,Veuillez saisir les mots corrects!
+THIS IS REQUIRED!,CECI EST NÉCESSAIRE!
+Your account has been deleted. Please contact administrator for more information.,Votre compte a été supprimé. Veuillez contacter l'administrateur pour plus d'informations.
+Your account is inactive. Please contact administrator for more information.,Votre compte est inactif. Veuillez contacter l'administrateur pour plus d'informations.
+Please enter proper Email.,Veuillez saisir une adresse e-mail appropriée.
+Please enter proper Username.,Veuillez entrer le nom d'utilisateur approprié.
+This Username or Email is not valid.,Ce nom d'utilisateur ou e-mail n'est pas valide.
+ASTPP - A Smart TelePhony Platform,ASTPP - Une plateforme Smart TelePhony
+Forgot Password,Mot de passe oublié
+ASTPP work best with JavaScript enabled,ASTPP fonctionne mieux avec JavaScript activé
+Enter Your Password,Tapez votre mot de passe
+Confirm Password,Confirmez le mot de passe
+The Email field is Required,Le champ Email est obligatoire
+The Account Number field is Required,Le champ Numéro de compte est obligatoire
+Set Default Language,Définir la langue par défaut
+Please Re-login to get Impact of selected language.,Veuillez vous reconnecter pour obtenir l'impact de la langue sélectionnée.
+Default Language,Langage par défaut
+Signup now!,S'inscrire maintenant!
+Forgot Password?,Mot de passe oublié?
+Sign in,se connecter
+Username OR Email,Nom d'utilisateur ou email
+Username is Required,Nom d'utilisateur est nécessaire
+Password is Required,Mot de passe requis
+Please Check Your account is deleted or inactive from admin side,Veuillez vérifier que votre compte est supprimé ou inactif du côté administrateur
+Please do not use default or less secure password for your account!! You must change password from,Veuillez ne pas utiliser de mot de passe par défaut ou moins sécurisé pour votre compte !! Vous devez changer le mot de passe de
+HERE,ICI
+Login unsuccessful. Please make sure you entered the correct username and password,Échec de la connexion. Veuillez vous assurer que vous avez entré le nom d'utilisateur et le mot de passe corrects
+Please enter Username/email and Password.,Veuillez saisir votre nom d'utilisateur / e-mail et votre mot de passe.
+Payment transaction invalid. Please contact Administrator.,Transaction de paiement invalide. Veuillez contacter l'administrateur.
+Log In,S'identifier
+Please Enter Password,Veuillez entrer le mot de passe
+Password must be at least 8 characters and must contain at least one lower case letter,Le mot de passe doit contenir au moins 8 caractères et doit contenir au moins une lettre minuscule
+Please Enter Confirm Password,Veuillez saisir le mot de passe
+Confirm Password is not match,Confirmer que le mot de passe ne correspond pas
+We sent update password link.,Nous avons envoyé un lien de mise à jour du mot de passe.
+Please check your Email!,Merci de consulter vos emails!
+Login,S'identifier
+OTP Verification,Vérification OTP
+OTP Number is Required,Le numéro OTP est obligatoire
+Your account created successfully and account details sent to your registered email address,Votre compte a été créé avec succès et les détails du compte envoyés à votre adresse e-mail enregistrée
+Your password change successfully and new password sent to your registered email address,Votre mot de passe a bien été modifié et le nouveau mot de passe a été envoyé à votre adresse e-mail enregistrée
+OTP Number is Wrong Please try again Or OTP expire Please Resend,Le numéro OTP est incorrect Veuillez réessayer Ou OTP expire Veuillez renvoyer
+OTP has been sent on your email or Telephone number,OTP a été envoyé sur votre e-mail ou votre numéro de téléphone
+OTP,OTP
+Resend OTP,Renvoyer OTP
+OTP Sent time Out,Délai d'envoi OTP
+Not Get OTP ?,Vous n'obtenez pas OTP?
+Note:,Remarque:
+Please make sure do not refresh the page or don't go back,Veuillez vous assurer de ne pas actualiser la page ou de ne pas revenir en arrière
+Login unsuccessful. Please make sure you entered the correct username and password,Échec de la connexion. Veuillez vous assurer que vous avez entré le nom d'utilisateur et le mot de passe corrects
+Your account has been created successfully!,Votre compte a été créé avec succès!
+Here is your login information,Voici vos informations de connexion
+Link is Expire Please Try Again,"Le lien expire, veuillez réessayer"
+Sorry,Désolé
+Please contact administrator for more information,Veuillez contacter l'administrateur pour plus d'informations
+Successful!,Réussi!
+Captcha is required,Captcha est requis
+First Name is Required,Le prénom est requis
+Telephone is Required,Le téléphone est requis
+Email is Required,L'e-mail est obligatoire
+Please enter a valid email address,"S'il vous plaît, mettez une adresse email valide"
+Please make sure you entered the correct username and password,Veuillez vous assurer que vous avez entré le nom d'utilisateur et le mot de passe corrects
+Company Name,Nom de la compagnie
+Enter above Captcha,Entrez au-dessus du captcha
+Sign up,S'inscrire
+Already Registered !,Déjà enregistré !
+January,janvier
+February,février
+March,Mars
+April,avril
+May,Mai
+June,juin
+July,juillet
+August,août
+September,septembre
+October,octobre
+November,novembre
+December,décembre
+Doesn't Contain,Ne contient pas
+Greater Than,Plus grand que
+Less Than,Moins que
+Greater Or Equal Than,Supérieur ou égal à
+Less Or Equal Than,Inférieur ou égal à
+Set To,Mis à
+Increase By,Augmenté de
+Decrease By,Diminuer de
+Community,Communauté
+You must either select a field from your file OR provide a default value for the following fields:,Vous devez soit sélectionner un champ dans votre fichier OU fournir une valeur par défaut pour les champs suivants:
+Note : Records with duplicate account number and email will be ignored.,Remarque: les enregistrements avec un numéro de compte et une adresse e-mail en double seront ignorés.
+Map CSV to Customers,Mapper CSV aux clients
+Account Information,Information sur le compte
+Select Account,Sélectionnez un compte
+DEFAULT VALUE,VALEUR PAR DÉFAUT
+SIP Username,Nom d'utilisateur SIP
+sip_username,sip_username
+SIP Password,Mot de passe SIP
+Same as Password,Identique au mot de passe
+Same as Account Number,Identique au numéro de compte
+Random,Aléatoire
+Import File Data.,Importer des données de fichier.
+Process Records,Dossiers de processus
+Note : Duplicate accounts with account number / email are ignored.,Remarque: les comptes en double avec numéro de compte / e-mail sont ignorés.
+Remove,Retirer
+Number of Account,Numéro de compte
+Account Number Length,Longueur du numéro de compte
+DID (CLI Match,DID (correspondance CLI
+Caller Id (CLI Match,ID de l'appelant (correspondance CLI
+Use NON-CLI Rate Group (If CLI not match with DID),Utiliser le groupe de taux NON-CLI (si la CLI ne correspond pas à DID)
+Use NON-CLI Rate Group (If CLI not match with Caller ID),Utiliser le groupe de taux NON-CLI (si la CLI ne correspond pas à l'ID de l'appelant)
+Use NON-CLI Rate Group (If CLI not match with DID & Caller id),Utilisez le groupe de taux NON-CLI (si la CLI ne correspond pas à DID et à l'ID de l'appelant)
+Reject Call (If CLI not match with DID),Rejeter l'appel (si la CLI ne correspond pas à DID)
+Reject Call (If CLI not match with Caller ID),Rejeter l'appel (si la CLI ne correspond pas à l'ID de l'appelant)
+Reject Call (If CLI not match with DID & Caller id),Rejeter l'appel (si la CLI ne correspond pas au DID et à l'identifiant de l'appelant)
+--Select--,--Sélectionner--
+Test Mail,E-mail test
+Reset Password,réinitialiser le mot de passe
+AFGHANISTAN,AFGHANISTAN
+ALBANIA,ALBANIE
+ALGERIA,ALGÉRIE
+AMERICAN SAMOA,SAMOA AMÉRICAIN
+ANDORRA,ANDORRE
+ANGOLA,ANGOLA
+ANGUILLA,ANGUILLA
+ANTIGUA & BARBUDA,ANTIGUA ET BARBUDA
+ARGENTINA,ARGENTINE
+ARMENIA,ARMÉNIE
+ARUBA,ARUBA
+AUSTRALIA,AUSTRALIE
+AUSTRIA,L'AUTRICHE
+AZERBAIJAN,AZERBAÏDJAN
+BAHAMAS,BAHAMAS
+BAHRAIN,BAHREÏN
+BANGLADESH,BANGLADESH
+BARBADOS,BARBADE
+BELARUS,BELARUS
+BELGIUM,BELGIQUE
+BELIZE,BELIZE
+BENIN,BÉNIN
+BERMUDA,BERMUDES
+BHUTAN,BHOUTAN
+BOLIVIA,BOLIVIE
+BOSNIA AND HERZEGOVINA,BOSNIE HERZÉGOVINE
+BOTSWANA,BOTSWANA
+BRAZIL,BRÉSIL
+BRITISH VIRGIN ISLANDS,ÎLES VIERGES BRITANNIQUES
+BRUNEI,BRUNEI
+BULGARIA,BULGARIE
+BURKINA FASO,BURKINA FASO
+BURUNDI,BURUNDI
+CAMBODIA,CAMBODGE
+CAMEROON,CAMEROUN
+CANADA,CANADA
+CAPE VERDE,CAP-VERT
+CAYMAN ISLANDS,ÎLES CAÏMANS
+CENTRAL AFRICAN REPUBLIC,RÉPUBLIQUE CENTRAFRICAINE
+CHAD,TCHAD
+CHILE,CHILI
+CHINA,CHINE
+COLOMBIA,COLOMBIE
+COMOROS,COMORES
+CONGO,CONGO
+COSTA RICA,COSTA RICA
+CROATIA,CROATIE
+CUBA,CUBA
+CYPRUS,CHYPRE
+CZECH REPUBLIC,RÉPUBLIQUE TCHÈQUE
+DEMOCRATIC REPUBLIC,RÉPUBLIQUE DÉMOCRATIQUE
+DENMARK,DANEMARK
+DJIBOUTI,DJIBOUTI
+DOMINICA,DOMINIQUE
+DOMINICAN REPUBLIC,RÉPUBLIQUE DOMINICAINE
+ECUADOR,EQUATEUR
+EGYPT,EGYPTE
+EL SALVADOR,LE SALVADOR
+EQUATORIAL GUINEA,GUINÉE ÉQUATORIALE
+ERITREA,ERYTHREE
+ERITREA,ERYTHREE
+ETHIOPIA,ETHIOPIE
+FAEROE ISLANDS,ÎLES FAEROE
+FIJI ISLANDS,ÎLES FIDJI
+FINLAND,FINLANDE
+FRANCE,FRANCE
+FRENCH GUIANA,GUYANE FRANÇAISE
+FRENCH POLYNESIA,POLYNÉSIE FRANÇAISE
+GABON,GABON
+GAMBIA,GAMBIE
+GEORGIA,GÉORGIE
+GERMANY,ALLEMAGNE
+GHANA,GHANA
+GIBRALTAR,GIBRALTAR
+GREECE,GRÈCE
+GRENADA,GRENADE
+GUADELOUPE,GUADELOUPE
+GUAM,GUAM
+GUATEMALA,GUATEMALA
+GUINEA,GUINÉE
+GUINEA BISSAU,GUINÉE BISSAU
+GUYANA,GUYANE
+HAITI,HAÏTI
+HONDURAS,HONDURAS
+HONG KONG,HONG KONG
+HUNGARY,HONGRIE
+ICELAND,ISLANDE
+INDIA,INDE
+INDONESIA,INDONÉSIE
+IRAN,L'IRAN
+IRAQ,IRAK
+IRELAND,IRLANDE
+ISRAEL,ISRAËL
+ITALY,ITALIE
+IVORY COAST,CÔTE D'IVOIRE
+JAMAICA,JAMAÏQUE
+JAPAN,JAPON
+JORDAN,JORDAN
+KAZAKHSTAN,KAZAKHSTAN
+KENYA,KENYA
+KOSOVO,KOSOVO
+KUWAIT,KOWEIT
+KYRGYZSTAN,KYRGYZSTAN
+LAOS,LAOS
+LATVIA,LETTONIE
+LEBANON,LIBAN
+LESOTHO,LESOTHO
+LIBERIA,LIBÉRIA
+LIBYA,LIBYE
+LIECHTENSTEIN,LIECHTENSTEIN
+LITHUANIA,LITUANIE
+LUXEMBOURG,LUXEMBOURG
+MACAU,MACAU
+MACEDONIA,MACÉDOINE
+MADAGASCAR,MADAGASCAR
+MALAWI,MALAWI
+MALAYSIA,MALAISIE
+MALI,MALI
+MALTA,MALTE
+MARSHALL ISLANDS,ILES MARSHALL
+MARTINIQUE,MARTINIQUE
+MAURITANIA,MAURITANIE
+MAURITIUS,MAURICE
+MEXICO,MEXIQUE
+MICRONESIA,MICRONÉSIE
+MOLDOVA,MOLDAVIE
+MONACO,MONACO
+MONGOLIA,MONGOLIE
+MONTENEGRO,MONTÉNÉGRO
+MONTSERRAT,MONTSERRAT
+MOROCCO,MAROC
+MOZAMBIQUE,MOZAMBIQUE
+MYANMAR,MYANMAR
+NAMIBIA,NAMIBIE
+NEPAL,NÉPAL
+NETHERLANDS,PAYS-BAS
+NEW CALEDONIA,NOUVELLE CALÉDONIE
+NEW ZEALAND,NOUVELLE-ZÉLANDE
+NICARAGUA,NICARAGUA
+NIGER,NIGER
+NIGERIA,NIGERIA
+NO. MARIANA ISLANDS,NON. ÎLES MARIANA
+NORTH KOREA,CORÉE DU NORD
+NORWAY,NORVÈGE
+OMAN,OMAN
+PAKISTAN,PAKISTAN
+PALAU,PALAU
+PANAMA,PANAMA
+PARAGUAY,PARAGUAY
+PERU,PÉROU
+PHILIPPINES,PHILIPPINES
+POLAND,POLOGNE
+PORTUGAL,LE PORTUGAL
+PUERTO RICO,PORTO RICO
+QATAR,QATAR
+REUNION ISLAND,ILE DE LA RÉUNION
+ROMANIA,ROUMANIE
+RUSSIAN FEDERATION,FÉDÉRATION RUSSE
+RWANDA,RWANDA
+SAN MARINO,SAINT MARIN
+SAUDI ARABIA,ARABIE SAOUDITE
+SENEGAL,SÉNÉGAL
+SERBIA,SERBIE
+SEYCHELLES ISLANDS,ILES SEYCHELLES
+SIERRA LEONE,SIERRA LEONE
+SINGAPORE,SINGAPOUR
+SLOVAKIA,SLOVAQUIE
+SLOVENIA,SLOVÉNIE
+SOMALIA,SOMALIE
+SOUTH AFRICA,AFRIQUE DU SUD
+SOUTH KOREA,CORÉE DU SUD
+SOUTH SUDAN,SOUDAN DU SUD
+SPAIN,ESPAGNE
+SRI LANKA,SRI LANKA
+ST. KITTS,ST. KITTS
+ST. LUCIA,ST. LUCIE
+ST. MARTIN,ST. MARTIN
+ST. PIERRE & MIQUELON,ST. PIERRE ET MIQUELON
+ST. VINCENT,ST. VINCENT
+SUDAN,SOUDAN
+SURINAME,SURINAME
+SWAZILAND,SWAZILAND
+SWEDEN,SUÈDE
+SWITZERLAND,SUISSE
+SYRIA,SYRIE
+TAIWAN,TAÏWAN
+TAJIKISTAN,TAJIKISTAN
+TANZANIA,TANZANIE
+THAILAND,THAÏLANDE
+TRINIDAD & TOBAGO,TRINIDAD ET TOBAGO
+TUNISIA,TUNISIE
+TURKEY,DINDE
+TURKMENISTAN,TURKMÉNISTAN
+TURKS & CAICOS ISLANDS,ILES TURKS ET CAICOS
+UGANDA,OUGANDA
+UKRAINE,UKRAINE
+UNITED ARAB EMIRATES,EMIRATS ARABES UNIS
+UNITED KINGDOM,ROYAUME-UNI
+URUGUAY,URUGUAY
+US VIRGIN ISLANDS,ÎLES VIERGES AMÉRICAINES
+United States,États Unis
+UZBEKISTAN,OUZBÉKISTAN
+VENEZUELA,VENEZUELA
+VIETNAM,VIETNAM
+YEMEN,YÉMEN
+ZAMBIA,ZAMBIE
+ZIMBABWE,ZIMBABWE
+ASCENSION,ASCENSION
+COOK ISLANDS,LES ÎLES COOK
+EAST TIMOR,TIMOR ORIENTAL
+FALKLAND ISLANDS,LES ÎLES FALKLAND
+GREENLAND,GROENLAND
+KIRIBATI,KIRIBATI
+MALDIVES,MALDIVES
+NAURU,NAURU
+Albanian Lek,Lek albanais
+Algerian Dinar,Dinar algérien
+Aluminium Ounces,Onces d'aluminium
+Argentine Peso,Peso argentin
+Aruba Florin,Aruba Florin
+Australian Dollar,Dollar australien
+Bahamian Dollar,Dollar des Bahamas
+Bahraini Dinar,Dinar bahreïni
+Bangladesh Taka,Bangladesh Taka
+Barbados Dollar,Dollar de la Barbade
+Belarus Ruble,Rouble biélorusse
+Belize Dollar,Dollar du Belize
+Bermuda Dollar,Dollar des Bermudes
+Bhutan Ngultrum,Bhoutan Ngultrum
+Bolivian Boliviano,Boliviano bolivien
+Brazilian Real,Real brésilien
+British Pound,Livre sterling
+Brunei Dollar,Dollar de Brunei
+Bulgarian Lev,Bulgare lev
+Burundi Franc,Franc du Burundi
+Cambodia Riel,Cambodge Riel
+Canadian Dollar,Dollar canadien
+Cayman Islands Dollar,Dollar des îles Caïmans
+CFA Franc (BCEAO),Franc CFA (BCEAO)
+CFA Franc (BEAC),Franc CFA (BEAC)
+Chilean Peso,Peso chilien
+Chinese Yuan,Le yuan chinois
+Colombian Peso,Peso colombien
+Comoros Franc,Franc comorien
+Copper Ounces,Onces de cuivre
+Costa Rica Colon,Costa Rica Colon
+Croatian Kuna,Croate Kuna
+Cuban Peso,Peso cubain
+Cyprus Pound,Livre chypriote
+Czech Koruna,Couronne tchèque
+Danish Krone,Couronne danoise
+Dijibouti Franc,Franc de Dijibouti
+Dominican Peso,Peso dominicain
+East Caribbean Dollar,Dollar des Caraïbes orientales
+Ecuador Sucre,Equateur Sucre
+Egyptian Pound,Livre égyptienne
+El Salvador Colon,Salvador Colon
+Eritrea Nakfa,Érythrée Nakfa
+Estonian Kroon,Couronne estonienne
+Ethiopian Birr,Birr éthiopien
+Euro,euro
+Falkland Islands Pound,Livre des îles Falkland
+Gambian Dalasi,Dalasi gambien
+Ghanian Cedi,Cédi ghanéen
+Gibraltar Pound,Livre de Gibraltar
+Gold Ounces,Onces d'or
+Guatemala Quetzal,Guatemala Quetzal
+Guinea Franc,Franc guinéen
+Haiti Gourde,Haïti Gourde
+Honduras Lempira,Honduras Lempira
+Hong Kong Dollar,Dollar de Hong Kong
+Hungarian ForINT,Hongrois ForINT
+Iceland Krona,Couronne islandaise
+Indian Rupee,Roupie indienne
+Indonesian Rupiah,Roupie indonésienne
+Iran Rial,Iran Rial
+Israeli Shekel,Shekel israélien
+Jamaican Dollar,Dollar jamaïcain
+Japanese Yen,Yen japonais
+Jordanian Dinar,Dinar jordanien
+Kazakhstan Tenge,Kazakhstan Tenge
+Kenyan Shilling,Shilling kényan
+Korean Won,Won coréen
+Kuwaiti Dinar,Dinar koweïtien
+Lao Kip,Lao Kip
+Latvian Lat,Lat letton
+Lebanese Pound,Livre libanaise
+Lesotho Loti,Lesotho Loti
+Libyan Dinar,Dinar libyen
+Lithuanian Lita,Lituanienne Lita
+Macau Pataca,Pataca de Macao
+Macedonian Denar,Denar macédonien
+Malagasy Franc,Franc malgache
+Malawi Kwacha,Malawi Kwacha
+Malaysian Ringgit,cloche malaisienne
+Maldives Rufiyaa,Maldives Rufiyaa
+Maltese Lira,Lire maltaise
+Mauritania Ougulya,Mauritanie Ougulya
+Mauritius Rupee,Roupie mauricienne
+Mexican Peso,Peso mexicain
+Moldovan Leu,Leu moldave
+Mongolian Tugrik,Mongol Tugrik
+Moroccan Dirham,Dirham marocain
+Mozambique Metical,Mozambique Metical
+Namibian Dollar,Dollar namibien
+Nepalese Rupee,Roupie népalaise
+Neth Antilles Guilder,Florin des Antilles Néerlandaises
+New Turkish Lira,Nouvelle livre turque
+New Zealand Dollar,Dollar néo-zélandais
+Nicaragua Cordoba,Nicaragua Cordoba
+Nigerian Naira,Naira nigérian
+Norwegian Krone,Couronne norvégienne
+Omani Rial,Rial omanais
+Pacific Franc,Franc du Pacifique
+Pakistani Rupee,Roupie pakistanaise
+Palladium Ounces,Onces de palladium
+Panama Balboa,Panama Balboa
+Papua New Guinea Kina,Papouasie-Nouvelle-Guinée Kina
+Paraguayan Guarani,Guarani paraguayen
+Peruvian Nuevo Sol,Nuevo Sol péruvien
+Philippine Peso,Peso philippin
+Platinum Ounces,Onces de platine
+Polish Zloty,Zloty polonais
+Qatar Rial,Qatar Rial
+Romanian Leu,Leu roumain
+Romanian New Leu,Nouveau Leu roumain
+Russian Rouble,Rouble russe
+Rwanda Franc,Franc rwandais
+Samoa Tala,Samoa Tala
+Sao Tome Dobra,Sao Tomé Dobra
+Saudi Arabian Riyal,Riyal saoudien
+Seychelles Rupee,Roupie des Seychelles
+Sierra Leone Leone,Sierra Leone Leone
+Silver Ounces,Onces d'argent
+Singapore Dollar,Dollar de Singapour
+Slovak Koruna,Couronne slovaque
+Slovenian Tolar,Tolar slovène
+Somali Shilling,Shilling somalien
+South African Rand,Rand sud-africain
+Sri Lanka Rupee,Roupie de Sri Lanka
+St Helena Pound,Livre de Sainte-Hélène
+Sudanese Dinar,Dinar soudanais
+Surinam Guilder,Florin du Surinam
+Swaziland Lilageni,Swaziland Lilageni
+Swedish Krona,Couronne suédoise
+Swiss Franc,Franc suisse
+Syrian Pound,Livre syrienne
+Taiwan Dollar,Dollar de Taiwan
+Tanzanian Shilling,Shilling tanzanien
+Thai Baht,Baht thaïlandais
+Tonga Paanga,Tonga Paanga
+Trinidad&Tobago Dollar,Dollar de Trinité-et-Tobago
+Tunisian Dinar,Dinar tunisien
+U.S. Dollar,Dollars américain
+UAE Dirham,Dirham des EAU
+Ugandan Shilling,Shilling ougandais
+Ukraine Hryvnia,Ukraine Hryvnia
+Uruguayan New Peso,Nouveau peso uruguayen
+Vanuatu Vatu,Vanuatu Vatu
+Venezuelan Bolivar,Bolivar vénézuélien
+Vietnam Dong,Vietnam Dong
+Yemen Riyal,Yémen Riyal
+Zambian Kwacha,Kwacha zambien
+Zimbabwe Dollar,Dollar du Zimbabwe
+Guyana Dollar,Dollar du Guyana
+Aruban florin,Florin d'Aruba
+Armenian dram,Dram arménien
+Azerbaijani manat,Manat azerbaïdjanais
+Barbadian dollar,Dollar barbadien
+Bosnian Convertible Marka,Marka convertible bosniaque
+Botswana pula,Pula du Botswana
+Cape Verdean escudo,Escudo cap-verdien
+Congolese franc,Franc congolais
+Fijian Dollar,Dollar fidjien
+CFP franc,Franc CFP
+Georgian lari,Lari géorgien
+Iraqi dinar,Dinar irakien
+Kyrgyzstani som,Som kirghize
+Liberian dollar,Dollar libérien
+Malagasy ariary,Ariary malgache
+Burmese Kyat,Kyat birman
+North Korean won,Won nord-coréen
+nuevo sol,nuevo sol
+Serbian dinar,Dinar serbe
+South Korean won,Won sud-coréen
+South Sudanese pound,Livre sud-soudanaise
+Sudanese pound,Livre soudanaise
+Surinamese dollar,Dollar surinamais
+Tajikistani samani,Samani du Tadjikistan
+Turkish lira,Lire turque
+Turkmenistan manat,Manat du Turkménistan
+Pound sterling,Livre sterling
+Uzbekistani soʻm,Ouzbékistan
+Saint Helena pound,Livre de Sainte-Hélène
+Indian Rupees,Roupies indiennes
+CLI Pool,Pool CLI
+Download,Télécharger
+TRUE,VRAI
+FALSE,FAUX
+--Select Type--,--Sélectionner le genre--
+One Time,Une fois
+Recurring,Récurrent
+Recurring Monthly,Récurrent mensuel
+Outbound,Sortant
+Default,Défaut
+Speed Dial Number Added Successfully,Numéro abrégé ajouté avec succès
+Are you sure want to confirm this invoice ? once you confirm it,Voulez-vous vraiment confirmer cette facture? une fois que vous le confirmez
+DIDs already purchased by someone.,DID déjà achetés par quelqu'un.
+DIDs Assigned sucessfully!,DID attribués avec succès!
+Something wrong.Please contact to administrator.,"Quelque chose ne va pas, veuillez contacter l'administrateur."
+Duplicate DID found from database,DID dupliqué trouvé dans la base de données
+Account have not sufficient amount to purchase this DID.,Le compte n'a pas un montant suffisant pour acheter ce DID.
+Account not found or assign to invalid account,Compte non trouvé ou attribué à un compte non valide
+Duplicate DID found from import file.,Duplicate DID trouvé à partir du fichier d'importation.
+DIDs Imported Successfully!,Les DID ont été importés avec succès!
+Insuffiecient fund to purchase this DID.,Fonds insuffisant pour acheter ce DID.
+Balance Below Notification,Solde sous la notification
+Edit SIP Device,Modifier le périphérique SIP
+Note : Page will display only receipts and confirmed invoices.,Remarque: la page n'affichera que les reçus et les factures confirmées.
+Termination Rate Updated Successfully!,Taux de résiliation mis à jour avec succès!
+Import Termination Rates Using Field Mapper,Importer les taux de terminaison à l'aide de Field Mapper
+Edit Roles & Permissions,Modifier les rôles et autorisations
+Create Roles & Permissions,Créer des rôles et des autorisations
+Edit Admin,Modifier l'administrateur
+Pin Updated Successfully!.,Épingle mise à jour avec succès!.
+Create Termination Rate,Créer un taux de résiliation
+Edit Company Profile,Modifier le profil de l'entreprise
+Website,Site Internet
+Generate Invoice for no usage,Générer une facture sans utilisation
+Commission Repots,Remboursements de commission
+Top Up,Recharger
+Purchase DIDs,Acheter des DID
+Package,Paquet
+Setup,Installer
+DID Purchased Successfully.,Acheté avec succès.
+release,Libération
+DID Batch Updated Successfully!,Le lot a-t-il été mis à jour avec succès!
+DID forwading set sucessfully!,DID forwading set avec succès!
+Are you sure want to release DID?,Voulez-vous vraiment publier DID?
+Please select atleast one record,Veuillez sélectionner au moins un enregistrement
+Account Balance,Solde du compte
+Next Bill Date,Prochaine date de facturation
+TOTAL AMOUNT,MONTANT TOTAL
+Invoice,Facture d'achat
+IP Address,Adresse IP
+Terminate,Mettre fin
+Seconds,Secondes
+Recording,Enregistrement
+Rates,Les taux
+Paid,Payé
+No Records,Pas d'enregistrements
+Please select from date,Veuillez sélectionner une date
+Please select to date,Veuillez sélectionner à ce jour
+Please select to date bigger than from date,Veuillez sélectionner une date supérieure à la date de début
+Confirm,Confirmer
+Edit Country,Modifier le pays
+Skip Header,Ignorer l'en-tête
+Origination_rate_error,Origination_rate_error
+Termination_rate_error,Termination_rate_error
+Termination_Rates,Termination_Rates
+Origination_Rates,Origination_Rates
+refill_coupon,refill_coupon
+Edit Reseller,Modifier le revendeur
+Edit Calltype,Modifier le type d'appel
+updated successfully!,Mis à jour avec succés!
+added successfully!,ajouté avec succès!
+Invoice generation completed .,Génération de la facture terminée.
+NOTE,REMARQUE
+No data found.,Aucune donnée disponible.
+Added successfully!,Ajouté avec succès!
+DID added successfully!,A ajouté avec succès!
+DID updated successfully!,DID mis à jour avec succès!
+File must be in the following format(.csv):,Le fichier doit être au format suivant (.csv):
+Process,Processus
+DID Import Error,Erreur d'importation DID
+Records Imported Successfully,Enregistrements importés avec succès
+Records Not Imported,Enregistrements non importés
+Back to DID List,Retour à la liste DID
+DID Batch Updated Successfully!,Le lot a-t-il été mis à jour avec succès!
+Accessnumber Added Successfully!,Numéro d'accès ajouté avec succès!
+Process,Processus
+Accessnumber Import Error,Erreur d'importation du numéro d'accès
+DIDs Assigned sucessfully!,DID attribués avec succès!
+Origination Rates Preview,Aperçu des taux d'origination
+Origination Rates Import Error,Erreur d'importation des taux d'origine
+Back to Origination Rates List,Retour à la liste des tarifs d'origine
+Origination Rates Batch Updated Successfully!,Lot de taux d'origination mis à jour avec succès!
+Import Ratedeck Preview,Importer l'aperçu Ratedeck
+CALLTYPE,CALLTYPE
+Edit Calltype,Modifier le type d'appel
+Outbound-Proxy,Proxy sortant
+Edit Trunk,Modifier le tronc
+Termination Rate Added Successfully!,Taux de résiliation ajouté avec succès!
+Edit Termination Rate,Modifier le taux de résiliation
+Termination Rates Import Error,Erreur d'importation des taux de résiliation
+Termination Rates Imported Successfully!,Taux de résiliation importés avec succès!
+Back to Origination Rates List,Retour à la liste des tarifs d'origine
+Select,Sélectionner
+pattern,modèle
+comment,commentaire
+connectcost,connectcost
+includedseconds,inclussecondes
+init_inc,init_inc
+inc,inc
+prepend,ajouter
+cost ,Coût
+strip,bande
+DID added successfully!,A ajouté avec succès!
+DID updated successfully!,DID mis à jour avec succès!
+Country Name,Nom du pays
+PAID,PAYÉ
+PENDING,EN ATTENTE
+FAIL,ÉCHOUER
+ORDER,ORDRE
+payment method,mode de paiement
+Terminate Order,Annuler la commande
+Compose Email,Écrire un email
+Message,Message
+Send,Envoyer
+SIP Port is Required.,Le port SIP est requis.
+Start,Début
+SIP Port is Required.,Le port SIP est requis.
+SIP IP is Required.,L'adresse IP SIP est requise.
+Name is Required.,Le nom est requis.
+The SIP Port field is Required.,Le champ Port SIP est obligatoire.
+The SIP Port field must contain only numbers.,Le champ Port SIP ne doit contenir que des chiffres.
+The SIP Port field can not exceed 5 characters in length.,Le champ Port SIP ne peut pas dépasser 5 caractères.
+Value is Required.,Valeur est requise.
+Value,Valeur
+Update Setting,Réglage de la mise à jour
+Add Setting,Ajouter un paramètre
+Edit Freeswitch Server,Modifier le serveur Freeswitch
+CUT,COUPER
+ADD,AJOUTER
+Edit Localization,Modifier la localisation
+Callbarring Settings Added Successfully!,Paramètres de contrôle d'appel ajoutés avec succès!
+Edit Call Barring,Modifier l'interdiction d'appels
+Callbarring Settings Updated Successfully!,Mise à jour réussie des paramètres d'appel!
+The Name field is required.,Il est requis de compléter le champ correspondant au nom.
+Please select file.,Veuillez sélectionner un fichier.
+Database import allows only gzfile types of file.,L'importation de base de données autorise uniquement les types de fichiers gzfile.
+File must be in (.gz) format :,Le fichier doit être au format (.gz):
+The Coupon Number field must contain only numbers.,Le champ Numéro de coupon ne doit contenir que des chiffres.
+The Coupon Number field have inactive refill coupon.,Le champ Numéro de coupon contient un coupon de recharge inactif.
+This Coupon Number is already in use.,Ce numéro de coupon est déjà utilisé.
+This Coupon Number is not found.,Ce numéro de coupon est introuvable.
+The Coupon Number field is required.,Le champ Numéro de coupon est obligatoire.
+Select Customer.,Sélectionnez Client.
+Please enter your email,Veuillez entrer votre email
+Please enter proper email,Veuillez saisir une adresse e-mail correcte
+The Caller ID field is required.,Le champ ID de l'appelant est obligatoire.
+Please enter your password,s'il vous plait entrez votre mot de passe
+Please enter your first name,Entrez votre prénom s'il vous plait
+Please enter your email,Veuillez entrer votre email
+This field is require,Ce champ est obligatoire
+The IP field must contain a unique value.,Le champ IP doit contenir une valeur unique.
+The Name field is required.,Il est requis de compléter le champ correspondant au nom.
+The IP field is required.,Le champ IP est obligatoire.
+Please Enter Valid Account Number,Veuillez saisir un numéro de compte valide
+Main,Principale
+--Select Disposition--,--Sélectionnez Disposition--
+Group By #time,Grouper par #time
+Active User,Utilisateur actif
+Used Minutes,Minutes utilisées
+Available Minutes,Minutes disponibles
+Total Price,Prix ​​total
+Total User,Utilisateur total
+Resend Mail,Renvoyer le courrier
+Restore,Restaurer
+View Details,Voir les détails
+Other,Autre
+Edit Tax,Modifier la taxe
+Edit Country,Modifier le pays
+Download Database,Télécharger la base de données
+Import Database,Importer la base de données
+File must be in (.gz) format,Le fichier doit être au format (.gz)
+ Please select file., Veuillez sélectionner un fichier.
+Please enter name and select file.,Veuillez saisir le nom et sélectionner le fichier.
+Edit Cron Settings,Modifier les paramètres Cron
+Global Settings updated sucessfully!,Paramètres globaux mis à jour avec succès!
+Alert Notifications,Notifications d'alerte
+Fraud Configuration,Configuration de la fraude
+Configuration add,Ajout de configuration
+Alarm Configuration,Configuration d'alarme
+Please select atleast one pattern.,Veuillez sélectionner au moins un motif.
+Problem In Add Patterns to account.,Problème lors de l'ajout de modèles au compte.
+Blocked Codes,Codes bloqués
+The IP field must contain a unique value.,Le champ IP doit contenir une valeur unique.
+The IP field is required.,Le champ IP est obligatoire.
+Please Enter Switch command,Veuillez entrer la commande de commutation
+are you sure to delete?,Êtes-vous sûr de vouloir supprimer?
+Are you sure want to confirm this invoice ? once you confirm it,Voulez-vous vraiment confirmer cette facture? une fois que vous le confirmez
+can not able to edit invoice again.,impossible de modifier à nouveau la facture.
+Maximum Logo upload size is 1MB,La taille maximale de téléchargement du logo est de 1 Mo
+Profit per day,Bénéfice par jour
+Please enter number,Veuillez entrer le numéro
+Import Customer,Importer un client
+Processing,En traitement
+please wait,"S'il vous plaît, attendez"
+U.S. Dollar (USD),Dollar américain (USD)
+Account Number,Numéro de compte
+Selected records has been deleted.,Les enregistrements sélectionnés ont été supprimés.
+Processing,En traitement
+Invoice Due Date,Échéance de la facture
+This month credits,Crédits de ce mois
+Product & Services,Produits et services
+Total Calls Amount,Montant total des appels
+Total Amount (Inc. tax),Montant total (taxe Inc.)
+Bill To,Facturer
+Subtotal,Total
+Emails,E-mails
+Add IP Settings,Ajouter des paramètres IP
+Edit IP Settings,Modifier les paramètres IP
+Edit Caller ID,Modifier l'ID de l'appelant
+Reseller Type,Type de revendeur
+Distributor,Distributeur
+Commission Based,Basé sur la commission
+Invoice Date Interval,Intervalle de date de facturation
+Please select atleast one record to delete.,Veuillez sélectionner au moins un enregistrement à supprimer.
+Are you sure you want to delete? This action will delete all other data which belongs to this account(s).,Etes-vous sûr que vous voulez supprimer? Cette action supprimera toutes les autres données appartenant à ce ou ces comptes.
+Days to Unhold,Jours à retenir
+DID,FAIT
+Access Numbers,Numéros d'accès
+Create Duplicate Rate Group,Créer un groupe de taux en double
+Connection,Connexion
+Effective Date,Date effective
+Effective Date Time,Date d'entrée en vigueur
+Effective From Date,Date d'entrée en vigueur
+Effective To Date,En vigueur à ce jour
+Edit Ratedeck,Modifier Ratedeck
+Routing,Routage
+Initial,Initiale
+Edit Rate Group,Modifier le groupe de tarifs
+Effective,Efficace
+Begin zone,Zone de début
+Nothing selected,Rien de sélectionné
+Please check your customers calls are running or not if running then may be customer balance goes in nagative!,"Veuillez vérifier que les appels de vos clients sont en cours d'exécution ou non s'ils sont en cours d'exécution, alors le solde du client peut être inversé!"
+Stop,Arrêtez
+Reload,Recharger
+Rescan,Rescan
+Template(regexp),Modèle (expression régulière)
+Destination Based CallerId,CallerId basé sur la destination
+Provider Summary,Résumé du fournisseur
+Notification History,Historique des notifications
+Are you sure you want to delete?,Etes-vous sûr que vous voulez supprimer?
+Address1,Adresse 1
+ (250 * 60),  (250 * 60)
+" (Allowed Extensions JPG, PNG, JPEG)","  (Extensions autorisées JPG, PNG, JPEG)"
+ (16 * 16),  (16 * 16)
+" (Allowed Extensions ICO, PNG, JPG, JPEG)","  (Extensions autorisées ICO, PNG, JPG, JPEG)"
+SMTP Email Test,Test de messagerie SMTP
+Email Body,Corps de l'e-mail
+Alert Body,Corps d'alerte
+Are you sure want to restore this database?,Voulez-vous vraiment restaurer cette base de données?
+Forwarding,Expéditeur
+DID-Local,DID-Local
+DID@IP/URL,DID @ IP / URL
+Direct-IP,Direct-IP
+PSTN,Piston
+SIP-DID,SIP-DID
+Edit Access number,Modifier le numéro d'accès
+Realm,Domaine
+Reg-Transport,Reg-Transport
+Gateway,passerelle
+Failover,Basculement
+GW Name #1,Nom GW # 1
+GW Name #2,Nom GW # 2
+Count,Compter
+Rate Type,Type de taux
+Refill,Recharge
+Full Price,Plein tarif
+Max. Days,Max. Journées
+Max. Minute,Max. Minute
+Both of one Maximum,Les deux d'un maximum
+Both,Tous les deux
+Are you sure you want to delete this selected records?,Voulez-vous vraiment supprimer ces enregistrements sélectionnés?
+Please check your customers calls are running or not. if running then may be customer balance goes in nagative!,Veuillez vérifier que les appels de vos clients sont en cours d'exécution ou non. si en cours d'exécution alors peut-être que le solde du client passe au nagatif!
+ESTONIA,ESTONIE
+CLI,CLI
+STANDARD,LA NORME
+CALLINGCARD,CARTE TÉLÉPHONIQUE
+FREE,LIBRE
+LOCAL,LOCAL
+Resand Email,Resand Email
+Sent,Expédié
+Failed,Échoué
+Resent Email,Envoyer un e-mail
+Org.,Org.
+Pefix,Pefix
+Term.,Terme.
+GMT Offset,Décalage GMT
+Add Timezone,Ajouter un fuseau horaire
+Timezone List,Liste des fuseaux horaires
+Edit Timezone,Modifier le fuseau horaire
+Folder Path,Chemin du dossier
+Custom Rule,Règle personnalisée
+Account Number Editable,Numéro de compte modifiable
+Packages,Paquets
+Terms & Condition,Termes et conditions
+Play Audio Notifications,Lire les notifications audio
+Sort cost based routing,Trier le routage basé sur les coûts
+Half Year,Semestre
+Open a Ticket,Ouvrir un ticket
+Licence,Licence
+DID Reservation Days,Jours de réservation DID
+DID Reservation,Réservation DID
+Term_and_condition,Termes et conditions
+Text,Texte
+Url,URL
+Generated,Généré
+Customer_permission,Client_permission
+Resend Email,Ré-envoyer l'email
+Create Translation Languages,Créer des langues de traduction
+Edit Translation Language,Modifier la langue de traduction
+Module Name,Nom du module
+English,Anglais
+French,français
+Chinese,chinois
+German,allemand
+Greek,grec
+Italian,italien
+Japanese,Japonais
+Portuguese,Portugais
+Romanian,roumain
+Russian,russe
+Spanish,Espagnol
+Both (Email & SMS),Les deux (e-mail et SMS)
+Account Notification,Notification de compte
+Use Same Credential For Invoice Config,Utiliser les mêmes informations d'identification pour la configuration de la facture
+Registration URL,URL d'inscription
+Admin_permission,Admin_permission
+My Order,Ma commande
+please select any recharge amount,veuillez sélectionner n'importe quel montant de recharge
+Todays Calls,Appels du jour
+Are you sure want to delete speed dial record?,Voulez-vous vraiment supprimer l'enregistrement de numérotation abrégée?
+Buy DIDs,Acheter des DID
+Purchased DID,Acheté DID
+DID Information,Informations DID
+Sell Cost,Coût de vente
+Admin Rate Group,Groupe de tarifs administratifs
+Copy From Rate Group,Copier à partir du groupe de tarifs
+Search My Rates,Rechercher mes tarifs
+Read/Write,Lire écrire
+Edit SIP Devices,Modifier les appareils SIP
+Inextrix Technologies Pvt. Ltd All Rights Reserved.,Inextrix Technologies Pvt. Ltd Tous droits réservés.
+iNextrix Technologies Pvt. Ltd.,iNextrix Technologies Pvt. Ltd.
+Bal,Balle
+Europe/Andorra,Europe / Andorre
+Asia/Dubai,Asie / Dubaï
+Asia/Kabul,Asie / Kaboul
+America/Antigua,Amérique / Antigua
+America/Anguilla,Amérique / Anguilla
+Europe/Tirane,Europe / Tirane
+Asia/Yerevan,Asie / Erevan
+Africa/Luanda,Afrique / Luanda
+Antarctica/Casey,Antarctique / Casey
+Antarctica/Davis,Antarctique / Davis
+Antarctica/DumontDUrville,Antarctique / DumontDUrville
+Antarctica/Mawson,Antarctique / Mawson
+Antarctica/McMurdo,Antarctique / McMurdo
+Antarctica/Palmer,Antarctique / Palmer
+Antarctica/Rothera,Antarctique / Rothera
+Antarctica/Syowa,Antarctique / Syowa
+Antarctica/Troll,Antarctique / Troll
+Antarctica/Vostok,Antarctique / Vostok
+America/Argentina/Buenos_Aires,Amérique / Argentine / Buenos_Aires
+America/Argentina/Catamarca,Amérique / Argentine / Catamarca
+America/Argentina/Cordoba,Amérique / Argentine / Cordoba
+America/Argentina/Jujuy,Amérique / Argentine / Jujuy
+America/Argentina/La_Rioja,Amérique / Argentine / La_Rioja
+America/Argentina/Mendoza,Amérique / Argentine / Mendoza
+America/Argentina/Rio_Gallegos,Amérique / Argentine / Rio_Gallegos
+America/Argentina/Salta,Amérique / Argentine / Salta
+America/Argentina/San_Juan,Amérique / Argentine / San_Juan
+America/Argentina/San_Luis,Amérique / Argentine / San_Luis
+America/Argentina/Tucuman,Amérique / Argentine / Tucuman
+America/Argentina/Ushuaia,Amérique / Argentine / Ushuaia
+Pacific/Pago_Pago,Pacifique / Pago_Pago
+Europe/Vienna,Europe / Vienne
+Antarctica/Macquarie,Antarctique / Macquarie
+Australia/Adelaide,Australie / Adélaïde
+Australia/Brisbane,Australie / Brisbane
+Australia/Broken_Hill,Australie / Broken_Hill
+Australia/Currie,Australie / Currie
+Australia/Darwin,Australie / Darwin
+Australia/Eucla,Australie / Eucla
+Australia/Hobart,Australie / Hobart
+Australia/Lindeman,Australie / Lindeman
+Australia/Lord_Howe,Australie / Lord_Howe
+Australia/Melbourne,Australie / Melbourne
+Australia/Perth,Australie / Perth
+Australia/Sydney,Australie / Sydney
+America/Aruba,Amérique / Aruba
+Europe/Mariehamn,Europe / Mariehamn
+Asia/Baku,Asie / Bakou
+Europe/Sarajevo,Europe / Sarajevo
+America/Barbados,Amérique / Barbade
+Asia/Dhaka,Asie / Dhaka
+Europe/Brussels,Europe / Bruxelles
+Africa/Ouagadougou,Afrique / Ouagadougou
+Europe/Sofia,Europe / Sofia
+Asia/Bahrain,Asie / Bahreïn
+Africa/Bujumbura,Afrique / Bujumbura
+Africa/Porto-Novo,Afrique / Porto-Novo
+America/St_Barthelemy,Amérique / St_Barthelemy
+Atlantic/Bermuda,Atlantique / Bermudes
+Asia/Brunei,Asie / Brunei
+America/La_Paz,Amérique / La_Paz
+America/Kralendijk,Amérique / Kralendijk
+America/Araguaina,Amérique / Araguaina
+America/Bahia,Amérique / Bahia
+America/Belem,Amérique / Belem
+America/Boa_Vista,Amérique / Boa_Vista
+America/Campo_Grande,Amérique / Campo_Grande
+America/Cuiaba,Amérique / Cuiaba
+America/Eirunepe,Amérique / Eirunepe
+America/Fortaleza,Amérique / Fortaleza
+America/Maceio,Amérique / Maceio
+America/Manaus,Amérique / Manaus
+America/Noronha,Amérique / Noronha
+America/Porto_Velho,Amérique / Porto_Velho
+America/Recife,Amérique / Recife
+America/Rio_Branco,Amérique / Rio_Branco
+America/Santarem,Amérique / Santarem
+America/Sao_Paulo,Amérique / Sao_Paulo
+America/Nassau,Amérique / Nassau
+Asia/Thimphu,Asie / Thimphu
+Africa/Gaborone,Afrique / Gaborone
+Europe/Minsk,Europe / Minsk
+America/Belize,Amérique / Belize
+America/Atikokan,Amérique / Atikokan
+America/Blanc-Sablon,Amérique / Blanc-Sablon
+America/Cambridge_Bay,Amérique / Cambridge_Bay
+America/Creston,Amérique / Creston
+America/Dawson,Amérique / Dawson
+America/Dawson_Creek,Amérique / Dawson_Creek
+America/Edmonton,Amérique / Edmonton
+America/Fort_Nelson,Amérique / Fort_Nelson
+America/Glace_Bay,Amérique / Glace_Bay
+America/Goose_Bay,Amérique / Goose_Bay
+America/Halifax,Amérique / Halifax
+America/Inuvik,Amérique / Inuvik
+America/Iqaluit,Amérique / Iqaluit
+America/Moncton,Amérique / Moncton
+America/Nipigon,Amérique / Nipigon
+America/Pangnirtung,Amérique / Pangnirtung
+America/Rainy_River,Amérique / Rainy_River
+America/Rankin_Inlet,Amérique / Rankin_Inlet
+America/Regina,Amérique / Regina
+America/Resolute,Amérique / Résolu
+America/St_Johns,Amérique / St_Johns
+America/Swift_Current,Amérique / Swift_Current
+America/Thunder_Bay,Amérique / Thunder_Bay
+America/Toronto,Amérique / Toronto
+America/Vancouver,Amérique / Vancouver
+America/Whitehorse,Amérique / Whitehorse
+America/Winnipeg,Amérique / Winnipeg
+America/Yellowknife,Amérique / Yellowknife
+Indian/Cocos,Indien / Cocos
+Africa/Kinshasa,Afrique / Kinshasa
+Africa/Lubumbashi,Afrique / Lubumbashi
+Africa/Bangui,Afrique / Bangui
+Africa/Brazzaville,Afrique / Brazzaville
+Europe/Zurich,Europe / Zurich
+Africa/Abidjan,Afrique / Abidjan
+Pacific/Rarotonga,Pacifique / Rarotonga
+America/Punta_Arenas,Amérique / Punta_Arenas
+America/Santiago,Amérique / Santiago
+Pacific/Easter,Pacifique / Pâques
+Africa/Douala,Afrique / Douala
+Asia/Shanghai,Asie / Shanghai
+Asia/Urumqi,Asie / Urumqi
+America/Bogota,Amérique / Bogota
+America/Costa_Rica,Amérique / Costa_Rica
+America/Havana,Amérique / La Havane
+Atlantic/Cape_Verde,Atlantique / Cap_Verde
+America/Curacao,Amérique / Curaçao
+Indian/Christmas,Indien / Noël
+Asia/Famagusta,Asie / Famagouste
+Asia/Nicosia,Asie / Nicosie
+Europe/Prague,Europe / Prague
+Europe/Berlin,Europe / Berlin
+Europe/Busingen,Europe / Busingen
+Africa/Djibouti,Afrique / Djibouti
+Europe/Copenhagen,Europe / Copenhague
+America/Dominica,Amérique / Dominique
+America/Santo_Domingo,Amérique / Santo_Domingo
+Africa/Algiers,Afrique / Alger
+America/Guayaquil,Amérique / Guayaquil
+Pacific/Galapagos,Pacifique / Galapagos
+Europe/Tallinn,Europe / Tallinn
+Africa/Cairo,Afrique / Le Caire
+Africa/El_Aaiun,Afrique / El_Aaiun
+Africa/Asmara,Afrique / Asmara
+Africa/Ceuta,Afrique / Ceuta
+Atlantic/Canary,Atlantique / Canaries
+Europe/Madrid,Europe / Madrid
+Africa/Addis_Ababa,Afrique / Addis_Ababa
+Europe/Helsinki,Europe / Helsinki
+Pacific/Fiji,Pacifique / Fidji
+Atlantic/Stanley,Atlantique / Stanley
+Pacific/Chuuk,Pacifique / Chuuk
+Pacific/Kosrae,Pacifique / Kosrae
+Pacific/Pohnpei,Pacifique / Pohnpei
+Atlantic/Faroe,Atlantique / Féroé
+Europe/Paris,Europe / Paris
+Africa/Libreville,Afrique / Libreville
+Europe/London,Europe / Londres
+America/Grenada,Amérique / Grenade
+Asia/Tbilisi,Asie / Tbilissi
+America/Cayenne,Amérique / Cayenne
+Europe/Guernsey,Europe / Guernesey
+Africa/Accra,Afrique / Accra
+Europe/Gibraltar,Europe / Gibraltar
+America/Danmarkshavn,Amérique / Danmarkshavn
+America/Nuuk,Amérique / Nuuk
+America/Scoresbysund,Amérique / Scoresbysund
+America/Thule,Amérique / Thulé
+Africa/Banjul,Afrique / Banjul
+Africa/Conakry,Afrique / Conakry
+America/Guadeloupe,Amérique / Guadeloupe
+Africa/Malabo,Afrique / Malabo
+Europe/Athens,Europe / Athènes
+Atlantic/South_Georgia,Atlantique / Sud_Georgia
+America/Guatemala,Amérique / Guatemala
+Pacific/Guam,Pacifique / Guam
+Africa/Bissau,Afrique / Bissau
+America/Guyana,Amérique / Guyane
+Asia/Hong_Kong,Asie / Hong_Kong
+America/Tegucigalpa,Amérique / Tegucigalpa
+Europe/Zagreb,Europe / Zagreb
+America/Port-au-Prince,Amérique / Port-au-Prince
+Europe/Budapest,Europe / Budapest
+Asia/Jakarta,Asie / Jakarta
+Asia/Jayapura,Asie / Jayapura
+Asia/Makassar,Asie / Makassar
+Asia/Pontianak,Asie / Pontianak
+Europe/Dublin,Europe / Dublin
+Asia/Jerusalem,Asie / Jérusalem
+Europe/Isle_of_Man,Europe / Isle_of_Man
+Asia/Kolkata,Asie / Kolkata
+Indian/Chagos,Indien / Chagos
+Asia/Baghdad,Asie / Bagdad
+Asia/Tehran,Asie / Téhéran
+Atlantic/Reykjavik,Atlantique / Reykjavik
+Europe/Rome,Europe / Rome
+Europe/Jersey,Europe / Jersey
+America/Jamaica,Amérique / Jamaïque
+Asia/Amman,Asie / Amman
+Asia/Tokyo,Asie / Tokyo
+Africa/Nairobi,Afrique / Nairobi
+Asia/Bishkek,Asie / Bichkek
+Asia/Phnom_Penh,Asie / Phnom_Penh
+Pacific/Enderbury,Pacifique / Enderbury
+Pacific/Kiritimati,Pacifique / Kiritimati
+Pacific/Tarawa,Pacifique / Tarawa
+Indian/Comoro,Indien / Comores
+America/St_Kitts,Amérique / St_Kitts
+Asia/Pyongyang,Asie / Pyongyang
+Asia/Seoul,Asie / Séoul
+Asia/Kuwait,Asie / Koweït
+America/Cayman,Amérique / Cayman
+Asia/Almaty,Asie / Almaty
+Asia/Aqtau,Asie / Aqtau
+Asia/Aqtobe,Asie / Aqtobe
+Asia/Atyrau,Asie / Atyrau
+Asia/Oral,Asie / Orale
+Asia/Qostanay,Asie / Qostanay
+Asia/Qyzylorda,Asie / Qyzylorda
+Asia/Vientiane,Asie / Vientiane
+Asia/Beirut,Asie / Beyrouth
+America/St_Lucia,Amérique / St_Lucia
+Europe/Vaduz,Europe / Vaduz
+Asia/Colombo,Asie / Colombo
+Africa/Monrovia,Afrique / Monrovia
+Africa/Maseru,Afrique / Maseru
+Europe/Vilnius,Europe / Vilnius
+Europe/Luxembourg,Europe / Luxembourg
+Europe/Riga,Europe / Riga
+Africa/Tripoli,Afrique / Tripoli
+Africa/Casablanca,Afrique / Casablanca
+Europe/Monaco,Europe / Monaco
+Europe/Chisinau,Europe / Chisinau
+Europe/Podgorica,Europe / Podgorica
+America/Marigot,Amérique / Marigot
+Indian/Antananarivo,Indien / Antananarivo
+Pacific/Kwajalein,Pacifique / Kwajalein
+Pacific/Majuro,Pacifique / Majuro
+Europe/Skopje,Europe / Skopje
+Africa/Bamako,Afrique / Bamako
+Asia/Yangon,Asie / Yangon
+Asia/Choibalsan,Asie / Choibalsan
+Asia/Hovd,Asie / Hovd
+Asia/Ulaanbaatar,Asie / Oulan-Bator
+Asia/Macau,Asie / Macao
+Pacific/Saipan,Pacifique / Saipan
+America/Martinique,Amérique / Martinique
+Africa/Nouakchott,Afrique / Nouakchott
+America/Montserrat,Amérique / Montserrat
+Europe/Malta,Europe / Malte
+Indian/Mauritius,Indien / Maurice
+Indian/Maldives,Indien / Maldives
+Africa/Blantyre,Afrique / Blantyre
+America/Bahia_Banderas,Amérique / Bahia_Banderas
+America/Cancun,Amérique / Cancun
+America/Chihuahua,Amérique / Chihuahua
+America/Hermosillo,Amérique / Hermosillo
+America/Matamoros,Amérique / Matamoros
+America/Mazatlan,Amérique / Mazatlan
+America/Merida,Amérique / Merida
+America/Mexico_City,Amérique / Mexico_City
+America/Monterrey,Amérique / Monterrey
+America/Ojinaga,Amérique / Ojinaga
+America/Tijuana,Amérique / Tijuana
+Asia/Kuala_Lumpur,Asie / Kuala_Lumpur
+Asia/Kuching,Asie / Kuching
+Africa/Maputo,Afrique / Maputo
+Africa/Windhoek,Afrique / Windhoek
+Pacific/Noumea,Pacifique / Nouméa
+Africa/Niamey,Afrique / Niamey
+Pacific/Norfolk,Pacifique / Norfolk
+Africa/Lagos,Afrique / Lagos
+America/Managua,Amérique / Managua
+Europe/Amsterdam,Europe / Amsterdam
+Europe/Oslo,Europe / Oslo
+Asia/Kathmandu,Asie / Katmandou
+Pacific/Nauru,Pacifique / Nauru
+Pacific/Niue,Pacifique / Niue
+Pacific/Auckland,Pacifique / Auckland
+Pacific/Chatham,Pacifique / Chatham
+Asia/Muscat,Asie / Muscat
+America/Panama,Amérique / Panama
+America/Lima,Amérique / Lima
+Pacific/Gambier,Pacifique / Gambier
+Pacific/Marquesas,Pacifique / Marquises
+Pacific/Tahiti,Pacifique / Tahiti
+Pacific/Bougainville,Pacifique / Bougainville
+Pacific/Port_Moresby,Pacifique / Port_Moresby
+Asia/Manila,Asie / Manille
+Asia/Karachi,Asie / Karachi
+Europe/Warsaw,Europe / Varsovie
+America/Miquelon,Amérique / Miquelon
+Pacific/Pitcairn,Pacifique / Pitcairn
+America/Puerto_Rico,Amérique / Puerto_Rico
+Asia/Gaza,Asie / Gaza
+Asia/Hebron,Asie / Hébron
+Atlantic/Azores,Atlantique / Açores
+Atlantic/Madeira,Atlantique / Madère
+Europe/Lisbon,Europe / Lisbonne
+Pacific/Palau,Pacifique / Palau
+America/Asuncion,Amérique / Asuncion
+Asia/Qatar,Asie / Qatar
+Indian/Reunion,Indien / Réunion
+Europe/Bucharest,Europe / Bucarest
+Europe/Belgrade,Europe / Belgrade
+Asia/Anadyr,Asie / Anadyr
+Asia/Barnaul,Asie / Barnaul
+Asia/Chita,Asie / Chita
+Asia/Irkutsk,Asie / Irkoutsk
+Asia/Kamchatka,Asie / Kamchatka
+Asia/Khandyga,Asie / Khandyga
+Asia/Krasnoyarsk,Asie / Krasnoïarsk
+Asia/Magadan,Asie / Magadan
+Asia/Novokuznetsk,Asie / Novokuznetsk
+Asia/Novosibirsk,Asie / Novosibirsk
+Asia/Omsk,Asie / Omsk
+Asia/Sakhalin,Asie / Sakhaline
+Asia/Srednekolymsk,Asie / Srednekolymsk
+Asia/Tomsk,Asie / Tomsk
+Asia/Ust-Nera,Asie / Ust-Nera
+Asia/Vladivostok,Asie / Vladivostok
+Asia/Yakutsk,Asie / Yakutsk
+Asia/Yekaterinburg,Asie / Ekaterinbourg
+Europe/Astrakhan,Europe / Astrakhan
+Europe/Kaliningrad,Europe / Kaliningrad
+Europe/Kirov,Europe / Kirov
+Europe/Moscow,Europe / Moscou
+Europe/Samara,Europe / Samara
+Europe/Saratov,Europe / Saratov
+Europe/Ulyanovsk,Europe / Oulianovsk
+Europe/Volgograd,Europe / Volgograd
+Africa/Kigali,Afrique / Kigali
+Asia/Riyadh,Asie / Riyad
+Pacific/Guadalcanal,Pacifique / Guadalcanal
+Indian/Mahe,Indien / Mahe
+Africa/Khartoum,Afrique / Khartoum
+Europe/Stockholm,Europe / Stockholm
+Asia/Singapore,Asie / Singapour
+Atlantic/St_Helena,Atlantique / St_Helena
+Europe/Ljubljana,Europe / Ljubljana
+Arctic/Longyearbyen,Arctique / Longyearbyen
+Europe/Bratislava,Europe / Bratislava
+Africa/Freetown,Afrique / Freetown
+Europe/San_Marino,Europe / Saint-Marin
+Africa/Dakar,Afrique / Dakar
+Africa/Mogadishu,Afrique / Mogadiscio
+America/Paramaribo,Amérique / Paramaribo
+Africa/Juba,Afrique / Juba
+Africa/Sao_Tome,Afrique / Sao_Tome
+America/El_Salvador,Amérique / El_Salvador
+America/Lower_Princes,Amérique / Lower_Princes
+Asia/Damascus,Asie / Damas
+Africa/Mbabane,Afrique / Mbabane
+America/Grand_Turk,Amérique / Grand_Turk
+Africa/Ndjamena,Afrique / Ndjamena
+Indian/Kerguelen,Indien / Kerguelen
+Africa/Lome,Afrique / Lomé
+Asia/Bangkok,Asie / Bangkok
+Asia/Dushanbe,Asie / Douchanbé
+Pacific/Fakaofo,Pacifique / Fakaofo
+Asia/Dili,Asie / Dili
+Asia/Ashgabat,Asie / Achgabat
+Africa/Tunis,Afrique / Tunis
+Pacific/Tongatapu,Pacifique / Tongatapu
+Europe/Istanbul,Europe / Istanbul
+America/Port_of_Spain,Amérique / Port_de_Espagne
+Pacific/Funafuti,Pacifique / Funafuti
+Asia/Taipei,Asie / Taipei
+Africa/Dar_es_Salaam,Afrique / Dar_es_Salaam
+Europe/Kiev,Europe / Kiev
+Europe/Simferopol,Europe / Simferopol
+Europe/Uzhgorod,Europe / Uzhgorod
+Europe/Zaporozhye,Europe / Zaporozhye
+Africa/Kampala,Afrique / Kampala
+Pacific/Midway,Pacifique / Midway
+Pacific/Wake,Pacifique / Wake
+America/Adak,Amérique / Adak
+America/Anchorage,Amérique / Anchorage
+America/Boise,Amérique / Boise
+America/Chicago,Amérique / Chicago
+America/Denver,Amérique / Denver
+America/Detroit,Amérique / Detroit
+America/Indiana/Indianapolis,Amérique / Indiana / Indianapolis
+America/Indiana/Knox,Amérique / Indiana / Knox
+America/Indiana/Marengo,Amérique / Indiana / Marengo
+America/Indiana/Petersburg,Amérique / Indiana / Petersburg
+America/Indiana/Tell_City,Amérique / Indiana / Tell_City
+America/Indiana/Vevay,Amérique / Indiana / Vevay
+America/Indiana/Vincennes,Amérique / Indiana / Vincennes
+America/Indiana/Winamac,Amérique / Indiana / Winamac
+America/Juneau,Amérique / Juneau
+America/Kentucky/Louisville,Amérique / Kentucky / Louisville
+America/Kentucky/Monticello,Amérique / Kentucky / Monticello
+America/Los_Angeles,Amérique / Los_Angeles
+America/Menominee,Amérique / Menominee
+America/Metlakatla,Amérique / Metlakatla
+America/New_York,Amérique / New_York
+America/Nome,Amérique / Nome
+America/North_Dakota/Beulah,Amérique / Dakota du Nord / Beulah
+America/North_Dakota/Center,Amérique / Dakota du Nord / Centre
+America/North_Dakota/New_Salem,Amérique / Dakota du Nord / New_Salem
+America/Phoenix,Amérique / Phoenix
+America/Sitka,Amérique / Sitka
+America/Yakutat,Amérique / Yakutat
+Pacific/Honolulu,Pacifique / Honolulu
+America/Montevideo,Amérique / Montevideo
+Asia/Samarkand,Asie / Samarkand
+Asia/Tashkent,Asie / Tachkent
+Europe/Vatican,Europe / Vatican
+America/St_Vincent,Amérique / St_Vincent
+America/Caracas,Amérique / Caracas
+America/Tortola,Amérique / Tortola
+America/St_Thomas,Amérique / St_Thomas
+Asia/Ho_Chi_Minh,Asie / Ho_Chi_Minh
+Pacific/Efate,Pacifique / Efate
+Pacific/Wallis,Pacifique / Wallis
+Pacific/Apia,Pacifique / Apia
+Asia/Aden,Asie / Aden
+Indian/Mayotte,Indien / Mayotte
+Africa/Johannesburg,Afrique / Johannesburg
+Africa/Lusaka,Afrique / Lusaka
+Africa/Harare,Afrique / Harare
+Company Profile,Profil de la société
+Opensips Dispatcher,Dispatcher OpenSips
+account_refilled,compte rechargé
+create_account,créer un compte
+create_sip_device,créer un appareil sip
+new_invoice,nouvelle facture
+low_balance,faible solde
+signup_confirmation,confirmation d'inscription
+new_password,nouveau mot de passe
+forgot_password_confirmation,confirmation du mot de passe oublié
+invoice_due_reminder,facture due rappel
+new_archive_table,nouvelle table d'archive
+balance_tranfer,transfert de solde
+product_purchase,achat de produit
+product_release,lancement de produit
+product_renewal_notice,avis de renouvellement de produit
+product_renewed,produit renouvelé
+product_commission,commission produit
+cdrs_archive_table_create_success,la table d'archive cdrs crée le succès
+cdrs_archive_table_create_fail,échec de la création de la table d'archive cdrs
+reset_password,réinitialiser le mot de passe
+international_low_balance,solde bas international
+account_postcharge,compte postcharge
+ACCOUNT_INACTIVE_DELETED,COMPTE INACTIF SUPPRIMÉ
+ACCOUNT_EXPIRE,COMPTE EXPIRE
+ALLOTTED_TIMEOUT,TEMPS D'INTERVENTION ALLOTÉ
+AUTHENTICATION_FAIL,ÉCHEC DE L'AUTHENTIFICATION
+BEARERCAPABILITY_NOTAUTH,NOTAUTH DE PORTABILITÉ
+BEARERCAPABILITY_NOTAVAIL,NON DISPONIBLE
+BEARERCAPABILITY_NOTIMPL,NOTIMPL DE CAPACITÉ DE PORTÉE
+CALL_REJECTED,APPEL REJETÉ
+CHAN_NOT_IMPLEMENTED,CHAN NON MIS EN ŒUVRE
+CHANNEL_UNACCEPTABLE,CANAL INACCEPTABLE
+DESTINATION_OUT_OF_ORDER,DESTINATION HORS COMMANDE
+DESTINATION_BLOCKED,DESTINATION BLOQUÉE
+DID_DESTINATION_NOT_FOUND,LA DESTINATION N'A PAS TROUVÉ
+FACILITY_REJECTED,FACILITÉ REJETÉE
+FACILITY_NOT_SUBSCRIBED,FACILITÉ NON ABONNÉE
+FACILITY_NOT_IMPLEMENTED,INSTALLATION NON MISE EN ŒUVRE
+FRAUD_CALL_PER_ACCOUNT,APPEL DE FRAUDE PAR COMPTE
+FRAUD_CALL_PER_DESTINATION,APPEL DE FRAUDE PAR DESTINATION
+FRAUD_COST_PER_ACCOUNT,COÛT DE FRAUDE PAR COMPTE
+FRAUD_COST_PER_DESTINATION,COÛT DE FRAUDE PAR DESTINATION
+INVALID_NUMBER_FORMAT,FORMAT DE NUMÉRO NON VALIDE
+INCOMPATIBLE_DESTINATION,DESTINATION INCOMPATIBLE
+MANAGER_REQUEST,DEMANDE DU MANAGER
+MEDIA_TIMEOUT,TEMPS MÉDIA
+NO_ROUTE_DESTINATION,PAS DE DESTINATION DE ROUTE
+NORMAL_CLEARING,DÉGAGEMENT NORMAL
+NETWORK_OUT_OF_ORDER,RÉSEAU HORS SERVICE
+NORMAL_UNSPECIFIED,NORMAL NON SPÉCIFIÉ
+NORMAL_CIRCUIT_CONGESTION,CONGESTION DU CIRCUIT NORMAL
+NORMAL_TEMPORARY_FAILURE,PANNE TEMPORAIRE NORMAL
+NO_SUFFICIENT_FUND,PAS DE FONDS SUFFISANT
+NO_USER_RESPONSE,AUCUNE RÉPONSE DE L'UTILISATEUR
+NO_ANSWER,PAS DE RÉPONSE
+NUMBER_CHANGED,NUMÉRO CHANGÉ
+ORIGINATOR_CANCEL,ANNULER L'ORIGINATEUR
+ORIGNATION_RATE_NOT_FOUND,TAUX D'ORIGNATION NON TROUVÉ
+OUTGOING_CALL_BARRED,BARRE D'APPEL SORTANT
+PROGRESS_TIMEOUT,DÉLAI DE PROGRESSION
+RECOVERY_ON_TIMER_EXPIRE,RÉCUPÉRATION À L'EXPIRATION DE LA MINUTERIE
+RESELLER_COST_CHEAP,COÛT REVENDEUR PAS CHER
+SERVICE_NOT_IMPLEMENTED,SERVICE NON MIS EN ŒUVRE
+SERVICE_UNAVAILABLE,SERVICE INDISPONIBLE
+SUCCESS,SUCCÈS
+SWITCH_CONGESTION,CONGESTION DES INTERRUPTEURS
+TERMINATION_RATE_NOT_FOUND,TAUX DE RÉSILIATION NON TROUVÉ
+UNSPECIFIED,NON SPÉCIFIÉ
+UNALLOCATED_NUMBER,NUMÉRO NON ATTRIBUÉ
+USER_BUSY,UTILISATEUR OCCUPÉ
+USER_NOT_REGISTERED,UTILISATEUR NON ENREGISTRÉ
+REQUESTED_CHAN_UNAVAIL,CHAN DEMANDÉ NON DISPONIBLE
+SUBSCRIBER_ABSENT,ABONNÉ ABSENT
+account_refilled,compte rechargé
+create_account,créer un compte
+create_sip_device,créer un appareil sip
+new_invoice,nouvelle facture
+low_balance,faible solde
+signup_confirmation,confirmation d'inscription
+new_password,nouveau mot de passe
+forgot_password_confirmation,confirmation du mot de passe oublié
+invoice_due_reminder,facture due rappel
+new_archive_table,nouvelle table d'archive
+balance_tranfer,transfert de solde
+product_purchase,achat de produit
+product_release,lancement de produit
+product_renewal_notice,avis de renouvellement de produit
+product_renewed,produit renouvelé
+product_commission,commission produit
+cdrs_archive_table_create_success,la table d'archive cdrs crée le succès
+cdrs_archive_table_create_fail,échec de la création de la table d'archive cdrs
+reset_password,réinitialiser le mot de passe
+international_low_balance,solde bas international
+account_postcharge,compte postcharge
+Caller Id (CLI Match - If not matched then use random allocated Caller Id),"Identifiant de l'appelant (correspondance CLI - Si ce n'est pas le cas, utilisez l'identifiant de l'appelant alloué de manière aléatoire)"
+DID (CLI Match - If not matched then use random allocated DID),"DID (CLI Match - S'il ne correspond pas, utilisez le DID alloué de manière aléatoire)"
+ERROR:No Reords found.,ERREUR: aucun Reords trouvé.
+Sub Admin,Sous-administrateur
+Create Account Range For Customer,Créer une plage de comptes pour le client
+Minimum Account Number,Numéro de compte minimum
+Maximum Account Number,Numéro de compte maximum
+Create Account Range For Reseller,Créer une plage de comptes pour le revendeur
+Create Account Range For Provider,Créer une plage de comptes pour le fournisseur
+International Credits,Crédits internationaux
+Recharge,Recharger
+Basic Details,Détails de base
+International Balance,Balance internationale
+InternationalPrefixes,Préfixes internationaux
+International Prefixes,Préfixes internationaux
+International Credit Limit,Limite de crédit internationale
+Create Local Number,Créer un numéro local
+Local Number Import Process,Processus d'importation de numéro local
+Import Local Number,Importer un numéro local
+Edit Local Number,Modifier le numéro local
+Mailchimp,Mailchimp
+Mailchimp API Key,Clé API Mailchimp
+Mailchimp Audience Id,ID d'audience Mailchimp
+Support Tickets,Billets d'assistance
+Support Ticket,Ticket de support
+Create Support Ticket,Créer un ticket de support
+Open New Ticket,Ouvrir un nouveau ticket
+Department,département
+Attach more files,Joindre plus de fichiers
+Reply,Réponse
+Submit,Soumettre
+High,Haute
+Normal,Ordinaire
+Low,Faible
+Open,Ouvert
+Answered,Répondu
+Customer-Reply,Réponse client
+On-hold,En attente
+Progress,Le progrès
+Ticket Number,Numéro de billet
+Close Support Ticket,Fermer le ticket de support
+Last Reply,Dernière réponse
+Ticket No,Numéro de billet
+--All--,--Tout--
+Add Department,Ajouter un département
+Department List,Liste des départements
+SMTP Details,Détails SMTP
+Department Additional Email Address,Adresse e-mail supplémentaire du département
+Department User,Utilisateur du service
+Charge Full Amount,Facturer le montant total
+Based On Utilized Days,Basé sur les jours utilisés
+XML Updated Successfully!,XML mis à jour avec succès!
+ACL Reload Successfully!,Rechargement de l'ACL avec succès!
+ACL Management,Gestion ACL
+XML,XML
+XML is Required!,XML est requis!
+Reload ACL,Recharger ACL
+Low Balance,Balance faible
+Current Balance,Solde actuel
+Trunk Statistics,Statistiques du tronc
+Create Account Range,Créer une plage de comptes
+Recharge done successfully!,Recharge effectuée avec succès!
+Duplicate Local number found from database,Numéro local en double trouvé dans la base de données
+Country not valid.,Pays non valide.
+Duplicate Local number found from import file.,Numéro local en double trouvé à partir du fichier d'importation.
+Local Number Import Error,Erreur d'importation du numéro local
+Local number updated successfully!,Numéro local mis à jour avec succès!
+Local number added successfully!,Numéro local ajouté avec succès!
+Local number removed successfully!,Numéro local supprimé avec succès!
+Local number forwarding successfully!,Transfert du numéro local avec succès!
+Destination Number,Numéro du destinataire
+Destination Name,Nom de la destination
+Add Local Number,Ajouter un numéro local
+Added Date,Date d'ajout
+Support ticket removed successfully!,Le ticket d'assistance a bien été supprimé!
+Support ticket generated successfully!,Ticket d'assistance généré avec succès!
+Edit Ticket,Modifier le ticket
+Create Department,Créer un département
+Department added successfully!,Département ajouté avec succès!
+Department removed successfully!,Département supprimé avec succès!
+Import Area Code,Importer l'indicatif régional
+Back to Area Code List,Retour à la liste des indicatifs régionaux
+Alarm added successfully!,Alarme ajoutée avec succès!
+Alarm updated successfully!,Alarme mise à jour avec succès!
+Add Custom Rate,Ajouter un tarif personnalisé
+Custom Rate Updated Successfully!,Taux personnalisé mis à jour avec succès!
+Custom Rate Added Successfully!,Taux personnalisé ajouté avec succès!
+Custom rate removed successfully!,Taux personnalisé supprimé avec succès!
+Delete Search Record,Supprimer l'enregistrement de recherche
+Add Prefixes,Ajouter des préfixes
+Register Gateway Information,Enregistrer les informations de la passerelle
+Authentication,Authentification
+Please Enter Valid Key,Veuillez saisir une clé valide
+Alert,Alerte
+Remote Check Failed,La vérification à distance a échoué
+MD5 Checksum Verification Failed,Échec de la vérification de la somme de contrôle MD5
+Gateway ragister fail please try again,"Échec du ragister de la passerelle, veuillez réessayer"
+Context,Le contexte
+Expires,Expire
+Frequency,La fréquence
+Ping Frequency,Fréquence Ping
+Fails Call In,Échec de l'appel
+Fails Call Out,Échec de l'appel
+Opensips Devices,Appareils OpenSips
+Second,Seconde
+Add Auth Email,Ajouter une adresse e-mail d'authentification
+Edit Auth Email,Modifier l'e-mail d'authentification
+Add Authemail,Ajouter la messagerie automatique
+Auth Email updated successfully!,E-mail d'authentification mis à jour avec succès!
+Auth Email added successfully!,E-mail d'authentification ajouté avec succès!
+Auth Email removed successfully!,E-mail d'authentification supprimé avec succès!
+Auth Email,E-mail d'authentification
+Authemail added successfully!,Authemail ajouté avec succès!
+Please Enter Authemail value.,Veuillez saisir la valeur de la messagerie automatique.
+Authemail already Exists.,Authemail existe déjà.
+Authemail removed sucessfully!,Authemail supprimé avec succès!
+Auth Email List,Liste de courrier électronique d'authentification
+Auth Mapping,Mappage d'authentification
+Auth,Auth
+Authemail,Authemail
+Faxer,Télécopieur
+This file not avilable for download!,Ce fichier n'est pas disponible en téléchargement!
+Create FAX,Créer un fax
+Web2fax removed successfully!,Web2fax supprimé avec succès!
+Fax Type,Type de fax
+Fax Number,Numéro de fax
+Fax Format,Format de télécopie
+Fax Sent,Fax envoyé
+Send Date,Envoyer la date
+Files with format are allowed: .pdf,Les fichiers au format sont autorisés: .pdf
+Send Fax,Envoyer un fax
+Receive,Recevoir
+Error,Erreur
+Conference List,Liste des conférences
+Edit Conference,Modifier la conférence
+Create Conference,Créer une conférence
+Conference Added Successfully!,Conférence ajoutée avec succès!
+Conference Updated Successfully!,Conférence mise à jour avec succès!
+Conference removed successfully!,Conférence supprimée avec succès!
+Conference profiles,Profils de conférence
+Create Conference profiles,Créer des profils de conférence
+Edit Conference Profile,Modifier le profil de la conférence
+Conference Setting Added Successfully!,Paramètre de conférence ajouté avec succès!
+Conference Setting Updated Successfully!,Réglage de la conférence mis à jour avec succès!
+Conference Profile Removed Successfully!,Le profil de la conférence a bien été supprimé!
+Conference Profiles Added Successfully!,Profils de conférence ajoutés avec succès!
+Conference Profiles Updated Successfully!,Profils de conférence mis à jour avec succès!
+Conference profiles removed successfully!,Profils de conférence supprimés avec succès!
+Conference controls List,Liste des contrôles de conférence
+Edit Conference controls,Modifier les commandes de la conférence
+Conference Controls Removed Successfully!,Commandes de conférence supprimées avec succès!
+Conference Controls Added Successfully!,Commandes de conférence ajoutées avec succès!
+Conference Controls Updated Successfully!,Contrôles de la conférence mis à jour avec succès!
+Pin Number,Code PIN
+Duration (Second),Durée (seconde)
+Greeting,Salutation
+Create Conference Controls,Créer des contrôles de conférence
+Controls Name,Nom des contrôles
+Data,Les données
+Domains,Domaines
+Edit Domains,Modifier les domaines
+Domain Updated Successfully!,Domaine mis à jour avec succès!
+Please enter proper domain value.,Veuillez saisir la valeur de domaine appropriée.
+Domain name,Nom de domaine
+Edit Domain,Modifier le domaine
+Feature Code,Code de fonction
+Feature code removed successfully!,Le code de fonction a bien été supprimé!
+Feature code is already exist in system,Le code de fonction existe déjà dans le système
+Pickup Group,Groupe de ramassage
+Create Pickup Group,Créer un groupe de ramassage
+Edit Pickup Group,Modifier le groupe de ramassage
+Pickup group updated successfully!,Groupe de ramassage mis à jour avec succès!
+Pickup group added successfully!,Groupe de ramassage ajouté avec succès!
+Pickup group removed successfully!,Groupe de ramassage supprimé avec succès!
+Feature,Fonctionnalité
+IVR List,Liste IVR
+Create IVR,Créer IVR
+Edit IVR,Modifier IVR
+Ivr added successfully!,Ivr ajouté avec succès!
+Ivr updated successfully!,Ivr a été mis à jour avec succès!
+Ivr removed successfully!,Ivr supprimé avec succès!
+Caller ID Name Prefix,Préfixe du nom de l'ID de l'appelant
+Options,Options
+Advance,Avance
+Add More,Ajouter plus de
+Ring Back,Rappeler
+Invalid Retries,Tentatives non valides
+Timeout,Temps libre
+Caller ID Number Prefix,Préfixe du numéro d'identification de l'appelant
+Invalid Message,Message invalide
+Welcome Greeting,Salut de bienvenue
+Direct Dial,Ligne directe
+Create Queue,Créer une file d'attente
+Edit Queue,Modifier la file d'attente
+Queue Added Successfully!,File d'attente ajoutée avec succès!
+Queue Updated Successfully!,File d'attente mise à jour avec succès!
+Queue removed successfully!,File d'attente supprimée avec succès!
+Agent Dial Number,Numéro de composition de l'agent
+Queues,Files d'attente
+Queue,Queue
+Edit Recording,Modifier l'enregistrement
+Create Recording,Créer un enregistrement
+Recording Added Successfully!,Enregistrement ajouté avec succès!
+Recording deleted successfully!,Enregistrement supprimé avec succès!
+Recording Information,Informations d'enregistrement
+to create a recording,pour créer un enregistrement
+Dial,Cadran
+Ring Group,Groupe de sonnerie
+Ring Group Add,Ajouter un groupe de sonnerie
+Edit Ring Group,Modifier le groupe de sonnerie
+Create Ringgroup,Créer un Ringgroup
+Ring group added successfully!,Groupe de sonnerie ajouté avec succès!
+Ring group updated successfully!,Groupe de sonnerie mis à jour avec succès!
+Ring group deleted successfully!,Le groupe de sonnerie a bien été supprimé!
+Ring Group Information,Informations sur le groupe de sonnerie
+Do you want create sip devices?,Voulez-vous créer des appareils SIP?
+Sip device Count,Nombre d'appareils Sip
+Next,Suivant
+Basic Settings,Paramètres de base
+Ring Strategy,Stratégie d'anneau
+Sequence,Séquence
+Simultaneous,Simultané
+Delay (Seconds),Retard (secondes)
+Timeout (Seconds),Délai d'expiration (secondes)
+Prompt,Rapide
+Announcement,Annonce
+CID Name Prefix,Préfixe de nom CID
+CID Number Prefix,Préfixe du numéro CID
+Call Recording,Enregistrement d'appel
+Forcefully Enable,Activer avec force
+Forcefully Disable,Désactiver avec force
+Skip busy,Sauter occupé
+No Answer Call Type,Type d'appel sans réponse
+Call Routing,Acheminement des appels
+Enabled,Activée
+Disabled,désactivé
+Time Conditions List,Liste des conditions de temps
+Create Time Conditions,Créer des conditions de temps
+Edit Time Conditions,Modifier les conditions de temps
+Time Conditions Added Successfully!,Conditions de temps ajoutées avec succès!
+Time Conditions Updated Successfully!,Conditions de temps mises à jour avec succès!
+Time Conditions removed successfully!,Conditions de temps supprimées avec succès!
+Failover Condition,Condition de basculement
+Start Hour,Heure de début
+Week day,Jour de la semaine
+Month day,Mois jour
+End Hour,Heure de fin
+Jan,Jan
+Feb,fév
+Mar,Mar
+Apr,avr
+Jun,Juin
+Jul,juil
+Aug,Août
+Sep,SEP
+Oct,oct
+Nov,nov
+Dec,déc
+Sunday,dimanche
+Monday,Lundi
+Tuesday,Mardi
+Wednesday,Mercredi
+Thursday,Jeudi
+Friday,Vendredi
+Saturday,samedi
+Extensions Destination,Destination des extensions
+Extensions Call Type,Type d'appel d'extensions
+Ignore Busy,Ignorer Occupé
+Do Not Disturb,Ne pas déranger
+Pickup Group List,Liste des groupes de ramassage
+Allow Pickup Group List,Autoriser la liste des groupes de ramassage
+Not Registered,Non enregistré
+Call Waiting,Appel en attente
+On Busy,Sur occupé
+No Answer,Pas de réponse
+Destinations,Destinations
+Follow Me,Suivez-moi
+Conference Profile,Profil de la conférence
+Conference Controls,Commandes de conférence
+Conference,Conférence
+Time Conditions,Conditions de temps
+RingGroup,RingGroup
+IVR,IVR
+Advance Settings,Paramètres avancés
+Agent Back-Tone,Fond d'écran de l'agent
+Customer Back-Tone,Back-Tone du client
+Time Condition,Condition de temps
+LAST FTP PROCESS,DERNIER PROCESSUS FTP
+Group Name,Nom de groupe
+Ported Number List,Liste des numéros portés
+Import Ported Number,Importer le numéro de port
+has been uploaded successfully!,a été téléchargé avec succès!
+Destination From,Destination De
+Destination To,Destination à
+Routing Label,Étiquette de routage
+Number From,Numéro de
+Participant,Participant
+Number To,Numéro à
+File must be in the following format(.gz):,Le fichier doit être au format suivant (.gz):
+Create Schedule Report,Créer un rapport de planification
+Schedule Report,Rapport de planification
+Schedule Report added successfully!,Le rapport de planification a été ajouté avec succès!
+Schedule Report has been deleted !,Le rapport de planification a été supprimé!
+Email ID,ID e-mail
+Filters,Filtres
+Unique ID,Identifiant unique
+Call Start,Début de l'appel
+Recurring Type,Type récurrent
+Field List,Liste de champ
+Report Description,Description du rapport
+Are you sure you want to close?,Voulez-vous vraiment fermer?
+Alarm Name,Nom de l'alarme
+Alarm Type,Type d'alarme
+Alarm On,Alarme activée
+Threshold Value,Valeur de seuil
+Period,Période
+Last Triggered Date,Date du dernier déclenchement
+Create Alarm,Créer une alarme
+Ping Type,Type de ping
+Freeswitch,Freeswitch
+Console,Console
+Period (In Seconds),Période (en secondes)
+Edit Alarm,Modifier l'alarme
+CIC,CIC
+Active Calls,Appels actifs
+Call Alarms,Alarmes d'appel
+Report,rapport
+Triggered Value,Valeur déclenchée
+Period,Période
+Alarm Report,Rapport d'alarme
+Resolved,Résolu
+Are you sure want to close selected alarm ?,Voulez-vous vraiment fermer l'alarme sélectionnée?
+Country Report,Rapport de pays
+Debits,Les débits
+ASR : Answer Seizure Ratio,ASR: Taux de saisie de réponse
+ACD : Average Call Duration,ACD: durée moyenne des appels
+MCD : Maximum Call Duration,MCD: durée maximale des appels
+Custom Rates,Tarifs personnalisés
+Create Custom Rate,Créer un tarif personnalisé
+Edit Custom Rate,Modifier le tarif personnalisé
+Registered SIP Devices,Appareils SIP enregistrés
+Switch Host,Changer d'hôte
+Refresh Time,Temps de rafraîchissement
+Sec.,Seconde.
+Min.,Min.
+User,Utilisateur
+Contact,Contact
+Client-IP,Client-IP
+Client Port,Port client
+User Agent,Agent utilisateur
+Registered Gateways,Passerelles enregistrées
+Call In,Appelle
+Call Out,Faire appel à
+Fail Call In,Échec de l'appel
+Fail Call Out,Échec de l'appel
+State,Etat
+Switch CLI,Commutateur CLI
+Freeswitch CLI,CLI Freeswitch
+Live Call Graph,Graphique des appels en direct
+--Select All--,--Tout sélectionner--
+Call Count,Nombre d'appels
+Live Call data,Données d'appels en direct
+SMS Rate Group,Groupe de tarifs SMS
+SMS CDRs,CDR SMS
+Auto Refill,Recharge automatique
+Refill Amount,Montant de recharge
+Occurrence Per Day,Occurrence par jour
+Message From,Message de
+Message To,Message à
+SMS Type,Type de SMS
+Profile Name,Nom de profil
+Edit Conference profiles,Modifier les profils de conférence
+Ring-Group,Groupe en anneau
+Failover Destination,Destination de basculement
+Timeout(min),Délai d'expiration (min)
+Create SMS Rate Group,Créer un groupe de tarifs SMS
+SMS Rate Group Information,Informations sur le groupe de tarifs SMS
+Markup(%),Balisage (%)
+SMS Origination Rate,Taux de création de SMS
+Per SMS Cost,Coût par SMS
+SMS Trunk add,Ajout de tronc SMS
+SMS Trunk Information,Informations sur le tronc SMS
+Trunk Settings,Paramètres du coffre
+Precedence,Priorité
+Trunk Name,Nom du tronc
+Edit SMS Trunk,Modifier le tronc SMS
+Add SMS Termination Rates,Ajouter des tarifs de terminaison SMS
+Edit SMS Termination Rates,Modifier les taux de terminaison SMS
+Import SMS Termination Rates Using Field Mapper,Importer les taux de terminaison SMS à l'aide de Field Mapper
+Import SMS Termination Rates,Importer les taux de terminaison SMS
+SMS Trunk,Tronc SMS
+Create SMS Gateway,Créer une passerelle SMS
+Base URL,URL de base
+Api Key / Application Id,Clé API / ID d'application
+Secret Key Id,Identifiant de clé secrète
+Api Key,Clé API
+Based On Utilized Free Minutes,Basé sur les minutes gratuites utilisées
+Based On Utilized Highest Days/Free Minutes,Basé sur les jours les plus utilisés / minutes gratuites
+ASR : Answer Seizure Ratio,ASR: Taux de saisie de réponse
+ACD : Average Call Duration,ACD: durée moyenne des appels
+MCD : Maximum Call Duration,MCD: durée maximale des appels
+Edit SMS Rate Group,Modifier le groupe de tarifs SMS
+ (Enterprise),  (Entreprise)
+Edit SMS Gateway,Modifier la passerelle SMS
+Edit Department,Modifier le département
+Edit Support Ticket,Modifier le ticket d'assistance
+SMS Package,Paquet SMS
+Free SMS,SMS gratuit
+auto_reply_mail_support,support de messagerie de réponse automatique
+email_sent_support_ticket,ticket d'assistance envoyé par e-mail
+alarm_report,rapport d'alarme
+two_factor_authentication,authentification à deux facteurs
+schedule_report,rapport de planification
+ported_number,numéro porté
+ported_number_ftp_connect,numéro de portage ftp connect
+ported_number_no_file,numéro porté pas de fichier
+fraud_report,rapport de fraude
+outbound_fax_mail,courrier de télécopie sortant
+fax_receive_mail,fax recevoir du courrier
+Format,Format
+Fax Method,Méthode de télécopie
+SIP Device,Périphérique SIP
+Web2fax,Web2fax
+Email2fax,Email2fax
+Fax2Mail,Fax2Mail
+Success,Succès
+File,Fichier
+APFaxer,APFaxer
+Fax send Retries,Tentatives d'envoi de télécopie
+Fax Email Id,Adresse e-mail de télécopie
+Fax Email Password,Mot de passe de courrier électronique de télécopie
+Fax Server,Serveur de fax
+Fax Server SIP Port,Port SIP du serveur de télécopie
+Fax Email Host,Hôte de courrier électronique de télécopie
+Create Fraud Detection,Créer une détection de fraude
+Filter by,Filtrer par
+Per Dst. Prefix,Par Dst. Préfixe
+Group By Dst. Prefix,Group By Dst. Préfixe
+Per Country,Par pays
+Group by Country,Grouper par pays
+Time Period,Période de temps
+Warning Threshold,Seuil d'avertissement
+15 minutes,15 minutes
+30 minutes,30 minutes
+1 Hour,1 heure
+3 Hours,3 heures
+6 Hours,6 heures
+12 Hours,12 heures
+24 Hours,24 heures
+Warning Action,Action d'avertissement
+None,Aucun
+Block Threshold,Seuil de blocage
+Block Action,Action de blocage
+ (In Minutes),  (En minutes)
+Time Period,Période de temps
+Edit Fraud Detection,Modifier la détection de fraude
+Fraud Report,Rapport de fraude
+Fraud Trigger,Déclencheur de fraude
+Alarm Value,Valeur d'alarme
+warning,Attention
+block,bloquer
+--Select Account Type--,--Sélectionnez le type de compte--
+Weekly,Hebdomadaire
+Quarterly,Trimestriel
+Yearly,Annuel
+SMS Reports,Rapports SMS
+SMS Summary,Résumé des SMS
+SMS Customer,Client SMS
+SMS Reseller,Revendeur SMS
+Customer SMS Report,Rapport SMS client
+Message Count,Nombre de messages
+Resellers SMS Report,Rapport SMS des revendeurs
+Customer SMS Summary Report,Rapport de synthèse SMS client
+Total Message,Message total
+Send Message,Envoyer le message
+Cancel Message,Annuler le message
+Reseller SMS Summary Report,Rapport récapitulatif des SMS du revendeur
+Two-factor Authentication,Authentification à deux facteurs
+Security,Sécurité
+Whmcs Secret Key,Clé secrète Whmcs
+Whmcs IV Key,Clé Whmcs IV
+Two-factor Authentication,Authentification à deux facteurs
+Currencies Update,Mise à jour des devises
+Call Activity Report,Rapport d'activité d'appel
+Request A Number Port,Demander un port de numéro
+Porting,Portage
+Generate,produire
+Callerid,Identification de l'appelant
+International Recharge,Recharge internationale
+Feature code updated successfully!,Le code de fonction a été mis à jour avec succès!
+Number Porting,Portage du numéro
+Number Porting Requests,Nombre de demandes de portage
+Request a Number Port,Demander un port de numéro
+Number / Number Range,Nombre / Plage de nombres
+Date Submitted,Date de soumission
+Requested Date,Date demandée
+Requested Time,Heure demandée
+Actioned by,Actionné par
+Note for Customer,Remarque pour le client
+Accepted,Accepté
+Rejected,Rejeté
+In Progress,En cours
+Completed,Complété
+Cancelled,Annulé
+Create Porting Request Number,Créer un numéro de demande de portage
+Porting Request Number,Numéro de demande de portage
+Company Address,Adresse de la société
+Individual Number,Numéro individuel
+Start Number,Numéro de départ
+Number Range,Plage de nombres
+End Number,Numéro de fin
+New Provider Name,Nom du nouveau fournisseur
+Existing Provider Name,Nom du fournisseur existant
+Requested Port Date,Date de port demandée
+Requested Port Time,Heure de port demandée
+Upload most recent phone bill,Télécharger la facture de téléphone la plus récente
+Edit Porting Request,Modifier la demande de portage
+Telephone Number,Numéro de téléphone
+File Download,Téléchargement de fichier
+Accept,J'accepte
+Reject,Rejeter
+Edit Porting Request Number,Modifier le numéro de demande de portage
+Retired,Retraité
+porting_request,demande de portage
+Public IP,IP publique
+Activity Report,Rapport d'activité
+Push Status,État du push
+Last DID Call Date,Date du dernier appel DID
+Last Outbound Call Date,Date du dernier appel sortant
+Login Activity,Activité de connexion
+Last DID Call From Date,Date du dernier appel DID
+Last DID Call To Date,Dernier appel DID à ce jour
+Last Outbound Call From Date,Date du dernier appel sortant
+Last Outbound Call To Date,Dernier appel sortant à ce jour
+Find Time(min),Trouver le temps (min)
+Login Activity Report,Rapport d'activité de connexion
+Assorted,Assorti
+Auto Refresh Page,Page d'actualisation automatique
+Ticket Digits,Chiffres du ticket
+Recording Number,Numéro d'enregistrement
+Hybrid Routing,Routage hybride
+Opensips Public Host,Hôte public OpenSips
+Ban Time(min),Temps d'interdiction (min)
+SMS Logs,Journaux SMS
+Ported Number,Numéro porté
+FTP Details,Détails FTP
+Admin Notification Email,E-mail de notification de l'administrateur
+Term and Condition URL,URL des termes et conditions
+Invoice Debug,Débogage de facture
+Wrong Attempts/Customer/Days,Mauvaises tentatives / client / jours
+(Fixed tax),(Taxe fixe)
+Assign Product,Attribuer un produit
+Search by code,Recherche par code
+INVOICE HISTORY,HISTORIQUE DES FACTURES
+PAYMENT HISTORY,HISTORIQUE DE PAIEMENT
+Please Insert Amount,Veuillez insérer le montant
+Special Note,Note spéciale
+Low Balance Threshold,Seuil d'équilibre bas
+No Balance Threshold,Aucun seuil d'équilibre
+Max amount per call,Montant maximum par appel
+Alert Type,Type d'alerte
+Heartbeat,Battement de coeur
+Hangup,Raccrocher
+Available Credit limit,Limite de crédit disponible
